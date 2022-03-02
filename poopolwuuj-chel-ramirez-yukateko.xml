@@ -2121,7 +2121,7 @@
                         <head>MA'ILI' TS'ÍIBTA'AK LE PÓOPOL WUUJO' <ref target="yua.n1"><hi rend="superscript">1</hi></ref><lb/>
                             <note place="foot" xml:id="yua.n1"><seg type="note-symbol">1</seg>
                                 U táan óolal ajk'exts'íib. U jejeláas k'aaba'ob le yáax K'iche' Yuunk'ujo' táan u ch'a'abal e'el bix u
-                                chíikpajalo'ob iccil u ts'íibil le úuchben maayáaj k'iche'o', ka'alikil xan u je'ets'el bix nạ u ts'íibta'al ich
+                                chíikpajalo'ob iccil u ts'íibil <rs ana="TINAMIT_K'ICHE'">le úuchben maayáaj k'iche'o'</rs>, ka'alikil xan u je'ets'el bix nạ u ts'íibta'al ich
                                 maayat'aan. Bey u chíikpajalo'ob ichil le úuchben maayáaj k'iche'o': <emph rend="italic">tzacol</emph>, 
                                 <emph rend="italic">bitol</emph>, <emph rend="italic">alom</emph>, <emph rend="italic">qaholom</emph>. 
                                 Il a wil le Yáax Kanti'ismanti'itso'.    
@@ -2132,10 +2132,10 @@
                         jets'iko'on u yóolle úuchben nojt'aano'. U Nojkáajbal wáaj u moots tuláakal baax uchaan 
                         ich kaaj. Ichil u kaajil K'iche' Kaaj, le tu'ux jkajlaj bin le jach úuchben k'iche' wíiniko'obo'. Le 
                         beetik way bíin káajako'on in ka'anso' on yéetel in ts'áajo'on na'atbile', je'el bix u ya'ala'alo', way 
-                        bíin káajako' on in tsikbalto' on ba'ax p'ata'an yéetel jaajkunsa'an tumen Tsáakol, <rs ana="BITOL">Bíitol</rs>, Áalom, 
-                        Káajolorn. U k'aabaob bin xane': Jun Ajpúubwuch <ref target="yua.n2"><hi rend="superscript">2</hi></ref>
+                        bíin káajako' on in tsikbalto' on ba'ax p'ata'an yéetel jaajkunsa'an tumen <rs ana="TZ'AQOL">Tsáakol</rs>, <rs ana="BITOL">Bíitol</rs>, Áalom, 
+                        Káajolom. U k'aabaob bin xane': Jun Ajpúubwuch <ref target="yua.n2"><hi rend="superscript">2</hi></ref>
                         <note place="foot" xml:id="yua.n2"><seg type="note-symbol">2</seg>
-                            U táan óolal ajk'exts'íib. Le k'aaba'a táan u ch'a'abal 
+                            U táan óolal ajk'exts'íib. Le k'aaba'a táan u ch'a'abal
                             je'él bix u chíikpajal ichil u ts'íibil le úuchbhen 
                             maayáaj k'iche'o': <emph rend="italic">hun ah pu vuch</emph>, 
                             ka'alikil xan u ts'íibta'al je'el bix u tukulta'al u juum ich maayat'aane'. 
@@ -2201,7 +2201,7 @@
                         píik'kab ja'o'. Ti' bin yano'obi', ti' bin u balmajuba'ob ichil le áak'alche' o', ichil le ya'axkúukulilo', 
                         tumen ti' bin u taal u k'aaba' K'u'uk'umaatsi'; nukuch aj-its'ato'ob, nukuch ajtuukul jsíijo'obi'. 
                         Bey túuno', le ka'ano' jach o'olkil bin ka'achil, ba'ale' kex bey bino' ti' bin yaan Ukúux Kaaji'<hi rend="sup">4</hi>
-                        U k'aaba' bine': &lt;Káabawil&gt;<hi rend="supers">5</hi>.</p>
+                        U k'aaba' bine': &lt;Káabawil&gt;<hi rend="superscript">5</hi>.</p>
 
                         <p>Jtaale' ka t'aannaj yéetel Téepew, K'u'uk'umaats way ichil le  u yéek'jolch'e'enila', way 
                         ichil le u yáak'abila'. T'aannaj bin yéetel Téepew, K'u'uk'umaats; tu paaklan t'anajuba'ob. 
