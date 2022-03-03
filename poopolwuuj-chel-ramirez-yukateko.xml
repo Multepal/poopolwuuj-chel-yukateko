@@ -2116,10 +2116,10 @@
         </front>
         <body>
             <div xml:lang="yua"> <!-- This is the column division -->
-                <head>PÓOPÚL WUUJ</head> <!-- Header of column div -->
-                    <div type="tsúuk" n="tsk.1">
+                <head>PÓOPÚL WUUJ</head> <!-- Header of column div 1-10-->
+                    <div type="tsúuk" n="yua.tsk.1">
                         <head>MA'ILI' TS'ÍIBTA'AK LE PÓOPOL WUUJO' <ref target="yua.n1"><hi rend="superscript">1</hi></ref><lb/>
-                            <note place="foot" xml:id="yua.n1"><seg type="note-symbol">1</seg>
+                            <note place="foot" xml:id="yua.n001"><seg type="note-symbol">1</seg>
                                 U táan óolal ajk'exts'íib. U jejeláas k'aaba'ob le yáax K'iche' Yuunk'ujo' táan u ch'a'abal e'el bix u
                                 chíikpajalo'ob iccil u ts'íibil le úuchben maayáaj k'iche'o', ka'alikil xan u je'ets'el bix nạ u ts'íibta'al ich
                                 maayat'aan. Bey u chíikpajalo'ob ichil le úuchben maayáaj k'iche'o': <emph rend="italic">tzacol</emph>, 
@@ -2134,7 +2134,7 @@
                         beetik way bíin káajako'on in ka'anso' on yéetel in ts'áajo'on na'atbile', je'el bix u ya'ala'alo', way 
                         bíin káajako' on in tsikbalto' on ba'ax p'ata'an yéetel jaajkunsa'an tumen <rs ana="TZ'AQOL">Tsáakol</rs>, <rs ana="BITOL">Bíitol</rs>, Áalom, 
                         Káajolorn. U k'aabaob bin xane': Jun Ajpúubwuch <ref target="yua.n2"><hi rend="superscript">2</hi></ref>
-                        <note place="foot" xml:id="yua.n2"><seg type="note-symbol">2</seg>
+                        <note place="foot" xml:id="yua.n002"><seg type="note-symbol">2</seg>
                             U táan óolal ajk'exts'íib. Le k'aaba'a táan u ch'a'abal 
                             je'él bix u chíikpajal ichil u ts'íibil le úuchbhen 
                             maayáaj k'iche'o': <emph rend="italic">hun ah pu vuch</emph>, 
@@ -2150,8 +2150,8 @@
                         Jun Ajpúub Utyuj, Jach Ajk'aayo'ob, Téepew, K'u'uk'umaats, Ukúux Chooj,
                         Ukúux Paaloj, Ajráaxalaj, Ajráaxatsel, juntúul u yéettsikbal 
                         yéetel u yéett'aan Ixaalapsaj, yéetel juntúul nool u k'aaba' bine' Xpíiyakok,
-                        Xmúukanej <ref target="yua.n3"><hi rend="superscript">3</hi></ref>
-                        <note place="foot" xml:id="yua.n3"><seg type="note-symbol">3</seg>
+                        Xmúukanej <ref target="yua.n003"><hi rend="superscript">3</hi></ref>
+                        <note place="foot" xml:id="yua.n003"><seg type="note-symbol">3</seg>
                             U táan óolal ajk'exts'íib: Ka'ap'éel u k'aaba' bin &lt;le noolo'&gt;, le o'olale' ku ja'atsal yéetel jump'éel 
                             <emph rend="italic">coma</emph> (,). Ku ts'íibta'al je'el bix 
                             u tukulta'al u juum ich maayat'aane': Xpíiyakok, Xmúukanej (<emph rend="italic">xpiyacoc</emph>, 
@@ -2172,7 +2172,7 @@
                         thaj chowak, tuman ti' ku láaj tsolik bix úuchik u ts'o'oksa'al u wa'akunta'al le a'an yéetel u mul- 
                         tunil yéetel u chíikulilo'ob ka'an yéetel lu'um xan.
                         </p>  
-                        <p>¡U xuulm chúumuk ka'an! ¡U kantséel ka'an! ku ya'ala'al bin tumen Tsáakol, Bitol; u xnuk
+                        <p>¡U xuulm chúumuk ka'an! ¡U kantséel <lb/>ka'an! ku ya'ala'al bin tumen Tsáakol, Bitol; u xnuk
                         xuunáanil yéetel u not ajawil kuxtalil yéetel tuláakal wíinik; ajpatkuxtal yéetel pixan, u yuumil
                         tuláakal basal, u piixan u each nojtuukulil yéetel u t'aalkabil ba'al'ob beeta'an, u t'áalkabil jxib,
                         u ajxak'altuukulil yéetel u ajtuukulil tuláakal ba'al je'el tu'uxak ka yanake', je'el tu'uxak ka ya-
@@ -2180,28 +2180,32 @@
                         <pb xml:id="yua2021-50" /> 
                         </p>
                     </div>
-                    <p>
-                    U TSIKBALIL BIN CH'ENCH'ENKILIL, TÍITBALIL YÉETEL
-                    YÓOMANKILIL. BIX U TÍITBAL, U JAK' ÓOLAL YÉETEL 
-                    U KUKULAANKIL KA'AN LE BIN KA'ACH JÓOCHBABE'ENO'</p>
+                    <div type="tsúuk" n="yua.tsk.2">
+                        <head>U TSIKBALIL BIN CH'ENCH'ENKILIL, TÍITBALIL YÉETEL
+                        YÓOMANKILIL. BIX U TÍITBAL, U JAK' ÓOLAL YÉETEL 
+                        U KUKULAANKIL KA'AN LE BIN KA'ACH JÓOCHBABE'ENO'</head>
 
                         <p>Le bin leti' le yáax nojt'aana', leti' bin le yáax tuukulo'; mix bin juntúul wíinik, mix 
                         ba'alche', mix ch'íich', mix kay, mix baaw, mix che', mix tuunich, mix jool, mix áaktun, mix 
-                        su'uk, mix xan k'áax; chéen bin ka'an yaan ka'achili'i'.</p> 
-
+                        su'uk, mix xan k'áax; chéen bin ka'an yaan ka'achili'i'.
+                        </p> 
                         <p>Mix bin juntsúuk lu'um ku yila'al bin ka'achili', chéen bin le k'áak'nab ets'ekbal bino'o'; le 
                         ka'ano' chéen ki' ets'ekbali'. Jach bin mixba'al yanak bini', tumen tuláakale' chéen junsap'i'aki', 
                         mixba'al bin ku péeki'. Jach táantik bin u yantal le ka'ano', ba'ale' mixba'al xan wa'alaki'. Chéen 
-                        bin le ja' ets'ekbalo'o'; u jaymajubáaj bin le k'áak'nabó', ka'alikil jets'ekbal u ja'ili'.</p>
-
+                        bin le ja' ets'ekbalo'o'; u jaymajubáaj bin le k'áak'nabó', ka'alikil jets'ekbal u ja'ili'.
+                        </p>
                         <p>Mina'an bin mixba'al k'aj óola'ani' tumen tuláakal táanili' bin u beetk'ajale', tuláakal bin 
-                        ku tíitbal ichil le u yéek'jolch'e'enilo', ichil le u yáak'abilo'.</p> 
-
+                        ku tíitbal ichil le u yéek'jolch'e'enilo', ichil le u yáak'abilo'.
+                        </p> 
                         <p>Chéen bin Tsáakol, Bíitol, Téepew,  K'u'uk'umaats, Áalom, Káajolom yano'ob te' ichil le 
                         píik'kab ja'o'. Ti' bin yano'obi', ti' bin u balmajuba'ob ichil le áak'alche' o', ichil le ya'axkúukulilo', 
                         tumen ti' bin u taal u k'aaba' K'u'uk'umaatsi'; nukuch aj-its'ato'ob, nukuch ajtuukul jsíijo'obi'. 
-                        Bey túuno', le ka'ano' jach o'olkil bin ka'achil, ba'ale' kex bey bino' ti' bin yaan Ukúux Kaaji'<hi rend="sup">4</hi>
-                        U k'aaba' bine': &lt;Káabawil&gt;<hi rend="superscript">5</hi>.</p>
+                        Bey túuno', le ka'ano' jach o'olkil bin ka'achil, ba'ale' kex bey bino' ti' bin yaan Ukúux Kaaji'<ref target="yua.n4"><hi rend="sup">4</hi></ref>
+                        <note place="foot" xml:id="yua.n4"><seg type="note-symbol"><hi rend="sup">4</hi></seg>
+                            Il a wil le Yáax Kanti'itsmanti'itso'.
+                        </note>
+                        U k'aaba' bine': &lt;Káabawil&gt;<hi rend="superscript">5</hi>.
+                        </p>
 
                         <p>Jtaale' ka t'aannaj yéetel Téepew, K'u'uk'umaats way ichil le  u yéek'jolch'e'enila', way 
                         ichil le u yáak'abila'. T'aannaj bin yéetel Téepew, K'u'uk'umaats; tu paaklan t'anajuba'ob. 
@@ -2230,7 +2234,7 @@
                         jach ka'anal wits úuchik u suuto'obi'.</p> 
                         
                         <p>
-                        <hi rend="sup">4</hi> Il a wil le Yáax Kanti'itsmanti'itso'. 
+                         
                         <hi rend="sup">5</hi> Il a wil le Yáax Kanti'itsmanti'itso'. 
                         <hi rend="sup">6</hi> Il a wille Yáax Kanti'itsmanti'itso'. 
                         </p>
@@ -2513,6 +2517,7 @@
                         </p>
 
                         <pb xml:id="yua2021-62" />
+                    </div>
                         <p> 
                         <emph rend="center">WAY BÍIN IN WA'AXALO'ON BIX ÚUCHIK U KÍIMIL WUKUB</emph> 
                         <emph rend="center">KÁAKIX LE KAJTS'ITS' ÓOLTXABE', LE KA JBEETA'AB WÍINIK</emph> 
