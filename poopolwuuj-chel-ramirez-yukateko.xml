@@ -2116,8 +2116,9 @@
         </front>
         <body>
             <div xml:lang="yua"> <!-- This is the column division -->
-                <head>PÓOPÚL WUUJ</head> <!-- Header of column div 1-10-->
+                <head>PÓOPÚL WUUJ</head>
                     <div type="tsúuk" n="yua.tsk.1">
+                        <!-- Doing columns 1-10 -->
                         <head>MA'ILI' TS'ÍIBTA'AK LE PÓOPOL WUUJO' <ref target="yua.n001"><hi rend="sup">1</hi></ref>
                             <note place="foot" xml:id="yua.n001"><seg type="note-symbol">1</seg>
                                 U táan óolal ajk'exts'íib. U jejeláas k'aaba'ob le yáax K'iche' Yuunk'ujo' táan u ch'a'abal e'el bix u
@@ -2184,126 +2185,124 @@
                         <head>U TSIKBALIL BIN CH'ENCH'ENKILIL, TÍITBALIL YÉETEL
                         YÓOMANKILIL. BIX U TÍITBAL, U JAK' ÓOLAL YÉETEL 
                         U KUKULAANKIL KA'AN LE BIN KA'ACH JÓOCHBABE'ENO'</head>
-
                         <p>Le bin leti' le yáax nojt'aana', leti' bin le yáax tuukulo'; mix bin juntúul wíinik, mix 
-                        ba'alche', mix ch'íich', mix kay, mix baaw, mix che', mix tuunich, mix jool, mix áaktun, mix 
-                        su'uk, mix xan k'áax; chéen bin ka'an yaan ka'achili'i'.
-                        </p> 
-                        <p>Mix bin juntsúuk lu'um ku yila'al bin ka'achili', chéen bin le k'áak'nab ets'ekbal bino'o'; le 
-                        ka'ano' chéen ki' ets'ekbali'. Jach bin mixba'al yanak bini', tumen tuláakale' chéen junsap'i'aki', 
-                        mixba'al bin ku péeki'. Jach táantik bin u yantal le ka'ano', ba'ale' mixba'al xan wa'alaki'. Chéen 
-                        bin le ja' ets'ekbalo'o'; u jaymajubáaj bin le k'áak'nabó', ka'alikil jets'ekbal u ja'ili'.
-                        </p>
+                            ba'alche', mix ch'íich', mix kay, mix baaw, mix che', mix tuunich, mix jool, mix áaktun, mix 
+                            su'uk, mix xan k'áax; chéen bin ka'an yaan ka'achili'i'.</p> 
+                        <p>Mix bin juntsúuk lu'um ku yila'al bin ka'achili', 
+                            chéen bin le k'áak'nab ets'ekbal bino'o'; le 
+                            ka'ano' chéen ki' ets'ekbali'. Jach bin mixba'al yanak bini', 
+                            tumen tuláakale' chéen junsap'i'aki', 
+                            mixba'al bin ku péeki'. Jach táantik bin u yantal le ka'ano', 
+                            ba'ale' mixba'al xan wa'alaki'. Chéen bin le ja' ets'ekbalo'o'; 
+                            u jaymajubáaj bin le k'áak'nabó', ka'alikil jets'ekbal u ja'ili'.</p>
                         <p>Mina'an bin mixba'al k'aj óola'ani' tumen tuláakal táanili' bin u beetk'ajale', tuláakal bin 
                         ku tíitbal ichil le u yéek'jolch'e'enilo', ichil le u yáak'abilo'.
                         </p> 
                         <p>Chéen bin Tsáakol, Bíitol, Téepew,  K'u'uk'umaats, Áalom, Káajolom yano'ob te' ichil le 
                         píik'kab ja'o'. Ti' bin yano'obi', ti' bin u balmajuba'ob ichil le áak'alche' o', ichil le ya'axkúukulilo', 
                         tumen ti' bin u taal u k'aaba' K'u'uk'umaatsi'; nukuch aj-its'ato'ob, nukuch ajtuukul jsíijo'obi'. 
-                        Bey túuno', le ka'ano' jach o'olkil bin ka'achil, ba'ale' kex bey bino' ti' bin yaan Ukúux Kaaji'<ref target="yua.n4"><hi rend="sup">4</hi></ref>
-                        <note place="foot" xml:id="yua.n4"><seg type="note-symbol"><hi rend="sup">4</hi></seg>
+                        Bey túuno', le ka'ano' jach o'olkil bin ka'achil, ba'ale' kex bey bino' ti' bin yaan Ukúux Kaaji'<ref target="yua.n004"><hi rend="sup">4</hi></ref>
+                        <note place="foot" xml:id="yua.n004"><seg type="note-symbol"><hi rend="sup">4</hi></seg>
                             Il a wil le Yáax Kanti'itsmanti'itso'.
                         </note>
-                        U k'aaba' bine': &lt;Káabawil&gt;<hi rend="superscript">5</hi>.
+                        U k'aaba' bine': &lt;Káabawil&gt;<ref target="yua.n005"><hi rend="sup">5</hi></ref>
+                        <note place="foot" xml:id="yua.n005"><seg type="note-symbol"><hi rend="sup">5</hi></seg>
+                            Il a wil le Yáax Kanti'itsmanti'itso'. 
+                        </note>.
                         </p>
-
                         <p>Jtaale' ka t'aannaj yéetel Téepew, K'u'uk'umaats way ichil le  u yéek'jolch'e'enila', way 
                         ichil le u yáak'abila'. T'aannaj bin yéetel Téepew, K'u'uk'umaats; tu paaklan t'anajuba'ob. 
                         Tuukulnajo'ob yéetel xak'altuukulnajo'ob bin xan; tu much'ajuba'obe', ka bin tu k'axt'antaj u 
                         tuukulo'ob yéetel u t'aano'obi'. Tu yaabiltajuba'ob ichil le t'áalkabila'. Ka tu tukuitajo'ob jum- 
-                        puli' u beetiko'ob u yantal wíiniki' yéetel bix kun u kaxt u kuxtal xani'.</p> 
-
+                        puli' u beetiko'ob u yantal wíiniki' yéetel bix kun u kaxt u kuxtal xani'.
+                        </p> 
                         <p>Tu beetajo'ob u yantal che' yéetel aak', tu'ux bin kun u kaxt u kuxtal wíinik way 
                         yóok'olkaabe'. Le je'ela' jbeeta'ab ichil éek'jolch'e'enil, ichil áak'abil tumen Ukúux Kaaj 
-                        k'aaba'inta'an bey &lt;Jun Ráakan&gt;<hi rend="sup">6</hi> xane'. Yáaxe' &lt;Káakulja' Jun  Ráakan&gt;, u ka'atúule' &lt;Chíi- 
+                        k'aaba'inta'an bey &lt;Jun Ráakan&gt;<ref target="yua.n006"><hi rend="sup">6</hi></ref>
+                        <note place="foot" xml:id="yua.n006"><seg type="note-symbol"><hi rend="sup">6</hi></seg>
+                            Il a wil le Yáax Kanti'itsmanti'itso'. 
+                        </note>
+                        xane'. Yáaxe' &lt;Káakulja' Jun  Ráakan&gt;, u ka'atúule' &lt;Chíi- 
                         pi' Káakulja'&gt;, yéetel u yóoxtúule' &lt;Ráaxa' Káakulja'&gt;. Bey túuno', óoxtúul u piixan le ka'an 
                         jtaalo'ob bin tu yiknal Téepew, K'u'uk'umaatso'. Ka bin tu tukultajo'ob jumpuli' ka yanak 
-                        t'áalkabil kuxtali'.</p> 
-
+                        t'áalkabil kuxtali'.
+                        </p> 
                         <p>-Ba'ax k'iin túun lekéen beetchajak. ¡A'alchajak u jaajil!, je'el máaxak u ajkaxanil le kux 
-                        óolalo'.</p> 
-
+                        óolalo'.
+                        </p> 
                         <p>-¡Bey ka úuchuko'! ¡Bey ka tukulchajako'! Ma' u péek le ja'o', ma' u p'áatal wa mina'an. 
                         ¡Chíikpajak le lu'umo'! ¡Líik'ik chéen tu juunal! U'uy a wu'uye'ex túun: ¡Chíikpajake'ex! 
                         ¡Sáasilchajake'ex! Ka'an, lu'um.  Ma' wáaj leti' le a muuk'e'exo', ma' wáaj leti' le ba'ax ka 
                         kaxtike'exo', ma' wáaj leti' u biilal le a wíinkilile'exo'. ¡Chíikpajake'ex patbil wíinike'ex, beetbil 
-                        wíinike'ex! -tu ya'alajo'ob bin.</p>
-
+                        wíinike'ex! -tu ya'alajo'ob bin.
+                        </p>
                         <p>-¡Lu'um! -tu ya'alajo'ob bin. Ka bin téek jchíikpajij. Bey bin jump'éel múuyale', bey bin 
                         ye'eb úuchik u chíikpajale'. Bey túun xano', ka bin jlíik' jumpuli' le witso'ob te' ichil le ja'obo', 
-                        jach ka'anal wits úuchik u suuto'obi'.</p> 
-                        
-                        <p>
-                         
-                        <hi rend="sup">5</hi> Il a wil le Yáax Kanti'itsmanti'itso'. 
-                        <hi rend="sup">6</hi> Il a wille Yáax Kanti'itsmanti'itso'. 
-                        </p>
-
+                        jach ka'anal wits úuchik u suuto'obi'.
                         <pb xml:id="yua2021-52" /> 
-
+                        </p> 
                         <p>Chéen tu yóok'olal bin u chíikulalo'ob, chéen tu yóok'olal bin u muuk' u páajtalilo'ob 
                         úuchik u beetthajalo'ob. Bey úuchik u tukulta'al u yantal le witso'ob yéetel le jáalja'obo', ka'alikil 
                         u chíikpajal le péepet táajte'ob xano'. Naapul ki'imakchajik u yóol K'u'uk'maatse', ka bin tu 
-                        ya'alaj beya':</p>
-
+                        ya'alaj beya':
+                        </p>
                         <p>-¡Jach ma'alob úuchik a taal, teech Ukúux Kaaj, teech Jun Ráakan, teech Chíipi' Káakul- 
                         ja', teech Ráaxa' Káakulja'! Jjóok' tu beel le in meyajo'ona', le in patmeyajo'ona', -tu ya'alajo'ob 
-                        bin.</p>
-
+                        bin.
+                        </p>
                         <p>Yáax táanil jchíikpaj tu'ux jyanchaj le witso'ob yéetel le jáalja'obo'. Ku ts'o'okole' 
                         ka jtukulta' ah u beeta'al u beel le áalkabja'obo', ka bin xan áalkabnaj u ja'ilo'obi'; bey ook 
                         tíich'entíich'ilo'ob tu yáam le witso'obo'. Chéen úuchik u tukulta'ale' ka jkáaj u yáalal le 
                         áalkabja'obo'; bey úuchik u nupikubáaj xan le nukuch witso'obo'. Bey úuchik u chíikpajal le 
                         lu'umo', chéen tu yóok'olal le Ukúux Kaajo'obo', le beetik bin ku ya'ala'al ti' &lt;Ukúux Ulew&gt;<hi rend="sup">7</hi> 
-                        xan.</p> 
-
+                        xan.
+                        </p> 
                         <p>Ka bin tu téek tukulta'alo'ob u yáax antal le lu'umo', le jjóok' bin ichil le ja'ao. Bey úuchik 
-                        u tukulta'alo' bey úuchik u tukultiko'ob; je'el bix tu tukultaj u beetik tu bel le meyajo'.</p>
-
+                        u tukulta'alo' bey úuchik u tukultiko'ob; je'el bix tu tukultaj u beetik tu bel le meyajo'.
+                        </p>
                         <p>Ka bin xan tu tukultajo'ob u yantal u ba'alche'ilo'ob le witso'obo', u ajkanáanilo'ob le 
                         k'áaxo'obo', u kajnáalilo'ob le witso'obo': kéejo'ob, ch'íich'o'ob, kojo'ob, báalamo'ob yéetel 
-                        kaano'ob: tsáabkaan, wóol póoch', táab ch'óoyil. Tu ya'alaj bin Áalom, Káajolom:</p>
-
+                        kaano'ob: tsáabkaan, wóol póoch', táab ch'óoyil. Tu ya'alaj bin Áalom, Káajolom:
+                        </p>
                         <p>-Chén wáaj túun juunalil kun yantal. Ma'alob wáaj ka p'áatak kúul ch'ench'enkilil tu 
-                        yáanal le che'ob yéetel le aak'o'obo'.</p>
-
+                        yáanal le che'ob yéetel le aak'o'obo'.
+                        </p>
                         <p>Ma'alob ka yanak máaxo'ob kanáantik -tu ya'alajo'ob bin. Ka bin tuukulnajo'ob, ka bin 
                         tsikbalnajo'ob, ka bin téek jchíikpaj le kéejo'ob yéetel le ch'íich'o'obo'. Tu síijajo'ob u yotoch le 
-                        kéej yéetel le ch'íich'o':</p>
-
+                        kéej yéetel le ch'íich'o':
+                        </p>
                         <p>Teche' ba'alche', te' tu kaláap le witso'ob yéetel ichil le áaktuno'ob kan wenelo'. Te' kan 
                         a kaxt a wo'och ichil le su'ukilo'obo', te' táaxkabilo'obo'; ich k'áax kun yantal a waalo'ob. Tu 
                         yóok'ol kants'íit a wook kan wa'atal -tu ya'alajo'ob bin ti'. Jts'áab xan u yotoch le mejen yéetel 
-                        le nukuch ch'íich'o'obo'.</p> 
-
+                        le nukuch ch'íich'o'obo'.
+                        </p> 
                         <p>-Te'ex ch'íich'e'exe', tu k'ab le che'ob yéetel tu yáam le aak'o'ob kan kuxtale'exo', ti' kan 
                         a beet a k'u'exi', ti' kan yanak a mejenile'exi'; ti' kan ya'abtale'ex tu k'ab le che'obo', tu yáam le 
-                        aak'o'obo' -tu ya'aljo'ob bin ti' le ba'alche'ob yéetel ti' le ch'íich'o'obo'.</p> 
-
+                        aak'o'obo' -tu ya'aljo'ob bin ti' le ba'alche'ob yéetel ti' le ch'íich'o'obo'.
+                        </p> 
                         <p>Ts'o'okole', tuláakal bin le ba'alche'obo' tu ch'a'aj u beelo'obe', ka jbino'ob tu'ux kun 
-                        kuxtalo'ob yéetel u beeto'ob le ba'ax j-a'ala'ab ti'obo'.</p> 
-
+                        kuxtalo'ob yéetel u beeto'ob le ba'ax j-a'ala'ab ti'obo'.
+                        </p> 
                         <p>Bey úuchik u jets'ik Áalom, Káajolom ka beetchajak tu'ux kun kajtal u ba'alche'ilo'ob le 
-                        lu'umo'; ma'alob bin úuchik u beeta'al tumen tuláakal ba'alche'ob yéetel ch'íich'o'ob.</p> 
-
+                        lu'umo'; ma'alob bin úuchik u beeta'al tumen tuláakal ba'alche'ob yéetel ch'íich'o'ob.
+                        </p> 
                         <p>Tsáakol, Bíitol, Áalom, Káajolome', tu séebakil ka bin tu ya'alaj ti' le ba'alche'ob yéetel 
-                        ti' le ch'íich'o'obo':</p> 
-
+                        ti' le ch'íich'o'obo':
+                        </p> 
                         <p>!T'aannene'ex, t'anene'exi! Ma' a sajaktale'ex, ma' a chalk a sa'atale'ex, ma' cheén 
                         ch'a'ach'a' bookile'exi'. Junjuntúulile', junjunmúuch'ile', junjunjaatsile', jejeláas ka t'aannake'ex
                         -tu ya'alaj bin ti' le kéejo'obo', ti le chíich'o'obo', ti' le kojo'obo', ti' le báalamo'obo' yéetel ti'
-                        xan le kaano'obo'.</p>
-
+                        xan le kaano'obo'.
+                        </p>
                         <p>-A'ale'ex in k'aaba'ob ti' le súutuka', payalchi'itene'exi', tumen a na'ene'ex, a yuumene'ex.
                         T'ane'ex u k'aaba' Jun Ráakan, Chíipi' K'aakulja', Ráaxa Káakulja', Ukúux Kaaj, Ukúux Ulew, 
-                        Tsáakol, Bíitol, Áalom, Káajolom.</p>
-
-                        <p>- T'aannene'ex, t'ano'one'ex, payalt'anto'one'ex -ku ya'ala'al bin ti'ob.</p>
-
+                        Tsáakol, Bíitol, Áalom, Káajolom.
+                        </p>
+                        <p>- T'aannene'ex, t'ano'one'ex, payalt'anto'one'ex -ku ya'ala'al bin ti'ob.
+                        </p>
                         <p>
                         <hi rend="sup">7</hi> Il a wil le Yáax Kanti'itsmanti'itso'. 
                         </p>
-
                         <pb xml:id="yua2021-54" /> 
                         <p>Ba'ale' ma' t'aannajo'ob tu beel je' el bix u t'aan wíiníke'. Chéen bíini' ba'alo'ob ku 
                         beetiko'ob, chéen totokaankil yéetel awat u ka'ajo'obi'. Bix kun jóok'ol xan ma'alobil u 
@@ -2432,7 +2431,7 @@
                         máax jpatjo'olto'obo', le máax jbeeto'obo'.</p> 
 
                         <p>Bey túun úuchik u kíinsa'alo'ob le ka jbeeta'ab loob ti'obo': jk'áax bin u ya'abkach yiits 
-                        che' líik'ul te'ka'ano'. Jk'uch bin le Kóotkobacho'<hi rend="sup">12</hi> ka jk'óoya'ab bin u yicho' ob; jtaal xan le Káa­
+                        che' líik'ul te'ka'ano'. Jk'uch bin le Kóotkobacho'<hi rend="sup">12</hi> ka jk'óoya'ab bin u yicho' ob; jtaal xan le Káa
                         rnalootso' ka bin jkúukulxojta'ab u kaalo'ob; jbin xan le Kóots Báalamo', ka bin jjaanta'abo'ob 
                         xan; jk'uch xan le Túukum Báalamo', ka bin jxiixkunta'ab u baakelo'ob yéetel u xiich'elo'ob.</p> 
 
