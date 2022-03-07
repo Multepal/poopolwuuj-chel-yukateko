@@ -26,66 +26,69 @@
     </teiHeader>
     <text>
         <front>
-            <div>
-            <p>
-            <emph rend="italic">PÓOPOL WUUJ</emph>
+            <div type="placeholder">
+                <!-- Dividing front matter, title -->
+                <p>
+                <emph rend="italic">PÓOPOL WUUJ</emph>
 
-            Edición Bilingüe Maya Yucateco-Español
+                Edición Bilingüe Maya Yucateco-Español
 
-            [image] 
+                [image] 
 
-            Gemelos ante señores de la muerte 
+                Gemelos ante señores de la muerte 
 
-            [page break]
+                [page break]
 
-            Yucatán 
-            Gobierno del Estado 
-            Comprometidos con tu bienestar
-            2012-2018
+                Yucatán 
+                Gobierno del Estado 
+                Comprometidos con tu bienestar
+                2012-2018
 
-            SEDECULTA
-            Secretaría de la Cultura y las Artes
-            Comprometidos con tu bienestar
-            2012-2018
+                SEDECULTA
+                Secretaría de la Cultura y las Artes
+                Comprometidos con tu bienestar
+                2012-2018
 
-            UNIVERSIDAD MODELO
+                UNIVERSIDAD MODELO
 
-            Instituto Nacional de Antropología e Historia
+                Instituto Nacional de Antropología e Historia
 
-            CONACULTA
+                CONACULTA
 
-            UNIVERSIDAD DE LOS ANDES
-            MÉRIDA, VENEZUELA
-            VICERRETORADO ADMINISTRATIVO
+                UNIVERSIDAD DE LOS ANDES
+                MÉRIDA, VENEZUELA
+                VICERRETORADO ADMINISTRATIVO
 
-            el otro @ el mismo 
+                el otro @ el mismo 
 
-            [page break]
-            <emph rend="italic">PÓOPOL WUUJ</emph>
+                [page break]
+                <emph rend="italic">PÓOPOL WUUJ</emph>
 
-            FIDENCIO BRICEÑO CHEL 
-            RUBÉN REYES RAMÍREZ 
-            (COORDINADORES) 
+                FIDENCIO BRICEÑO CHEL 
+                RUBÉN REYES RAMÍREZ 
+                (COORDINADORES) 
 
-            GERÓNIMO RICARDO CAN TEC 
-            JOSÉ C. CANO SOSAYA
-            MARCELINA CHAN CANCHÉ 
-            FIDENCIO BRICEÑO  CHEL 
-            (TRADUCTORES) 
+                GERÓNIMO RICARDO CAN TEC 
+                JOSÉ C. CANO SOSAYA
+                MARCELINA CHAN CANCHÉ 
+                FIDENCIO BRICEÑO  CHEL 
+                (TRADUCTORES) 
 
-            JOSÉ POOL "MASHKA"
-            (ILUSTRACIONES) 
+                JOSÉ POOL "MASHKA"
+                (ILUSTRACIONES) 
 
-            el otro @ el mismo 
-            </p>
-
+                el otro @ el mismo 
+                </p>
+            </div>
+            <div type="toc">
             <list>
-            <item><emph rend="center">CONTENIDO</emph></item>
-            <item>PRÓLOGO</item>
-            <item><emph rend="indent(+11)">11</emph></item>
-            <item>LA IMAGEN EVAPORADA</item>
-            <item>Víctor Bravo</item>
-            <lb />
+            <head>CONTENIDO</head>
+            <item>
+                <title>PRÓLOGO</title>
+                <desc>LA IMAGEN EVAPORADA</desc>
+                <name role="author">Víctor Bravo</name>
+                <ref target="#PROLOGO">11</ref>
+            </item>
             <item>EL <emph rend="italic">POPOL VUH</emph>, OBRA CUMBRE DEL PENSAMIENTO Y DE LA LITERATURA DE AMÉRICA</item> 
             <item>Fidencio Briceño Chel / Rubén Reyes Ramírez</item>
             <item><emph rend="right">15</emph></item> 
