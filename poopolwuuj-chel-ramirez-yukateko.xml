@@ -4044,9 +4044,9 @@
                         <pb xml:id="yua2021-138" /></p>
                         </div>
 
-                        <head>
+                        <p>
                         <emph rend="center">U KÍIMIL JUN AJPÚUB, XBÁALANKEJ</emph> 
-                        </head>
+                        </p>
 
                         <p>Le je'ela' u tsikbalil bix úuchik u kíimil Jun Ajpúub, Xbáalankej.</p> 
 
@@ -6271,37 +6271,39 @@
                         <pb xml:id="yua2021-234" /> 
                 </div>
             <div xml:lang="spa">
-                    <head>DESDE ANTES DE ESCRIBIRSE EL POP WUJ<hi rend="sup">1</hi>
+                <div type="tsúuk" n="spa.tsk.1">
+                    <head>DESDE ANTES DE ESCRIBIRSE EL POP WUJ<ref target="spa.n001"><hi rend="sup">1</hi></ref>
+                        <note place="foot" xml:id="spa.n001"><seg type="note-symbol"><hi rend="sup">1</hi></seg>
+                            Homólogo de Antigua Palabra, o sea, de <emph rend="italic">Ojer Tzij</emph> que aparece en la copia del padre Jiménez y que en 
+                            el renglón 27 aparece con el nombre de <emph rend="italic">Pop Wuj</emph>. Literalmente significa Libro del Tiempo o Libro  de 
+                            Acontecimientos. 
+                        </note>
                     AQUÍ SE HA LLAMADO "LOS MAGUEYES"</head>
-
-                    <p>Y aquí escribimos (ya con letra castellana), aquí fijamos la antigua palabra<hi rend="sup">2</hi>. Principio, es 
-                    decir, base de todo lo sucedido en el pueblo. Los Magueyes, pero de las grandes gentes k'ichés. 
-                    De manera que aquí empezaremos a enseñarlo, a revelarlo, es decir, a relatarlo, lo dejado e 
-                    iluminado por El Arquitecto, El Formador, El Creado, El Varón Creado, cuyos nombres: Un 
-                    Cazador de Tacuatzín, Un Cazador de Lobo, Verdaderos Cantores, Venidos del Infinito, Ocul- 
-                    tador de Serpiente, Espíritu de Lago y Mar, Verdaderos Superiores, Hijos Mayores se decía, 
-                    compañero de plática y comentario de la partera, abuelo que se llamaba Xpiyakok, Xmukané, 
-                    amante y trabajador, dos veces partera, dos veces abuelo, se decía, en lengua k'iche'.</p> 
+                    <p>Y aquí escribimos (ya con letra castellana), aquí fijamos la antigua palabra<ref target="spa.n002"><hi rend="sup">2</hi></ref>
+                        <note place="foot" xml:id="spa.n002"><seg type="note-symbol"><hi rend="sup">2</hi></seg>
+                            <emph rend="italic">Ojer tzij</emph> significa: antigua palabra, o sea, el <emph rend="italic">Pop Wuj</emph>. 
+                        </note>. Principio, es 
+                        decir, base de todo lo sucedido en el pueblo. Los Magueyes, pero de las grandes gentes k'ichés. 
+                        De manera que aquí empezaremos a enseñarlo, a revelarlo, es decir, a relatarlo, lo dejado e 
+                        iluminado por El Arquitecto, El Formador, El Creado, El Varón Creado, cuyos nombres: Un 
+                        Cazador de Tacuatzín, Un Cazador de Lobo, Verdaderos Cantores, Venidos del Infinito, Ocul- 
+                        tador de Serpiente, Espíritu de Lago y Mar, Verdaderos Superiores, Hijos Mayores se decía, 
+                        compañero de plática y comentario de la partera, abuelo que se llamaba Xpiyakok, Xmukané, 
+                        amante y trabajador, dos veces partera, dos veces abuelo, se decía, en lengua k'iche'.</p> 
                     <p>Contaron todo lo que hicieron, ya en la clara realidad, en clara manifestación. Y si aquí 
-                    escribimos ya con letra castellana, ya en cristianismo, en esta forma lo divulgaremos porque ya 
-                    no se verá nada del <emph rend="italic">Pop Wuj</emph>, ciencia que vino del otro lado del mar y que es relato de nuestro 
-                    origen, ciencia de la existencia, se decía. Existe el primer libro (el <emph rend="italic">Pop Wuj</emph>), es decir, la antigua 
-                    escritura.</p> 
+                        escribimos ya con letra castellana, ya en cristianismo, en esta forma lo divulgaremos porque ya 
+                        no se verá nada del <emph rend="italic">Pop Wuj</emph>, ciencia que vino del otro lado del mar y que es relato de nuestro 
+                        origen, ciencia de la existencia, se decía. Existe el primer libro (el <emph rend="italic">Pop Wuj</emph>), es decir, la antigua 
+                        escritura.</p> 
                     <p>Esto es únicamente para lamentarlo, para meditarlo. Es muy extenso, porque relata desde 
-                    que se terminó de cubrir el cielo y la tierra, la cúspide del cielo, los lados del cielo, las medidas 
-                    y las señales del cielo y de la tierra.</p> 
+                        que se terminó de cubrir el cielo y la tierra, la cúspide del cielo, los lados del cielo, las medidas 
+                        y las señales del cielo y de la tierra.</p> 
                     <p>¡Cúspide  del  cielo! ¡Lados  del  cielo!, se dijo por El Arquitecto, El  Formador, señora y 
-                    señor de la existencia y de la humanidad, constructor y espíritu, dueño de la creación, espíritu 
-                    de la pura grandeza, de la clara creación, claridad varonil, meditador y pensador de todo donde 
-                    quiera, donde haya cielo, tierra, lagos, mares.</p> 
-
-                    <p>
-                    <hi rend="sup">1</hi> Homólogo de Antigua Palabra, o sea, de <emph rend="italic">Ojer Tzij</emph> que aparece en la copia del padre Jiménez y que en 
-                    el renglón 27 aparece con el nombre de <emph rend="italic">Pop Wuj</emph>. Literalmente significa Libro del Tiempo o Libro  de 
-                    Acontecimientos. 
-                    <hi rend="sup">2</hi> <emph rend="italic">Ojer tzij</emph> significa: antigua palabra, o sea, el <emph rend="italic">Pop Wuj</emph>. 
-                    </p>
-                    <pb xml:id="yua2021-51" />
+                        señor de la existencia y de la humanidad, constructor y espíritu, dueño de la creación, espíritu 
+                        de la pura grandeza, de la clara creación, claridad varonil, meditador y pensador de todo donde 
+                        quiera, donde haya cielo, tierra, lagos, mares.
+                        <pb xml:id="yua2021-51" /></p> 
+                </div>
 
                     <p>
                     <emph rend="center">RELATO DE LO QUE TODAVÍA ERA SILENCIO,VIBRACIÓN,</emph> 
