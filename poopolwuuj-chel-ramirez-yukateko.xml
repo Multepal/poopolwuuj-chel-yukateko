@@ -2120,7 +2120,7 @@
         <body>
             <div xml:lang="yua"> <!-- This is the column division -->
                 <head>PÓOPÚL WUUJ</head>
-                    <div type="tsúuk" n="yua.tsk.1">
+                    <div type="tsúuk" n="yua.tsk.01">
                         <!-- Doing columns 1-10 -->
                         <head>MA'ILI' TS'ÍIBTA'AK LE PÓOPOL WUUJO' <ref target="yua.n001"><hi rend="sup">1</hi></ref>
                             <note place="foot" xml:id="yua.n001"><seg type="note-symbol">1</seg>
@@ -2187,7 +2187,7 @@
                             lu'um, chan k'áak'nab yéetel k'áak'nnabo'obe'.
                             <pb xml:id="yua2021-50" /></p>
                     </div>
-                    <div type="tsúuk" n="yua.tsk.2">
+                    <div type="tsúuk" n="yua.tsk.02">
                         <head>U TSIKBALIL BIN CH'ENCH'ENKILIL, TÍITBALIL YÉETEL
                         YÓOMANKILIL. BIX U TÍITBAL, U JAK' ÓOLAL YÉETEL 
                         U KUKULAANKIL KA'AN LE BIN KA'ACH JÓOCHBABE'ENO'</head>
@@ -2552,7 +2552,7 @@
                             <pb xml:id="yua2021-62" /> </p>
                     </div>
                     
-                    <div type="tsúuk" n="yua.tsk.3">
+                    <div type="tsúuk" n="yua.tsk.03">
                             <head> 
                         <emph rend="center">WAY BÍIN IN WA'AXALO'ON BIX ÚUCHIK U KÍIMIL WUKUB</emph> 
                         <emph rend="center">KÁAKIX LE KAJTS'ITS' ÓOLTXABE', LE KA JBEETA'AB WÍINIK</emph> 
@@ -2601,7 +2601,7 @@
                         <pb xml:id="yua2021-64" /> </p>   
                     </div>
                     
-                    <div type="tsúuk" n="yua.tsk.4">
+                    <div type="tsúuk" n="yua.tsk.04">
                         <head> 
                         <emph rend="center">LE BIN KA JCH'I'IN WUKUB KÁAKIX TUMEN JUN AJPÚUB,</emph> 
                         <emph rend="center">XBÁALANKEJ YÉETEL, LE JOBONNÁABTE'E'. WAY KIN</emph> 
@@ -2700,7 +2700,7 @@
                         <pb xml:id="yua2021-68" /> </p>
                     </div>
                     
-                    <div type="tsúuk" n="yua.tsk.5">
+                    <div type="tsúuk" n="yua.tsk.05">
                         <head>
                         <emph rend="center">BA'AX TU BEETAJ SÍIPAKNX, U YÁAX PAAL WUKUB KÁAKIX.</emph> 
                         <emph rend="center">&lt;TENE' KIN WA'AKUNTIK WITBO'OB&gt;</emph> 
@@ -2783,7 +2783,7 @@
                         <pb xml:id="yua2021-72" /> </p>
                     </div>
                     
-                    <div type="tsúuk" n="yua.tsk.6">
+                    <div type="tsúuk" n="yua.tsk.06">
                         <head>
                         <emph rend="center">U TS'ITS' ÓOLTA'AL YÉETEL U KÍINSXAL SÍIPAKNA'.</emph> 
                         <emph rend="center">JTS'ITS' ÓOLTXAB TUMEN JUN AJPUUB, XBÁALANKEJ</emph>
@@ -2905,7 +2905,7 @@
                         <pb xml:id="yua2021-78" /> </p>
                         </div>
                         
-                        <div type="tsúuk" n="yua.tsk.7">
+                        <div type="tsúuk" n="yua.tsk.07">
                         <head>
                         <emph rend="center">TI' LE SÚUTUKN YAAN IN WA'ALIKO'ON BIX SÍIJIK</emph> 
                         <emph rend="center">JUN AJPÚUB, XBÁALANKEJ</emph> 
@@ -3005,7 +3005,7 @@
                         <pb xml:id="yua2021-82" /> </p>
                         </div>
                         
-                        <div type="tsúuk" n="yua.tsk.8">
+                        <div type="tsúuk" n="yua.tsk.08">
                             <head>
                         <emph rend="center">U K'AABA' LE METNÁAL AJAWO'OB KIN</emph> 
                         <emph rend="center">IN WA'ALO'ON TI' LE SÚUTUKA'</emph> 
@@ -3169,7 +3169,7 @@
                         <pb xml:id="yua2021-90" /> </p>
                         </div>
                         
-                        <div type="tsúuk" n="yua.tsk.9">
+                        <div type="tsúuk" n="yua.tsk.09">
                         <head> 
                         <emph rend="center">U SUJUY CH'ÚUPAL KÚUCHUMAKIIK</emph> 
                         </head>
