@@ -5458,22 +5458,20 @@
                                 in máanchi'ito'on u k'aaba' u ajawilo'ob le ajawnajo'obo'.
                                 <pb xml:id="yua2021-200" /></p> 
                         </div>
-                        <p>
-                        <emph rend="center">U K'AABX U AJAWILO'OB U AJAWCH'I'IBALIL KÁAWIKIIB</emph> 
-                        </p>
-
-                        <p>Le je'elo'oba' leti' le yáax ajawo'ob bino': Ajpóop yéetel Ajpóopkamjaaj, Ajtojil<hi rend="sup">91</hi>, 
-                        Ajk'u'uk'umaats, Ajníim Chokoj Káawek, Ajpóopol Wíinak, Ajchíituy Lolmet, Ajkéej Náay, 
-                        Ajpóopol Wíinak Páajom Tsalats yéetel Ix-uchuchkamjaáj. Le je'elo'oba', u ajawilo'ob le 
-                        Káawikiibilo'obo'. Bolontúul ajaw ka'achil, junjuntúul bine' jaatsal yanik yéetel u ajawnaj, 
-                        pak'te' yéetel u ch'i'ibalil.</p> 
-
-                        <p>
-                        <hi rend="sup">91</hi> Il a wil le Yáax Kanti'itsmanti'itso'.
-                        </p>
-
-                        <note>Not sure how to mark this. Should be p. 202 but no page # is printed.</note>
-                        <pb xml:id="yua2021-202" />
+                        <div type="tsúuk" n="yua.tsk.19">
+                            <head>
+                                <emph rend="center">U K'AABX U AJAWILO'OB U AJAWCH'I'IBALIL KÁAWIKIIB</emph> 
+                            </head>
+                            <p>Le je'elo'oba' leti' le yáax ajawo'ob bino': Ajpóop yéetel Ajpóopkamjaaj, Ajtojil<ref target="yua.n091"><hi rend="sup">91</hi></ref>
+                                <note place="foot" xml:id="yua.n091"><seg type="note-symbol"><hi rend="sup">91</hi></seg>
+                                    Il a wil le Yáax Kanti'itsmanti'itso'.
+                                </note>, 
+                                Ajk'u'uk'umaats, Ajníim Chokoj Káawek, Ajpóopol Wíinak, Ajchíituy Lolmet, Ajkéej Náay, 
+                                Ajpóopol Wíinak Páajom Tsalats yéetel Ix-uchuchkamjaáj. Le je'elo'oba', u ajawilo'ob le 
+                                Káawikiibilo'obo'. Bolontúul ajaw ka'achil, junjuntúul bine' jaatsal yanik yéetel u ajawnaj, 
+                                pak'te' yéetel u ch'i'ibalil.
+                                <pb xml:id="yua2021-202" /></p> 
+                        </div>
 
                         <p>
                         <emph rend="center">U AJAWILO'OB U AJAWCH'I'IBALIL NÍIMJAYBAAB</emph> 
