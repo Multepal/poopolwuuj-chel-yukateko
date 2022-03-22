@@ -5472,22 +5472,19 @@
                                 pak'te' yéetel u ch'i'ibalil.
                                 <pb xml:id="yua2021-202" /></p> 
                         </div>
-
-                        <p>
-                        <emph rend="center">U AJAWILO'OB U AJAWCH'I'IBALIL NÍIMJAYBAAB</emph> 
-                        </p>
-
-                        <p>Le yáax ajawo', Ajkálel Ajaw bin. Tu paach bin jtaal xan Ajtsíik Wíinak Ajaw<hi rend="sup">92</hi>,
-                        Ajk'alelkamjaaj, Ix-uchuchkamjaaj, Ajníim Chokoj Níimjaybaab, Aj-áawilix, Ajyáakolatam, 
-                        Aj-utsam Póop Saklatol yéetel Ajníim Lolmet Yéejoltux. Bey túuno', jk'uch bin tak bolontúul 
-                        le Ajaw Níimjaybaabilo'obo'.</p> 
-
-                        <p>
-                        <hi rend="sup">92</hi> Il a wil le Yáax Kanti'itsmanti'itso'. 
-                        </p>
-
-                        <pb xml:id="yua2021-204" /> 
-
+                        <div type="tsúuk" n="yua.tsk.20">
+                            <head>
+                                <emph rend="center">U AJAWILO'OB U AJAWCH'I'IBALIL NÍIMJAYBAAB</emph> 
+                            </head>
+                            <p>Le yáax ajawo', Ajkálel Ajaw bin. Tu paach bin jtaal xan Ajtsíik Wíinak Ajaw<ref target="yua.n092"><hi rend="sup">92</hi></ref>
+                                <note place="foot" xml:id="yua.n092"><seg type="note-symbol"><hi rend="sup">92</hi></seg>
+                                    Il a wil le Yáax Kanti'itsmanti'itso'.
+                                </note>,
+                                Ajk'alelkamjaaj, Ix-uchuchkamjaaj, Ajníim Chokoj Níimjaybaab, Aj-áawilix, Ajyáakolatam, 
+                                Aj-utsam Póop Saklatol yéetel Ajníim Lolmet Yéejoltux. Bey túuno', jk'uch bin tak bolontúul 
+                                le Ajaw Níimjaybaabilo'obo'.
+                                <pb xml:id="yua2021-204" /></p> 
+                        </div>
                         <p>
                         <emph rend="center">U K'AABA' LE K'ICHE' AJAWO'OBO'</emph>
                         </p> 
