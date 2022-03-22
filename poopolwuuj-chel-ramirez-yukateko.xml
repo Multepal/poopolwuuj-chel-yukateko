@@ -5485,18 +5485,17 @@
                                 le Ajaw Níimjaybaabilo'obo'.
                                 <pb xml:id="yua2021-204" /></p> 
                         </div>
-                        <p>
-                        <emph rend="center">U K'AABA' LE K'ICHE' AJAWO'OBO'</emph>
-                        </p> 
-
-                        <p>U ajawilo'obe': Aitsíik Wíinak<hi rend="sup">93</hi>, Ajlomet Ajaw, Ajníim Chokoj Ajaw yéetel Ajjáakawits 
-                        Ajaw. Kantúul bin le K'iche' Ajawo'obo', yéetel u ajawnajo'ob jatsaljaats yaniko'ob.</p> 
-
-                        <p>
-                        <hi rend="sup">93</hi> Il a wil le Yáax Kanti'itsmanti'itso'. 
-                        </p>
-
-                        <pb xml:id="yua2021-206" /> 
+                        <div type="tsúuk" n="yua.tsk.21">
+                            <head>
+                                <emph rend="center">U K'AABA' LE K'ICHE' AJAWO'OBO'</emph>
+                            </head> 
+                            <p>U ajawilo'obe': Aitsíik Wíinak<ref target="yua.n093"><hi rend="sup">93</hi></ref>
+                                <note place="foot" xml:id="yua.n093"><seg type="note-symbol"><hi rend="sup">93</hi></seg>
+                                    Il a wil le Yáax Kanti'itsmanti'itso'.
+                                </note>, Ajlomet Ajaw, Ajníim Chokoj Ajaw yéetel Ajjáakawits 
+                                Ajaw. Kantúul bin le K'iche' Ajawo'obo', yéetel u ajawnajo'ob jatsaljaats yaniko'ob.
+                                <pb xml:id="yua2021-206" /></p> 
+                        </div>
                         <p>
                         <emph rend="center">KA'AP'ÉEL KAAJAL LE SÁAKIKIIB AJAWO'OBO'</emph> 
                         </p>
