@@ -5963,37 +5963,38 @@
                                 tsaych'i'ibalilo'ob wáaj bix úuchik u jáatspajalo'ob bin.
                                 <pb xml:id="yua2021-232" /></p> 
                         </div>
-                        <p>
-                        <emph rend="center">U K'AABA' U AJAWIL LE AJAWNAJO'OBO'</emph> 
-                        </p>
-
-                        <p>Chéen kantúulo'ob bin:</p> 
-                        <p>Ajtsíik Wíinak Ajaw. U k'aaba uyáax ajawil jump'éel Ajawnaj bin.</p>  
-                        <p>Lolmet Ajaw. U ka'atúul ajawil jump'éel Ajawnaj bin xan.</p>  
-                        <p>Níim Chokoj Ajaw<hi rend="sup">131</hi>. U ajawil u yóoxp'éel Ajawnaj bin.</p>  
-                        <p>Jáakawits Ajaw. U k'aaba bin u kantúul ajawil jump'éel Ajawnaj ti' le kamp'éel k'iche' 
-                        ajawnaj jwa'akunsa'abo'.</p>  
-                        <p>Bey túuno', óoxp'éel bin u Ajawnajil u ajawch'i'ibalil le Kojo'obo'. Leti'ob bin 
-                        ka'ach u yáax ajawilo'ob tuláakal le k'iche' ajawo'obo', le beetik tu paaklan much'ajuba 
-                        'ob ti' jump'éelili' Noj Ajawnaj le u yóoxp'éel ajawnajil le Yáax Kojo'obo'. Le u na'atsilo'ob yée- 
-                        tel u ajawilo'ob le jaajkunnaj kuxtalo'. Jach bin nojba'alak u kux óolal le u Yóoxp'éel Ajawnajil 
-                        le Kojo'obo'.</p>  
-
-                        <p>U Níim Chokojil<hi rend="sup">132</hi> le Níimjaybaabilo'obo', le u kaatúul Nuxi' Kojo'. U Níim Chokoj 
-                        Ajawil le K'iche' Ajawo'obo', le u yóoxtúul Nuxi' Kojo'. Óoxtúul bin ka'ach le Koj<hi rend="sup">133</hi> 
-                        k'i'itpaja'ano'ob te' tu ajawnajo'obo'. Bey úuchik u yantal u kux óolal le K'iche'ilo'obo'. Ts'o'ok 
-                        u p'áatal mix tu'ux je'el u béeytal u yila'ale', tumen ka'achile' yaan bin jump'éel u yúuchben 
-                        ts'íib le Ajawo'obo', ba'ale' jsa'at bin. Way xan ku náakal u tsikbalil le ba'ax yaan tsikbaltbil tu 
-                        yóok'olal le K'iche' Ajawilo', k'aabainta'an bejla'e' bey Santa Cruze'. </p>
-
-                        <p>
-                        <hi rend="sup">131</hi> Il a wil le Yáax Kanti'itsmanti'itso'. 
-                        <hi rend="sup">132</hi> Il a wil le Yáax Kanti'itsmanti'itso'. 
-                        <hi rend="sup">133</hi> U táan óolal ajk'exts'íib. Táan u binejtik u k'aaba' le yáax Níim Chokojo'. Ma' u chíikpajal te' ichil u 
-                        ts'íibil le úuchben maayáaj k'iche'o'. 
-                        </p>
-
-                        <pb xml:id="yua2021-234" /> 
+                        <div type="tsúuk" n="yua.tsk.31">
+                            <head>
+                                <emph rend="center">U K'AABA' U AJAWIL LE AJAWNAJO'OBO'</emph> 
+                            </head>
+                            <p>Chéen kantúulo'ob bin:</p> 
+                            <p>Ajtsíik Wíinak Ajaw. U k'aaba uyáax ajawil jump'éel Ajawnaj bin.</p>  
+                            <p>Lolmet Ajaw. U ka'atúul ajawil jump'éel Ajawnaj bin xan.</p>  
+                            <p>Níim Chokoj Ajaw<ref target="yua.n131"><hi rend="sup">131</hi></ref>
+                                <note place="foot" xml:id="yua.n131"><seg type="note-symbol"><hi rend="sup">131</hi></seg>
+                                    Il a wil le Yáax Kanti'itsmanti'itso'.
+                                </note>. U ajawil u yóoxp'éel Ajawnaj bin.</p>  
+                            <p>Jáakawits Ajaw. U k'aaba bin u kantúul ajawil jump'éel Ajawnaj ti' le kamp'éel k'iche' 
+                                ajawnaj jwa'akunsa'abo'.</p>  
+                            <p>Bey túuno', óoxp'éel bin u Ajawnajil u ajawch'i'ibalil le Kojo'obo'. Leti'ob bin 
+                                ka'ach u yáax ajawilo'ob tuláakal le k'iche' ajawo'obo', le beetik tu paaklan much'ajuba 
+                                'ob ti' jump'éelili' Noj Ajawnaj le u yóoxp'éel ajawnajil le Yáax Kojo'obo'. Le u na'atsilo'ob yée- 
+                                tel u ajawilo'ob le jaajkunnaj kuxtalo'. Jach bin nojba'alak u kux óolal le u Yóoxp'éel Ajawnajil 
+                                le Kojo'obo'.</p>  
+                            <p>U Níim Chokojil<ref target="yua.n132"><hi rend="sup">132</hi></ref>
+                                <note place="foot" xml:id="yua.n132"><seg type="note-symbol"><hi rend="sup">132</hi></seg>
+                                    Il a wil le Yáax Kanti'itsmanti'itso'.
+                                </note> le Níimjaybaabilo'obo', le u kaatúul Nuxi' Kojo'. U Níim Chokoj 
+                                Ajawil le K'iche' Ajawo'obo', le u yóoxtúul Nuxi' Kojo'. Óoxtúul bin ka'ach le Koj<ref target="yua.n133"><hi rend="sup">133</hi></ref>
+                                <note place="foot" xml:id="yua.n133"><seg type="note-symbol"><hi rend="sup">133</hi></seg>
+                                    Il a wil le Yáax Kanti'itsmanti'itso'.
+                                </note> 
+                                k'i'itpaja'ano'ob te' tu ajawnajo'obo'. Bey úuchik u yantal u kux óolal le K'iche'ilo'obo'. Ts'o'ok 
+                                u p'áatal mix tu'ux je'el u béeytal u yila'ale', tumen ka'achile' yaan bin jump'éel u yúuchben 
+                                ts'íib le Ajawo'obo', ba'ale' jsa'at bin. Way xan ku náakal u tsikbalil le ba'ax yaan tsikbaltbil tu 
+                                yóok'olal le K'iche' Ajawilo', k'aabainta'an bejla'e' bey Santa Cruze'. 
+                                <pb xml:id="yua2021-234" /></p>
+                        </div>
                 </div>
             <div xml:lang="spa">
                 <div type="tsúuk" n="spa.tsk.1">
