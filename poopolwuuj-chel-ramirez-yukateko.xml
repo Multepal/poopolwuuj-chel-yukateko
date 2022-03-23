@@ -5857,29 +5857,28 @@
                                 k'iinilo'ob kuxa'an u Káawikiibilo'ob le K'iche' Ajawilo'.
                                 <pb xml:id="yua2021-226" /></p> 
                         </div>
-                        <p>
-                        <emph rend="center">U AJAWILO'OB LE KÁAWIKIIBILO'OBO'</emph> 
-                        </p>
-
-                        <p>Leti' bin le u ajawnajilo'ob le Ajpóopo'ob, le  Ajpóopkamjaajo'obo', tumen ti' leti'ob 
-                        jch'aab u k'aaba le Bolomp'éel Káawikiib Ajawnajo'obo'. U ajawilo'ob bin le Bolomp'éel 
-                        Káawikiib Ajawnajo'obo':</p> 
-                        <p>Ájpóop Ajaw. Kúujaaj<hi rend="sup">120</hi> bin u k'aaba' u Ajawnaj.</p> 
-                        <p>Ajpóopkamjaaj Ajaw. Tsíikinajaaj bin u k'aaba u Ajawnaj.</p> 
-                        <p>Ajníim Chokoj Káawek. U ajawil jump'éel Ajawnaj bin.</p> 
-                        <p>Ajtojil Ajaw. U ajawil jump'éel Ajawnaj bin.</p> 
-                        <p>Ajk'u'uk'umaats Ajaw. U ajawil jump'éel Ajawnaj bin.</p> 
-                        <p>Ajpóopol Wíinak. U ajawil jump'éel Ajawnaj bin.</p> 
-                        <p>Ajchíituy Lolmet yéetel Ajkéej Náay. U ajawilo'ob jump'éel Ajawnaj bin.</p> 
-                        <p>Ajpóopol Wíinak Páajom Tsalats Xkúuxebaj. U ajawil jump'éel Ajawnaj bin.</p> 
-                        <p>Ajtéepew Yáaki'. U ajawil jump'éel Ajawnaj bin.</p> 
-                        <p>Le u Bolontúul Káawikiib Ajawilo'obo', jya'ahchaj u paalalo'ob.</p> 
-
-                        <p>
-                        <hi rend="sup">120</hi> Il a wil le Yáax Kanti'itsmanti'itso'. 
-                        </p>
-
-                        <pb xml:id="yua2021-228" />
+                        <div type="tsúuk" n="yua.tsk.28">
+                            <head>
+                                <emph rend="center">U AJAWILO'OB LE KÁAWIKIIBILO'OBO'</emph> 
+                            </head>
+                            <p>Leti' bin le u ajawnajilo'ob le Ajpóopo'ob, le  Ajpóopkamjaajo'obo', tumen ti' leti'ob 
+                            jch'aab u k'aaba le Bolomp'éel Káawikiib Ajawnajo'obo'. U ajawilo'ob bin le Bolomp'éel 
+                            Káawikiib Ajawnajo'obo':</p> 
+                            <p>Ájpóop Ajaw. Kúujaaj<ref target="yua.n120"><hi rend="sup">120</hi></ref>
+                                <note place="foot" xml:id="yua.n120"><seg type="note-symbol"><hi rend="sup">120</hi></seg>
+                                    Il a wil le Yáax Kanti'itsmanti'itso'.
+                                </note> bin u k'aaba' u Ajawnaj.</p> 
+                            <p>Ajpóopkamjaaj Ajaw. Tsíikinajaaj bin u k'aaba u Ajawnaj.</p> 
+                            <p>Ajníim Chokoj Káawek. U ajawil jump'éel Ajawnaj bin.</p> 
+                            <p>Ajtojil Ajaw. U ajawil jump'éel Ajawnaj bin.</p> 
+                            <p>Ajk'u'uk'umaats Ajaw. U ajawil jump'éel Ajawnaj bin.</p> 
+                            <p>Ajpóopol Wíinak. U ajawil jump'éel Ajawnaj bin.</p> 
+                            <p>Ajchíituy Lolmet yéetel Ajkéej Náay. U ajawilo'ob jump'éel Ajawnaj bin.</p> 
+                            <p>Ajpóopol Wíinak Páajom Tsalats Xkúuxebaj. U ajawil jump'éel Ajawnaj bin.</p> 
+                            <p>Ajtéepew Yáaki'. U ajawil jump'éel Ajawnaj bin.</p> 
+                            <p>Le u Bolontúul Káawikiib Ajawilo'obo', jya'ahchaj u paalalo'ob.
+                                <pb xml:id="yua2021-228" /></p> 
+                        </div>
                         <p>
                         <emph rend="center">U AJAWILO'OB LE NÍIMJAYBAABILO'OBO'</emph> 
                         </p>
