@@ -5925,34 +5925,44 @@
                                 Le yáaxo'obo', le ts'o'ok in máanchi'itiko'ono'obo'.
                                 <pb xml:id="yua2021-230" /></p> 
                         </div>
-                        <p>
-                        <emph rend="center">U YÁAX NOOL YÉETEL U YÁAX AJAWIL LE K'ICHE' AJAWO'OBO'</emph> 
-                        </p>
-
-                        <p>Maajukutaj. U yáax wíinikil, u yáax nool yéetel u yaax ajawil le K'iche' Ajawilo'.</p> 
-                        <p>Kóojajawe', u k'aaba' ú ka'ap'éel ajawchi'i'balil u ajawilo'ob Máajukutaj.</p> 
-                        <p>Káaklakaane'<hi rend="sup">124</hi>, u yóoxp'éel ajawch'i'ibalil Máajukutaj.</p>
-                        <p>Kóokosoome'<hi rend="sup">125</hi>, u kamp'éel ajawch'i'ibalil Máajukutaj.</p>
-                        <p>Kóojmajkuune'<hi rend="sup">126</hi>, u jo'op'éel ajawch'i'ibalil Máajukutaj.</p> 
-                        <p>Wukub Áaje'<hi rend="sup">127</hi>, u wakp'éel ajawch'i'ibalil Máajukutaj.</p>
-                        <p>Kóokameele'<hi rend="sup">128</hi>, u wukp'éel ajawch'i'ibalil Máajukutaj.</p>
-                        <p>Kóoyabakooje'<hi rend="sup">129</hi>, u waxakp'éel ajawch'i'ibalil Máajukutaj.</p> 
-                        <p>Wíinak Baame'<hi rend="sup">130</hi>, u bolomp'éel ajawch'i'ibalil Máajukutaj.</p> 
-                        <p>Le je'elo'ob bina', u ajawilo'ob u ajawch'i'ibalil le K'iche' Ajawo'obo'; le je'elo'oba', u 
-                        tsaych'i'ibalilo'ob wáaj bix úuchik u jáatspajalo'ob bin.</p> 
-
-                        <p>
-                        <hi rend="sup">114</hi> Il a wil le Yáax Kanti'itsmanti'itso'. 
-                        <hi rend="sup">125</hi> Il a wil le Yáax Kanti'itsmanti'itso'. 
-                        <hi rend="sup">126</hi> Il a wil le Yáax Kanti'itsmanti'itso'. 
-                        <hi rend="sup">127</hi> Il a wil le Yáax Kanti'itsmanti'itso'. 
-                        <hi rend="sup">128</hi> Il a wil le Yáax Kanti'itsmanti'itso'. 
-                        <hi rend="sup">129</hi> Il a wil le Yáax Kanti'itsmanti'itso'. 
-                        <hi rend="sup">130</hi> Il a wil le Yáax Kanti'itsmanti'itso'.
-                        </p> 
-
-                        <pb xml:id="yua2021-232" /> 
-
+                        <div type="tsúuk" n="yua.tsk.30">
+                            <head>
+                                <emph rend="center">U YÁAX NOOL YÉETEL U YÁAX AJAWIL LE K'ICHE' AJAWO'OBO'</emph> 
+                            </head>
+                            <p>Maajukutaj. U yáax wíinikil, u yáax nool yéetel u yaax ajawil le K'iche' Ajawilo'.</p> 
+                            <p>Kóojajawe', u k'aaba' ú ka'ap'éel ajawchi'i'balil u ajawilo'ob Máajukutaj.</p> 
+                            <p>Káaklakaane'<ref target="yua.n124"><hi rend="sup">124</hi></ref>
+                                <note place="foot" xml:id="yua.n124"><seg type="note-symbol"><hi rend="sup">124</hi></seg>
+                                    Il a wil le Yáax Kanti'itsmanti'itso'.
+                                </note>, u yóoxp'éel ajawch'i'ibalil Máajukutaj.</p>
+                            <p>Kóokosoome'<ref target="yua.n125"><hi rend="sup">125</hi></ref>
+                                <note place="foot" xml:id="yua.n125"><seg type="note-symbol"><hi rend="sup">125</hi></seg>
+                                    Il a wil le Yáax Kanti'itsmanti'itso'.
+                                </note>, u kamp'éel ajawch'i'ibalil Máajukutaj.</p>
+                            <p>Kóojmajkuune'<ref target="yua.n126"><hi rend="sup">126</hi></ref>
+                                <note place="foot" xml:id="yua.n126"><seg type="note-symbol"><hi rend="sup">126</hi></seg>
+                                    Il a wil le Yáax Kanti'itsmanti'itso'.
+                                </note>, u jo'op'éel ajawch'i'ibalil Máajukutaj.</p> 
+                            <p>Wukub Áaje'<ref target="yua.n127"><hi rend="sup">127</hi></ref>
+                                <note place="foot" xml:id="yua.n127"><seg type="note-symbol"><hi rend="sup">127</hi></seg>
+                                    Il a wil le Yáax Kanti'itsmanti'itso'.
+                                </note>, u wakp'éel ajawch'i'ibalil Máajukutaj.</p>
+                            <p>Kóokameele'<ref target="yua.n128"><hi rend="sup">128</hi></ref>
+                                <note place="foot" xml:id="yua.n128"><seg type="note-symbol"><hi rend="sup">128</hi></seg>
+                                    Il a wil le Yáax Kanti'itsmanti'itso'.
+                                </note>, u wukp'éel ajawch'i'ibalil Máajukutaj.</p>
+                            <p>Kóoyabakooje'<ref target="yua.n129"><hi rend="sup">129</hi></ref>
+                                <note place="foot" xml:id="yua.n129"><seg type="note-symbol"><hi rend="sup">129</hi></seg>
+                                    Il a wil le Yáax Kanti'itsmanti'itso'.
+                                </note>, u waxakp'éel ajawch'i'ibalil Máajukutaj.</p> 
+                            <p>Wíinak Baame'<ref target="yua.n130"><hi rend="sup">130</hi></ref>
+                                <note place="foot" xml:id="yua.n130"><seg type="note-symbol"><hi rend="sup">130</hi></seg>
+                                    Il a wil le Yáax Kanti'itsmanti'itso'.
+                                </note>, u bolomp'éel ajawch'i'ibalil Máajukutaj.</p> 
+                            <p>Le je'elo'ob bina', u ajawilo'ob u ajawch'i'ibalil le K'iche' Ajawo'obo'; le je'elo'oba', u 
+                                tsaych'i'ibalilo'ob wáaj bix úuchik u jáatspajalo'ob bin.
+                                <pb xml:id="yua2021-232" /></p> 
+                        </div>
                         <p>
                         <emph rend="center">U K'AABA' U AJAWIL LE AJAWNAJO'OBO'</emph> 
                         </p>
