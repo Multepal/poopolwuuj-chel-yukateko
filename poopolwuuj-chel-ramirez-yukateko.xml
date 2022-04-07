@@ -7043,8 +7043,10 @@
                     <p>-Llevo un mandado en mi vientre, voy a donde el hijo -dijo el piojo a Tamasul.</p> 
                     <p>-Está bien, pero no veo que te apures -dijo el sapo al piojo. ¿Quieres que te trague? Ya 
                         verás que soy ligero y llegaremos rápido.</p>
-                        <pb xml:id="yua2021-123" />
-                        <!-- sic footnotes -->
+                    <p>
+                    <sic>no hay nota al pie en el texto original</sic>
+                    !-- not sure how to encode the wrong footnotes in the line above -->
+                    <pb xml:id="yua2021-123"/></p>
                     <p>-Está bien -dijo el piojo al sapo. Y en eso se lo lamió el sapo, se fue lejos el sapo, pero no 
                         era rápido. De repente encontraron una gran culebra llamada Sakikás<hi rend="sup">73</hi>.</p>
                     <p>-¿A dónde vas, Tamasul hijo? -dijo Sakikás a Tamasul.</p>
@@ -8770,7 +8772,7 @@
                         <note place="foot" xml:id="spa.n038"><seg type="note-symbol"><hi rend="sup">38</hi></seg>
                             Es posible que lo hayan quemado. 
                         </note>. Aquí termina lo que hoy se llama Santa Cruz del Quiché.<pb xml:id="yua2021-235" /></p>
-                </div>
+                 </div>
             </div>
         </body>
         <back>
