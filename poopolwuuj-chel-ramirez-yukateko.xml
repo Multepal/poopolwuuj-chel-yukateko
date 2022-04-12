@@ -2820,147 +2820,145 @@
                 <div type="tsúuk" n="yua.tsk.07">
                     <head>
                         <emph rend="center">TI' LE SÚUTUKN YAAN IN WA'ALIKO'ON BIX SÍIJIK</emph> 
-                        <emph rend="center">JUN AJPÚUB, XBÁALANKEJ</emph> 
+                        <emph rend="center"><rs ana="JUNAJPU">JUN AJPÚUB</rs>, <rs ana="XB'ALAMQ'E">XBÁALANKEJ</rs></emph> 
                     </head>
-                    <p>Yáaxe' yaan in wa aliko'on bix úuchik u ts'its'óolta'al Wukub Káakix, Síipakna' yéetel Ka 
-                        Ráakan way yóok'olkaabe'.</p> 
-                    <p>Way kun káajal in tsikbaltiko'on bix u k'aaba u yuumo'ob Jun Ajpúub, Xbáalankeje'. 
-                        Jach ma' sáasili', k as xaak'aan u tsikbalil bix úuchik u síijil Jun Ajpúub, Xbáal'ankej, le beetik 
+                    <p>Yáaxe' yaan in wa aliko'on bix úuchik u ts'its'óolta'al <rs ana="WUQUB'_KAQIX">Wukub Káakix</rs>, <rs ana="SIPAKNA">Síipakna'</rs> yéetel <rs ana="KAB'RAQAN">Ka 
+                        Ráakan</rs> way yóok'olkaabe'.</p> 
+                    <p>Way kun káajal in tsikbaltiko'on bix u k'aaba u yuumo'ob <rs ana="JUNAJPU">Jun Ajpúub</rs>, <rs ana="XB'ALAMQ'E">Xbáalankeje'</rs>. 
+                        Jach ma' sáasili', k as xaak'aan u tsikbalil bix úuchik u síijil <rs ana="JUNAJPU">Jun Ajpúub</rs>, <rs ana="XB'ALAMQ'E">Xbáalankej</rs>, le beetik 
                         chéen junjaats kin in wa alo'oni', chéen junjaats kin in tsikbálto'on tu yóok'olal u yuumo'obi'.</p> 
-                        <p>Le baax kin waaliko'on tu yáax puula', u k'aaba'ob bin &lt;Jun Jun Ajpúub&gt;; bey u ya'ala'al 
-                        bin ti'obo'; u yuumo'obe' Xpíiyakok, Xmúukanej. Ti' leti'ob bin jsíij Jun Jun Ajpúub, Wukub 
-                        Jun Ajpúub<ref target="yua.n020"><hi rend="sup">20</hi></ref>
+                        <p>Le baax kin waaliko'on tu yáax puula', u k'aaba'ob bin <rs ana="JUN_JUNAJPU">&lt;Jun Jun Ajpúub&gt;</rs>; bey u ya'ala'al 
+                        bin ti'obo'; u yuumo'obe' <rs ana="XPIYAKOK">Xpíiyakok</rs>, <rs ana="IXMUKANE">Xmúukanej</rs>. Ti' leti'ob bin jsíij <rs ana="JUN_JUNAJPU">Jun Jun Ajpúub</rs>, <rs ana="WUQUB'_JUNAJPU">Wukub 
+                        Jun Ajpúub</rs><ref target="yua.n020"><hi rend="sup">20</hi></ref>
                         <note place="foot" xml:id="yua.n020"><seg type="note-symbol"><hi rend="sup">20</hi></seg>
                             Il a wil le Yáax Kanti'itsmanti'itso'.
                         </note>
                         . Áak'ab bin úuchik u beetaal u yantal.</p> 
-                    <p>Jyanchaj bin juntúul u paal Jun Jun Ajpúub, Wukub Jun Ajpúub: u k'aabae' Jun Ba'ats', 
-                        [Jun Chóowen]<ref target="yua.n021"><hi rend="sup">21</hi></ref>
+                    <p>Jyanchaj bin juntúul u paal <rs ana="JUN_JUNAJPU">Jun Jun Ajpúub</rs>, <rs ana="WUQUB'_JUNAJPU">Wukub Jun Ajpúub</rs>: u k'aabae' <rs ana="JUN_B'ATZ'">Jun Ba'ats'</rs>, 
+                        <rs ana="JUN_CHOWEN">[Jun Chóowen]</rs><ref target="yua.n021"><hi rend="sup">21</hi></ref>
                         <note place="foot" xml:id="yua.n021"><seg type="note-symbol"><hi rend="sup">21</hi></seg>
                             Il a wil le Yáax Kanti'itsmanti'itso'. Ichil le k'ext'aan beeta'an ich káastelán t'aano', chéen ku chíikpajal 
-                            &lt;Jun  Ba'ats'&gt;, le beetik táan in chukbesiko'on ka'alikil in k'aliko'on &lt;Jun Chóowen&gt; ichil [...] te' 
+                            <rs ana="JUN_B'ATZ'">&lt;Jun  Ba'ats'&gt;</rs>, le beetik táan in chukbesiko'on ka'alikil in k'aliko'on <rs ana="JUN_CHOWEN">&lt;Jun Chóowen&gt;</rs> ichil [...] te' 
                             súutuka'; te' tuláak' u wáalalo'obo' chéen kun chíikpajal nuupultak le ka'ap'éel k'aaba'o'.
-                        </note>. U k'aaba u na' le paal bino', Xbáakiyalo'<ref target="yua.n022"><hi rend="sup">22</hi></ref>
+                        </note>. U k'aaba u na' le paal bino', <rs ana="IXB'AQIYALO">Xbáakiyalo'</rs><ref target="yua.n022"><hi rend="sup">22</hi></ref>
                         <note place="foot" xml:id="yua.n022"><seg type="note-symbol"><hi rend="sup">22</hi></seg>
                             Il a wil le Yáax Kanti'itsmanti'itso'.
                         </note>
-                        ; u yatan bin Jun Jun Ajpúub, 
-                        Wukub Jun Ajpúub.</p>
+                        ; u yatan bin <rs ana="JUN_JUNAJPU">Jun Jun Ajpúub</rs>, 
+                        <rs ana="WUQUB'_JUNAJPU">Wukub Jun Ajpúub</rs>.</p>
                     <p>Chéen leti' le yáax paal jsíij ti'obo'. Leti'obe' jach bin nukuch ajtuukulo'ob, nukuch aj- 
                         its'atilo'ob; ajna'ato'ob bin way yóok'olkaabe'. Ma'alob bin u kux óolalo'ob, u jaajile', jach bin 
                         ma'alob úuchik u yantalo'ob.</p> 
-                    <p>Tu kaansajo'ob tuláakal baax u yojelo'ob ti' Jun Baats', Jun Chóowen, ti' u paal Jun 
-                        Jun Ajpúub, Wukub Jun Ajpúub; leti'ob bin xane' ajpaaxo'ob, ajpayalchi'ob, ajts'oono'ob, 
-                        ajts'íibo'ob, ajpatmáaskabo'ob, ajts'alabo'ob yéetel ajjo'ot'o'ob. Jun Jun Ajpúub, Wukub Jun 
-                        Ajpúube', sáansamal chéen ch'in jaláalte' ku beetiki', bey xan u báaxtik póok'tapook' xani'. 
+                    <p>Tu kaansajo'ob tuláakal baax u yojelo'ob ti' <rs ana="JUN_B'ATZ'">Jun Baats'</rs>, <rs ana="JUN_CHOWEN">Jun Chóowen</rs>, ti' u paal <rs ana="JUN_JUNAJPU">Jun 
+                        Jun Ajpúub</rs>, <rs ana="WUQUB'_JUNAJPU">Wukub Jun Ajpúub</rs>; leti'ob bin xane' ajpaaxo'ob, ajpayalchi'ob, ajts'oono'ob, 
+                        ajts'íibo'ob, ajpatmáaskabo'ob, ajts'alabo'ob yéetel ajjo'ot'o'ob. <rs ana="JUN_JUNAJPU">Jun Jun Ajpúub</rs>, <rs ana="WUQUB'_JUNAJPU">Wukub Jun 
+                        Ajpúube'</rs>, sáansamal chéen ch'in jaláalte' ku beetiki', bey xan <rs ana="CHAAJ">u báaxtik póok'tapook' xani'</rs>. 
                         Ka'aka'atúulil u keetelamo'obi', tumen bin kantúulo'ob lekéen much'lajako'ob te' tu'ux ku 
-                        báaxta al le póok'tapook'o'.</p> 
-                    <p>Jtaal túun bin ilbil u báaxal tumen le Kóoto'; u ajbisajt'aan bin kaach Jun Ráakan, 
-                        Chíipi' Káakulja, Ráaxa Káakulja. Le  Kóoto' ma bin náach yanik te' lu'umo', mix xan ti' le 
-                        Metnáalo'o'. Séeb úuchik u k'uchul te' kaan tak tu'ux yaan Jun Ráakano'. Juulnaj bin u sáasilil 
-                        Jun Jun Ajpúub, Wukub Jun Ajpúub tu yóok'olkaab. Ts'o'okili' bin u kíimil Xbáakiyalo'e', le 
-                        u na' Jun Ba'ats', Jun Chóowene'. Ka wilik bine', tu yóok'ol le bej ku bin te' Metnáalo', ti' bin 
-                        ku chéen báaxal Jun Jun Ajpúub, Wukub Jun Ajpúubi', ka bin j-u'uya'ab tumen Jun Káame', 
-                        Wukub Káame'i'<ref target="yua.n023"><hi rend="sup">23</hi></ref>
+                        báaxta'al <rs ana="JOM">le póok'tapook'o'</rs>.</p> 
+                    <p>Jtaal túun bin ilbil u báaxal tumen <rs ana="WOK">le Kóoto'</rs>; u ajbisajt'aan bin kaach <rs ana="JUN_RAQAN">Jun Ráakan</rs>, 
+                        <rs ana="CH'IPI_KAQULJA">Chíipi' Káakulja</rs>, <rs ana="RAXA_KAQULJA">Ráaxa Káakulja</rs>. <rs ana="WOK">Le  Kóoto'</rs> ma bin náach yanik te' lu'umo', mix xan ti' le 
+                        <rs ana="XIB'ALB'A">Metnáalo'o'</rs>. Séeb úuchik u k'uchul te' kaan tak tu'ux yaan <rs ana="JUN_RAQAN">Jun Ráakano'</rs>. Juulnaj bin u sáasilil 
+                        <rs ana="JUN_JUNAJPU">Jun Jun Ajpúub</rs>, <rs ana="WUQUB'_JUNAJPU">Wukub Jun Ajpúub</rs> tu yóok'olkaab. Ts'o'okili' bin u kíimil <rs ana="IXB'AQIYALO">Xbáakiyalo'e'</rs>, le 
+                        u na' <rs ana="JUN_B'ATZ'">Jun Ba'ats'</rs>, <rs ana="JUN_CHOWEN">Jun Chóowene'</rs>. Ka wilik bine', tu yóok'ol le bej ku bin te' <rs ana="XIB'ALB'A">Metnáalo'</rs>, ti' bin 
+                        <rs ana="CHAAJ">ku chéen báaxal</rs> <rs ana="JUN_JUNAJPU">Jun Jun Ajpúub</rs>, <rs ana="WUQUB'_JUNAJPU">Wukub Jun Ajpúubi'</rs>, ka bin j-u'uya'ab tumen <rs ana="JUN_KAME''">Jun Káame'</rs>, 
+                        <rs ana="WUQUB'_KAME'">Wukub Káame'i'</rs><ref target="yua.n023"><hi rend="sup">23</hi></ref>
                         <note place="foot" xml:id="yua.n023"><seg type="note-symbol"><hi rend="sup">23</hi></seg>
                             Il a wil le Yáax Kanti'itsmanti'itso'.
                         </note>
-                        , u ajawilo'ob le Metnáalo'.</p> 
+                        , <rs ana="RAJAWAL_XIB'ALB'A">u ajawilo'ob le Metnáalo'</rs>.</p> 
                     <p>-Baax le ku yu'ubk'ajal te' tu yóok'olle lu'umo'. Bey táan u yáalkabo'obe', bey táan u 
-                        kíilbal u síit'o'obe'. Xi'ik t'ambilo'ob, taalako'ob báaxal, uti'al ka in péets'óolto'ono'ob. Mina'an 
+                        kíilbal u síit'o'obe'. Xi'ik t'ambilo'ob, <rs ana="CHAAJ">taalako'ob báaxal</rs>, uti'al ka in péets'óolto'ono'ob. Mina'an 
                         u subtalo'ob, mixmáak ku tsikiko'ob, u jaajile' mina'an u jets' óolalo'ob.</p> 
-                        <p>-Xi'ik ch'aabilo'ob ka taalako'ob tin táano'on -tu yaalaj bin le Metnáalilo'obo'. Ka bin 
-                        láaj júupo'ob tuukul; Jun Káame', Wukub Káame'e', nukuch ajxak'alo'ob bini'.
+                        <p>-Xi'ik ch'aabilo'ob ka taalako'ob tin táano'on -tu yaalaj bin <rs ana="RAJAWAL_XIB'ALB'A">le Metnáalilo'obo'</rs>. Ka bin 
+                        láaj júupo'ob tuukul; <rs ana="JUN_KAME''">Jun Káame'</rs>, <rs ana="WUQUB'_KAME'">Wukub Káame'e'</rs>, nukuch ajxak'alo'ob bini'.
                         <pb xml:id="yua2021-80" /> </p>
-                    <p>Tuláakal le ajawo'obo' yaan bin u nojmeyajilo'ob ts'aaja'an ti'ob tumen Jun Káame',
-                        Wukub Came'. Xíikiripaat<ref target="yua.n024"><hi rend="sup">24</hi></ref>
+                    <p>Tuláakal <rs ana="RAJAWAL_XIB'ALB'A">le ajawo'obo'</rs> yaan bin u nojmeyajilo'ob ts'aaja'an ti'ob tumen <rs ana="JUN_KAME''">Jun Káame'</rs>,
+                        <rs ana="WUQUB'_KAME'">Wukub Káame'</rs>. <rs ana="XIKIRIPAT">Xíikiripaat</rs><ref target="yua.n024"><hi rend="sup">24</hi></ref>
                         <note place="foot" xml:id="yua.n024"><seg type="note-symbol"><hi rend="sup">24</hi></seg>
                             Il a wil le Yáax Kanti'itsmanti'itso' 
                         </note>
-                        , Kúuchumakiike'; u menage' u k'oja'ankuuntik k'i'ik'. Aj-alpuj<ref target="yua.n025"><hi rend="sup">25</hi></ref>,
+                        , <rs ana="KUCHUMA_KIK'">Kúuchumakiike'</rs>; u menage' u k'oja'ankuuntik k'i'ik'. <rs ana="AJAL_PUJ">Aj-alpuj</rs><ref target="yua.n025"><hi rend="sup">25</hi></ref>,
                         <note place="foot" xml:id="yua.n025"><seg type="note-symbol"><hi rend="sup">25</hi></seg>
                             Il a wil le Yáax Kanti'itsmanti'itso'.
                         </note>
-                        Aj-alkanaje', u ajawil u chu'upul u wíinkilil máak, ku beetik u yalk'ajal u pujil u yook máak,
-                        yéetel u tu'utu' ja'ilaankil; u ajawil puj yéetel ja'ilaankil. Ti' bin xan yaan Cháamyabaak<ref target="yua.n026"><hi rend="sup">26</hi></ref>
+                        <rs ana="AJAL_Q'ANA">Aj-alkanaje'</rs>, u ajawil u chu'upul u wíinkilil máak, ku beetik u yalk'ajal u pujil u yook máak,
+                        yéetel u tu'utu' ja'ilaankil; u ajawil puj yéetel ja'ilaankil. Ti' bin xan yaan <rs ana="CH'AMIYA_BAQ">Cháamyabaak</rs><ref target="yua.n026"><hi rend="sup">26</hi></ref>
                         <note place="foot" xml:id="yua.n026"><seg type="note-symbol"><hi rend="sup">26</hi></seg>
                             Il a wil le Yáax Kanti'itsmanti'itso'.
                         </note>
-                        yée-
-                        tel Cháamyajo'olomi', leti'ob bin u ajkananbejilo'ob le Metnáalo'; yéetel bin baak bestaan
+                        yéetel <rs ana="CH'AMIYA_JOLOM">Cháamyajo'olomi'</rs>, leti'ob bin u ajkananbejilo'ob <rs ana="RAJAWAL_XIB'ALB'A">le Metnáalo'</rs>; yéetel bin baak beeta'an
                         u báatche'ob. Leti'ob bin beetik u ts'o'oyol wíinik, tu jaajil bin chéen chéej baak u poolo'ob
                         lekéen kíimiko'ob; máan ts'oya'anili' bin u lúubulo'obe.</p>
-                    <p>Le jewel' u nojmeyaj bin Cháamyabaak yéetel Cháamyajo'olom. Yaan bin uláak'o'ob
-                        k'aaba'inta'ano'ob bey: Aj-almes<ref target="yua.n027"><hi rend="sup">27</hi></ref>
+                    <p>Le jewel' u nojmeyaj bin <rs ana="CH'AMIYA_BAQ">Cháamyabaak</rs> yéetel <rs ana="CH'AMIYA_JOLOM">Cháamyajo'olom</rs>. Yaan bin uláak'o'ob
+                        k'aaba'inta'ano'ob bey: <rs ana="AJAL_MES">Aj-almes</rs><ref target="yua.n027"><hi rend="sup">27</hi></ref>
                         <note place="foot" xml:id="yua.n027"><seg type="note-symbol"><hi rend="sup">27</hi></seg>
                             Il a wil le Yáax Kanti'itsmanti'itso'.
                         </note>
-                        yéetel Aj-altokob; u nojmeyajo'obe' u kanáantiko'ob le
-                        wíiniko'ob tu paco le najo'obo'; mantats' bin u ch'uuktiko'ob wíinik uti'al u páak'tiko'ob
-                        yéetel u beetiko'ob u yok'om molal uti'al ka kíimiko'ob. Leti'ob u ajawilo'ob Aj-almes yéetel
-                        Aj-altokob, bey bin u ya'ala'al ti'obo'.</p>
-                    <p>Le je'ela' u nojmeyajil Xíik<ref target="yua.n028"><hi rend="sup">28</hi></ref>
+                        yéetel <rs ana="AJAL_TOQ'OB">Aj-altokob</rs>; u nojmeyajo'obe' u kanáantiko'ob le
+                        wíiniko'ob tu paach le najo'obo'; mantats' bin u ch'uuktiko'ob wíinik uti'al u páak'tiko'ob
+                        yéetel u beetiko'ob u yok'om molal uti'al ka kíimiko'ob. Leti'ob u ajawilo'ob <rs ana="AJAL_MES">Aj-almes</rs> yéetel
+                        <rs ana="AJAL_TOQ'OB">Aj-altokob</rs>, bey bin u ya'ala'al ti'obo'.</p>
+                    <p>Le je'ela' u nojmeyajil <rs ana="XIK">Xíik</rs><ref target="yua.n028"><hi rend="sup">28</hi></ref>
                         <note place="foot" xml:id="yua.n028"><seg type="note-symbol"><hi rend="sup">28</hi></seg>
                             Il a wil le Yáax Kanti'itsmanti'itso'.
                         </note>
-                            yéetel Páatam; leti'ob u ajawilo'ob le wíiniko'ob chéen bey
+                            yéetel <rs ana="PATAN">Páatam</rs>; leti'ob u ajawilo'ob le wíiniko'ob chéen bey
                         u kíimilo'ob te' dejo'. Ku ya'ala'ale' chéen ts'o'ok u k'uchul u súutukil u kíimilo'ob. Ku jóok'ol
                         bin k'i'ik' tu chimbo, ku ts'o'okole' ku kíimilo'ob ka'alikil u xéejko'ob k'i'ik'.</p>
                     <p>U nojmeyajo'obe', u k'askúuntiko'ob bin u jets'elnakil le wíiniko'obo'; chéen bey bin u
-                        kíimilo'ob te' beso'. Le je'ela u loolob nojmeyajilo'ob, ka'alikil u máan u xíimbalo'ob wáak u
-                        kutalo'ob. Le je'ela', u nojmeyajil Xíik yéetel Páatam.</p>
-                    <p>Tu yóotajo'ob bin u ch'a'ob u t'aanil bin kun u chukilo'ob méetel u k'áalchi'itilo'ob Jun
-                        Jun Ajpúub, Wukub Jun Ajpúub.</p>
-                    <p>Le a'ax bin ku síits' óoltik le u ajawilo'ob le Metnáalo', leti' bin le u báaxalo'ob Jun Jun
-                        Ajpúub, Wukub Jun Ajpúubo': u k'jewel chíimalo'ob, u júulte'rob, u pixk'abo'ob, u piixil u
-                        yicho'ob, bey xan u k'alabtun yéetel u jets' óolalo'ob Jun Jun Ajpúub, Wukub Jun Ajpúub.  
+                        kíimilo'ob te' bejo'. Le je'ela u loolob nojmeyajilo'ob, ka'alikil u máan u xíimbalo'ob wáak u
+                        kutalo'ob. Le je'ela', u nojmeyajil <rs ana="XIK">Xíik</rs> yéetel <rs ana="PATAN">Páatam</rs>.</p>
+                    <p>Tu yóotajo'ob bin u ch'a'ob u t'aanil bin kun u chukilo'ob méetel u k'áalchi'itilo'ob <rs ana="JUN_JUNAJPU">Jun
+                        Jun Ajpúub</rs>, <rs ana="WUQUB'_JUNAJPU">Wukub Jun Ajpúub</rs>.</p>
+                    <p>Le a'ax bin ku síits' óoltik <rs ana="RAJAWAL_XIB'ALB'A">le u ajawilo'ob le Metnáalo'</rs>, leti' bin le u báaxalo'ob <rs ana="JUN_JUNAJPU">Jun Jun
+                        Ajpúub</rs>, <rs ana="WUQUB'_JUNAJPU">Wukub Jun Ajpúubo'</rs>: <rs ana="TZ'UM">u k'éewel chíimalo'ob</rs>, <rs ana="B'ATE">u júulte'ob</rs>, <rs ana="PACH_Q'AB'">u pixk'abo'ob</rs>, <rs ana="YACHWACH">u piixil u
+                        yicho'ob</rs>, bey xan <rs ana="WACH_SOT">u k'alabtun</rs> yéetel <rs ana="WUB">u jets' óolalo'ob</rs> <rs ana="JUN_JUNAJPU">Jun Jun Ajpúub</rs>, <rs ana="WUQUB'_JUNAJPU">Wukub Jun Ajpúub</rs>.  
                     <pb xml:id="yua2021-82" /> </p>
                 </div>
                 <div type="tsúuk" n="yua.tsk.08">
                     <head>
-                        <emph rend="center">U K'AABA' LE METNÁAL AJAWO'OB KIN</emph> 
+                        <emph rend="center">U K'AABA' <rs ana="RAJAWAL_XIB'ALB'A">LE METNÁAL AJAWO'OB</rs> KIN</emph> 
                         <emph rend="center">IN WA'ALO'ON TI' LE SÚUTUKA'</emph> 
                     </head>
-                    <p>Yaan in jáan p'atiko'on u tsikbalil Jun Ba'ats', Jun Chóowen; le u paal Jun Jun Ajpúube'; 
-                        tumen kex ts'o'okili' u kíimil u na'e', uláak' ba'al bin le úuchik u ts'its' óolta'al Jun Ba'ats', Jun 
-                        Chóowen tumen Jun Ajpúub, Xbáalankejo':</p> 
-                    <p>Ka bin: jtaálo'ob túun u ajbisajt'aanilo'ob Jun Káame', Wukub Káame'.</p> 
-                    <p>-Te'ex  ajpóopile'exe', xeen a t'ane'ex Jun Jun Ajpúub, Wukub Jun Ajpúub, uti'al ka a 
-                        wa'ale'ex ti'e: &lt;táan u ya'alik u ajawilo'ob le Metnáalo', ka bin xi'ikech tu yiknalo'ob. Ka taalak 
-                        waye', ka taalak keetelam báaxal tin wéetelo'on, uti'al ka u náaysin wóolo'on; jach way kin in 
-                        tili'iskuunto'one', le beetik k'a'ana'an ka táalak -ku ya'alik le ajawo'obo' -ka u taas u péeksaj 
-                        óolal, u' júulte'ob, u pixk'abo'ob, yéetel u pook'; bey u ya'alik le ajawo'obo'. Bey kan a wa'ale'ex 
-                        lekéen k'uchuke'exo'&gt; -ku ya'ala'al bin ti' le ajbisajt'aano'obo'.</p>
-                    <p>Túunkuluchuuj bin le ajbisajt'aano'obo': 
-                        Cháabij Túukur<ref target="yua.n029">n<hi rend="sup">29</hi></ref>
+                    <p>Yaan in jáan p'atiko'on u tsikbalil <rs ana="JUN_B'ATZ">Jun Ba'ats'</rs>, <rs ana="JUN_CHOWEN">Jun Chóowen</rs>; le u paal <rs ana="JUN_JUNAJPU">Jun Jun Ajpúube'</rs>; 
+                        tumen kex ts'o'okili' u kíimil u na'e', uláak' ba'al bin le úuchik u ts'its' óolta'al <rs ana="JUN_B'ATZ">Jun Ba'ats'</rs>, <rs ana="JUN_CHOWEN">Jun 
+                        Chóowen</rs> tumen <rs ana="JUNAJPU">Jun Ajpúub</rs>, <rs ana="XB'ALAMQ'E">Xbáalankejo'</rs>:</p> 
+                    <p>Ka bin: jtaálo'ob túun u ajbisajt'aanilo'ob <rs ana="JUN_KAME''">Jun Káame'</rs>, <rs ana="WUQUB'_KAME'">Wukub Káame'</rs>.</p> 
+                    <p>-Te'ex ajpóopile'exe', xeen a t'ane'ex <rs ana="JUN_JUNAJPU">Jun Jun Ajpúub</rs>, <rs ana="WUQUB'_JUNAJPU">Wukub Jun Ajpúub</rs>, uti'al ka a 
+                        wa'ale'ex ti'e: &lt;táan u ya'alik <rs ana="RAJAWAL_XIB'ALB'A">u ajawilo'ob le Metnáalo'</rs>, ka bin xi'ikech tu yiknalo'ob. Ka taalak 
+                        waye', ka taalak keetelam <rs ana="CHAAJ">báaxal</rs> tin wéetelo'on, uti'al ka u náaysin wóolo'on; jach way kin in 
+                        tili'iskuunto'one', le beetik k'a'ana'an ka táalak -ku ya'alik <rs ana="RAJAWAL_XIB'ALB'A">le ajawo'obo'</rs> -ka u taas u péeksaj 
+                        óolal, <rs ana="B'ATE">u' júulte'ob</rs>, <rs ana="PACHQ'AB'">u pixk'abo'ob</rs>, yéetel <rs ana="KIK'">u pook'</rs>; bey u ya'alik <rs ana="RAJAWAL_XIB'ALB'A">le ajawo'obo'</rs>. Bey kan a wa'ale'ex 
+                        lekéen k'uchuke'exo'&gt; -ku ya'ala'al bin ti' <rs ana="USAMAJEL_XIB'ALB'A">le ajbisajt'aano'obo'</rs>.</p>
+                    <p><rs ana="TUKUR">Túunkuluchuuj</rs> bin <rs ana="USAMAJEL_XIB'ALB'A">le ajbisajt'aano'obo'</rs>: <rs ana="CH'ABI'_TUKUR">Cháabij Túukur</rs><ref target="yua.n029">n<hi rend="sup">29</hi></ref>
                         <note place="foot" xml:id="yua.n029"><seg type="note-symbol"><hi rend="sup">29</hi></seg>
                             Il a wil le Yáax Kanti'itsmanti'ítso'.
                         </note>    
-                            , Jun  Ráakan Túukur, Káa- 
-                        kix Túukur yéetel Jo'olom Túukur bin u k'aaba' le u ajbisajt'aanilo'ob le Metnaalo'. Le Cháa-
-                        bij Túukuro', bey jump'éel jaláalte' lekéen xik'nalnake'; chéen bin k'aay kú beetiki'. Le Jun 
-                        Ráakan Túukuro', chéen junts'íit u yook, ba'ale' yaan bin u xiik'. Le Káakix Túukuro', k'áak'il 
-                        k'u'uk'umelil yaan bin ti', yéetel yaan bin u xiik'; le uláak'o', le Jo'olom Túukuro', chéen bin u 
-                        pool yéetel u xiik' yaan, tumen mina'an u yook. Kantúulle ajbisajt'aano'obo', u wíinikilo'ob u 
+                            , <rs ana="JURAQAN_TUKUR">Jun Ráakan Túukur</rs>, <rs ana="KAQIX_TUKUR">Káakix 
+                            Túukur</rs> yéetel <rs ana="JOLOM_TUKUR">Jo'olom Túukur</rs> bin u k'aaba' <rs ana="USAMAJEL_XIB'ALB'A">le u ajbisajt'aanilo'ob le Metnaalo'</rs>. <rs ana="CH'ABI'_TUKUR">Le Cháabij 
+                        Túukuro'</rs>, bey jump'éel jaláalte' lekéen xik'nalnake'; chéen bin k'aay kú beetiki'. <rs ana="JURAQAN_TUKUR">Le Jun 
+                        Ráakan Túukuro'</rs>, chéen junts'íit u yook, ba'ale' yaan bin u xiik'. <rs ana="KAQIX_TUKUR">Le Káakix Túukuro'</rs>, k'áak'il 
+                        k'u'uk'umelil yaan bin ti', yéetel yaan bin u xiik'; le uláak'o', <rs ana="JOLOM_TUKUR">le Jo'olom Túukuro'</rs>, chéen bin u 
+                        pool yéetel u xiik' yaan, tumen mina'an u yook. Kantúul <rs ana="USAMAJEL_XIB'ALB'A">le ajbisajt'aano'obo'</rs>, u wíinikilo'ob u 
                         máan k'iin u kuucho'ob bin (Ajpóopo'ob).</p> 
                     <p>Taats' úuchik u bino'ob t'uchtal te' tu'ux ku báaxta'al le póok'tapook' úuchik bin u 
-                        luk'ulo'ob te' tu jool le Metnáalo'. Te' bin ku chéen báaxal Jun Jun Ajpúub, Wukub Jun Aj- 
-                        púub te' kúuchilo'; u nojkúuchilil báaxalkaambal u ya'ala'al bin ti'. Le túunkuluchuujo' obo' 
-                        te' bin wa'alakbalo'ob tu yóok'ol u jo'olnajil le kúuchil tu'ux ku yúuchul le báaxalo', ka bin tu 
-                        ya'alajo'ob le k'ubent'aano'. Le je'elo' u t'aan bin Jun Káame', Wukub Káame', Aj-alpuj, Aj 
-                        alkanaj, Cháamyabaak, Cháamyajo'olom, Xíikiripaat, Kúuchumakiik, Aj-almes, Aj-altokob, 
-                        Xíik yéetel Páatam; u k'aaba' bin tuláakal u ajawilo'ob le Metnáalo'.</p> 
-                    <p>Ka bin j-a'ala'ab le k'ubent'aan tumen le túunkuluchuujo'obo':</p>
-                    <p>-Ma' wáaj jaaj a tukultik bey úuchik u ya'alik Jun Káame', Wukub Káame'o' -tu ya'alaj 
-                        bin le túunkuluchuujo'obo'.</p> 
+                        luk'ulo'ob te' tu jool <rs ana="XIB'ALB'A">le Metnáalo'</rs>. Te' bin <rs ana="CHAAJ">ku chéen báaxal</rs> <rs ana="JUN_JUNAJPU">Jun Jun Ajpúub</rs>, <rs ana="WUQUB'_JUNAJPU">Wukub Jun Ajpúub</rs> 
+                        <rs ana="JOM">te' kúuchilo'</rs>; <rs ana="NIM_XOB'_KARCHAJ">u nojkúuchilil báaxalkaambal</rs> u ya'ala'al bin ti'. <rs ana="TUKUR">Le túunkuluchuujo'obo'</rs> 
+                        te' bin wa'alakbalo'ob <rs ana="JOM">tu yóok'ol u jo'olnajil le kúuchil</rs> tu'ux ku yúuchul <rs ana="CHAAJ">le báaxalo'</rs>, ka bin tu 
+                        ya'alajo'ob le k'ubent'aano'. Le je'elo' u t'aan bin <rs ana="JUN_KAME''">Jun Káame'</rs>, <rs ana="WUQUB'_KAME'">Wukub Káame'</rs>, <rs ana="AJAL_PUJ">Aj-alpuj</rs>, <rs ana="AJAL_Q'ANA">Aj 
+                        alkanaj</rs>, <rs ana="CH'AMIYA_BAQ">Cháamyabaak</rs>, <rs ana="CH'AMIYA_JOLOM">Cháamyajo'olom</rs>, <rs ana="XIKIRI_PAT">Xíikiripaat</rs>, <rs ana="KUCHUMA_KIK'">Kúuchumakiik</rs>, <rs ana="AJAL_MES">Aj-almes</rs>, <rs ana="AJAL_TOQ'OB">Aj-altokob</rs>, 
+                        <rs ana="XIK">Xíik</rs> yéetel <rs ana="PATAN">Páatam</rs>; u k'aaba' bin tuláakal <rs ana="RAJAWAL_XIB'ALB'A">u ajawilo'ob le Metnáalo'</rs>.</p> 
+                    <p>Ka bin j-a'ala'ab le k'ubent'aan tumen <rs ana="TUKUR">le túunkuluchuujo'obo'</rs>:</p>
+                    <p>-Ma' wáaj jaaj a tukultik bey úuchik u ya'alik <rs ana="JUN_KAME''">Jun Káame'</rs>, <rs ana="WUQUB'_KAME'">Wukub Káame'o'</rs> -tu ya'alaj 
+                        bin <rs ana="TUKUR">le túunkuluchuujo'obo'</rs>.</p> 
                     <p>-Míin jaaj wale' -tu núukaj bin -yaan in bin ta wéetele'ex, yaan in láak'intike'ex.</p> 
-                    <p>-Ka bin a bis tuláakal u nu'ukulil a báaxal, bey úuchik u ya'alik le ajawo'obo' -tu yaalaj 
-                        bin le túunkuluchuujo'obo'.</p>
-                    <p>-Ma'alob túun, ba'ale' yaan a jáan páak'tikene'ex, tumen k'a'abet in bin in wa'al ti' in na' 
+                    <p>-Ka bin a bis tuláakal <rs ana="CHAAJ">u nu'ukulil a báaxal</rs>, bey úuchik u ya'alik <rs ana="RAJAWAL_XIB'ALB'A">le ajawo'obo'</rs> -tu yaalaj 
+                        bin <rs ana="TUKUR">le túunkuluchuujo'obo'</rs>.</p>
+                    <p>-Ma'alob túun, ba'ale' yaan a jáan páak'tikene'ex, tumen k'a'abet in bin in wa'al ti' <rs ana="IXMUKANE">in na'</rs> 
                         táan in bin -tu núukaj bin. Ka jbin tu yotoche', ka bin tu ya'alaj:</p>
-                    <p>-K'a'anan in bin in ki'ichpan na', tumen ts'o'ok u taal u ajbisajt'aanilo'ob u ajawilo'ob le 
-                        Metnáal u ch'a'eno'obo': &lt;ka taalak&gt;, tu ya'alajo'ob bin. Bey u ya'alik le ajbisajt'aano'ob kun u 
-                        biseno'obo'. Kin p'atik in pook' -tu ya'alaj bin. Ka bin jbin u k'ax tu yóok'ol le najo'; tu káap 
+                    <p>-K'a'anan in bin <rs ana="IXMUKANE">in ki'ichpan na'</rs>, tumen ts'o'ok u taal <rs ana="USAMAJEL_XIB'ALB'A">u ajbisajt'aanilo'ob u ajawilo'ob le 
+                        Metnáal</rs> u ch'a'eno'obo': &lt;ka taalak&gt;, tu ya'alajo'ob bin. Bey u ya'alik <rs ana="USAMAJEL_XIB'ALB'A">le ajbisajt'aano'ob</rs> kun u 
+                        biseno'obo'. Kin p'atik <rs ana="CHAAJ">in pook'</rs> -tu ya'alaj bin. Ka bin jbin u k'ax tu yóok'ol le najo'; tu káap 
                         jump'éel jool bin tu ts'áaj.
                     <pb xml:id="yua2021-84" /> </p>
                     <p>-Ku ts'o'okole' ka náaysik a wóol yéetel leti', ka paxik a chúul, ka t'aan yéetel ka 
