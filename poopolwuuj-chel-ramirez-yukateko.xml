@@ -26,60 +26,116 @@
     </teiHeader>
     <text>
         <front>
-            <div type="placeholder">
-                <!-- Dividing front matter, title -->
-                <p>
-                <emph rend="italic">PÓOPOL WUUJ</emph>
-
-                Edición Bilingüe Maya Yucateco-Español
-
-                [image] 
-
-                Gemelos ante señores de la muerte 
-
-                [page break]
-
-                Yucatán 
-                Gobierno del Estado 
-                Comprometidos con tu bienestar
-                2012-2018
-
-                SEDECULTA
-                Secretaría de la Cultura y las Artes
-                Comprometidos con tu bienestar
-                2012-2018
-
-                UNIVERSIDAD MODELO
-
-                Instituto Nacional de Antropología e Historia
-
-                CONACULTA
-
-                UNIVERSIDAD DE LOS ANDES
-                MÉRIDA, VENEZUELA
-                VICERRETORADO ADMINISTRATIVO
-
-                el otro @ el mismo 
-
-                [page break]
-                <emph rend="italic">PÓOPOL WUUJ</emph>
-
-                FIDENCIO BRICEÑO CHEL 
-                RUBÉN REYES RAMÍREZ 
-                (COORDINADORES) 
-
-                GERÓNIMO RICARDO CAN TEC 
-                JOSÉ C. CANO SOSAYA
-                MARCELINA CHAN CANCHÉ 
-                FIDENCIO BRICEÑO  CHEL 
-                (TRADUCTORES) 
-
-                JOSÉ POOL "MASHKA"
-                (ILUSTRACIONES) 
-
-                el otro @ el mismo 
-                </p>
+            <titlePage>
+                <docTitle>
+                    <titlePart type="main">PÓOPOL WUUJ</titlePart>
+                    <titlePart type="sub">Edición Bilingüe Maya Yucateco-Español</titlePart>
+                </docTitle>
+                <graphic url="placeholder">
+                    <desc>
+                        <hi rend="italic">Gemelos ante señores de la muerte</hi>
+                    </desc>
+                </graphic>
+                <pb xml:id="yua2021-001" />
+            </titlePage>
+            <div type="organizations">
+                <label>
+                    <!-- Might need to review this structure -->
+                    <graphic url="placeholder">
+                        <desc>
+                        Yucatán 
+                        Gobierno del Estado 
+                        Comprometidos con tu bienestar
+                        2012-2018
+                        </desc>
+                    </graphic>
+                </label>
+                <label>
+                    <!-- Might need to review this structure -->
+                    <graphic url="placeholder">
+                        <desc>
+                            SEDECULTA
+                            Secretaría de la Cultura y las Artes
+                            Comprometidos con tu bienestar
+                            2012-2018
+                        </desc>
+                    </graphic>
+                </label>
+                <label>
+                    <!-- Might need to review this structure -->
+                    <graphic url="placeholder">
+                        <desc>
+                            UNIVERSIDAD MODELO
+                        </desc>
+                    </graphic>
+                </label>
+                <label>
+                    <!-- Might need to review this structure -->
+                    <graphic url="placeholder">
+                        <desc>
+                            Instituto Nacional 
+                            de Antropología 
+                            e Historia
+                        </desc>
+                    </graphic>
+                </label>
+                <label>
+                    <!-- Might need to review this structure -->
+                    <graphic url="placeholder">
+                        <desc>
+                            CONACULTA
+                        </desc>
+                    </graphic>
+                </label>
+                <label>
+                    <!-- Might need to review this structure -->
+                    <graphic url="placeholder">
+                        <desc>
+                            UNIVERSIDAD DE LOS ANDES
+                            MÉRIDA, VENEZUELA
+                            VICERRETORADO ADMINISTRATIVO
+                        </desc>
+                    </graphic>
+                </label>
+                <label>
+                    <!-- Might need to review this structure -->
+                    <graphic url="placeholder">
+                        <desc>
+                            el otro @ el mismo 
+                        </desc>
+                    </graphic>
+                </label>
+                <pb xml:id="yua2021-002" />
             </div>
+            <titlePage>
+                <docTitle>
+                    <titlePart>PÓOPOL WUUJ</titlePart>
+                </docTitle>
+                <docAuthor resp="coordinador">
+                    FIDENCIO BRICEÑO CHEL 
+                </docAuthor>
+                <docAuthor resp="coordinador">
+                    RUBÉN REYES RAMÍREZ 
+                </docAuthor>
+                <docAuthor resp="traductor">
+                    GERÓNIMO RICARDO CAN TEC 
+                </docAuthor>
+                <docAuthor resp="traductor">
+                    JOSÉ C. CANO SOSAYA
+                </docAuthor>
+                <docAuthor resp="traductor">
+                    MARCELINA CHAN CANCHÉ 
+                </docAuthor>
+                <docAuthor resp="traductor">
+                    FIDENCIO BRICEÑO CHEL 
+                </docAuthor>
+                <docAuthor resp="illustración">
+                    JOSÉ POOL "MASHKA"
+                </docAuthor>
+                <graphic url="placeholder">
+                    <desc>el otro @ el mismo</desc>
+                </graphic>
+            </titlePage>
             <div type="toc">
             <list>
             <head>CONTENIDO</head>
