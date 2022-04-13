@@ -135,262 +135,261 @@
                 <graphic url="placeholder">
                     <desc>el otro @ el mismo</desc>
                 </graphic>
+                <docEdition>
+                    <!-- Text to be included here -->
+                </docEdition>
             </titlePage>
             <div type="toc">
-            <list>
-            <head>CONTENIDO</head>
-            <item>
-                <title>PRÓLOGO</title>
-                <desc>LA IMAGEN EVAPORADA</desc>
-                <name role="author">Víctor Bravo</name>
-                <ref target="#PROLOGO">11</ref>
-            </item>
-            <item>EL <emph rend="italic">POPOL VUH</emph>, OBRA CUMBRE DEL PENSAMIENTO Y DE LA LITERATURA DE AMÉRICA</item> 
-            <item>Fidencio Briceño Chel / Rubén Reyes Ramírez</item>
-            <item><emph rend="right">15</emph></item> 
-            <lb />
-            <item>ANOTACIONES SOBRE EL PROCESO DE TRADUCCIÓN</item>
-            <item>Fidencio Briceño Chel / Gerónimo Ricardo Can Tec</item>
-            <item><emph rend="right">45</emph></item>
-            <lb />
-            <item>MA'ILI' TS'ÍIBTA'AK LE <emph rend="italic">PÓOPOL WUUJO'</emph>, U K'AABA' LE WAYA' &lt;K'ICHE' KAAJ&gt;</item>
-            <item><emph rend="right">50</emph></item> 
-            <lb />
-            <item>DESDE ANTES DE ESCRIBIRSE EL <emph rend="italic">POP WUJ</emph>, AQUÍ SE HA LLAMADO "LOS MAGUEYES"</item>
-            <item><emph rend="right">51</emph></item>
-            <lb />
-            <item>U TSIKBALIL BIN CH'ENCH'ENKILIL, TÍITBALIL YÉETEL YÓOMANKILIL. BIX U TÍITBAL, U JAK' ÓOLAL YÉETEL  U KUKULAANKIL KA'AN LE BIN KA'ACH JÓOCHBABE'ENO'</item>
-            <item><emph rend="right">52</emph></item> 
-            <lb />
-            <item>RELATO DE LO QUE TODAVÍA ERA SILENCIO, VIBRACIÓN, FERMENTACIÓN, VIBRABA, ESPASMABA, PALPITABA, 	ES DECIR, CUANDO EL CIELO ESTABA VACÍO</item> 
-            <item><emph rend="right">53</emph></item>
-            <lb />
-            <item>WAY BÍIN IN WA'ALO'ON BIX ÚUCHIK U KÍIMIL WUKUB KÁAKIX LE KAJTS'ITS' ÓOLTA'ABE', LE KA JBEETA'AB WÍINIK TUMEN TSÁAKOL, BÍITOLE'.</item>
-            <item><emph rend="right">64</emph></item>
-            <lb />
-            <item>AQUÍ DIREMOS AHORA LA MUERTE DE NUESTRAS SIETE VERGÜENZAS, CUANDO LO VENCIERON, CUANDO SE CREÓ LA GENTE POR EL ARQUITECTO, EL FORMADOR</item>
-            <item><emph rend="right">65</emph></item> 
-            <lb />
-            <item>LE BIN KAJ CH'I'IN WUKUB KÁAKIX TUMEN JUN AJPÚUB, XBÁALANKEJ YÉETEL LE JOBONNÁABTE'E'. WAY KIN IN TSIKKBALTO'ON BIX ÚUCHIK U TS'ITS' ÓOLTA'AL LE AJNOJBA'ALO'OBO'</item>
-            <item><emph rend="right">66</emph></item>
-            <lb />
-            </list>
-            <pb xml:id="yua2021-7" /> 
-            <list><item>DE CUANDO EL HIJO TIRÓ CON CERBATANA A NUESTRAS SIETE VERGÜENZAS. AQUÍ RELATAREMOS LA DERROTA DE CADA UNO DE LOS SOBERBIOS</item>
-            <item><emph rend="right">67</emph></item>
-            <lb /> 
-            <item>BA'AX TU BEETAJ SÍIPAKNA', U YÁAX PAAL WUKUB KÁAKIX. &lt;TENE' KIN WA'AKUNTIK WITSO'OB&gt; KU YA'ALIK BIN KA'ACH SÍIPAKNA'</item>
-            <item><emph rend="right">70</emph></item> 
-            <lb />
-            <item>LO QUE HIZO ZIPACNÁ, PRIMER HIJO DE NUESTRAS SIETE VERGÜENZAS. "YO HAGO MONTAÑAS" DECÍA ZIPACNÁ</item>
-            <item><emph rend="right">71</emph></item>
-            <lb />
-            <item>U TS'ITS' ÓOLTA'ÁL YÉETEL U KÍINSA'AL SÍIPAKNA'. JTS'ITS' ÓOLTA'AB TUMEN JUN AJPÚUB, XBÁALANKEJ</item>
-            <item><emph rend="right">74</emph></item>
-            <lb />
-            <item>VENCIMIENTO Y MUERTE DE ZIPACNÁ. FUE VENCIDO PUES POR UN HIJO, UN CERBATANERO, XBALANKÉ</item>
-            <item><emph rend="right">75</emph></item>
-            <lb />
-            <item>TI' LE SÚUTUKA' YAAN IN WA'ALIKO'ON BIX SÍIJIK JUN AJPÚUB, XBÁALANKEJ</item>
-            <item><emph rend="right">80</emph></item>
-            <lb />
-            <item>AHORA DIREMOS EL NACIMIENTO DE UN CERBATANERO, XBALANKÉ</item>
-            <item><emph rend="right">81</emph></item>
-            <lb /> 
-            <item>U K'AABA' LE METNÁAL AJAWO'OB KIN IN WA'ALO'ON TI' LE SÚUTUKA'</item> 
-            <item><emph rend="right">84</emph></item>
-            <lb />
-            <item>DIREMOS AHORA LOS NOMBRES DE LOS SEÑORES DEL INFRAMUNDO</item>
-            <item><emph rend="right">85</emph></item> 
-            <lb />
-            <item>U SUJUY CH'ÚUPAL KÚUCHUMAKIIK</item>	
-            <item><emph rend="right">92</emph></item>
-            <lb />							 						
-            <item>LA DONCELLA HIJA DE KUCHUMAKIK</item>
-            <item><emph rend="right">93</emph></item>
-            <lb />
-            <item>ILUSTRACIONES DE JOSÉ POOL "MASHKA"</item>
-            <item><emph rend="right">101</emph></item>
-            <lb />
-            <item>U SÍIJIL JUN AJPÚUB, XBÁALANKEJ</item>
-            <item><emph rend="right">112</emph></item>
-            <lb />
-            <item>NACIMIENTO DE UN CERBATANERO, XBALÁNKÉ</item>	
-            <item><emph rend="right">113</emph></item>
-            <lb />
-            <item>U KÍIMIL JUN AJPÚUB, XBÁALANKEJ</item>
-            <item><emph rend="right">140</emph></item>
-            <lb />
-            <item>MUERTE DE UN CERBATANERO, XBÁALANKEJ</item>
-            <item><emph rend="right">141</emph></item>
-            <lb />
-            <item>LE JE'ELA' U NOJKÁAJBAL U KUXKÍINTA'AL WÍINIK LE KA JKAXTA'AB U YÓOL U KUXTALIL LE U WÍINKILILO'</item>
-            <item><emph rend="right">150</emph></item>
-            <lb />
-            <item>ÉSTE ES EL PRINCIPIO DE LA CREACIÓN DE LA GENTE, CUANDO SE BUSCÓ LA NATURALEZA DE SU CUERPO</item>
-            <item><emph rend="right">151</emph></item> 
-            <lb />
-            <item>U K'AABA' LE NOJLU'UM TU'UX JBINO'OB BÁALAM KI' CHE'EJ, BÁALAM ÁAK'AB, MÁAJUKUTAJ, BÁALAM UJ, LÁAK'INTA'ANO'OB' TUMEN BIN TÁAMUB YÉETEL ÍILOKAAB</item> 
-            <item><emph rend="right">158</emph></item>
-            <lb />
-            </list>
-            <pb xml:id="yua2021-8" /> 
-            <list>
-            <item>NOMBRE DEL PAÍS A DONDE FUERON RISA DE LEÓN, LEÓN MADRUGADOR, MAJ U KUTA], LEÓN DE LA LUNA CON TAMUB E ILOKAB</item>
-            <item><emph rend="right">159</emph></item> 
-            <lb />
-            <item>U JUUL YÉETEL BIX CHÍIKPAJIK YUUM K'IIN, KI'ICHPAN UJ YÉETEL LE EEK'O'OBO'</item>
-            <item><emph rend="right">170</emph></item>
-            <lb />
-            <item>ILUMINACIÓN Y APARECIMIENTO DEL SOL, LA LUNA Y LAS ESTRELLAS</item>
-            <item><emph rend="right">171</emph></item> 
-            <lb />
-            <item>BÍIN IN KA'AJO'ON IN TSIKBALTO'ON BIX ÚUCHIK U KAJTAL WÍINIK TE' WITSA', YÉETEL BA'AXTEN JXÁANCHAJO'OBI'</item>
-            <item><emph rend="right">174</emph></item>
-            <lb />
-            <item>AHORA DIREMOS LA ESTANCIA Y TARDANZA, MEJOR DICHO AQUÍ SOBRE LA MONTAÑA</item>
-            <item><emph rend="right">175</emph></item> 
-            <lb />
-            <item>U CHU'UKUL MÚUCH'KAJNÁALO'OB TUMEN BÁALAM KI' CHE'EJ, BÁALAM ÁAK'AB, MÁAJUKUTAJ YÉETEL BÁALAAM UJ</item>
-            <item><emph rend="right">178</emph></item>
-            <lb />
-            <item>SECUESTRO DE LAS TRIBUS POR RISÁ DE LEÓN, LEÓN MADRUGADOR, MAJ U KUTAJ Y LEÓN DE LA LUNA</item> 
-            <item><emph rend="right">179</emph></item>
-            <lb />
-            <item>U TSIKBALIL LE BA'ATELTÁAMBALO'</item>
-            <item><emph rend="right">188</emph></item>
-            <lb />
-            <item>RELATO DEL ASALTO</item>
-            <item><emph rend="right">189</emph></item>
-            <lb />
-            <item>U KÍIMIL BÁALAM KI' CHE'EJ, BÁALAM ÁAK'AB, MÁAJUKUTAJ YÉETEL BÁALAM UJ</item>
-            <item><emph rend="right">192</emph></item>
-            <lb /> 
-            <item>MUERTE DE RISA DE LEÓN, LEÓN MADRUGADOR, MAJ U KUTAJ Y LEÓN DE LA LUNA</item>
-            <item><emph rend="right">193</emph></item>
-            <lb /> 
-            <item>U K'AABA' U AJAWILO'OB U AJAWCH'I'IBALIL KÁAWIKIIB</item>
-            <item><emph rend="right">202</emph></item>
-            <lb />
-            <item>NOMBRE DE LOS SEÑORES DE LA LÍNEA KÁWIKIB</item>
-            <item><emph rend="right">203</emph></item>
-            <lb />
-            <item>U AJAWILO'OB U AJAWCH'I'IBALIL NÍIMJAYBAAB</item>
-            <item><emph rend="right">204</emph></item>
-            <lb />
-            <item>SEÑORES DE LA LÍNEA NIMJAIBAB</item>
-            <item><emph rend="right">205</emph></item>
-            <lb />
-            <item>U K'AABA' LE K'ICHE' AJAWO'OBO'</item>
-            <item><emph rend="right">206</emph></item>
-            <lb />
-            <item>NOMBRE DE LOS SEÑORES K'ICHÉS</item>
-            <item><emph rend="right">207</emph></item>
-            <lb />
-            <item>U KA'AP'ÉEL KAAJAL LE SÁAKIKIIB AJAWO'OBO'</item>
-            <item><emph rend="right">208</emph></item>
-            <lb />
-            <item>DOS PUEBLOS DE LOS SEÑORES SAKIKIB</item>
-            <item><emph rend="right">209</emph></item>
-            <lb />
-            <item>U WAKP'ÉEL TSAYCH'I'IBALIL AJAWO'OB</item>
-            <item><emph rend="right">212</emph></item>
-            <lb />
-            <item>SEXTA GENERACIÓN DE REYES</item>
-            <item><emph rend="right">213</emph></item>
-            <lb />
-            <item>U MEYAJTA'AL YÉETEL U YÉEYA'AL LE AJK'ALELO'OBO'</item>
-            <item><emph rend="indent(+6)">218</emph></item>
-            <lb />
-            </list>
-            <pb xml:id="yua2021-9" /> 
-            <list>
-            <item>PREPARACION Y SELECCIÓN DE LAS DIVISIONES</item>
-            <item><emph rend="right">219</emph></item>
-            <lb />
-            <item>U K'AABA' U K'UJNAJIL LE KÁABAWILO'OBO'</item>
-            <item><emph rend="right">220</emph></item>
-            <lb />
-            <item>NOMBRE DE LOS TEMPLOS DE LOS DIOSES</item>
-            <item><emph rend="right">221</emph></item>
-            <lb />
-            <item>U K'AABA' U AJAWCH'I'IBALIL TULÁAKAL LE AJAWO'OBO'</item>
-            <item><emph rend="right">224</emph></item>
-            <lb />			
-            <item>NOMBRE DE LAS GENERACIONES DE SEÑORES</item>
-            <item><emph rend="right">225</emph></item>
-            <lb />
-            <item>U AJAWCH'I'IBALILO'OB LE K'ICHE' AJAWILO'</item>
-            <item><emph rend="right">226</emph></item> 
-            <lb />
-            <item>GENERACIONES DEL K'ICHÉ</item>
-            <item><emph rend="right">227</emph></item>
-            <lb />
-            <item>U AJAWILO'OB LE KÁAWIKIIBILO'OBO'</item>
-            <item><emph rend="right">228</emph></item>
-            <lb />
-            <item>LOS PRINCIPALES DE LOS KAWIKIB</item>	
-            <item><emph rend="right">229</emph></item>
-            <lb />
-            <item>U AJAWILO'OB LE NÍIMJAYBAABILO'OBO'</item>
-            <item><emph rend="right">230</emph></item>
-            <lb />
-            <item>LOS PRINCIPALES DE LOS NIMJAIBAB</item>
-            <item><emph rend="right">231</emph></item>
-            <lb />
-            <item>U YÁAX NOOL YÉETEL U YÁAX AJAWIL LE K'ICHE' AJAWO'OBO'</item>
-            <item><emph rend="right">232</emph></item>
-            <lb />
-            <item>ABUELO Y PADRE DE LOS SEÑORES K'ICHÉS</item>
-            <item><emph rend="right">233</emph></item>
-            <lb />
-            <item>U KA'ABA' U AJAWIL LE AJAWNAJO'OBO'</item>
-            <item><emph rend="indent(+7)">234</emph></item>
-            <lb />
-            <item>NOMBRE DE SEÑORES DE CADA CASA</item>	 
-            <item><emph rend="right">235</emph></item>
-            <lb />
-            <item>YÁAX KANTI'ITSMANTI'ITS / TABLA UNO</item>
-            <item>U TSOLOBIL U KA'ABA' YUUNK'UJO'OB, AJAWO'OB YÉETEL KÚUCHILO'OB / RELACIÓN DE NOMBRES DE DIOSES, REYES Y LUGARES</item> 
-            <item><emph rend="right">237</emph></item>
-            </list>
-            <pb xml:id="yua2021-10" /> 
-        </div>
-        <div>
-            <p>
-            <emph rend="center">PRÓLOGO</emph> 
+                <list>
+                    <head>CONTENIDO</head>
+                    <item>
+                        <title>PRÓLOGO</title>
+                        <desc>LA IMAGEN EVAPORADA</desc>
+                        <name role="author">Víctor Bravo</name>
+                        <ref target="#PROLOGO">11</ref>
+                    </item>
 
-            <emph rend="center">LA IMAGEN EVAPORADA</emph>
+                    <item>EL <emph rend="italic">POPOL VUH</emph>, OBRA CUMBRE DEL PENSAMIENTO Y DE LA LITERATURA DE AMÉRICA</item> 
+                    <item>Fidencio Briceño Chel / Rubén Reyes Ramírez</item>
+                    <item><emph rend="right">15</emph></item> 
 
-            <emph rend="center">VÍCTOR BRAVO </emph>
-            </p>
+                    <item>ANOTACIONES SOBRE EL PROCESO DE TRADUCCIÓN</item>
+                    <item>Fidencio Briceño Chel / Gerónimo Ricardo Can Tec</item>
+                    <item><emph rend="right">45</emph></item>
 
-            <p>El <emph rend="italic">Póopol Wuuj</emph> (<emph rend="italic">Popol Vuh</emph>)  es  una de las  obras más  importantes y hermosas de la hu- 
-            manidad. Su sabiduría narrativa; su entrañable ritmo donde intuimos correspondencias con el 
-            ritmo del cosmos; su danza de metamorfosis que es la misma que se desprende de la "eficacia 
-            simbólica" del mito, concurre para darnos lo que José Lezama Lima llamaría "la imagen eva- 
-            porada" de una cultura: su densidad espiritual, su intuición de la belleza como manifestación 
-            de la naturaleza y el cosmos; su afirmación de vida. Y todo en el transfondo de uno de los 
-            acontecimientos de destrucción de civilización y cultura más terribles protagonizados  por la 
-            cultura occidental. Occidente ha reconocido la culpabilidad de la "civilización de la razón" en 
-            el Holocausto; la Iglesia ha reconocido la ceguera del dogma frente a la conclusión de Galileo; 
-            pero la modernidad que se inicia con el descubrimiento de un Nuevo Mundo aún no ha creído 
-            necesario reconocer el  más grande de los  actos depredadores donde hombres y culturas, mo- 
-            numentos y visiones de mundo fueron aniquilados. El "Auto de fe  de Maní", para mencionar 
-            uno solo de esos terribles actos, perpetrado el 12 de julio de 1562 en Maní (Yucatán) y donde 
-            Diego de Landa ordenó la destrucción de monumentos y de innumerables códices; pues eran 
-            "muestras de  idolatría", no impidió sin embargo que de las ruinas brotaran monumentos de 
-            antiguo y herido esplendor; y manuscritos como el poema de Quetzalcóatl (de autor anónimo) 
-            y el poema de Nezahualcóyotl (escrito  por el rey y poeta) e insospechados códices mayas y 
-            mexicas; u obras como el <emph rend="italic">Rabinal Achi</emph> (drama que data del siglo XV y que ha sido declarado 
-            "obra maestra de la tradición oral e intangible de 1a humanidad" en 2005 por la Unesco) o 
-            las  historias del <emph rend="italic">Chilam Balam</emph> (hechos de la cultura maya yucateca, de los siglos XVI y XVII, 
-            redactados después de la conquista) y, de manera ejemplar, el <emph rend="italic">Popol Vuh</emph>, obra que emerge con
-            el esplendor de su perfección, en contraposición al derrumbe, la aniquilación y la ruina, para 
-            señalar de manera contundente a los ojos de la historia, de las culturas; a los ojos de las estrellas 
-            si éstas pudiesen ser testigos, la riqueza de una civilización que en la belleza y el extravío de sus 
-            cantos dio de pronto de tope con una fuerza destructora que no podía ser sino de la barbarie 
-            por la intolerancia del otro.</p> 
+                    <item>MA'ILI' TS'ÍIBTA'AK LE <emph rend="italic">PÓOPOL WUUJO'</emph>, U K'AABA' LE WAYA' &lt;K'ICHE' KAAJ&gt;</item>
+                    <item><emph rend="right">50</emph></item> 
+
+                    <item>DESDE ANTES DE ESCRIBIRSE EL <emph rend="italic">POP WUJ</emph>, AQUÍ SE HA LLAMADO "LOS MAGUEYES"</item>
+                    <item><emph rend="right">51</emph></item>
+
+                    <item>U TSIKBALIL BIN CH'ENCH'ENKILIL, TÍITBALIL YÉETEL YÓOMANKILIL. BIX U TÍITBAL, U JAK' ÓOLAL YÉETEL  U KUKULAANKIL KA'AN LE BIN KA'ACH JÓOCHBABE'ENO'</item>
+                    <item><emph rend="right">52</emph></item> 
+
+                    <item>RELATO DE LO QUE TODAVÍA ERA SILENCIO, VIBRACIÓN, FERMENTACIÓN, VIBRABA, ESPASMABA, PALPITABA, 	ES DECIR, CUANDO EL CIELO ESTABA VACÍO</item> 
+                    <item><emph rend="right">53</emph></item>
+
+                    <item>WAY BÍIN IN WA'ALO'ON BIX ÚUCHIK U KÍIMIL WUKUB KÁAKIX LE KAJTS'ITS' ÓOLTA'ABE', LE KA JBEETA'AB WÍINIK TUMEN TSÁAKOL, BÍITOLE'.</item>
+                    <item><emph rend="right">64</emph></item>
+
+                    <item>AQUÍ DIREMOS AHORA LA MUERTE DE NUESTRAS SIETE VERGÜENZAS, CUANDO LO VENCIERON, CUANDO SE CREÓ LA GENTE POR EL ARQUITECTO, EL FORMADOR</item>
+                    <item><emph rend="right">65</emph></item> 
+
+                    <item>LE BIN KAJ CH'I'IN WUKUB KÁAKIX TUMEN JUN AJPÚUB, XBÁALANKEJ YÉETEL LE JOBONNÁABTE'E'. WAY KIN IN TSIKKBALTO'ON BIX ÚUCHIK U TS'ITS' ÓOLTA'AL LE AJNOJBA'ALO'OBO'</item>
+                    <item><emph rend="right">66</emph></item>
+
+                    <pb xml:id="yua2021-7" /> 
+
+                    <item>DE CUANDO EL HIJO TIRÓ CON CERBATANA A NUESTRAS SIETE VERGÜENZAS. AQUÍ RELATAREMOS LA DERROTA DE CADA UNO DE LOS SOBERBIOS</item>
+                    <item><emph rend="right">67</emph></item>
+
+                    <item>BA'AX TU BEETAJ SÍIPAKNA', U YÁAX PAAL WUKUB KÁAKIX. &lt;TENE' KIN WA'AKUNTIK WITSO'OB&gt; KU YA'ALIK BIN KA'ACH SÍIPAKNA'</item>
+                    <item><emph rend="right">70</emph></item> 
+
+                    <item>LO QUE HIZO ZIPACNÁ, PRIMER HIJO DE NUESTRAS SIETE VERGÜENZAS. "YO HAGO MONTAÑAS" DECÍA ZIPACNÁ</item>
+                    <item><emph rend="right">71</emph></item>
+
+                    <item>U TS'ITS' ÓOLTA'ÁL YÉETEL U KÍINSA'AL SÍIPAKNA'. JTS'ITS' ÓOLTA'AB TUMEN JUN AJPÚUB, XBÁALANKEJ</item>
+                    <item><emph rend="right">74</emph></item>
+
+                    <item>VENCIMIENTO Y MUERTE DE ZIPACNÁ. FUE VENCIDO PUES POR UN HIJO, UN CERBATANERO, XBALANKÉ</item>
+                    <item><emph rend="right">75</emph></item>
+
+                    <item>TI' LE SÚUTUKA' YAAN IN WA'ALIKO'ON BIX SÍIJIK JUN AJPÚUB, XBÁALANKEJ</item>
+                    <item><emph rend="right">80</emph></item>
+
+                    <item>AHORA DIREMOS EL NACIMIENTO DE UN CERBATANERO, XBALANKÉ</item>
+                    <item><emph rend="right">81</emph></item>
+
+                    <item>U K'AABA' LE METNÁAL AJAWO'OB KIN IN WA'ALO'ON TI' LE SÚUTUKA'</item> 
+                    <item><emph rend="right">84</emph></item>
+
+                    <item>DIREMOS AHORA LOS NOMBRES DE LOS SEÑORES DEL INFRAMUNDO</item>
+                    <item><emph rend="right">85</emph></item> 
+
+                    <item>U SUJUY CH'ÚUPAL KÚUCHUMAKIIK</item>	
+                    <item><emph rend="right">92</emph></item>
+
+                    <item>LA DONCELLA HIJA DE KUCHUMAKIK</item>
+                    <item><emph rend="right">93</emph></item>
+
+                    <item>ILUSTRACIONES DE JOSÉ POOL "MASHKA"</item>
+                    <item><emph rend="right">101</emph></item>
+
+                    <item>U SÍIJIL JUN AJPÚUB, XBÁALANKEJ</item>
+                    <item><emph rend="right">112</emph></item>
+
+                    <item>NACIMIENTO DE UN CERBATANERO, XBALÁNKÉ</item>	
+                    <item><emph rend="right">113</emph></item>
+
+                    <item>U KÍIMIL JUN AJPÚUB, XBÁALANKEJ</item>
+                    <item><emph rend="right">140</emph></item>
+
+                    <item>MUERTE DE UN CERBATANERO, XBÁALANKEJ</item>
+                    <item><emph rend="right">141</emph></item>
+
+                    <item>LE JE'ELA' U NOJKÁAJBAL U KUXKÍINTA'AL WÍINIK LE KA JKAXTA'AB U YÓOL U KUXTALIL LE U WÍINKILILO'</item>
+                    <item><emph rend="right">150</emph></item>
+
+                    <item>ÉSTE ES EL PRINCIPIO DE LA CREACIÓN DE LA GENTE, CUANDO SE BUSCÓ LA NATURALEZA DE SU CUERPO</item>
+                    <item><emph rend="right">151</emph></item> 
+
+                    <item>U K'AABA' LE NOJLU'UM TU'UX JBINO'OB BÁALAM KI' CHE'EJ, BÁALAM ÁAK'AB, MÁAJUKUTAJ, BÁALAM UJ, LÁAK'INTA'ANO'OB' TUMEN BIN TÁAMUB YÉETEL ÍILOKAAB</item> 
+                    <item><emph rend="right">158</emph></item>
+
+                    <pb xml:id="yua2021-8" /> 
+
+                    <item>NOMBRE DEL PAÍS A DONDE FUERON RISA DE LEÓN, LEÓN MADRUGADOR, MAJ U KUTA], LEÓN DE LA LUNA CON TAMUB E ILOKAB</item>
+                    <item><emph rend="right">159</emph></item> 
+
+                    <item>U JUUL YÉETEL BIX CHÍIKPAJIK YUUM K'IIN, KI'ICHPAN UJ YÉETEL LE EEK'O'OBO'</item>
+                    <item><emph rend="right">170</emph></item>
+
+                    <item>ILUMINACIÓN Y APARECIMIENTO DEL SOL, LA LUNA Y LAS ESTRELLAS</item>
+                    <item><emph rend="right">171</emph></item> 
+
+                    <item>BÍIN IN KA'AJO'ON IN TSIKBALTO'ON BIX ÚUCHIK U KAJTAL WÍINIK TE' WITSA', YÉETEL BA'AXTEN JXÁANCHAJO'OBI'</item>
+                    <item><emph rend="right">174</emph></item>
+
+                    <item>AHORA DIREMOS LA ESTANCIA Y TARDANZA, MEJOR DICHO AQUÍ SOBRE LA MONTAÑA</item>
+                    <item><emph rend="right">175</emph></item> 
+
+                    <item>U CHU'UKUL MÚUCH'KAJNÁALO'OB TUMEN BÁALAM KI' CHE'EJ, BÁALAM ÁAK'AB, MÁAJUKUTAJ YÉETEL BÁALAAM UJ</item>
+                    <item><emph rend="right">178</emph></item>
+
+                    <item>SECUESTRO DE LAS TRIBUS POR RISÁ DE LEÓN, LEÓN MADRUGADOR, MAJ U KUTAJ Y LEÓN DE LA LUNA</item> 
+                    <item><emph rend="right">179</emph></item>
+
+                    <item>U TSIKBALIL LE BA'ATELTÁAMBALO'</item>
+                    <item><emph rend="right">188</emph></item>
+
+                    <item>RELATO DEL ASALTO</item>
+                    <item><emph rend="right">189</emph></item>
+
+                    <item>U KÍIMIL BÁALAM KI' CHE'EJ, BÁALAM ÁAK'AB, MÁAJUKUTAJ YÉETEL BÁALAM UJ</item>
+                    <item><emph rend="right">192</emph></item>
+
+                    <item>MUERTE DE RISA DE LEÓN, LEÓN MADRUGADOR, MAJ U KUTAJ Y LEÓN DE LA LUNA</item>
+                    <item><emph rend="right">193</emph></item>
+
+                    <item>U K'AABA' U AJAWILO'OB U AJAWCH'I'IBALIL KÁAWIKIIB</item>
+                    <item><emph rend="right">202</emph></item>
+
+                    <item>NOMBRE DE LOS SEÑORES DE LA LÍNEA KÁWIKIB</item>
+                    <item><emph rend="right">203</emph></item>
+
+                    <item>U AJAWILO'OB U AJAWCH'I'IBALIL NÍIMJAYBAAB</item>
+                    <item><emph rend="right">204</emph></item>
+
+                    <item>SEÑORES DE LA LÍNEA NIMJAIBAB</item>
+                    <item><emph rend="right">205</emph></item>
+
+                    <item>U K'AABA' LE K'ICHE' AJAWO'OBO'</item>
+                    <item><emph rend="right">206</emph></item>
+
+                    <item>NOMBRE DE LOS SEÑORES K'ICHÉS</item>
+                    <item><emph rend="right">207</emph></item>
+
+                    <item>U KA'AP'ÉEL KAAJAL LE SÁAKIKIIB AJAWO'OBO'</item>
+                    <item><emph rend="right">208</emph></item>
+
+                    <item>DOS PUEBLOS DE LOS SEÑORES SAKIKIB</item>
+                    <item><emph rend="right">209</emph></item>
+
+                    <item>U WAKP'ÉEL TSAYCH'I'IBALIL AJAWO'OB</item>
+                    <item><emph rend="right">212</emph></item>
+
+                    <item>SEXTA GENERACIÓN DE REYES</item>
+                    <item><emph rend="right">213</emph></item>
+
+                    <item>U MEYAJTA'AL YÉETEL U YÉEYA'AL LE AJK'ALELO'OBO'</item>
+                    <item><emph rend="indent(+6)">218</emph></item>
+
+                    <pb xml:id="yua2021-9" /> 
+
+                    <item>PREPARACION Y SELECCIÓN DE LAS DIVISIONES</item>
+                    <item><emph rend="right">219</emph></item>
+
+                    <item>U K'AABA' U K'UJNAJIL LE KÁABAWILO'OBO'</item>
+                    <item><emph rend="right">220</emph></item>
+
+                    <item>NOMBRE DE LOS TEMPLOS DE LOS DIOSES</item>
+                    <item><emph rend="right">221</emph></item>
+
+                    <item>U K'AABA' U AJAWCH'I'IBALIL TULÁAKAL LE AJAWO'OBO'</item>
+                    <item><emph rend="right">224</emph></item>
+
+                    <item>NOMBRE DE LAS GENERACIONES DE SEÑORES</item>
+                    <item><emph rend="right">225</emph></item>
+
+                    <item>U AJAWCH'I'IBALILO'OB LE K'ICHE' AJAWILO'</item>
+                    <item><emph rend="right">226</emph></item> 
+
+                    <item>GENERACIONES DEL K'ICHÉ</item>
+                    <item><emph rend="right">227</emph></item>
+
+                    <item>U AJAWILO'OB LE KÁAWIKIIBILO'OBO'</item>
+                    <item><emph rend="right">228</emph></item>
+
+                    <item>LOS PRINCIPALES DE LOS KAWIKIB</item>	
+                    <item><emph rend="right">229</emph></item>
+
+                    <item>U AJAWILO'OB LE NÍIMJAYBAABILO'OBO'</item>
+                    <item><emph rend="right">230</emph></item>
+
+                    <item>LOS PRINCIPALES DE LOS NIMJAIBAB</item>
+                    <item><emph rend="right">231</emph></item>
+
+                    <item>U YÁAX NOOL YÉETEL U YÁAX AJAWIL LE K'ICHE' AJAWO'OBO'</item>
+                    <item><emph rend="right">232</emph></item>
+
+                    <item>ABUELO Y PADRE DE LOS SEÑORES K'ICHÉS</item>
+                    <item><emph rend="right">233</emph></item>
+
+                    <item>U KA'ABA' U AJAWIL LE AJAWNAJO'OBO'</item>
+                    <item><emph rend="indent(+7)">234</emph></item>
+
+                    <item>NOMBRE DE SEÑORES DE CADA CASA</item>	 
+                    <item><emph rend="right">235</emph></item>
+
+                    <item>YÁAX KANTI'ITSMANTI'ITS / TABLA UNO</item>
+                    <item>U TSOLOBIL U KA'ABA' YUUNK'UJO'OB, AJAWO'OB YÉETEL KÚUCHILO'OB / RELACIÓN DE NOMBRES DE DIOSES, REYES Y LUGARES</item> 
+                    <item><emph rend="right">237</emph></item>
+                    <pb xml:id="yua2021-10" /> 
+                </list>
+            </div>
+            <div type="prologue">
+                <head>PRÓLOGO</head> 
+                <!-- bottom two are more like sub-heads? -->
+                <head>LA IMAGEN EVAPORADA</head>
+                <head>VÍCTOR BRAVO </head>
+
+                <p>El <emph rend="italic">Póopol Wuuj</emph> (<emph rend="italic">Popol Vuh</emph>)  es  una de las  obras más  importantes y hermosas de la hu- 
+                manidad. Su sabiduría narrativa; su entrañable ritmo donde intuimos correspondencias con el 
+                ritmo del cosmos; su danza de metamorfosis que es la misma que se desprende de la "eficacia 
+                simbólica" del mito, concurre para darnos lo que José Lezama Lima llamaría "la imagen eva- 
+                porada" de una cultura: su densidad espiritual, su intuición de la belleza como manifestación 
+                de la naturaleza y el cosmos; su afirmación de vida. Y todo en el transfondo de uno de los 
+                acontecimientos de destrucción de civilización y cultura más terribles protagonizados  por la 
+                cultura occidental. Occidente ha reconocido la culpabilidad de la "civilización de la razón" en 
+                el Holocausto; la Iglesia ha reconocido la ceguera del dogma frente a la conclusión de Galileo; 
+                pero la modernidad que se inicia con el descubrimiento de un Nuevo Mundo aún no ha creído 
+                necesario reconocer el  más grande de los  actos depredadores donde hombres y culturas, mo- 
+                numentos y visiones de mundo fueron aniquilados. El "Auto de fe  de Maní", para mencionar 
+                uno solo de esos terribles actos, perpetrado el 12 de julio de 1562 en Maní (Yucatán) y donde 
+                Diego de Landa ordenó la destrucción de monumentos y de innumerables códices; pues eran 
+                "muestras de  idolatría", no impidió sin embargo que de las ruinas brotaran monumentos de 
+                antiguo y herido esplendor; y manuscritos como el poema de Quetzalcóatl (de autor anónimo) 
+                y el poema de Nezahualcóyotl (escrito  por el rey y poeta) e insospechados códices mayas y 
+                mexicas; u obras como el <emph rend="italic">Rabinal Achi</emph> (drama que data del siglo XV y que ha sido declarado 
+                "obra maestra de la tradición oral e intangible de 1a humanidad" en 2005 por la Unesco) o 
+                las  historias del <emph rend="italic">Chilam Balam</emph> (hechos de la cultura maya yucateca, de los siglos XVI y XVII, 
+                redactados después de la conquista) y, de manera ejemplar, el <emph rend="italic">Popol Vuh</emph>, obra que emerge con
+                el esplendor de su perfección, en contraposición al derrumbe, la aniquilación y la ruina, para 
+                señalar de manera contundente a los ojos de la historia, de las culturas; a los ojos de las estrellas 
+                si éstas pudiesen ser testigos, la riqueza de una civilización que en la belleza y el extravío de sus 
+                cantos dio de pronto de tope con una fuerza destructora que no podía ser sino de la barbarie 
+                por la intolerancia del otro.</p> 
 
             <p>Desde la fuerza de su oralidad, desde la primera versión en alfabeto latino, en el manus- 
             crito de Chichicastenango, de  mediados  del siglo  XVI; desde la primera traducción de Fray 
