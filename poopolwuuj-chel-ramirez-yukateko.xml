@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
      xsi:schemaLocation="http://www.tei-c.org/ns/1.0 
-     https://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_lite.xsd"
+     https://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd"
      xmlns="http://www.tei-c.org/ns/1.0">
      <!-- Remember to change xsi:schemaLocation after .rng generated -->
     <teiHeader>
@@ -363,548 +363,502 @@
                 <!-- bottom two are more like sub-heads? -->
                 <head>LA IMAGEN EVAPORADA</head>
                 <head>VÍCTOR BRAVO </head>
-
+                <!-- create div here maybe?-->
                 <p>El <emph rend="italic">Póopol Wuuj</emph> (<emph rend="italic">Popol Vuh</emph>)  es  una de las  obras más  importantes y hermosas de la hu- 
-                manidad. Su sabiduría narrativa; su entrañable ritmo donde intuimos correspondencias con el 
-                ritmo del cosmos; su danza de metamorfosis que es la misma que se desprende de la "eficacia 
-                simbólica" del mito, concurre para darnos lo que José Lezama Lima llamaría "la imagen eva- 
-                porada" de una cultura: su densidad espiritual, su intuición de la belleza como manifestación 
-                de la naturaleza y el cosmos; su afirmación de vida. Y todo en el transfondo de uno de los 
-                acontecimientos de destrucción de civilización y cultura más terribles protagonizados  por la 
-                cultura occidental. Occidente ha reconocido la culpabilidad de la "civilización de la razón" en 
-                el Holocausto; la Iglesia ha reconocido la ceguera del dogma frente a la conclusión de Galileo; 
-                pero la modernidad que se inicia con el descubrimiento de un Nuevo Mundo aún no ha creído 
-                necesario reconocer el  más grande de los  actos depredadores donde hombres y culturas, mo- 
-                numentos y visiones de mundo fueron aniquilados. El "Auto de fe  de Maní", para mencionar 
-                uno solo de esos terribles actos, perpetrado el 12 de julio de 1562 en Maní (Yucatán) y donde 
-                Diego de Landa ordenó la destrucción de monumentos y de innumerables códices; pues eran 
-                "muestras de  idolatría", no impidió sin embargo que de las ruinas brotaran monumentos de 
-                antiguo y herido esplendor; y manuscritos como el poema de Quetzalcóatl (de autor anónimo) 
-                y el poema de Nezahualcóyotl (escrito  por el rey y poeta) e insospechados códices mayas y 
-                mexicas; u obras como el <emph rend="italic">Rabinal Achi</emph> (drama que data del siglo XV y que ha sido declarado 
-                "obra maestra de la tradición oral e intangible de 1a humanidad" en 2005 por la Unesco) o 
-                las  historias del <emph rend="italic">Chilam Balam</emph> (hechos de la cultura maya yucateca, de los siglos XVI y XVII, 
-                redactados después de la conquista) y, de manera ejemplar, el <emph rend="italic">Popol Vuh</emph>, obra que emerge con
-                el esplendor de su perfección, en contraposición al derrumbe, la aniquilación y la ruina, para 
-                señalar de manera contundente a los ojos de la historia, de las culturas; a los ojos de las estrellas 
-                si éstas pudiesen ser testigos, la riqueza de una civilización que en la belleza y el extravío de sus 
-                cantos dio de pronto de tope con una fuerza destructora que no podía ser sino de la barbarie 
-                por la intolerancia del otro.</p> 
-
-            <p>Desde la fuerza de su oralidad, desde la primera versión en alfabeto latino, en el manus- 
-            crito de Chichicastenango, de  mediados  del siglo  XVI; desde la primera traducción de Fray 
-            Francisco Ximénez, en 1722; y, a partir de entonces, desde sus diversas traducciones, el <emph rend="italic">Popol 
-            Vuh</emph> ha producido el asombro de la humanidad por su saber cosmogónico, por la complejidad 
-            representada en su relato del trabajo de la creación del ser y del lugar del hombre en el mundo; 
-            en el enfrentamiento ético de los héroes; en la experiencia de la pérdida y de la muerte; en el 
-
-            <pb xml:id="yua2021-11" /> 
-            juego de metamorfosis y la multiplicidad de mundos; en nuevos caminos de la espiritualidad.</p> 
-
-            <p>El impacto del <emph rend="italic">Popol Vuh</emph>, de los códices, de otros documentos prehispánicos es incuan- 
-            tificable en la reflexión antropológica y en el imaginario literario. Con relación a esto último 
-            mencionemos a títulos de ejemplo las novelas de Rosario Castellanos: <emph rend="italic">Oficio de tinieblas</emph> y <emph rend="italic">Ba- 
-            lún Canán</emph>; y de manera especial la obra toda de Miguel Ángel Asturias: la poética del mito en 
-            <emph rend="italic">Leyendas de  Guatemala</emph>; principios de metamorfosis en <emph rend="italic">Mulata</emph> de  tal; la eficacia simbólica del mito en <emph rend="italic">Hombres de maíz</emph>, por ejemplo, donde es posible observar la presencia del <emph rend="italic">Popol Vuh</emph>
-            como origen o fuente, nos indica la importancia de este libro fundamental para la condición 
-            del ser en el continente.</p> 
-
-            <p>
-            <emph rend="center">LA METAMORFOSIS</emph>
-            </p>
-
-            <p>El relato mítico, tanto de "la tradición clásica" (mitología grecorromana) como del "pen- 
-            samiento salvaje", le ha dado al relato estético moderno el principio de metamorfosis que, como 
-            dice Cassirer (1962), "en el mito la relación causal no es una relación entre cosas, sino más bien 
-            una relación entre cambios que en determinados momentos se producen en ciertos objetos. El 
-            mito entiende el proceso de acusación sólo como simple transformación entre formas de existir 
-            individuales concretas".</p>
-
-            <p>La metamorfosis parece tematizarse eh el mito, a partir de cuatro núcleos básicos: el En- 
-            gaño (el dios es un sujeto en metamorfosis que, para decirlo así, se enmascara para alcanzar su 
-            objeto); el Castigo (el dios metamorfosea otro para castigar un atrevimiento); la Salvación (el 
-            dios, intercediendo, metamorfosea otro para salvarlo o facilitar la huida) y, por último, el Don
-            (el dios produce la metamorfosis para otorgar un premio o matizar un castigo, infligido, quizás,
-            por otro dios).</p>
-
-            <p>Zeus-Júpiter y Hera-Juno, los dioses mayores de la mitología grecorromana, protago-
-            nizan, con una gran recurrencia, el movimiento Engaño-Castigo de la metamorfosis: el uno, 
-            alcanzando las formas del engaño para satisfacer sus infieles deseos de dios enamorado, la otra, 
-            esposa vigilante, vengativa, celosa, utilizando su poder para transformar sus ocasionales rivales 
-            en formas distantes, no peligrosos.</p>
-
-            <p>Ovidio refiere esa dialéctica de amor y celo como motor de la metamorfosis. Así, lo es
-            convertida en vaca por Júpiter (<emph rend="italic">Las metamorfosis</emph>, libro L., v. 601-688) para evitar la furia de 
-            Juno; Júpiter se metamorfosea en toro para raptar a Europa (libro II, v. 833-875), o en Diana, 
-            para seducir a la ninfa Calisto (libro II, v. 401-495). Juno, a su vez, castiga en Calisto la infide- 
-            liad de Júpiter transformándola en oso, castiga a Eco a ser sólo una voz fragmentaria (libro III, 
-            v. 356-510) por ser cómplice de esas infidelidades, etc.</p>
-
-            <p>El Engaño y el Castigo constituyen la primera pareja generadora de la metamorfosis en el 
-            mito. Así, como Castigo, Aciroe es transformada en yegua per Ja divinidad, Bato en roca, Me-
-            fusa convierte en piedra a quien ose mirarla y Palas castiga la soberbia de Aracné transformán- 
-            dola en roca. Circe, tal como lo refiere la Odisea,  transforma los amigos de Ulises en cerdos y la 
-            curiosidad de Apuleyo trae como consecuencia su transformación en un asno (<emph rend="italic">Las metamorfosis
-            o el asno de otro</emph>, 161 d.c). En <emph rend="italic">Las mefamorfosis</emph> de Ovidio se expresa el temor ante ese poder de la 
-            divinidad: "Pero entonces todos, mujeres y hombres, temen la manifiesta cólera de la divinidad 
-            y todos veneran con gran celo el gran poder" (libro VI, v. 313-5).</p>
-            
-            <p>En el contexto de la presente edición, denominada <emph rend="italic">Póopol Wuuj</emph> por los traductores 
-            pues este nombre y esta grafía corresponderían más estrechamente a la expresión maya. En la 
-            mitología mesoamericana (maya-quiché, yucateca, cakchiquel y náhuatl), la  pareja Engaño- 
-            Castigo también es un centro generador de metamorfosis. En la segunda parte del <emph rend="italic">Popol Vuh</emph>, 
-            Huhahpú e Ixbalanqué transforman a Zipacná en piedra después de vencerlo y, por arte de de 
-
-            <pb xml:id="yua2021-12" /> 
-            magia, transforman a Hunbatz y Hunchuén en monos. Por su parte, ellos se transforman en 
-            muchachos pobres para engañar a los señores de Xibalbá y vencerlos.</p>
-
-            <p>La otra pareja generadora de metamorfosis, la Salvación y el Don, se presenta con menos 
-            recurrencia en el mito. Ovidio, una vez más, nos refiere, por ejemplo, cómo Dafne, perseguida 
-            por Febo (Apolo), es transformada en Laurel (libro I, v. 454-567), cómo Júpiter transforma a 
-            las  Arcas y a Calisto en dos constelaciones para evitar que sean víctimas de la ira (libro  11, v. 
-            496-530) o como Acis es transformada en río para evitar la ira de Polifemo. El <emph rend="italic">Popol Vuh</emph>, por su 
-            parte, refiere en un hermoso paisaje cómo Hunahpú e Ixbalanqué se transforman ellos mismos 
-            para salvarse: "Los de Xibalbá molieron entonces sus huesos y fueron a arrojarlos al río. Pero 
-            éstos no fueron muy lejos, pues asentándose al punto en el fondo del agua, se  convirtieron en 
-            hermosos muchachos. Y cuando de nuevo se manifestaron tenían en verdad sus  mismas caras" 
-            (segunda parte, cap. XII). Y, según la mitología náhuatl, Quetzalcóatl se transformó en hormiga 
-            para robar el grano de  maíz, carne y alimento del hombre. Refiriéndose a la Salvación como 
-            generador de metamorfosis, María Zambrano ha señalado su fundamento: "La metamorfosis es 
-            la forma en que todo lo viviente evita el padecer. Y todos los embriagados de vida, apetentes de 
-            ser más u otra cosa que hombres, han soñado atravesar el mundo metamorfoséandose. Anhelo 
-            que es la clave de todas las ansias de evasión, hasta de la legítima que se llama arte."</p>
-
-            <p>El Don es aún menos frecuente (su frecuencia se intensifica en esa derivación del mito 
-            que es el cuento de hadas). Señalemos dos casos de la mitología grecorromana: la metamorfosis 
-            de Eson, padre de Teseo, en un joven, por Medea (Ovidio, libro VII, v. 159-296) y, fundamen- 
-            talmente, el mito de Proteo referido en el canto cuarto de la Odisea, el cual, atrapado por Me 
-            nelao, se metamorfosea inúltilmente hasta otorgar el don que se le pide: la revelación de futuro 
-            inmediato de los aqueos y la situación de Ulises en la isla de la ninfa Calipso.</p>
-
-            <p>Engaño y Castigo, Salvación y Don, la metamorfosis manifiesta el poder de los dioses y 
-            pone de relieve uno de los rasgos constitutivos del mito: la liberación de las lógicas del aconte- 
-            cimiento narrativo que el mito pone el escena.</p>
-
-            <p>La metamorfosis incesante parece poner en escena el ansia de libertad del hombre, la 
-            "repercusión" de la felicidad perfecta, tal como lo sabemos desde Lautréamont: "La metamor- 
-            fosis -dice en Los cantos de Maldoror- no apareció a mis ojos sino como la alta y magnánima 
-            repercusión de una felicidad perfecta que esperaba desde hacía mucho tiempo".</p>
-
-            <p>La metamorfosis rige las ondulaciones del relato en el <emph rend="italic">Popol Vuh</emph>, creando, desde la pers- 
-            pectiva de una cultura, un ámbito de belleza para la instauración del ser en el mundo.</p> 
-
-            <p>
-            <emph rend="center">LA PRESENTE EDICIÓN</emph> 
-            </p>
-
-            <p>En este contexto la presente edición del <emph rend="italic">Póopol Wuuj</emph>, bajo el erudito cuidado y la sen- 
-            sibilidad poética de Rubén Reyes Ramírez, y la "curaduría" y traducción por parte de un gran 
-            equipo de traductores coordinado por el  maestro y especialista de la lengua y la cultura maya 
-            Fidencio Briceño Chel, en edición bilingüe (maya yucateco y español), entrega la obra al ha- 
-            blante maya que nos es contemporáneo; y realiza  una adaptación al español yucateco de la 
-            traducción castellana de Adrián Chávez. En esta edición el gran libro de los mayas realiza su 
-            profunda metamorfosis hacia su condición originaria y produce de este modo un renacimiento 
-            de la obra que se ofrece al lector del siglo XXI.</p>
-
-            <pb xml:id="yua2021-13" /> 
-
-            <p>
-            <emph rend="center">EL POPOL VUH,  OBRA CUMBRE DEL PENSAMIENTO Y DE LA LITERATURA DE AMÉRICA</emph> 
-            
-
-            <emph rend="center">FIDENCIO BRICEÑO CHEL</emph> 
-            <emph rend="center">RUBÉN REYES RAMÍREZ</emph>
-            <lb />
-            <emph rend="center">EL POPOL VUH, PENSAMIENTO Y PALABRA</emph> 
-            </p>
-
-            <p>Es un hecho comúnmente admitido en los estudios culturales del continente que el 
-            <emph rend="italic">Popol Vuh</emph> tiene un sitio firme entre las obras cumbres que expresan de un modo más notable 
-            y completo el imaginario simbólico y cultural de los pueblos que protagonizaron la prehistoria 
-            y el horizonte germinal de la historia de esta gran experiencia humana que hoy llamamos La- 
-            tinoamérica. Ese horizonte histórico cuenta con una proyección de más de quince siglos y en 
-            su transcurso se produjo la floración de múltiples culturas originarias, en las que descuellan los 
-            procesos civilizatorios de Mesoamérica y los Andes, los cuales se ubican entre las formaciones 
-            estatales embrionarias de la historia universal, así como el descubrimiento y conquista ibéricos 
-            de este Nuevo Mundo a partir de 1492. Acontecimiento que, además de haber sido un encuen- 
-            tro violento y rapaz cuyo impacto tiene el carácter de auténtico genocidio y etnocidio, constitu- 
-            yó a la vez el alumbramiento de la cultura y las naciones latinoamericanas y, como afirma Edgar 
-            Morin (2005: 15), significa el inicio de la actual época planetaria.</p>
-
-            <p>Pero el <emph rend="italic">Popol Vuh</emph>, a un tiempo que constituye el depósito y vehículo del mensaje medular 
-            de una de las teogonías más notables del pensamiento indígena americano, manifiesta con elo- 
-            cuencia y luminosidad singulares una naturaleza de hechura artística de la lengua que lo coloca 
-            cabalmente en la esfera de las creaciones literarias, dando cuenta del surgimiento de la literatura 
-            entre los aportes del proceso cultural de los pueblos originarios de Latinoamérica.</p> 
-
-            <p>Aunque el conocimiento actual de los significados medulares de la obra no termina aún 
-            de aportar una comprensión exhaustiva de las distintas sagas del relato, sí ha llevado a aquilatar, 
-            con certeza y amplitud, la elevada estatura de su valor como construcción espiritual humana; en 
-            cambio, la índole artística consustancial de la obra, tanto por el desconocimiento frecuente de 
-            las lenguas indígenas americanas como también por el hecho de que hemos estado largamente 
-            trasminados  de  una visión eurocéntrica de  la cultura y  del arte, no ha sido sino lentamente 
-            reconocida por la crítica en la literatura latinoamericana.</p>
-
-            <p>Para la mayoría de los escasos manuales clásicos que pretenden historiar la literatura 
-            latinoamericana o hispanoamericana desde sus comienzos (Sánchez 1937, Anderson Imbert 
-            1954, Lazo 1968, Grossmann 1969, etc.), el triunfo rápido, definitivo y total de la cultura 
-            literaria al estilo europeo sobre las antiguas culturas literarias autóctonas no deja lugar a dudas. 
-            Escamoteando la existencia de literaturas (orales) anteriores a la presencia europea en América, 
-            o despachándolas, para luego olvidarse de ellas, en el primer capítulo.</p>
-
-            <pb xml:id="yua2021-15" /> 
-
-            <p><lb rend="indent"/> [ ... ] la literatura latinoamericana, en estos trabajos, aparece bajo la imagen de un río, por cierto
-            <lb rend="indent"/>amplio y con muchos afluentes, pero único; como una práctica humana protagonizada por un
-            <lb rend="indent"/>grupo que, pese a sus transformaciones a lo largo de los siglos, parece siempre el "mismo": el  de 
-            <lb rend="indent"/>los letrados o intelectuales europeos o "europeizados" (Lienhard 1989: 56)<hi rend="sup">1</hi>
-            </p>
-
-            <p>En rigor, este cuestionamiento que descubre una opacidad de nuestra mirada en cuanto a 
-            la literatura, es válido incluso para el pensamiento indígena de América. Ante sus registros que, 
-            a pesar de la destrucción y el intento generalizado de extirpar y de negar las culturas originarias, 
-            subsisten y son una evidencia cada vez  más clara; se ha tendido a desestimarlos ignorando su 
-            permanencia o minusvalorando su calidad y su significado. Para intentar una comprensión ade- 
-            cuada tanto de ese pensamiento como de su expresión literaria es imprescindible despojarnos de 
-            los viejos esquemas y conceptos analíticos que, surgidos de la experiencia cultural europea, nos 
-            han sido implantados como instrumentos de validez universal. Carlos Montemayor, a propó-
-            sito de ese "ejercicio artístico" que él identifica en los libros mayas del <emph rend="italic">Chilam Balam</emph>, advierte 
-            de dicha necesidad en estos términos: "debemos acercarnos no bajo los criterios de la historia 
-            literaria de occidente, sino hacia la novedad del  encuentro con otro orden estético y de otro 
-            orden conceptual de lo que es el arte y el idioma."</p>
-
-            <p>Y extendiendo la idea en torno a todas las literaturas de las lenguas indígenas de México, 
-            dicho autor enfatiza:</p> 
-
-            <p>
-            <lb rend="indent"/>Desde este  punto de vista,  necesitamos  nuevos  ojos  para hablar de la literatura en las  lenguas
-            <lb rend="indent"/>indígenas, necesitamos una nueva actitud, una actitud, diría yo, muy semejante a la del deseo o a
-            <lb rend="indent"/>la disposición de aprender algo que nunca antes habíamos oído (Montemayor 1991).
-            </p>
-
-            <p>Esta "actitud" semejante al deseo, esta "disposición" para aprender algo nuevo o desco- 
-            nocido ha de partir, ineludiblemente, de un esforzado intento por caracterizar los rasgos de ese 
-            pensamiento y de sus formas de expresión en su propio contexto cultural. Es de tal modo un 
-            empeño de arqueología espiritual que busca escudriñar en los signos los mensajes perdurables 
-            de un imaginario cultural expresado mediante la lengua, a la luz de la comprensión del entorno 
-            socio-histórico en que fueron producidos y en cuyo seno cobran su significación genuina.</p> 
-
-            <p>En el contexto inmerso en los linderos del horizonte prehispánico -al igual que en otras 
-            formaciones culturales antiguas del  mundo-, el  pensamiento y la expresión discursiva de las 
-            comunidades americanas encuentran en su estado primigenio una situación de síntesis indiso- 
-            luble que podemos establecer como su carácter histórico-natural.</p>
-
-            <p>Por el grado de desarrollo del conocimiento sobre la naturaleza y la sociedad que preva- 
-            lecía entre los pueblos prehispánicos, el contenido de esos mensajes tuvo un carácter filosófico 
-            (eminentemente mágico-religioso) y estaba orientado en lo fundamental a producir una com- 
-            prensión ordenada del universo y de la comunidad, así como a controlar el acontecer sucesivo 
-            de los hechos naturales y los actos humanos.</p> 
-
-            <p>En razón de ello, los estudios acerca de este pensamiento han adoptado la categoría 
-            de mito con que la antropología y la sociología rigieran sus investigaciones sobre el llamado 
-            "pensamiento primitivo". Pero, como advierte Luis Alberto  Reyes (2009: 19), aunque dicho 
-            concepto constituye un instrumento útil, hay que precavernos de considerarlo como el prin- 
-            cipio único y último del pensar indígena americano y de emplearlo en modo absoluto para 
-            caracterizar el origen, la verdad y los temas de tal pensamiento<hi rend="sup">2</hi>.</p>
-
-            <p>El trasunto central de coincidencia del pensamiento indígena americano con las socieda- 
-            des antiguas de la prehistoria universal es el de la dualidad femenina/masculina como principio 
-            originario, el cual es típico de las sociedades agrarias, y el tránsito al principio único, masculino, 
-            surgido del poder político y de las  sociedades  estatales. En forma consiguiente, resulta válido 
-
-            <pb xml:id="yua2021-16" /> 
-            admitir la existencia de ontologías y teologías (dualista y monista) propias de aquellos princi- 
-            pios creadores y el surgimiento de conflictos que expresan su transición y reemplazo.</p>
-
-            <p>En todo caso, aunque la sustancia del mito es la historia que relata, algo esencial es que la 
-            noción misma de ello condensa esa síntesis germinal entre mensaje y textualización, al plantear 
-            que aquél es una "narración altamente significativa y creíble para un pueblo" (Reyes 2009: 15). 
-            A su vez, en un estudio desde la óptica del arte, analizando la diacronía del "nexo exis-
-            tente entre los procedimientos tropológicos y el proceso cognoscitivo ampliamente entendido",
-            Guillermo Rodríguez Rivera sostiene que "los orígenes del tropo se confunden con los del 
-            propio  pensamiento". Y tal correspondencia -según puntualiza este autor- "implica no sólo 
-            una conformidad entre los contenidos del tropo y las  corrientes del  pensamiento dominante 
-            en un periodo dado sino, también, una relación estructural de homología entre ambos niveles"  · 
-            (1999: 64, 65).</p> 
-
-            <p>Examinando el fenómeno  a partir de las tradiciones literarias europea y americana, Ro- 
-            dríguez Rivera observa que en esa fusión germinal subyace el hecho de que la "imagen" -unidad 
-            elemental del pensamiento artístico- entraña un inobjetable poder cognitivo, porque existe una 
-            distancia esencial entre "objeto empírico" y "objeto artístico" <hi rend="sup">3</hi>.</p> 
-
-            <p>
-            <lb rend="indent"/>Lo característico de la imagen artística será su capacidad para entregar lo abstracto a través de 
-            <lb rend="indent"/>lo concreto, lo universal a través de lo singular. Y es por esta capacidad sintetizadora por la que
-            <lb rend="indent"/>podemos afirmar que el arte es, entre otras cosas,conocimiento (Rodríguez Rivera 1999:  12).
-            </p>
-
-            <p>Y al centrar la atención en las estructuras de los resortes cognitivos embrionarios y las 
-            imágenes artísticas aurorales que les corresponden, este autor (1999: 51) identifica el mito y la 
-            alegoría como las formas tropológicas que expresan ese carácter unitario y totalizador propio 
-            del pensamiento animista o mágico-religioso, en el cual los mundos de lo cósmico y lo terrenal, 
-            lo inane y lo viviente, lo animal y lo humano, lo  real y lo fantástico son uno y el  mismo, o al 
-            menos se transfiguran y convierten mutuamente sin ásperas rupturas.</p> 
-
-            <p>Pero si por virtud de esa fusión de pensamiento y palabra perceptible en las sociedades 
-            origiriarias de América hallamos un pensamiento logo-mítico y un lenguaje mito-poético tanto 
-            en los soportes de la expresión mediante la oralidad y las formas de representación escritural, la 
-            función  estética que define por antonomasia al lenguaje literario aparece en modo fehaciente, 
-            como un rasgo claro de sutileza y eufonía y aun como una lengua sublime distinguible del habla 
-            de la vida cotidiana; si bien su presencia ocurre de manera entreverada a otras funciones en los 
-            relatos mitológicos y las alocuciones poéticas de sus grandes obras y registros.</p> 
-
-            <p>El hecho de la existencia de una lengua con una formalización singular y que contiene 
-            un sentido estético consustancial a sus enunciados expresa no otra cosa que el surgimiento de 
-            la literatura en los pueblos indígenas originarios de América. Al respecto, Carlos Montemayor 
-            (1991), aludiendo a las lenguas indígenas de México, anota categóricamente:</p>
-
-            <p>
-            <lb rend="indent"/>[...] literatura mexicana es también la que ha brotado y se ha mantenido en nuestro suelo desde
-            <lb rend="indent"/>antes de  1492: la que, escrita o no, se ha cantado en maya, en náhuatl, en purépecha, en otomí,
-            <lb rend="indent"/>en zapoteco, en chinanteco, en tantas lenguas en que se sostiene el vigor de los pueblos de Mé
-            <lb rend="indent"/>xico. Una literatura a veces sagrada; otras veces regocijada y maliciosa, otras más poseedora de
-            <lb rend="indent"/>conocimientos ancestrales. 
-            </p>
-
-            <p>Enfocando centralmente el problema de la naturaleza literaria de estas creaciones del 
-            pensamiento indígena de  México y las fronteras entre literatura y lengua hablada, el propio 
-            Montemayor (1991) observa:</p>
-
-            <pb xml:id="yua2021-17" /> 
-
-            <p><lb rend="indent"/>[...] la literatura es sobre todo una particular comunicación dentro de una comunidad idiomáti-
-            <lb rend="indent"/>ca; que representa uno de los desarrollos de expresividad del idioma que ninguna otra forma ha-
-            <lb rend="indent"/>blada puede conseguir, y que independientemente de que esté escrita o se transmita por tradición 
-            <lb rend="indent"/>oral, es una lengua formal, artificial, que se constituye mediante una técnica compleja.
-            <lb rend="indent"/>[...] disponemos de  muchos ejemplos universales de la literatura como una construcción
-            <lb rend="indent"/>formal, compleja, artificial respecto a la lengua hablada, que no requiere de la escritura para fi-
-            <lb rend="indent"/>jarse ni transmitirse .... Pero en las lenguas indígenas de México también hay materiales que son
-            <lb rend="indent"/>magníficos ejemplos de un ejercicio literario, como los rezos de sacerdotes mayas en Yucatán, los
-            <lb rend="indent"/>cantos de juegos o cancioncillas bailables en casi todas las lenguas y ciertas formas solemnes de
-            <lb rend="indent"/>alocución, especialmente asumidas por los ancianos de las comunidades, como los discursos de
-            <lb rend="indent"/>bodas entre los zapotecas.
-            </p>
-
-            <p>La experiencia literaria es entonces un fenómeno que -a partir del concurso de ciertas cir- 
-            cunstancias históricas- se revela en todas las lenguas; no obstante, merced a su propio proceso de 
-            formación en entornos socio-culturales diversos, ocurre que cada experiencia literaria reviste rasgos 
-            y formas singulares, los cuales configuran su corpus y el perfil de su expresión. Así, surgida en el 
-            horizonte cultural de los pueblos originarios de América, caracterizado por una serie de notables 
-            cosmovisiones cuyos mensajes logo-míticos se expresaban en textos mito-poéticos, las literaturas 
-            indígenas más antiguas del continente florecieron como las creaciones lingüísticas de un imagina 
-            rio simbólico y cultural, en las que era patente la función estética de las lenguas asociada a otras 
-            funciones valiosas para esas comunidades y plasmadas a través de los soportes de la oralidad y la 
-            escritura vinculados a distintas manifestaciones de representación, como danzas, cantos y escenifi- 
-            caciones teatrales o parateatrales. El hecho de que en estas experiencias culturales las literaturas no 
-            surgieran como una textualización con el propósito eminente del placer o goce estético, es decir 
-            que no aflorasen como un discurso autónomo de ficcionalización, no autoriza a despojarlas de su 
-            naturaleza estrictamente literaria ni a excluirlas de la literatura latinoamericana. Otras tradiciones 
-            literarias de la antigüedad cuyas obras cúspide consideramos ahora sin lugar a dudas como cimien- 
-            tos  de la literatura universal nacieron con esa misma cualidad de mezcla o fusión de la finalidad 
-            estética, y aun la propia literatura latinoamericana durante la época colonial y el lapso de los países 
-            políticamente independientes sigue participando' de esta condición. En otro sentido, al incorporar 
-            las literaturas indígenas al patrimonio literario de Latinoamérica, tal presencia de la función esté 
-            tica aparejada a finalidades varias en las obras del canon, confirma en plenitud la idea de Alfonso 
-            Reyes (1997: XV 40), en cuanto a que la literatura latinoamericana surge y se desarrolla con un 
-            carácter "ancilar" o instrumental.</p> 
-
-            <p>
-            <emph rend="center">EL HORIZONTE CULTURAL DE MESOAMÉRICA</emph> 
-            </p>
-
-            <p>El entorno del <emph rend="italic">Popol Vuh</emph> está demarcado nítidamente por el horizonte socio-cultural de 
-            Mesoamérica.  Durante los momentos genésicos, en las  formaciones sociales originarias de los 
-            pobladores de este horizonte, es posible advertir que existe una profunda diferencia de desarro- 
-            llo cultural entre la extensa región llamada Aridamérica, "tierra de chichimecas" o de "bárba- 
-            ros" -en la zona septentrional y ciertos ámbitos periféricos del actual territorio de México-, y 
-            la región mesoamericana, la cual constituye sin duda un polo generador y difusor de cultura; 
-            lo que se  aprecia desde la época prehispánica y se irá traduciendo durante la Colonia en una 
-            diferenciación regional. México se fue conformando en rigor por una gran diversidad de pue- 
-            blos, comunidades y formaciones sociales, los  cuales entienden al mundo y organizan la vida 
-            de maneras múltiples, en cuyo seno florece el proceso civilizatorio esencial de  Mesoamérica, 
-            gestado y concebido a través de un trayecto histórico largo y complejo.</p> 
-
-            <pb xml:id="yua2021-18" /> 
-            <p>En una suerte de retablo indígena que describe el mundo bárbaro de  este territorio de 
-            bipolaridad cultural al momento de la irrupción del conquistador hispano y su proyección en 
-            el régimen colonial de la Nueva España, J-M. G. Le Clézio (2008: 152,153) refiere:</p> 
-
-            <p>
-            <lb rend="indent" />A la llegada de los españoles, en los siglos XVI y XVII, los imperios civilizados y agrícolas de Me-
-            <lb rend="indent" />Alianza de México-Tenochtitlán y el imperio del cazonci Zuangua de los purépechas, comienza
-            <lb rend="indent" />una comarca salvaje, inculta, que va del Atlántico al Pacífico y se extiende hasta el Gran Norte, 
-            <lb rend="indent" />es decir, un territorio más vasto que toda Europa. Su población es innumerable cuando llegan 
-            <lb rend="indent" />los conquistadores, verdaderos fragmentos de naciones que tal vez testimonian la explosión de las 
-            <lb rend="indent" />antiguas sociedades rurales del Este que, por la fuerza de las circunstancias y debido al desarrollo
-            <lb rend="indent" />de las armas, se volvieron depredadoras.
-            </p>
-
-            <p>En el centro de este gran anillo pluriétnico y de una dispersión cultural amplísima se 
-            situaba el complejo civilizatorio de Mesoamérica. La civilización mesoamericana es el cimiento más 
-            profundo de lo  indio de México. Siguiendo de cerca a Guillermo Bonfil Batalla (2003:  23 y ss.), 
-            se puede observar que el desenvolvimiento de ese gran horizonte sociocultural despunta con 
-            los pobladores primitivos de dicho territorio y culmina con la edificación de las formaciones 
-            estatales arquetípicas de Mesoamérica, lo cual puede esbozarse en un relato como éste, donde 
-            sobresalen los rasgos siguientes:</p>
-
-            <p>En el territorio mexicano, floreció y se desarrolló la original civilización de Mesoaméri- 
-            ca<hi rend="sup">4</hi>. Como las geografías de casi todos los países del orbe, el espacio que hoy es México ha visto 
-            surgir y desaparecer en él, durante un transcurrir de milenios, multitud de sociedades singulares 
-            a las  que es  lícito llamar, en términos genéricos, pueblos. Pero, a diferencia de lo que ocurrió 
-            en otras regiones, en el territorio mexicano ha existido una continuidad cultural, lo cual hizo 
-            posible el nacimiento y desarrollo de una civilización propia.</p>
-
-            <p>La civilización mesoamericana surgió como resultado de la invención de la agricultura. 
-            Este fue un proceso largo, no una  transformación instantánea. La actividad agrícola inició 
-            en las cuencas y los valles semiáridos del centro de México entre 7,500 y 5,000 años antes de 
-            nuestra era.  En ese  período comienzan a domesticarse el frijol, la calabaza, el huautli o ama 
-            ranto, el  chile, el  jitomate, el  guaje, el  aguacate y el  maíz. El cultivo del  maíz constituyó  el 
-            logro primordial del sistema agrícola de la milpa y quedaría vinculado en forma indisoluble a 
-            la civilización  mesoamericana.  Su "domesticación"  trajo consigo el máximo cambio morfoló-
-            gico ocurrido en cualquier planta cultivada; su adaptación permitió el cultivo en un espectro 
-            de climas y altitudes que es el más amplio y diverso en relación con todas las demás plantas 
-            domesticadas de valor alimentario y económico. Entre los años 2,000 y 1,500 antes de nuestra 
-            era, culminó el proceso de sedentarización y los productos cultivados constituían ya la mitad 
-            de la dieta. Surgieron entonces las aldeas permanentes donde, además, se fabricaba cerámica, 
-            invención aparecida hacia el año 2,300. Puede afirmarse que en ese momento (1,500 antes de 
-            nuestra era) dio inicio la civilización mesoamericana<hi rend="sup">5</hi>. Por entonces comenzó en las tierras del 
-            trópico húmedo, en el sur de Veracruz, la cultura olmeca, que ha sido estimada como modelo 
-            fundacional de las expresiones tempranas del arte de Mesoamérica. Entre 800 y 200 a.C., ocu- 
-            rre el auge de la cultura olmeca, surgen probablemente las primeras inscripciones; se establece 
-            el calendario que perfeccionarán más adelante los diversos pueblos mesoamericanos y se tallan 
-            esculturas monolíticas que hoy asombran por la calidad técnica de su factura y por su armonía 
-            plástica (Bonfil2003: 24-26).</p> 
-
-            <p>En cuanto a la trayectoria de este vasto horizonte sociocultural, los especialistas han esta- 
-            blecido una periodización con ciertos rangos o esquemas cronológicos que en sus trazos genera 
-            les, coinciden en las distintas regiones mesoamericanas. Así, se ubica una trilogía de periodos o 
-
-            <pb xml:id="yua2021-19" /> 
-            edades culturales que distingue una época preclásica o formativa, una clásica y finalmente una 
-            postclásica<hi rend="sup">6</hi>.</p>
-
-            <p>Un hecho destacable al contemplar la vastedad de este escenario es que prácticamente 
-            todo el territorio habitable estuvo poblado en algún momento del gran horizonte prehispánico. 
-            Según hace notar Bonfil Batalla (2003: 30), esto significa que la civilización mesoamericana
-            se nutre de experiencias sociales que son producto de afrontar una gama múltiple y variada de 
-            situaciones, tanto por la diversidad de los nichos ecológicos en que ocurrieron los desarrollos 
-            culturales locales, como por los rasgos cambiantes de los pueblos que en muchos casos los ocu- 
-            paron sucesivamente. Al respecto, este autor concluye:</p>
-
-            <p>
-            <lb rend="indent" />Lo que importa subrayar es el hecho de que la milenaria presencia del hombre en el actual terri-
-            <lb rend="indent" />torio mexicano <emph rend="italic">produjo una civilización</emph>.
-            <lb rend="indent" />[...] no se trata, entonces, de un simple agregado, más o menos abundante, de rasgos cul- 
-            <lb rend="indent" />turales aislados, sino de un plan general de vida que le da trascendencia y sentido a los actos del 
-            <lb rend="indent" />hombre, que ubica a éste de una cierta manera en relación con la naturaleza y el universo, que le 
-            <lb rend="indent" />da coherencia a sus propósitos y a sus valores, que le permite cambiar incesantemente según los
-            <lb rend="indent" />avatares de la historia sin desvirtuar el sentido profundo de su civilización, pero sí actualizándola 
-            <lb rend="indent" />[...] Eso, nada menos: una civilización, es lo que crearon y nos legaron cientos de generaciones
-            <lb rend="indent" />sucesivas que trabajaron, pensaron y soñaron aquí durante milenios (Bonfil 2003: 31, 32)<hi rend="sup">7</hi>. 
-            </p>
-
-            <p>La desigualdad en el desarrollo cultural perceptible entre Mesoamérica y las zonas circun-
-            vecinas "bárbaras" del que constituyó el territorio prehispánico de México tiene como uno de 
-            sus elementos distintivos el desarrollo de la institución estatal, lo que torna lícito clasificar a las 
-            formaciones étnicas en grupos tribales y sociedades protoestatales o Estados <emph rend="italic">stricto sensu</emph>, entre 
-            los cuales y a partir del mayor grado de desarrollo político, las formaciones estatales tendían 
-            a desplegar vínculos tributarios y otros nexos tejiendo redes de dominación socio-económica, 
-            y de hegemonía política y cultural. Al interior de estas formaciones tribales establecidas y co- 
-            hesionadas con base en las  relaciones de parentesco, cuyos lazos podían percibirse aún en los 
-            grupos étnicos que habían evolucionado políticamente hacia la configuración de organismos 
-            estatales -como era el caso de los <emph rend="italic">calpullis</emph> o barrios en Tenochtitlán- la comunidad representa- 
-            ba al sujeto y actor social preeminente. En su seno se realizaba, se encauzaba y mantenía la exis- 
-            tencia de los individuos, de acuerdo con el orden social que representaba y que era entendido y 
-            activamente edificado a imagen y semejanza del orden de sus cosmogonías y cosmologías. Ello 
-            no obstante, en la medida en que dichos organismos tribales avanzaron en su complejización y 
-            división social haciendo emerger estructuras de poder rígidamente jerarquizadas, las cuales so 
-            lían adoptar esquemas teocrático-militares en sus tipos de gobierno, los actores que adoptarían 
-            un papel predominante en la conducción tanto del destino de la sociedad en su conjunto como 
-            en las normas de su vida cotidiana, fueron claramente los señores, quienes se asumieron como 
-            representantes de las deidades y fuerzas  divinas, y los sacerdotes, que oficiaban los rituales del 
-            culto institucionalizado y se ostentaron como dépositarios del saber esotérico y oracular. De 
-            este modo, en esas formaciones sociales caracterizadas por la etnia como el fundamento de su 
-            cohesionamiento y organización -aun en las sociedades estatales arcaicás-, si  bien es la propia 
-            etnia, es decir la comunidad, el actor social preeminente, serán sus señores y sacerdotes quienes 
-            asumirán la función de dirigentes y representantes de la colectividad. Éstos se  arrogaban así el 
-            carácter de actores relevantes, pues eran 1os sujetos emisores del discurso social, encargados de 
-            moldear y difundir el pensamiento y el saber de la comunidad.</p>
-
-            <pb xml:id="yua2021-20" /> 
-            <p>
-            <emph rend="center">EL SISTEMA MÍTICO DE PENSAMIENTOY DE EXPRESIÓN MESOAMERICANO</emph> 
-            </p>
-
-            <p>En efecto, la estructura que brindó un cohesionamiento estable a los pueblos mesoame-
-            ricanos, constituyendo de este modo el basamento de esas formaciones étnicas, fueron los lazos 
-            de parentesco; pero el funcionamiento ordenado de aquellos organismos sociales que en virtud 
-            de la importancia que cobró  para garantizar su pervivencia llegó a revestir la significación de 
-            precepto rector, estuvo expresado por un sistema de pensamiento, el cual era en muchos senti- 
-            dos común a todos esos grupos étnicos. El sistema de pensamiento mesoamericano tuvo, com- 
-            prensiblemente, un carácter mágico-religioso, y la presencia en su seno de los mitos y  alegorías 
-            le confería un significado eminente de cosmovisión mitológica por su contenido y de: expresión 
-            mito-poética por sus relatos. Según  señala Peter D. Joralemon (citado  por Florescano 1995: 
-            13), por la  enorme importancia de las funciones que cumplía en estas formaciones sociales, 
-            tuvo tal arraigo y poder de perdurabilidad que se le observa a lo largo de los grandes tramos de 
-            la periodización del horizonte sociocultural del México prehispánico:</p> 
-
-            <p>
-            <lb rend="indent" />Estoy convencido de que hay un sistema religioso  común a todos los  pueblos mesoamericanos. 
-            <lb rend="indent" />Este sistema tomó forma mucho tiempo antes de que se expresara en el arte monumental olmeca
-            <lb rend="indent" />y sobrevivió  mucho  tiempo  después  de  que  los  españoles  conquistaran  los  principales centros 
-            <lb rend="indent" />políticos y religiosos del Nuevo Mundo. 
-            </p>
-
-            <p>El carácter mítico del pensamiento mesoamericano, omnipresente de manera natural 
-            como referente epistémico en la visión del mundo y como instrumento o guía para la acción 
-            en todos los grandes y pequeños actos de la vida de esas comunidades y señoríos, por su propia 
-            forma de formulación y difusión que eran esas narrativas o relatos del mito, convertía el vínculo 
-            entre el propio pensamiento y sus expresiones discursivas en un nudo indisoluble e indiferen- 
-            ciado. Así, pensamiento y expresión en el sistema mitológico del mundo indígena constituían 
-            las caras de un Jano americano, entreveradas no sólo por su forma sino en el contenido mismo 
-            de esos  mensajes fundamentales para las sociedades del escenario indio original de México y 
-            Centroamérica.</p> 
-
-            <p>En lo que concierne al vínculo entre pensamiento y acción, tratándose aquél de un men-
-            saje  mágico-religioso, sus  contenidos se hacían presentes en todas las esferas de la vida de la 
-            comunidad y de los individuos, quienes comúnmente se consideraban o entendían como cria-
-            turas y sirvientes de sus dioses tutelares.</p> 
-
-            <p>En forma paralela, el vínculo entre pensamiento y palabra que se presentaba en esas na- 
-            rraciones de sucesos intensamente significativas e indubitablemente creíbles para las comunida- 
-            des que eran los mitos, guardaba una doble implicación que lo entreveraba de un modo íntimo 
-            y consustancial: el núcleo del mensaje mítico se fijaba en la forma de su expresión discursiva 
-            que de ese modo se constituía en un sustrato de preservación transgeneracional y aun secular 
-            del mito; en tanto que de las variaciones de esa misma expresión dependía la actualización y 
-            resignificación del mensaje, haciéndolo dúctil y compatible con las circunstancias emergentes 
-            del acontecer de esas comunidades.</p> 
-
-            <p>De tal manera, el contenido y las formas de aquellos retazos del pensamiento mesoame-
-            ricano se anudaban en las textualizaciones de su expresión discursiva, que se plasmaban tanto 
-            mediante la oralidad -alocuciones con recursos lingüísticos y estéticos: sonoridad, ritmo, esti- 
-            lización, etc.- como en representaciones gráficas de tipo sígnico: pictóricas, iconográficas y de 
-            notación escritural, en soportes materiales duros o blandos diversos.</p> 
-
-            <p>Si el pensamiento indígena mesoamericano se hallaba referenciado por las necesidades 
-            ingentes de la sobrevivencia y las capacidades de explicación del universo, es  decir, por las de 
-            terminaciones del entorno y del imaginario de su cosmovisión, la palabra en que se expresaba se 
-
-            <pb xml:id="yua2021-21" /> 
-            veía asimismo trasminada de esas mismas condicionantes vitales y simbólico-culturales. De este 
-            modo, las textualizaciones en que se plasmaban aquellas alocuciones, se veían permeadas del 
-            cúmulo de significados y connotaciones inherentes a esas expectativas, intereses y motivaciones 
-            refrendadas en el corpus del pensamiento social y, en buena medida, ordenadas y recreadas por 
-            sus señores y sacerdotes, asumiendo ser éstos los intérpretes y aun encarnaciones de la palabra 
-            y voluntad de las deidades contenidas en los designios esclarecidos mediante el saber oracular. 
-            Con estas coordenadas socio-políticas y culturales, el universo del imaginario de Mesoa- 
-            mérica se erigía como un ámbito permeado y sostenido por una lectura y una práctica simbólica 
-            de un pensamiento de carácter lago-estético y una expresión textual mito-poética.</p>
-
-            <p>
-            <emph rend="center">EL PERFIL DEL PENSAMIENTO MESOAMERICANO</emph> 
-            </p>
-
+                    manidad. Su sabiduría narrativa; su entrañable ritmo donde intuimos correspondencias con el 
+                    ritmo del cosmos; su danza de metamorfosis que es la misma que se desprende de la "eficacia 
+                    simbólica" del mito, concurre para darnos lo que José Lezama Lima llamaría "la imagen eva- 
+                    porada" de una cultura: su densidad espiritual, su intuición de la belleza como manifestación 
+                    de la naturaleza y el cosmos; su afirmación de vida. Y todo en el transfondo de uno de los 
+                    acontecimientos de destrucción de civilización y cultura más terribles protagonizados  por la 
+                    cultura occidental. Occidente ha reconocido la culpabilidad de la "civilización de la razón" en 
+                    el Holocausto; la Iglesia ha reconocido la ceguera del dogma frente a la conclusión de Galileo; 
+                    pero la modernidad que se inicia con el descubrimiento de un Nuevo Mundo aún no ha creído 
+                    necesario reconocer el  más grande de los  actos depredadores donde hombres y culturas, mo- 
+                    numentos y visiones de mundo fueron aniquilados. El "Auto de fe  de Maní", para mencionar 
+                    uno solo de esos terribles actos, perpetrado el 12 de julio de 1562 en Maní (Yucatán) y donde 
+                    Diego de Landa ordenó la destrucción de monumentos y de innumerables códices; pues eran 
+                    "muestras de  idolatría", no impidió sin embargo que de las ruinas brotaran monumentos de 
+                    antiguo y herido esplendor; y manuscritos como el poema de Quetzalcóatl (de autor anónimo) 
+                    y el poema de Nezahualcóyotl (escrito  por el rey y poeta) e insospechados códices mayas y 
+                    mexicas; u obras como el <emph rend="italic">Rabinal Achi</emph> (drama que data del siglo XV y que ha sido declarado 
+                    "obra maestra de la tradición oral e intangible de 1a humanidad" en 2005 por la Unesco) o 
+                    las  historias del <emph rend="italic">Chilam Balam</emph> (hechos de la cultura maya yucateca, de los siglos XVI y XVII, 
+                    redactados después de la conquista) y, de manera ejemplar, el <emph rend="italic">Popol Vuh</emph>, obra que emerge con
+                    el esplendor de su perfección, en contraposición al derrumbe, la aniquilación y la ruina, para 
+                    señalar de manera contundente a los ojos de la historia, de las culturas; a los ojos de las estrellas 
+                    si éstas pudiesen ser testigos, la riqueza de una civilización que en la belleza y el extravío de sus 
+                    cantos dio de pronto de tope con una fuerza destructora que no podía ser sino de la barbarie 
+                    por la intolerancia del otro.</p> 
+                <p>Desde la fuerza de su oralidad, desde la primera versión en alfabeto latino, en el manus- 
+                    crito de Chichicastenango, de  mediados  del siglo  XVI; desde la primera traducción de Fray 
+                    Francisco Ximénez, en 1722; y, a partir de entonces, desde sus diversas traducciones, el <emph rend="italic">Popol 
+                    Vuh</emph> ha producido el asombro de la humanidad por su saber cosmogónico, por la complejidad 
+                    representada en su relato del trabajo de la creación del ser y del lugar del hombre en el mundo; 
+                    en el enfrentamiento ético de los héroes; en la experiencia de la pérdida y de la muerte; en el 
+                    <pb xml:id="yua2021-11" /> 
+                    juego de metamorfosis y la multiplicidad de mundos; en nuevos caminos de la espiritualidad.</p> 
+                <p>El impacto del <emph rend="italic">Popol Vuh</emph>, de los códices, de otros documentos prehispánicos es incuan- 
+                    tificable en la reflexión antropológica y en el imaginario literario. Con relación a esto último 
+                    mencionemos a títulos de ejemplo las novelas de Rosario Castellanos: <emph rend="italic">Oficio de tinieblas</emph> y <emph rend="italic">Ba- 
+                    lún Canán</emph>; y de manera especial la obra toda de Miguel Ángel Asturias: la poética del mito en 
+                    <emph rend="italic">Leyendas de  Guatemala</emph>; principios de metamorfosis en <emph rend="italic">Mulata</emph> de  tal; la eficacia simbólica del mito en <emph rend="italic">Hombres de maíz</emph>, por ejemplo, donde es posible observar la presencia del <emph rend="italic">Popol Vuh</emph>
+                    como origen o fuente, nos indica la importancia de este libro fundamental para la condición 
+                    del ser en el continente.</p> 
+                <div type="subsection">
+                    <head>LA METAMORFOSIS</head>
+                    <p>El relato mítico, tanto de "la tradición clásica" (mitología grecorromana) como del "pen- 
+                        samiento salvaje", le ha dado al relato estético moderno el principio de metamorfosis que, como 
+                        dice Cassirer (1962), "en el mito la relación causal no es una relación entre cosas, sino más bien 
+                        una relación entre cambios que en determinados momentos se producen en ciertos objetos. El 
+                        mito entiende el proceso de acusación sólo como simple transformación entre formas de existir 
+                        individuales concretas".</p>
+                    <p>La metamorfosis parece tematizarse eh el mito, a partir de cuatro núcleos básicos: el En- 
+                        gaño (el dios es un sujeto en metamorfosis que, para decirlo así, se enmascara para alcanzar su 
+                        objeto); el Castigo (el dios metamorfosea otro para castigar un atrevimiento); la Salvación (el 
+                        dios, intercediendo, metamorfosea otro para salvarlo o facilitar la huida) y, por último, el Don
+                        (el dios produce la metamorfosis para otorgar un premio o matizar un castigo, infligido, quizás,
+                        por otro dios).</p>
+                    <p>Zeus-Júpiter y Hera-Juno, los dioses mayores de la mitología grecorromana, protago-
+                        nizan, con una gran recurrencia, el movimiento Engaño-Castigo de la metamorfosis: el uno, 
+                        alcanzando las formas del engaño para satisfacer sus infieles deseos de dios enamorado, la otra, 
+                        esposa vigilante, vengativa, celosa, utilizando su poder para transformar sus ocasionales rivales 
+                        en formas distantes, no peligrosos.</p>
+                    <p>Ovidio refiere esa dialéctica de amor y celo como motor de la metamorfosis. Así, lo es
+                        convertida en vaca por Júpiter (<emph rend="italic">Las metamorfosis</emph>, libro L., v. 601-688) para evitar la furia de 
+                        Juno; Júpiter se metamorfosea en toro para raptar a Europa (libro II, v. 833-875), o en Diana, 
+                        para seducir a la ninfa Calisto (libro II, v. 401-495). Juno, a su vez, castiga en Calisto la infide- 
+                        liad de Júpiter transformándola en oso, castiga a Eco a ser sólo una voz fragmentaria (libro III, 
+                        v. 356-510) por ser cómplice de esas infidelidades, etc.</p>
+                    <p>El Engaño y el Castigo constituyen la primera pareja generadora de la metamorfosis en el 
+                        mito. Así, como Castigo, Aciroe es transformada en yegua per Ja divinidad, Bato en roca, Me-
+                        fusa convierte en piedra a quien ose mirarla y Palas castiga la soberbia de Aracné transformán- 
+                        dola en roca. Circe, tal como lo refiere la Odisea,  transforma los amigos de Ulises en cerdos y la 
+                        curiosidad de Apuleyo trae como consecuencia su transformación en un asno (<emph rend="italic">Las metamorfosis
+                        o el asno de otro</emph>, 161 d.c). En <emph rend="italic">Las mefamorfosis</emph> de Ovidio se expresa el temor ante ese poder de la 
+                        divinidad: "Pero entonces todos, mujeres y hombres, temen la manifiesta cólera de la divinidad 
+                        y todos veneran con gran celo el gran poder" (libro VI, v. 313-5).</p>
+                    <p>En el contexto de la presente edición, denominada <emph rend="italic">Póopol Wuuj</emph> por los traductores 
+                        pues este nombre y esta grafía corresponderían más estrechamente a la expresión maya. En la 
+                        mitología mesoamericana (maya-quiché, yucateca, cakchiquel y náhuatl), la  pareja Engaño- 
+                        Castigo también es un centro generador de metamorfosis. En la segunda parte del <emph rend="italic">Popol Vuh</emph>, 
+                        Huhahpú e Ixbalanqué transforman a Zipacná en piedra después de vencerlo y, por arte de de 
+                        <pb xml:id="yua2021-12" /> 
+                        magia, transforman a Hunbatz y Hunchuén en monos. Por su parte, ellos se transforman en 
+                        muchachos pobres para engañar a los señores de Xibalbá y vencerlos.</p>
+                    <p>La otra pareja generadora de metamorfosis, la Salvación y el Don, se presenta con menos 
+                        recurrencia en el mito. Ovidio, una vez más, nos refiere, por ejemplo, cómo Dafne, perseguida 
+                        por Febo (Apolo), es transformada en Laurel (libro I, v. 454-567), cómo Júpiter transforma a 
+                        las  Arcas y a Calisto en dos constelaciones para evitar que sean víctimas de la ira (libro  11, v. 
+                        496-530) o como Acis es transformada en río para evitar la ira de Polifemo. El <emph rend="italic">Popol Vuh</emph>, por su 
+                        parte, refiere en un hermoso paisaje cómo Hunahpú e Ixbalanqué se transforman ellos mismos 
+                        para salvarse: "Los de Xibalbá molieron entonces sus huesos y fueron a arrojarlos al río. Pero 
+                        éstos no fueron muy lejos, pues asentándose al punto en el fondo del agua, se  convirtieron en 
+                        hermosos muchachos. Y cuando de nuevo se manifestaron tenían en verdad sus  mismas caras" 
+                        (segunda parte, cap. XII). Y, según la mitología náhuatl, Quetzalcóatl se transformó en hormiga 
+                        para robar el grano de  maíz, carne y alimento del hombre. Refiriéndose a la Salvación como 
+                        generador de metamorfosis, María Zambrano ha señalado su fundamento: "La metamorfosis es 
+                        la forma en que todo lo viviente evita el padecer. Y todos los embriagados de vida, apetentes de 
+                        ser más u otra cosa que hombres, han soñado atravesar el mundo metamorfoséandose. Anhelo 
+                        que es la clave de todas las ansias de evasión, hasta de la legítima que se llama arte."</p>
+                    <p>El Don es aún menos frecuente (su frecuencia se intensifica en esa derivación del mito 
+                        que es el cuento de hadas). Señalemos dos casos de la mitología grecorromana: la metamorfosis 
+                        de Eson, padre de Teseo, en un joven, por Medea (Ovidio, libro VII, v. 159-296) y, fundamen- 
+                        talmente, el mito de Proteo referido en el canto cuarto de la Odisea, el cual, atrapado por Me 
+                        nelao, se metamorfosea inúltilmente hasta otorgar el don que se le pide: la revelación de futuro 
+                        inmediato de los aqueos y la situación de Ulises en la isla de la ninfa Calipso.</p>
+                    <p>Engaño y Castigo, Salvación y Don, la metamorfosis manifiesta el poder de los dioses y 
+                        pone de relieve uno de los rasgos constitutivos del mito: la liberación de las lógicas del aconte- 
+                        cimiento narrativo que el mito pone el escena.</p>
+                    <p>La metamorfosis incesante parece poner en escena el ansia de libertad del hombre, la 
+                        "repercusión" de la felicidad perfecta, tal como lo sabemos desde Lautréamont: "La metamor- 
+                        fosis -dice en Los cantos de Maldoror- no apareció a mis ojos sino como la alta y magnánima 
+                        repercusión de una felicidad perfecta que esperaba desde hacía mucho tiempo".</p>
+                    <p>La metamorfosis rige las ondulaciones del relato en el <emph rend="italic">Popol Vuh</emph>, creando, desde la pers- 
+                        pectiva de una cultura, un ámbito de belleza para la instauración del ser en el mundo.</p> 
+                </div>
+                <div type="subsection">
+                    <head>LA PRESENTE EDICIÓN</head> 
+                    <p>En este contexto la presente edición del <emph rend="italic">Póopol Wuuj</emph>, bajo el erudito cuidado y la sen- 
+                        sibilidad poética de Rubén Reyes Ramírez, y la "curaduría" y traducción por parte de un gran 
+                        equipo de traductores coordinado por el  maestro y especialista de la lengua y la cultura maya 
+                        Fidencio Briceño Chel, en edición bilingüe (maya yucateco y español), entrega la obra al ha- 
+                        blante maya que nos es contemporáneo; y realiza  una adaptación al español yucateco de la 
+                        traducción castellana de Adrián Chávez. En esta edición el gran libro de los mayas realiza su 
+                        profunda metamorfosis hacia su condición originaria y produce de este modo un renacimiento 
+                        de la obra que se ofrece al lector del siglo XXI.
+                        <pb xml:id="yua2021-13" /></p>
+                </div>
+            </div>
+            <div type="introduction">
+                <head>EL POPOL VUH,  OBRA CUMBRE DEL PENSAMIENTO Y DE LA LITERATURA DE AMÉRICA</head> 
+                <head>FIDENCIO BRICEÑO CHEL</head> 
+                <head>RUBÉN REYES RAMÍREZ</head>
+                <div type="subsection">
+                    <head>EL POPOL VUH, PENSAMIENTO Y PALABRA</head> 
+                    <p>Es un hecho comúnmente admitido en los estudios culturales del continente que el 
+                        <emph rend="italic">Popol Vuh</emph> tiene un sitio firme entre las obras cumbres que expresan de un modo más notable 
+                        y completo el imaginario simbólico y cultural de los pueblos que protagonizaron la prehistoria 
+                        y el horizonte germinal de la historia de esta gran experiencia humana que hoy llamamos La- 
+                        tinoamérica. Ese horizonte histórico cuenta con una proyección de más de quince siglos y en 
+                        su transcurso se produjo la floración de múltiples culturas originarias, en las que descuellan los 
+                        procesos civilizatorios de Mesoamérica y los Andes, los cuales se ubican entre las formaciones 
+                        estatales embrionarias de la historia universal, así como el descubrimiento y conquista ibéricos 
+                        de este Nuevo Mundo a partir de 1492. Acontecimiento que, además de haber sido un encuen- 
+                        tro violento y rapaz cuyo impacto tiene el carácter de auténtico genocidio y etnocidio, constitu- 
+                        yó a la vez el alumbramiento de la cultura y las naciones latinoamericanas y, como afirma Edgar 
+                        Morin (2005: 15), significa el inicio de la actual época planetaria.</p>
+                    <p>Pero el <emph rend="italic">Popol Vuh</emph>, a un tiempo que constituye el depósito y vehículo del mensaje medular 
+                        de una de las teogonías más notables del pensamiento indígena americano, manifiesta con elo- 
+                        cuencia y luminosidad singulares una naturaleza de hechura artística de la lengua que lo coloca 
+                        cabalmente en la esfera de las creaciones literarias, dando cuenta del surgimiento de la literatura 
+                        entre los aportes del proceso cultural de los pueblos originarios de Latinoamérica.</p> 
+                    <p>Aunque el conocimiento actual de los significados medulares de la obra no termina aún 
+                        de aportar una comprensión exhaustiva de las distintas sagas del relato, sí ha llevado a aquilatar, 
+                        con certeza y amplitud, la elevada estatura de su valor como construcción espiritual humana; en 
+                        cambio, la índole artística consustancial de la obra, tanto por el desconocimiento frecuente de 
+                        las lenguas indígenas americanas como también por el hecho de que hemos estado largamente 
+                        trasminados  de  una visión eurocéntrica de  la cultura y  del arte, no ha sido sino lentamente 
+                        reconocida por la crítica en la literatura latinoamericana.</p>
+                    <p>Para la mayoría de los escasos manuales clásicos que pretenden historiar la literatura 
+                        latinoamericana o hispanoamericana desde sus comienzos (Sánchez 1937, Anderson Imbert 
+                        1954, Lazo 1968, Grossmann 1969, etc.), el triunfo rápido, definitivo y total de la cultura 
+                        literaria al estilo europeo sobre las antiguas culturas literarias autóctonas no deja lugar a dudas. 
+                        Escamoteando la existencia de literaturas (orales) anteriores a la presencia europea en América, 
+                        o despachándolas, para luego olvidarse de ellas, en el primer capítulo.
+                        <pb xml:id="yua2021-15" /> </p>
+                    <quote>[ ... ] la literatura latinoamericana, en estos trabajos, aparece bajo la imagen de un río, por cierto
+                        amplio y con muchos afluentes, pero único; como una práctica humana protagonizada por un
+                        grupo que, pese a sus transformaciones a lo largo de los siglos, parece siempre el "mismo": el  de 
+                        los letrados o intelectuales europeos o "europeizados" (Lienhard 1989: 56)<hi rend="sup">1</hi></quote>
+                    <p>En rigor, este cuestionamiento que descubre una opacidad de nuestra mirada en cuanto a 
+                        la literatura, es válido incluso para el pensamiento indígena de América. Ante sus registros que, 
+                        a pesar de la destrucción y el intento generalizado de extirpar y de negar las culturas originarias, 
+                        subsisten y son una evidencia cada vez  más clara; se ha tendido a desestimarlos ignorando su 
+                        permanencia o minusvalorando su calidad y su significado. Para intentar una comprensión ade- 
+                        cuada tanto de ese pensamiento como de su expresión literaria es imprescindible despojarnos de 
+                        los viejos esquemas y conceptos analíticos que, surgidos de la experiencia cultural europea, nos 
+                        han sido implantados como instrumentos de validez universal. Carlos Montemayor, a propó-
+                        sito de ese "ejercicio artístico" que él identifica en los libros mayas del <emph rend="italic">Chilam Balam</emph>, advierte 
+                        de dicha necesidad en estos términos: "debemos acercarnos no bajo los criterios de la historia 
+                        literaria de occidente, sino hacia la novedad del  encuentro con otro orden estético y de otro 
+                        orden conceptual de lo que es el arte y el idioma."</p>
+                    <p>Y extendiendo la idea en torno a todas las literaturas de las lenguas indígenas de México, 
+                        dicho autor enfatiza:</p> 
+                    <p>
+                    <lb rend="indent"/>Desde este  punto de vista,  necesitamos  nuevos  ojos  para hablar de la literatura en las  lenguas
+                    <lb rend="indent"/>indígenas, necesitamos una nueva actitud, una actitud, diría yo, muy semejante a la del deseo o a
+                    <lb rend="indent"/>la disposición de aprender algo que nunca antes habíamos oído (Montemayor 1991).
+                    </p>
+                    <p>Esta "actitud" semejante al deseo, esta "disposición" para aprender algo nuevo o desco- 
+                        nocido ha de partir, ineludiblemente, de un esforzado intento por caracterizar los rasgos de ese 
+                        pensamiento y de sus formas de expresión en su propio contexto cultural. Es de tal modo un 
+                        empeño de arqueología espiritual que busca escudriñar en los signos los mensajes perdurables 
+                        de un imaginario cultural expresado mediante la lengua, a la luz de la comprensión del entorno 
+                        socio-histórico en que fueron producidos y en cuyo seno cobran su significación genuina.</p> 
+                    <p>En el contexto inmerso en los linderos del horizonte prehispánico -al igual que en otras 
+                        formaciones culturales antiguas del  mundo-, el  pensamiento y la expresión discursiva de las 
+                        comunidades americanas encuentran en su estado primigenio una situación de síntesis indiso- 
+                        luble que podemos establecer como su carácter histórico-natural.</p>
+                    <p>Por el grado de desarrollo del conocimiento sobre la naturaleza y la sociedad que preva- 
+                        lecía entre los pueblos prehispánicos, el contenido de esos mensajes tuvo un carácter filosófico 
+                        (eminentemente mágico-religioso) y estaba orientado en lo fundamental a producir una com- 
+                        prensión ordenada del universo y de la comunidad, así como a controlar el acontecer sucesivo 
+                        de los hechos naturales y los actos humanos.</p> 
+                    <p>En razón de ello, los estudios acerca de este pensamiento han adoptado la categoría 
+                        de mito con que la antropología y la sociología rigieran sus investigaciones sobre el llamado 
+                        "pensamiento primitivo". Pero, como advierte Luis Alberto  Reyes (2009: 19), aunque dicho 
+                        concepto constituye un instrumento útil, hay que precavernos de considerarlo como el prin- 
+                        cipio único y último del pensar indígena americano y de emplearlo en modo absoluto para 
+                        caracterizar el origen, la verdad y los temas de tal pensamiento<hi rend="sup">2</hi>.</p>
+                    <p>El trasunto central de coincidencia del pensamiento indígena americano con las socieda- 
+                        des antiguas de la prehistoria universal es el de la dualidad femenina/masculina como principio 
+                        originario, el cual es típico de las sociedades agrarias, y el tránsito al principio único, masculino, 
+                        surgido del poder político y de las  sociedades  estatales. En forma consiguiente, resulta válido 
+                        <pb xml:id="yua2021-16" /> 
+                        admitir la existencia de ontologías y teologías (dualista y monista) propias de aquellos princi- 
+                        pios creadores y el surgimiento de conflictos que expresan su transición y reemplazo.</p>
+                    <p>En todo caso, aunque la sustancia del mito es la historia que relata, algo esencial es que la 
+                    noción misma de ello condensa esa síntesis germinal entre mensaje y textualización, al plantear 
+                    que aquél es una "narración altamente significativa y creíble para un pueblo" (Reyes 2009: 15). 
+                    A su vez, en un estudio desde la óptica del arte, analizando la diacronía del "nexo exis-
+                    tente entre los procedimientos tropológicos y el proceso cognoscitivo ampliamente entendido",
+                    Guillermo Rodríguez Rivera sostiene que "los orígenes del tropo se confunden con los del 
+                    propio  pensamiento". Y tal correspondencia -según puntualiza este autor- "implica no sólo 
+                    una conformidad entre los contenidos del tropo y las  corrientes del  pensamiento dominante 
+                    en un periodo dado sino, también, una relación estructural de homología entre ambos niveles"  · 
+                    (1999: 64, 65).</p> 
+                    <p>Examinando el fenómeno  a partir de las tradiciones literarias europea y americana, Ro- 
+                    dríguez Rivera observa que en esa fusión germinal subyace el hecho de que la "imagen" -unidad 
+                    elemental del pensamiento artístico- entraña un inobjetable poder cognitivo, porque existe una 
+                    distancia esencial entre "objeto empírico" y "objeto artístico" <hi rend="sup">3</hi>.</p> 
+
+                    <p>
+                    <lb rend="indent"/>Lo característico de la imagen artística será su capacidad para entregar lo abstracto a través de 
+                    <lb rend="indent"/>lo concreto, lo universal a través de lo singular. Y es por esta capacidad sintetizadora por la que
+                    <lb rend="indent"/>podemos afirmar que el arte es, entre otras cosas,conocimiento (Rodríguez Rivera 1999:  12).
+                    </p>
+
+                    <p>Y al centrar la atención en las estructuras de los resortes cognitivos embrionarios y las 
+                    imágenes artísticas aurorales que les corresponden, este autor (1999: 51) identifica el mito y la 
+                    alegoría como las formas tropológicas que expresan ese carácter unitario y totalizador propio 
+                    del pensamiento animista o mágico-religioso, en el cual los mundos de lo cósmico y lo terrenal, 
+                    lo inane y lo viviente, lo animal y lo humano, lo  real y lo fantástico son uno y el  mismo, o al 
+                    menos se transfiguran y convierten mutuamente sin ásperas rupturas.</p> 
+
+                    <p>Pero si por virtud de esa fusión de pensamiento y palabra perceptible en las sociedades 
+                    origiriarias de América hallamos un pensamiento logo-mítico y un lenguaje mito-poético tanto 
+                    en los soportes de la expresión mediante la oralidad y las formas de representación escritural, la 
+                    función  estética que define por antonomasia al lenguaje literario aparece en modo fehaciente, 
+                    como un rasgo claro de sutileza y eufonía y aun como una lengua sublime distinguible del habla 
+                    de la vida cotidiana; si bien su presencia ocurre de manera entreverada a otras funciones en los 
+                    relatos mitológicos y las alocuciones poéticas de sus grandes obras y registros.</p> 
+
+                    <p>El hecho de la existencia de una lengua con una formalización singular y que contiene 
+                    un sentido estético consustancial a sus enunciados expresa no otra cosa que el surgimiento de 
+                    la literatura en los pueblos indígenas originarios de América. Al respecto, Carlos Montemayor 
+                    (1991), aludiendo a las lenguas indígenas de México, anota categóricamente:</p>
+
+                    <p>
+                    <lb rend="indent"/>[...] literatura mexicana es también la que ha brotado y se ha mantenido en nuestro suelo desde
+                    <lb rend="indent"/>antes de  1492: la que, escrita o no, se ha cantado en maya, en náhuatl, en purépecha, en otomí,
+                    <lb rend="indent"/>en zapoteco, en chinanteco, en tantas lenguas en que se sostiene el vigor de los pueblos de Mé
+                    <lb rend="indent"/>xico. Una literatura a veces sagrada; otras veces regocijada y maliciosa, otras más poseedora de
+                    <lb rend="indent"/>conocimientos ancestrales. 
+                    </p>
+
+                    <p>Enfocando centralmente el problema de la naturaleza literaria de estas creaciones del 
+                    pensamiento indígena de  México y las fronteras entre literatura y lengua hablada, el propio 
+                    Montemayor (1991) observa:</p>
+
+                    <pb xml:id="yua2021-17" /> 
+
+                    <p><lb rend="indent"/>[...] la literatura es sobre todo una particular comunicación dentro de una comunidad idiomáti-
+                    <lb rend="indent"/>ca; que representa uno de los desarrollos de expresividad del idioma que ninguna otra forma ha-
+                    <lb rend="indent"/>blada puede conseguir, y que independientemente de que esté escrita o se transmita por tradición 
+                    <lb rend="indent"/>oral, es una lengua formal, artificial, que se constituye mediante una técnica compleja.
+                    <lb rend="indent"/>[...] disponemos de  muchos ejemplos universales de la literatura como una construcción
+                    <lb rend="indent"/>formal, compleja, artificial respecto a la lengua hablada, que no requiere de la escritura para fi-
+                    <lb rend="indent"/>jarse ni transmitirse .... Pero en las lenguas indígenas de México también hay materiales que son
+                    <lb rend="indent"/>magníficos ejemplos de un ejercicio literario, como los rezos de sacerdotes mayas en Yucatán, los
+                    <lb rend="indent"/>cantos de juegos o cancioncillas bailables en casi todas las lenguas y ciertas formas solemnes de
+                    <lb rend="indent"/>alocución, especialmente asumidas por los ancianos de las comunidades, como los discursos de
+                    <lb rend="indent"/>bodas entre los zapotecas.
+                    </p>
+
+                    <p>La experiencia literaria es entonces un fenómeno que -a partir del concurso de ciertas cir- 
+                    cunstancias históricas- se revela en todas las lenguas; no obstante, merced a su propio proceso de 
+                    formación en entornos socio-culturales diversos, ocurre que cada experiencia literaria reviste rasgos 
+                    y formas singulares, los cuales configuran su corpus y el perfil de su expresión. Así, surgida en el 
+                    horizonte cultural de los pueblos originarios de América, caracterizado por una serie de notables 
+                    cosmovisiones cuyos mensajes logo-míticos se expresaban en textos mito-poéticos, las literaturas 
+                    indígenas más antiguas del continente florecieron como las creaciones lingüísticas de un imagina 
+                    rio simbólico y cultural, en las que era patente la función estética de las lenguas asociada a otras 
+                    funciones valiosas para esas comunidades y plasmadas a través de los soportes de la oralidad y la 
+                    escritura vinculados a distintas manifestaciones de representación, como danzas, cantos y escenifi- 
+                    caciones teatrales o parateatrales. El hecho de que en estas experiencias culturales las literaturas no 
+                    surgieran como una textualización con el propósito eminente del placer o goce estético, es decir 
+                    que no aflorasen como un discurso autónomo de ficcionalización, no autoriza a despojarlas de su 
+                    naturaleza estrictamente literaria ni a excluirlas de la literatura latinoamericana. Otras tradiciones 
+                    literarias de la antigüedad cuyas obras cúspide consideramos ahora sin lugar a dudas como cimien- 
+                    tos  de la literatura universal nacieron con esa misma cualidad de mezcla o fusión de la finalidad 
+                    estética, y aun la propia literatura latinoamericana durante la época colonial y el lapso de los países 
+                    políticamente independientes sigue participando' de esta condición. En otro sentido, al incorporar 
+                    las literaturas indígenas al patrimonio literario de Latinoamérica, tal presencia de la función esté 
+                    tica aparejada a finalidades varias en las obras del canon, confirma en plenitud la idea de Alfonso 
+                    Reyes (1997: XV 40), en cuanto a que la literatura latinoamericana surge y se desarrolla con un 
+                    carácter "ancilar" o instrumental.</p> 
+                </div>
+                <div type="subsection">
+                    <head rend="center">EL HORIZONTE CULTURAL DE MESOAMÉRICA</head> 
+                    <p>El entorno del <emph rend="italic">Popol Vuh</emph> está demarcado nítidamente por el horizonte socio-cultural de 
+                    Mesoamérica.  Durante los momentos genésicos, en las  formaciones sociales originarias de los 
+                    pobladores de este horizonte, es posible advertir que existe una profunda diferencia de desarro- 
+                    llo cultural entre la extensa región llamada Aridamérica, "tierra de chichimecas" o de "bárba- 
+                    ros" -en la zona septentrional y ciertos ámbitos periféricos del actual territorio de México-, y 
+                    la región mesoamericana, la cual constituye sin duda un polo generador y difusor de cultura; 
+                    lo que se  aprecia desde la época prehispánica y se irá traduciendo durante la Colonia en una 
+                    diferenciación regional. México se fue conformando en rigor por una gran diversidad de pue- 
+                    blos, comunidades y formaciones sociales, los  cuales entienden al mundo y organizan la vida 
+                    de maneras múltiples, en cuyo seno florece el proceso civilizatorio esencial de  Mesoamérica, 
+                    gestado y concebido a través de un trayecto histórico largo y complejo.</p> 
+
+                    <pb xml:id="yua2021-18" /> 
+                    <p>En una suerte de retablo indígena que describe el mundo bárbaro de  este territorio de 
+                    bipolaridad cultural al momento de la irrupción del conquistador hispano y su proyección en 
+                    el régimen colonial de la Nueva España, J-M. G. Le Clézio (2008: 152,153) refiere:</p> 
+
+                    <p>
+                    <lb rend="indent" />A la llegada de los españoles, en los siglos XVI y XVII, los imperios civilizados y agrícolas de Me-
+                    <lb rend="indent" />Alianza de México-Tenochtitlán y el imperio del cazonci Zuangua de los purépechas, comienza
+                    <lb rend="indent" />una comarca salvaje, inculta, que va del Atlántico al Pacífico y se extiende hasta el Gran Norte, 
+                    <lb rend="indent" />es decir, un territorio más vasto que toda Europa. Su población es innumerable cuando llegan 
+                    <lb rend="indent" />los conquistadores, verdaderos fragmentos de naciones que tal vez testimonian la explosión de las 
+                    <lb rend="indent" />antiguas sociedades rurales del Este que, por la fuerza de las circunstancias y debido al desarrollo
+                    <lb rend="indent" />de las armas, se volvieron depredadoras.
+                    </p>
+
+                    <p>En el centro de este gran anillo pluriétnico y de una dispersión cultural amplísima se 
+                    situaba el complejo civilizatorio de Mesoamérica. La civilización mesoamericana es el cimiento más 
+                    profundo de lo  indio de México. Siguiendo de cerca a Guillermo Bonfil Batalla (2003:  23 y ss.), 
+                    se puede observar que el desenvolvimiento de ese gran horizonte sociocultural despunta con 
+                    los pobladores primitivos de dicho territorio y culmina con la edificación de las formaciones 
+                    estatales arquetípicas de Mesoamérica, lo cual puede esbozarse en un relato como éste, donde 
+                    sobresalen los rasgos siguientes:</p>
+
+                    <p>En el territorio mexicano, floreció y se desarrolló la original civilización de Mesoaméri- 
+                    ca<hi rend="sup">4</hi>. Como las geografías de casi todos los países del orbe, el espacio que hoy es México ha visto 
+                    surgir y desaparecer en él, durante un transcurrir de milenios, multitud de sociedades singulares 
+                    a las  que es  lícito llamar, en términos genéricos, pueblos. Pero, a diferencia de lo que ocurrió 
+                    en otras regiones, en el territorio mexicano ha existido una continuidad cultural, lo cual hizo 
+                    posible el nacimiento y desarrollo de una civilización propia.</p>
+
+                    <p>La civilización mesoamericana surgió como resultado de la invención de la agricultura. 
+                    Este fue un proceso largo, no una  transformación instantánea. La actividad agrícola inició 
+                    en las cuencas y los valles semiáridos del centro de México entre 7,500 y 5,000 años antes de 
+                    nuestra era.  En ese  período comienzan a domesticarse el frijol, la calabaza, el huautli o ama 
+                    ranto, el  chile, el  jitomate, el  guaje, el  aguacate y el  maíz. El cultivo del  maíz constituyó  el 
+                    logro primordial del sistema agrícola de la milpa y quedaría vinculado en forma indisoluble a 
+                    la civilización  mesoamericana.  Su "domesticación"  trajo consigo el máximo cambio morfoló-
+                    gico ocurrido en cualquier planta cultivada; su adaptación permitió el cultivo en un espectro 
+                    de climas y altitudes que es el más amplio y diverso en relación con todas las demás plantas 
+                    domesticadas de valor alimentario y económico. Entre los años 2,000 y 1,500 antes de nuestra 
+                    era, culminó el proceso de sedentarización y los productos cultivados constituían ya la mitad 
+                    de la dieta. Surgieron entonces las aldeas permanentes donde, además, se fabricaba cerámica, 
+                    invención aparecida hacia el año 2,300. Puede afirmarse que en ese momento (1,500 antes de 
+                    nuestra era) dio inicio la civilización mesoamericana<hi rend="sup">5</hi>. Por entonces comenzó en las tierras del 
+                    trópico húmedo, en el sur de Veracruz, la cultura olmeca, que ha sido estimada como modelo 
+                    fundacional de las expresiones tempranas del arte de Mesoamérica. Entre 800 y 200 a.C., ocu- 
+                    rre el auge de la cultura olmeca, surgen probablemente las primeras inscripciones; se establece 
+                    el calendario que perfeccionarán más adelante los diversos pueblos mesoamericanos y se tallan 
+                    esculturas monolíticas que hoy asombran por la calidad técnica de su factura y por su armonía 
+                    plástica (Bonfil2003: 24-26).</p> 
+
+                    <p>En cuanto a la trayectoria de este vasto horizonte sociocultural, los especialistas han esta- 
+                    blecido una periodización con ciertos rangos o esquemas cronológicos que en sus trazos genera 
+                    les, coinciden en las distintas regiones mesoamericanas. Así, se ubica una trilogía de periodos o 
+
+                    <pb xml:id="yua2021-19" /> 
+                    edades culturales que distingue una época preclásica o formativa, una clásica y finalmente una 
+                    postclásica<hi rend="sup">6</hi>.</p>
+
+                    <p>Un hecho destacable al contemplar la vastedad de este escenario es que prácticamente 
+                    todo el territorio habitable estuvo poblado en algún momento del gran horizonte prehispánico. 
+                    Según hace notar Bonfil Batalla (2003: 30), esto significa que la civilización mesoamericana
+                    se nutre de experiencias sociales que son producto de afrontar una gama múltiple y variada de 
+                    situaciones, tanto por la diversidad de los nichos ecológicos en que ocurrieron los desarrollos 
+                    culturales locales, como por los rasgos cambiantes de los pueblos que en muchos casos los ocu- 
+                    paron sucesivamente. Al respecto, este autor concluye:</p>
+
+                    <p>
+                    <lb rend="indent" />Lo que importa subrayar es el hecho de que la milenaria presencia del hombre en el actual terri-
+                    <lb rend="indent" />torio mexicano <emph rend="italic">produjo una civilización</emph>.
+                    <lb rend="indent" />[...] no se trata, entonces, de un simple agregado, más o menos abundante, de rasgos cul- 
+                    <lb rend="indent" />turales aislados, sino de un plan general de vida que le da trascendencia y sentido a los actos del 
+                    <lb rend="indent" />hombre, que ubica a éste de una cierta manera en relación con la naturaleza y el universo, que le 
+                    <lb rend="indent" />da coherencia a sus propósitos y a sus valores, que le permite cambiar incesantemente según los
+                    <lb rend="indent" />avatares de la historia sin desvirtuar el sentido profundo de su civilización, pero sí actualizándola 
+                    <lb rend="indent" />[...] Eso, nada menos: una civilización, es lo que crearon y nos legaron cientos de generaciones
+                    <lb rend="indent" />sucesivas que trabajaron, pensaron y soñaron aquí durante milenios (Bonfil 2003: 31, 32)<hi rend="sup">7</hi>. 
+                    </p>
+
+                    <p>La desigualdad en el desarrollo cultural perceptible entre Mesoamérica y las zonas circun-
+                    vecinas "bárbaras" del que constituyó el territorio prehispánico de México tiene como uno de 
+                    sus elementos distintivos el desarrollo de la institución estatal, lo que torna lícito clasificar a las 
+                    formaciones étnicas en grupos tribales y sociedades protoestatales o Estados <emph rend="italic">stricto sensu</emph>, entre 
+                    los cuales y a partir del mayor grado de desarrollo político, las formaciones estatales tendían 
+                    a desplegar vínculos tributarios y otros nexos tejiendo redes de dominación socio-económica, 
+                    y de hegemonía política y cultural. Al interior de estas formaciones tribales establecidas y co- 
+                    hesionadas con base en las  relaciones de parentesco, cuyos lazos podían percibirse aún en los 
+                    grupos étnicos que habían evolucionado políticamente hacia la configuración de organismos 
+                    estatales -como era el caso de los <emph rend="italic">calpullis</emph> o barrios en Tenochtitlán- la comunidad representa- 
+                    ba al sujeto y actor social preeminente. En su seno se realizaba, se encauzaba y mantenía la exis- 
+                    tencia de los individuos, de acuerdo con el orden social que representaba y que era entendido y 
+                    activamente edificado a imagen y semejanza del orden de sus cosmogonías y cosmologías. Ello 
+                    no obstante, en la medida en que dichos organismos tribales avanzaron en su complejización y 
+                    división social haciendo emerger estructuras de poder rígidamente jerarquizadas, las cuales so 
+                    lían adoptar esquemas teocrático-militares en sus tipos de gobierno, los actores que adoptarían 
+                    un papel predominante en la conducción tanto del destino de la sociedad en su conjunto como 
+                    en las normas de su vida cotidiana, fueron claramente los señores, quienes se asumieron como 
+                    representantes de las deidades y fuerzas  divinas, y los sacerdotes, que oficiaban los rituales del 
+                    culto institucionalizado y se ostentaron como dépositarios del saber esotérico y oracular. De 
+                    este modo, en esas formaciones sociales caracterizadas por la etnia como el fundamento de su 
+                    cohesionamiento y organización -aun en las sociedades estatales arcaicás-, si  bien es la propia 
+                    etnia, es decir la comunidad, el actor social preeminente, serán sus señores y sacerdotes quienes 
+                    asumirán la función de dirigentes y representantes de la colectividad. Éstos se  arrogaban así el 
+                    carácter de actores relevantes, pues eran 1os sujetos emisores del discurso social, encargados de 
+                    moldear y difundir el pensamiento y el saber de la comunidad.</p>
+
+                    <pb xml:id="yua2021-20" /> 
+                </div>
+                <div type="subsection">
+                    <head rend="center">EL SISTEMA MÍTICO DE PENSAMIENTOY DE EXPRESIÓN MESOAMERICANO</head> 
+                    <p>En efecto, la estructura que brindó un cohesionamiento estable a los pueblos mesoame-
+                    ricanos, constituyendo de este modo el basamento de esas formaciones étnicas, fueron los lazos 
+                    de parentesco; pero el funcionamiento ordenado de aquellos organismos sociales que en virtud 
+                    de la importancia que cobró  para garantizar su pervivencia llegó a revestir la significación de 
+                    precepto rector, estuvo expresado por un sistema de pensamiento, el cual era en muchos senti- 
+                    dos común a todos esos grupos étnicos. El sistema de pensamiento mesoamericano tuvo, com- 
+                    prensiblemente, un carácter mágico-religioso, y la presencia en su seno de los mitos y  alegorías 
+                    le confería un significado eminente de cosmovisión mitológica por su contenido y de: expresión 
+                    mito-poética por sus relatos. Según  señala Peter D. Joralemon (citado  por Florescano 1995: 
+                    13), por la  enorme importancia de las funciones que cumplía en estas formaciones sociales, 
+                    tuvo tal arraigo y poder de perdurabilidad que se le observa a lo largo de los grandes tramos de 
+                    la periodización del horizonte sociocultural del México prehispánico:</p> 
+                    <p>
+                    <lb rend="indent" />Estoy convencido de que hay un sistema religioso  común a todos los  pueblos mesoamericanos. 
+                    <lb rend="indent" />Este sistema tomó forma mucho tiempo antes de que se expresara en el arte monumental olmeca
+                    <lb rend="indent" />y sobrevivió  mucho  tiempo  después  de  que  los  españoles  conquistaran  los  principales centros 
+                    <lb rend="indent" />políticos y religiosos del Nuevo Mundo. 
+                    </p>
+
+                    <p>El carácter mítico del pensamiento mesoamericano, omnipresente de manera natural 
+                    como referente epistémico en la visión del mundo y como instrumento o guía para la acción 
+                    en todos los grandes y pequeños actos de la vida de esas comunidades y señoríos, por su propia 
+                    forma de formulación y difusión que eran esas narrativas o relatos del mito, convertía el vínculo 
+                    entre el propio pensamiento y sus expresiones discursivas en un nudo indisoluble e indiferen- 
+                    ciado. Así, pensamiento y expresión en el sistema mitológico del mundo indígena constituían 
+                    las caras de un Jano americano, entreveradas no sólo por su forma sino en el contenido mismo 
+                    de esos  mensajes fundamentales para las sociedades del escenario indio original de México y 
+                    Centroamérica.</p> 
+
+                    <p>En lo que concierne al vínculo entre pensamiento y acción, tratándose aquél de un men-
+                    saje  mágico-religioso, sus  contenidos se hacían presentes en todas las esferas de la vida de la 
+                    comunidad y de los individuos, quienes comúnmente se consideraban o entendían como cria-
+                    turas y sirvientes de sus dioses tutelares.</p> 
+
+                    <p>En forma paralela, el vínculo entre pensamiento y palabra que se presentaba en esas na- 
+                    rraciones de sucesos intensamente significativas e indubitablemente creíbles para las comunida- 
+                    des que eran los mitos, guardaba una doble implicación que lo entreveraba de un modo íntimo 
+                    y consustancial: el núcleo del mensaje mítico se fijaba en la forma de su expresión discursiva 
+                    que de ese modo se constituía en un sustrato de preservación transgeneracional y aun secular 
+                    del mito; en tanto que de las variaciones de esa misma expresión dependía la actualización y 
+                    resignificación del mensaje, haciéndolo dúctil y compatible con las circunstancias emergentes 
+                    del acontecer de esas comunidades.</p> 
+
+                    <p>De tal manera, el contenido y las formas de aquellos retazos del pensamiento mesoame-
+                    ricano se anudaban en las textualizaciones de su expresión discursiva, que se plasmaban tanto 
+                    mediante la oralidad -alocuciones con recursos lingüísticos y estéticos: sonoridad, ritmo, esti- 
+                    lización, etc.- como en representaciones gráficas de tipo sígnico: pictóricas, iconográficas y de 
+                    notación escritural, en soportes materiales duros o blandos diversos.</p> 
+
+                    <p>Si el pensamiento indígena mesoamericano se hallaba referenciado por las necesidades 
+                    ingentes de la sobrevivencia y las capacidades de explicación del universo, es  decir, por las de 
+                    terminaciones del entorno y del imaginario de su cosmovisión, la palabra en que se expresaba se 
+
+                    <pb xml:id="yua2021-21" /> 
+                    veía asimismo trasminada de esas mismas condicionantes vitales y simbólico-culturales. De este 
+                    modo, las textualizaciones en que se plasmaban aquellas alocuciones, se veían permeadas del 
+                    cúmulo de significados y connotaciones inherentes a esas expectativas, intereses y motivaciones 
+                    refrendadas en el corpus del pensamiento social y, en buena medida, ordenadas y recreadas por 
+                    sus señores y sacerdotes, asumiendo ser éstos los intérpretes y aun encarnaciones de la palabra 
+                    y voluntad de las deidades contenidas en los designios esclarecidos mediante el saber oracular. 
+                    Con estas coordenadas socio-políticas y culturales, el universo del imaginario de Mesoa- 
+                    mérica se erigía como un ámbito permeado y sostenido por una lectura y una práctica simbólica 
+                    de un pensamiento de carácter lago-estético y una expresión textual mito-poética.</p>
+                </div>
+                <div type="subsection">
+                <head rend="center">EL PERFIL DEL PENSAMIENTO MESOAMERICANO</head> 
             <p>El corpus del pensamiento mítico indígena poseía, como corresponde a las características 
             esenciales de esta forma de episteme humana, un sentido globalizante, eminentemente sintético 
             y totalizador, que lo tornaba en notables cosmovisiones, las cuales incluían relatos cosmogóni-
@@ -2047,7 +2001,8 @@
 
             <pb xml:id="yua2021-43" /> 
             </p>
-
+            </div>
+            <div type="anotaciones">
             <p><emph rend="center">ANOTACIONES SOBRE EL PROCESO DE TRADUCCIÓN</emph> 
             <emph rend="center">FIDENCIO BRICEÑO CHEL</emph>
             <emph rend="center">GERÓNIMO RICARDO CAN TEC</emph> </p>
@@ -2169,7 +2124,6 @@
             <p>[imagen] 
 
             La creación </p>
-       
             </div> 
         </front>
         <body>
