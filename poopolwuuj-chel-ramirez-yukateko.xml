@@ -146,161 +146,166 @@
                         <title>PRÓLOGO</title>
                         <desc>LA IMAGEN EVAPORADA</desc>
                         <name role="author">Víctor Bravo</name>
-                        <ref target="#PROLOGO">11</ref>
+                        <ref target="#yua2021-011">11</ref>
                     </item>
-
-                    <item>EL <emph rend="italic">POPOL VUH</emph>, OBRA CUMBRE DEL PENSAMIENTO Y DE LA LITERATURA DE AMÉRICA</item> 
-                    <item>Fidencio Briceño Chel / Rubén Reyes Ramírez</item>
-                    <item><emph rend="right">15</emph></item> 
-
-                    <item>ANOTACIONES SOBRE EL PROCESO DE TRADUCCIÓN</item>
-                    <item>Fidencio Briceño Chel / Gerónimo Ricardo Can Tec</item>
-                    <item><emph rend="right">45</emph></item>
-
-                    <item>MA'ILI' TS'ÍIBTA'AK LE <emph rend="italic">PÓOPOL WUUJO'</emph>, U K'AABA' LE WAYA' &lt;K'ICHE' KAAJ&gt;</item>
-                    <item><emph rend="right">50</emph></item> 
-
-                    <item>DESDE ANTES DE ESCRIBIRSE EL <emph rend="italic">POP WUJ</emph>, AQUÍ SE HA LLAMADO "LOS MAGUEYES"</item>
-                    <item><emph rend="right">51</emph></item>
-
+                    <item>
+                        <title>EL <hi rend="italic">POPOL VUH</hi>, OBRA CUMBRE DEL PENSAMIENTO Y DE LA LITERATURA DE AMÉRICA</title> 
+                        <name role="author">Fidencio Briceño Chel</name>
+                        <name role="author">Rubén Reyes Ramírez</name>
+                        <ref target="#yua2021-015">15</ref> 
+                    </item>
+                    <item>
+                        <title>ANOTACIONES SOBRE EL PROCESO DE TRADUCCIÓN</title>
+                        <name role="author">Fidencio Briceño Chel</name>
+                        <name role="author">Gerónimo Ricardo Can Tec</name>
+                        <ref target="#yua2021-045">45</ref>
+                    </item>
+                    <item>
+                        <title>MA'ILI' TS'ÍIBTA'AK LE <hi rend="italic">PÓOPOL WUUJO'</hi>, U K'AABA' LE WAYA' &lt;K'ICHE' KAAJ&gt;</title>
+                        <ref target="#yua2021-050">50</ref> 
+                    </item>
+                    <item>
+                        <title>DESDE ANTES DE ESCRIBIRSE EL <hi rend="italic">POP WUJ</hi>, AQUÍ SE HA LLAMADO "LOS MAGUEYES"</title>
+                        <ref target="#yua2021-051">51</ref>
+                    </item>
                     <item>U TSIKBALIL BIN CH'ENCH'ENKILIL, TÍITBALIL YÉETEL YÓOMANKILIL. BIX U TÍITBAL, U JAK' ÓOLAL YÉETEL  U KUKULAANKIL KA'AN LE BIN KA'ACH JÓOCHBABE'ENO'</item>
-                    <item><emph rend="right">52</emph></item> 
+                    <ref target="#yua2021-052">52</ref> 
 
                     <item>RELATO DE LO QUE TODAVÍA ERA SILENCIO, VIBRACIÓN, FERMENTACIÓN, VIBRABA, ESPASMABA, PALPITABA, 	ES DECIR, CUANDO EL CIELO ESTABA VACÍO</item> 
-                    <item><emph rend="right">53</emph></item>
+                    <ref target="#yua2021-053">53</ref>
 
                     <item>WAY BÍIN IN WA'ALO'ON BIX ÚUCHIK U KÍIMIL WUKUB KÁAKIX LE KAJTS'ITS' ÓOLTA'ABE', LE KA JBEETA'AB WÍINIK TUMEN TSÁAKOL, BÍITOLE'.</item>
-                    <item><emph rend="right">64</emph></item>
+                    <ref target="#yua2021-064">64</ref>
 
                     <item>AQUÍ DIREMOS AHORA LA MUERTE DE NUESTRAS SIETE VERGÜENZAS, CUANDO LO VENCIERON, CUANDO SE CREÓ LA GENTE POR EL ARQUITECTO, EL FORMADOR</item>
-                    <item><emph rend="right">65</emph></item> 
+                    <ref target="#yua2021-065">65</ref> 
 
                     <item>LE BIN KAJ CH'I'IN WUKUB KÁAKIX TUMEN JUN AJPÚUB, XBÁALANKEJ YÉETEL LE JOBONNÁABTE'E'. WAY KIN IN TSIKKBALTO'ON BIX ÚUCHIK U TS'ITS' ÓOLTA'AL LE AJNOJBA'ALO'OBO'</item>
-                    <item><emph rend="right">66</emph></item>
+                    <ref target="#yua2021-066">66</ref>
 
                     <pb xml:id="yua2021-7" /> 
 
                     <item>DE CUANDO EL HIJO TIRÓ CON CERBATANA A NUESTRAS SIETE VERGÜENZAS. AQUÍ RELATAREMOS LA DERROTA DE CADA UNO DE LOS SOBERBIOS</item>
-                    <item><emph rend="right">67</emph></item>
+                    <ref target="#yua2021-067">67</ref>
 
                     <item>BA'AX TU BEETAJ SÍIPAKNA', U YÁAX PAAL WUKUB KÁAKIX. &lt;TENE' KIN WA'AKUNTIK WITSO'OB&gt; KU YA'ALIK BIN KA'ACH SÍIPAKNA'</item>
-                    <item><emph rend="right">70</emph></item> 
+                    <ref target="#yua2021-070">70</ref> 
 
                     <item>LO QUE HIZO ZIPACNÁ, PRIMER HIJO DE NUESTRAS SIETE VERGÜENZAS. "YO HAGO MONTAÑAS" DECÍA ZIPACNÁ</item>
-                    <item><emph rend="right">71</emph></item>
+                    <ref target="#yua2021-071">71</ref>
 
                     <item>U TS'ITS' ÓOLTA'ÁL YÉETEL U KÍINSA'AL SÍIPAKNA'. JTS'ITS' ÓOLTA'AB TUMEN JUN AJPÚUB, XBÁALANKEJ</item>
-                    <item><emph rend="right">74</emph></item>
+                    <ref target="#yua2021-074">74</ref>
 
                     <item>VENCIMIENTO Y MUERTE DE ZIPACNÁ. FUE VENCIDO PUES POR UN HIJO, UN CERBATANERO, XBALANKÉ</item>
-                    <item><emph rend="right">75</emph></item>
+                    <ref target="#yua2021-075">75</ref>
 
                     <item>TI' LE SÚUTUKA' YAAN IN WA'ALIKO'ON BIX SÍIJIK JUN AJPÚUB, XBÁALANKEJ</item>
-                    <item><emph rend="right">80</emph></item>
+                    <ref target="#yua2021-080">80</ref>
 
                     <item>AHORA DIREMOS EL NACIMIENTO DE UN CERBATANERO, XBALANKÉ</item>
-                    <item><emph rend="right">81</emph></item>
+                    <ref target="#yua2021-081">81</ref>
 
                     <item>U K'AABA' LE METNÁAL AJAWO'OB KIN IN WA'ALO'ON TI' LE SÚUTUKA'</item> 
-                    <item><emph rend="right">84</emph></item>
+                    <ref target="#yua2021-084">84</ref>
 
                     <item>DIREMOS AHORA LOS NOMBRES DE LOS SEÑORES DEL INFRAMUNDO</item>
-                    <item><emph rend="right">85</emph></item> 
+                    <ref target="#yua2021-085">85</ref> 
 
                     <item>U SUJUY CH'ÚUPAL KÚUCHUMAKIIK</item>	
-                    <item><emph rend="right">92</emph></item>
+                    <ref target="#yua2021-092">92</ref>
 
                     <item>LA DONCELLA HIJA DE KUCHUMAKIK</item>
-                    <item><emph rend="right">93</emph></item>
+                    <ref target="#yua2021-093">93</ref>
 
                     <item>ILUSTRACIONES DE JOSÉ POOL "MASHKA"</item>
-                    <item><emph rend="right">101</emph></item>
+                    <ref target="#yua2021-101">101</ref>
 
                     <item>U SÍIJIL JUN AJPÚUB, XBÁALANKEJ</item>
-                    <item><emph rend="right">112</emph></item>
+                    <ref target="#yua2021-112">112</ref>
 
                     <item>NACIMIENTO DE UN CERBATANERO, XBALÁNKÉ</item>	
-                    <item><emph rend="right">113</emph></item>
+                    <ref target="#yua2021-113">113</ref>
 
                     <item>U KÍIMIL JUN AJPÚUB, XBÁALANKEJ</item>
-                    <item><emph rend="right">140</emph></item>
+                    <ref target="#yua2021-140">140</ref>
 
                     <item>MUERTE DE UN CERBATANERO, XBÁALANKEJ</item>
-                    <item><emph rend="right">141</emph></item>
+                    <ref target="#yua2021-141">141</ref>
 
                     <item>LE JE'ELA' U NOJKÁAJBAL U KUXKÍINTA'AL WÍINIK LE KA JKAXTA'AB U YÓOL U KUXTALIL LE U WÍINKILILO'</item>
-                    <item><emph rend="right">150</emph></item>
+                    <ref target="#yua2021-150">150</ref>
 
                     <item>ÉSTE ES EL PRINCIPIO DE LA CREACIÓN DE LA GENTE, CUANDO SE BUSCÓ LA NATURALEZA DE SU CUERPO</item>
-                    <item><emph rend="right">151</emph></item> 
+                    <ref target="#yua2021-151">151</ref> 
 
                     <item>U K'AABA' LE NOJLU'UM TU'UX JBINO'OB BÁALAM KI' CHE'EJ, BÁALAM ÁAK'AB, MÁAJUKUTAJ, BÁALAM UJ, LÁAK'INTA'ANO'OB' TUMEN BIN TÁAMUB YÉETEL ÍILOKAAB</item> 
-                    <item><emph rend="right">158</emph></item>
+                    <ref target="#yua2021-158">158</ref>
 
                     <pb xml:id="yua2021-8" /> 
 
                     <item>NOMBRE DEL PAÍS A DONDE FUERON RISA DE LEÓN, LEÓN MADRUGADOR, MAJ U KUTA], LEÓN DE LA LUNA CON TAMUB E ILOKAB</item>
-                    <item><emph rend="right">159</emph></item> 
+                    <ref target="#yua2021-159">159</ref> 
 
                     <item>U JUUL YÉETEL BIX CHÍIKPAJIK YUUM K'IIN, KI'ICHPAN UJ YÉETEL LE EEK'O'OBO'</item>
-                    <item><emph rend="right">170</emph></item>
+                    <ref target="#yua2021-170">170</ref>
 
                     <item>ILUMINACIÓN Y APARECIMIENTO DEL SOL, LA LUNA Y LAS ESTRELLAS</item>
-                    <item><emph rend="right">171</emph></item> 
+                    <ref target="#yua2021-171">171</ref> 
 
                     <item>BÍIN IN KA'AJO'ON IN TSIKBALTO'ON BIX ÚUCHIK U KAJTAL WÍINIK TE' WITSA', YÉETEL BA'AXTEN JXÁANCHAJO'OBI'</item>
-                    <item><emph rend="right">174</emph></item>
+                    <ref target="#yua2021-174">174</ref>
 
                     <item>AHORA DIREMOS LA ESTANCIA Y TARDANZA, MEJOR DICHO AQUÍ SOBRE LA MONTAÑA</item>
-                    <item><emph rend="right">175</emph></item> 
+                    <ref target="#yua2021-175">175</ref> 
 
                     <item>U CHU'UKUL MÚUCH'KAJNÁALO'OB TUMEN BÁALAM KI' CHE'EJ, BÁALAM ÁAK'AB, MÁAJUKUTAJ YÉETEL BÁALAAM UJ</item>
-                    <item><emph rend="right">178</emph></item>
+                    <ref target="#yua2021-178">178</ref>
 
                     <item>SECUESTRO DE LAS TRIBUS POR RISÁ DE LEÓN, LEÓN MADRUGADOR, MAJ U KUTAJ Y LEÓN DE LA LUNA</item> 
-                    <item><emph rend="right">179</emph></item>
+                    <ref target="#yua2021-179">179</ref>
 
                     <item>U TSIKBALIL LE BA'ATELTÁAMBALO'</item>
-                    <item><emph rend="right">188</emph></item>
+                    <ref target="#yua2021-188">188</ref>
 
                     <item>RELATO DEL ASALTO</item>
-                    <item><emph rend="right">189</emph></item>
+                    <ref target="#yua2021-189">189</ref>
 
                     <item>U KÍIMIL BÁALAM KI' CHE'EJ, BÁALAM ÁAK'AB, MÁAJUKUTAJ YÉETEL BÁALAM UJ</item>
-                    <item><emph rend="right">192</emph></item>
+                    <ref target="#yua2021-192">192</ref>
 
                     <item>MUERTE DE RISA DE LEÓN, LEÓN MADRUGADOR, MAJ U KUTAJ Y LEÓN DE LA LUNA</item>
-                    <item><emph rend="right">193</emph></item>
+                    <ref target="#yua2021-193">193</ref>
 
                     <item>U K'AABA' U AJAWILO'OB U AJAWCH'I'IBALIL KÁAWIKIIB</item>
-                    <item><emph rend="right">202</emph></item>
+                    <ref target="#yua2021-202">202</ref>
 
                     <item>NOMBRE DE LOS SEÑORES DE LA LÍNEA KÁWIKIB</item>
-                    <item><emph rend="right">203</emph></item>
+                    <ref target="#yua2021-203">203</ref>
 
                     <item>U AJAWILO'OB U AJAWCH'I'IBALIL NÍIMJAYBAAB</item>
-                    <item><emph rend="right">204</emph></item>
+                    <ref target="#yua2021-204">204</ref>
 
                     <item>SEÑORES DE LA LÍNEA NIMJAIBAB</item>
-                    <item><emph rend="right">205</emph></item>
+                    <ref target="#yua2021-205">205</ref>
 
                     <item>U K'AABA' LE K'ICHE' AJAWO'OBO'</item>
-                    <item><emph rend="right">206</emph></item>
+                    <ref target="#yua2021-206">206</ref>
 
                     <item>NOMBRE DE LOS SEÑORES K'ICHÉS</item>
-                    <item><emph rend="right">207</emph></item>
+                    <ref target="#yua2021-207">207</ref>
 
                     <item>U KA'AP'ÉEL KAAJAL LE SÁAKIKIIB AJAWO'OBO'</item>
-                    <item><emph rend="right">208</emph></item>
+                    <ref target="#yua2021-208">208</ref>
 
                     <item>DOS PUEBLOS DE LOS SEÑORES SAKIKIB</item>
-                    <item><emph rend="right">209</emph></item>
+                    <ref target="#yua2021-209">209</ref>
 
                     <item>U WAKP'ÉEL TSAYCH'I'IBALIL AJAWO'OB</item>
-                    <item><emph rend="right">212</emph></item>
+                    <ref target="#yua2021-212">212</ref>
 
                     <item>SEXTA GENERACIÓN DE REYES</item>
-                    <item><emph rend="right">213</emph></item>
+                    <ref target="#yua2021-213">213</ref>
 
                     <item>U MEYAJTA'AL YÉETEL U YÉEYA'AL LE AJK'ALELO'OBO'</item>
                     <item><emph rend="indent(+6)">218</emph></item>
@@ -308,53 +313,53 @@
                     <pb xml:id="yua2021-9" /> 
 
                     <item>PREPARACION Y SELECCIÓN DE LAS DIVISIONES</item>
-                    <item><emph rend="right">219</emph></item>
+                    <ref target="#yua2021-219">219</ref>
 
                     <item>U K'AABA' U K'UJNAJIL LE KÁABAWILO'OBO'</item>
-                    <item><emph rend="right">220</emph></item>
+                    <ref target="#yua2021-220">220</ref>
 
                     <item>NOMBRE DE LOS TEMPLOS DE LOS DIOSES</item>
-                    <item><emph rend="right">221</emph></item>
+                    <ref target="#yua2021-221">221</ref>
 
                     <item>U K'AABA' U AJAWCH'I'IBALIL TULÁAKAL LE AJAWO'OBO'</item>
-                    <item><emph rend="right">224</emph></item>
+                    <ref target="#yua2021-224">224</ref>
 
                     <item>NOMBRE DE LAS GENERACIONES DE SEÑORES</item>
-                    <item><emph rend="right">225</emph></item>
+                    <ref target="#yua2021-225">225</ref>
 
                     <item>U AJAWCH'I'IBALILO'OB LE K'ICHE' AJAWILO'</item>
-                    <item><emph rend="right">226</emph></item> 
+                    <ref target="#yua2021-226">226</ref> 
 
                     <item>GENERACIONES DEL K'ICHÉ</item>
-                    <item><emph rend="right">227</emph></item>
+                    <ref target="#yua2021-227">227</ref>
 
                     <item>U AJAWILO'OB LE KÁAWIKIIBILO'OBO'</item>
-                    <item><emph rend="right">228</emph></item>
+                    <ref target="#yua2021-228">228</ref>
 
                     <item>LOS PRINCIPALES DE LOS KAWIKIB</item>	
-                    <item><emph rend="right">229</emph></item>
+                    <ref target="#yua2021-229">229</ref>
 
                     <item>U AJAWILO'OB LE NÍIMJAYBAABILO'OBO'</item>
-                    <item><emph rend="right">230</emph></item>
+                    <ref target="#yua2021-230">230</ref>
 
                     <item>LOS PRINCIPALES DE LOS NIMJAIBAB</item>
-                    <item><emph rend="right">231</emph></item>
+                    <ref target="#yua2021-231">231</ref>
 
                     <item>U YÁAX NOOL YÉETEL U YÁAX AJAWIL LE K'ICHE' AJAWO'OBO'</item>
-                    <item><emph rend="right">232</emph></item>
+                    <ref target="#yua2021-232">232</ref>
 
                     <item>ABUELO Y PADRE DE LOS SEÑORES K'ICHÉS</item>
-                    <item><emph rend="right">233</emph></item>
+                    <ref target="#yua2021-233">233</ref>
 
                     <item>U KA'ABA' U AJAWIL LE AJAWNAJO'OBO'</item>
                     <item><emph rend="indent(+7)">234</emph></item>
 
                     <item>NOMBRE DE SEÑORES DE CADA CASA</item>	 
-                    <item><emph rend="right">235</emph></item>
+                    <ref target="#yua2021-235">235</ref>
 
                     <item>YÁAX KANTI'ITSMANTI'ITS / TABLA UNO</item>
                     <item>U TSOLOBIL U KA'ABA' YUUNK'UJO'OB, AJAWO'OB YÉETEL KÚUCHILO'OB / RELACIÓN DE NOMBRES DE DIOSES, REYES Y LUGARES</item> 
-                    <item><emph rend="right">237</emph></item>
+                    <ref target="#yua2021-237">237</ref>
                     <pb xml:id="yua2021-10" /> 
                 </list>
             </div>
