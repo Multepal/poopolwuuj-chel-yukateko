@@ -39,19 +39,17 @@
                 <pb xml:id="yua2021-001" />
             </titlePage>
             <div type="organizations">
-                <label>
-                    <!-- Might need to review this structure -->
+                <figure>
                     <graphic url="placeholder">
                         <desc>
-                        Yucatán 
-                        Gobierno del Estado 
+                        Yucatán
+                        Gobierno del Estado
                         Comprometidos con tu bienestar
                         2012-2018
                         </desc>
                     </graphic>
-                </label>
-                <label>
-                    <!-- Might need to review this structure -->
+                </figure>
+                <figure>
                     <graphic url="placeholder">
                         <desc>
                             SEDECULTA
@@ -60,17 +58,15 @@
                             2012-2018
                         </desc>
                     </graphic>
-                </label>
-                <label>
-                    <!-- Might need to review this structure -->
+                </figure>
+                <figure>
                     <graphic url="placeholder">
                         <desc>
                             UNIVERSIDAD MODELO
                         </desc>
                     </graphic>
-                </label>
-                <label>
-                    <!-- Might need to review this structure -->
+                </figure>
+                <figure>
                     <graphic url="placeholder">
                         <desc>
                             Instituto Nacional 
@@ -78,17 +74,15 @@
                             e Historia
                         </desc>
                     </graphic>
-                </label>
-                <label>
-                    <!-- Might need to review this structure -->
+                </figure>
+                <figure>
                     <graphic url="placeholder">
                         <desc>
                             CONACULTA
                         </desc>
                     </graphic>
-                </label>
-                <label>
-                    <!-- Might need to review this structure -->
+                </figure>
+                <figure>
                     <graphic url="placeholder">
                         <desc>
                             UNIVERSIDAD DE LOS ANDES
@@ -96,15 +90,14 @@
                             VICERRETORADO ADMINISTRATIVO
                         </desc>
                     </graphic>
-                </label>
-                <label>
-                    <!-- Might need to review this structure -->
+                </figure>
+                <figure>
                     <graphic url="placeholder">
                         <desc>
                             el otro @ el mismo 
                         </desc>
                     </graphic>
-                </label>
+                </figure>
                 <pb xml:id="yua2021-002" />
             </div>
             <titlePage>
@@ -1061,9 +1054,8 @@
                         pensables para la génesis del fenómeno literario, o como lo establece el propio autor:</p> 
                     <quote>No existe literatura sin sociedad y, hasta nos atrevemos a decir, no existe literatura sin una orga- 
                         nización social y ritual ya lo suficientemente compleja para organizar textos dentro de proyectos 
-                        y: de ambiciones que sean a un tiempo políticos, religiosos y estéticos (Baudot 1996: 26).</quote>
-
-                    <pb xml:id="yua2021-025" /> 
+                        y: de ambiciones que sean a un tiempo políticos, religiosos y estéticos (Baudot 1996: 26).
+                        <pb xml:id="yua2021-025" /> </quote>
                     <p>El acto de utilización de símbolos y signos para representar los objetos y acontecimientos 
                         del mundo y de los mensajes del imaginario cultural constituye en esencia el surgimiento de la 
                         escritura y con ello despuntan la práctica escritural y el texto escrito. Con el discurrir del tiem- 
@@ -1719,67 +1711,65 @@
                 </div>
             </div>
             <div type="bibliography">
-                <head>FUENTES</head>
-                <p>Aguirre, Mirta (1979). <hi rend="italic">Los caminos poéticos del lenguaje</hi>, La Habana, Letras Cubanas. 
-                Álvarez,  Cristina (1997). <hi rend="italic">Diccionarió etnolingüístico del idioma maja yucateco colonial</hi>, México, 
-                Universidad Autónoma de Yucatán y Plaza y Valdés. 
-                Anderson, Benedic (2007). <hi rend="italic">Reflexiones sobre el origen y la difusión del nacionalismo</hi>, México, 4a 
-                reimp., Fondo de Cultura Económica.
-                Bonfil Batalla, Guillermo (2003). <hi rend="italic">El México profundo, una civilización negada</hi>, México, Consejo 
-                Nacional para la Cultura y las Artes. 
-                Carrillo y Ancona, Crescencio (1869). <hi rend="italic">Disertación sobre la literatura antigua de Yucatán</hi>, Méri- 
-                da, Yucatán, Lit. La Revista de Mérida.
-                Eliade, Mircea (1974).  <hi rend="italic">The Myth of the Eternal Return or Cosmos and History</hi>, New Jersey, Prin- 
-                centon Press-Taylor &amp; Francis. Recuperado en septiembre de 2011 en: http://books.
-                google.com.mx/books?id=sqI9AAAAIAAJ&amp;printsec=frontcover&amp;hl=en&amp;source=gbs_ 
-                ge_summary _r&amp;cad=O#v=onepage&amp;q&amp;f=false 
-                Fuentes, Carlos (1993). "Las dos orillas", en <hi rend="italic">El naranjo (o los círculos del tiempo)</hi>, México, Al- 
-                faguara. 
-                Florescano; Enrique (1995). <hi rend="italic">Memoria mexicana</hi>, 2a ed., México, Fondo de Cultura Económica. 
-                Garza, Mercedes de la (1996). <hi rend="italic">Historia de la literatura mexicana</hi>, México, Siglo XXI y UNAM. 
-                Garza Cuarón, Beatriz y Baudot, Georges (1996). Historia  de la  literatura  mexicana desde sus 
-                orígenes hasta nuestros días, volumen 1: Las literaturas amerindias de México y la literatura 
-                en español del siglo XVI, México, Siglo XXI. 
-                Hanks, William F. (1989). "Elements of Maya Style", en Hanks, W. and Rice D.S., Word and 
-                Image in Maya Culture. Exploration in Language, Writing, and Representation, Salt Lake 
-                City, University of Utah Press. Pp. 92-111. 
-                Le Clézio, J-M. G. (2008). <hi rend="italic">El sueño mexicano o el pensamiento interrumpido</hi>, México, Fondo de 
-                Cultura Económica. 
-                Lienhard, Martin (1989). La voz y su huella. Escritura y conflicto étnico-social en América Latina 
-                (1492-1988), La Habana, Casa de las Américas. 
-                López Austin, Alfredo y López Luján, Leonardo (2001). <hi rend="italic">El pasado indígena de México</hi>, México, 
-                Fondo de Cultura Económica-El Colegio de México. 
-                Millán, María del Carmen (1988). "Panorama de la literatura mexicana'', en Ocampo, Aurora 
-                M. (dirección y asesoría), Diccionario  de  escritores  mexicanos, desde las generaciones del
-                Ateneo y novelistas de la Revolución hasta nuestros días, México, UNAM.
-                Montemayor, Carlos (1991). "Literatura mexicana y lenguas indígenas" (entrevista de Rubén 
-                Reyes), en <hi rend="italic">Yucatán en Marcha</hi> (suplemento), núm. 12, Mérida, Yucatán. 
-                _____. (1990). "Prólogo", en <hi rend="italic">Literatura indígena ayer y hoy</hi>,  Ciudad Victoria, Tamaulipas, Ins- 
-                tituto Tamaulipeco de  Cultura, Dirección General de Culturas Populares y Programa 
-                Cultural de las Fronteras.
-                Montes de Oca Vega, Mercedes (2004). <hi rend="italic">Los difrasismos en el náhuatl del siglo XVI</hi> (tesis). Mé- 
-                xico, UNAM. 
-                Morin, Edgar y Kern, Anne-Brigitte (2005). <hi rend="italic">Tierra patria</hi>, 2a. ed., Barcelona, Kairós. 
-                Muñoz Castillo, Fernando (2000). <hi rend="italic">Teatro maya peninsular, precolombino y evangelizador</hi>, Méri-
-                da, Yucatán, Ayuntamiento de Mérida. 
-                Oviedo, José Miguel (2003). <hi rend="italic">Historia de la literatura hispanoamericana</hi>, tomo 1°, 3a reimpre- 
-                sión, Madrid, Alianza Editorial. 
-                <hi rend="italic">Popol Vuh: las antiguas historias del Quiché</hi>. Traducción de Adrián Recinos. Sf recuperado en 
-                octubre de 2011 en: http://www.digi.usac.edu.gt/bvirtual/litgua/popolvuh/ppvuh.pdf
-
-                <pb xml:id="yua2012-040"/> 
-
-                Reyes, Alfonso (1997). <hi rend="italic">Obras completas</hi>, tomo XV. México, Fondo de Cultura Económica. 
-                Reyes, Luis Alberto (2009). El pensamiento indígena en América: Los antiguos andinos, mayas y 
-                nahuas. Buenos Aires, Biblos.
-                Rodríguez Rivera, Guillermo (1999). <hi rend="italic">La otra imagen: sobre la historia del tropo poético</hi>. La Ha-
-                bana, Ediciones Unión.
-                Updike, John (domingo 19 de febrero de 1989). "El escritor como conferenciante", en La Jor-
-                nada Semanal, México.
-                Vapñarsky, Valentina (2008). "Paralelismo, ciclicidad y creatividad en el arte verbal maya yuca-
-                teco", en <hi rend="italic">Estudios de Cultura Maya</hi>, vol. XXXII, pp. 155-199. 
-                Zaid, Gabriel (1971). <hi rend="italic">Ómnibus de poesía mexicana</hi>, México, Siglo XXI. 
-                </p>
+                <listBibl>
+                    <head>FUENTES</head>
+                    <bibl>Aguirre, Mirta (1979). <hi rend="italic">Los caminos poéticos del lenguaje</hi>, La Habana, Letras Cubanas.</bibl>
+                    <bibl>Álvarez,  Cristina (1997). <hi rend="italic">Diccionarió etnolingüístico del idioma maja yucateco colonial</hi>, México, 
+                        Universidad Autónoma de Yucatán y Plaza y Valdés.</bibl>
+                    <bibl>Anderson, Benedic (2007). <hi rend="italic">Reflexiones sobre el origen y la difusión del nacionalismo</hi>, México, 4a 
+                        reimp., Fondo de Cultura Económica.</bibl>
+                    <bibl>Bonfil Batalla, Guillermo (2003). <hi rend="italic">El México profundo, una civilización negada</hi>, México, Consejo 
+                        Nacional para la Cultura y las Artes. </bibl>
+                    <bibl>Carrillo y Ancona, Crescencio (1869). <hi rend="italic">Disertación sobre la literatura antigua de Yucatán</hi>, 
+                        Mérida, Yucatán, Lit. La Revista de Mérida.</bibl>
+                    <bibl>Eliade, Mircea (1974). <hi rend="italic">The Myth of the Eternal Return or Cosmos and History</hi>, New Jersey, Prin- 
+                        centon Press-Taylor &amp; Francis. Recuperado en septiembre de 2011 en: 
+                        http://books.google.com.mx/books?id=sqI9AAAAIAAJ&amp;printsec=frontcover&amp;hl=en&amp;source=gbs_ge_summary_r&amp;cad=O#v=onepage&amp;q&amp;f=false</bibl>
+                    <bibl>Fuentes, Carlos (1993). "Las dos orillas", en <hi rend="italic">El naranjo (o los círculos del tiempo)</hi>, México, Al- 
+                        faguara.</bibl> 
+                    <bibl>Florescano; Enrique (1995). <hi rend="italic">Memoria mexicana</hi>, 2a ed., México, Fondo de Cultura Económica.</bibl>
+                    <bibl>Garza, Mercedes de la (1996). <hi rend="italic">Historia de la literatura mexicana</hi>, México, Siglo XXI y UNAM.</bibl>
+                    <bibl>Garza Cuarón, Beatriz y Baudot, Georges (1996). Historia  de la  literatura  mexicana desde sus 
+                        orígenes hasta nuestros días, volumen 1: Las literaturas amerindias de México y la literatura 
+                        en español del siglo XVI, México, Siglo XXI.</bibl>
+                    <bibl>Hanks, William F. (1989). "Elements of Maya Style", en Hanks, W. and Rice D.S., Word and
+                        Image in Maya Culture. Exploration in Language, Writing, and Representation, Salt Lake 
+                        City, University of Utah Press. Pp. 92-111.</bibl>
+                    <bibl>Le Clézio, J-M. G. (2008). <hi rend="italic">El sueño mexicano o el pensamiento interrumpido</hi>, México, Fondo de 
+                        Cultura Económica.</bibl>
+                    <bibl>Lienhard, Martin (1989). La voz y su huella. Escritura y conflicto étnico-social en América Latina 
+                        (1492-1988), La Habana, Casa de las Américas.</bibl>
+                    <bibl>López Austin, Alfredo y López Luján, Leonardo (2001). <hi rend="italic">El pasado indígena de México</hi>, México, 
+                        Fondo de Cultura Económica-El Colegio de México.</bibl>
+                    <bibl>Millán, María del Carmen (1988). "Panorama de la literatura mexicana'', en Ocampo, Aurora 
+                        M. (dirección y asesoría), Diccionario  de  escritores  mexicanos, desde las generaciones del
+                        Ateneo y novelistas de la Revolución hasta nuestros días, México, UNAM.</bibl>
+                    <bibl>Montemayor, Carlos (1991). "Literatura mexicana y lenguas indígenas" (entrevista de Rubén 
+                        Reyes), en <hi rend="italic">Yucatán en Marcha</hi> (suplemento), núm. 12, Mérida, Yucatán.</bibl>
+                    <bibl>_____. (1990). "Prólogo", en <hi rend="italic">Literatura indígena ayer y hoy</hi>,  Ciudad Victoria, Tamaulipas, 
+                        Instituto Tamaulipeco de  Cultura, Dirección General de Culturas Populares y Programa 
+                    Cultural de las Fronteras.</bibl>
+                    <bibl>Montes de Oca Vega, Mercedes (2004). <hi rend="italic">Los difrasismos en el náhuatl del siglo XVI</hi> (tesis). 
+                        México, UNAM.</bibl>
+                    <bibl>Morin, Edgar y Kern, Anne-Brigitte (2005). <hi rend="italic">Tierra patria</hi>, 2a. ed., Barcelona, Kairós. 
+                        Muñoz Castillo, Fernando (2000). <hi rend="italic">Teatro maya peninsular, precolombino y evangelizador</hi>, Méri-
+                        da, Yucatán, Ayuntamiento de Mérida.</bibl>
+                    <bibl>Oviedo, José Miguel (2003). <hi rend="italic">Historia de la literatura hispanoamericana</hi>, tomo 1°, 
+                        3a reimpresión, Madrid, Alianza Editorial.</bibl>
+                    <bibl><hi rend="italic">Popol Vuh: las antiguas historias del Quiché</hi>. Traducción de Adrián Recinos. Sf recuperado en 
+                        octubre de 2011 en: http://www.digi.usac.edu.gt/bvirtual/litgua/popolvuh/ppvuh.pdf
+                        <pb xml:id="yua2012-040"/></bibl>
+                    <bibl>Reyes, Alfonso (1997). <hi rend="italic">Obras completas</hi>, tomo XV. México, Fondo de Cultura Económica. 
+                        Reyes, Luis Alberto (2009). El pensamiento indígena en América: Los antiguos andinos, mayas y 
+                        nahuas. Buenos Aires, Biblos.</bibl>
+                    <bibl>Rodríguez Rivera, Guillermo (1999). <hi rend="italic">La otra imagen: sobre la historia del tropo poético</hi>. 
+                        La Habana, Ediciones Unión.</bibl>
+                    <bibl>Updike, John (domingo 19 de febrero de 1989). "El escritor como conferenciante", en 
+                        La Jornada Semanal, México.</bibl>
+                    <bibl>Vapñarsky, Valentina (2008). "Paralelismo, ciclicidad y creatividad en el arte verbal 
+                        maya yucateco", en <hi rend="italic">Estudios de Cultura Maya</hi>, vol. XXXII, pp. 155-199.</bibl>
+                    <bibl>Zaid, Gabriel (1971). <hi rend="italic">Ómnibus de poesía mexicana</hi>, México, Siglo XXI.</bibl>
+                </listBibl>
             </div>
             <div type="notes">
                 <!-- consider adding @xml:id to each <item> for <front> references? -->
