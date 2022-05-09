@@ -134,7 +134,7 @@
             </titlePage>
             <div type="toc">
                 <list>
-                    <head>CONTENIDO</head>
+                    <head rend="center">CONTENIDO</head>
                     <item>
                         <title>PRÓLOGO</title>
                         <desc>LA IMAGEN EVAPORADA</desc>
@@ -417,10 +417,10 @@
                 </list>
             </div>
             <div type="prologue">
-                <head>PRÓLOGO</head> 
+                <head rend="center">PRÓLOGO</head> 
                 <!-- bottom two are more like sub-heads? -->
-                <head>LA IMAGEN EVAPORADA</head>
-                <head>VÍCTOR BRAVO </head>
+                <head rend="center">LA IMAGEN EVAPORADA</head>
+                <head rend="center">VÍCTOR BRAVO </head>
                 <!-- create div here maybe?-->
                 <p>El <hi rend="italic">Póopol Wuuj</hi> (<hi rend="italic">Popol Vuh</hi>)  es  una de las  obras más  importantes y hermosas de la hu- 
                     manidad. Su sabiduría narrativa; su entrañable ritmo donde intuimos correspondencias con el 
@@ -465,7 +465,7 @@
                     como origen o fuente, nos indica la importancia de este libro fundamental para la condición 
                     del ser en el continente.</p> 
                 <div type="subsection">
-                    <head>LA METAMORFOSIS</head>
+                    <head rend="center">LA METAMORFOSIS</head>
                     <p>El relato mítico, tanto de "la tradición clásica" (mitología grecorromana) como del "pen- 
                         samiento salvaje", le ha dado al relato estético moderno el principio de metamorfosis que, como 
                         dice Cassirer (1962), "en el mito la relación causal no es una relación entre cosas, sino más bien 
@@ -537,7 +537,7 @@
                         pectiva de una cultura, un ámbito de belleza para la instauración del ser en el mundo.</p> 
                 </div>
                 <div type="subsection">
-                    <head>LA PRESENTE EDICIÓN</head> 
+                    <head rend="center">LA PRESENTE EDICIÓN</head> 
                     <p>En este contexto la presente edición del <hi rend="italic">Póopol Wuuj</hi>, bajo el erudito cuidado y la sen- 
                         sibilidad poética de Rubén Reyes Ramírez, y la "curaduría" y traducción por parte de un gran 
                         equipo de traductores coordinado por el  maestro y especialista de la lengua y la cultura maya 
@@ -550,11 +550,11 @@
                 </div>
             </div>
             <div type="introduction">
-                <head>EL POPOL VUH,  OBRA CUMBRE DEL PENSAMIENTO Y DE LA LITERATURA DE AMÉRICA</head> 
-                <head>FIDENCIO BRICEÑO CHEL</head> 
-                <head>RUBÉN REYES RAMÍREZ</head>
+                <head rend="center">EL POPOL VUH,  OBRA CUMBRE DEL PENSAMIENTO Y DE LA LITERATURA DE AMÉRICA</head> 
+                <head rend="center">FIDENCIO BRICEÑO CHEL</head> 
+                <head rend="center">RUBÉN REYES RAMÍREZ</head>
                 <div type="subsection">
-                    <head>EL POPOL VUH, PENSAMIENTO Y PALABRA</head> 
+                    <head rend="center">EL POPOL VUH, PENSAMIENTO Y PALABRA</head> 
                     <p>Es un hecho comúnmente admitido en los estudios culturales del continente que el 
                         <hi rend="italic">Popol Vuh</hi> tiene un sitio firme entre las obras cumbres que expresan de un modo más notable 
                         y completo el imaginario simbólico y cultural de los pueblos que protagonizaron la prehistoria 
@@ -1712,7 +1712,7 @@
             </div>
             <div type="bibliography">
                 <listBibl>
-                    <head>FUENTES</head>
+                    <head rend="center">FUENTES</head>
                     <bibl>Aguirre, Mirta (1979). <hi rend="italic">Los caminos poéticos del lenguaje</hi>, La Habana, Letras Cubanas.</bibl>
                     <bibl>Álvarez,  Cristina (1997). <hi rend="italic">Diccionarió etnolingüístico del idioma maja yucateco colonial</hi>, México, 
                         Universidad Autónoma de Yucatán y Plaza y Valdés.</bibl>
@@ -1774,7 +1774,7 @@
             <div type="notes">
                 <!-- consider adding @xml:id to each <item> for <front> references? -->
                 <list>
-                    <head>NOTAS</head>
+                    <head rend="center">NOTAS</head>
                     <item n="1">Sobre esta tesis, puntualiza el autor: "Estos y otros trabajos análogos diseñan una secuencia lite- 
                         raria evolutiva que va desde los primeros cronistas (los 'precursores') hasta la producción literaria 
                         contemporánea, pasando por las literaturas virreinales, las del periodo de las luchas por la eman- 
@@ -2061,14 +2061,14 @@
         </front>
         <body>
             <div type="oochel" xml:lang="yua"> 
-                <head>PÓOPÚL WUUJ</head>
+                <head rend="center">PÓOPÚL WUUJ</head>
                 <div type="tsúuk" n="yua.tsk.01">
-                    <head>MA'ILI' TS'ÍIBTA'AK LE <rs ana="POPOL_WUJ">PÓOPOL WUUJO'</rs> <ref target="yua.n001"><hi rend="sup">1</hi></ref>
+                    <head rend="center">MA'ILI' TS'ÍIBTA'AK LE <rs ana="POPOL_WUJ">PÓOPOL WUUJO'</rs> <ref target="yua.n001"><hi rend="sup">1</hi></ref>
                         <note place="foot" xml:id="yua.n001"><seg type="note-symbol">1</seg>
                             U táan óolal ajk'exts'íib. U jejeláas k'aaba'ob le yáax K'iche' Yuunk'ujo' táan u ch'a'abal e'el bix u
                             chíikpajalo'ob ichil u ts'íibil <rs ana="TINAMIT_K'ICHE'">le úuchben maayáaj k'iche'o'</rs>, ka'alikil xan u je'ets'el bix unạj u ts'íibta'al ich
-                            maayat'aan. Bey u chíikpajalo'ob ichil le úuchben maayáaj k'iche'o': <emph rend="italic">tzacol</emph>, 
-                            <emph rend="italic">bitol</emph>, <emph rend="italic">alom</emph>, <emph rend="italic">qaholom</emph>. 
+                            maayat'aan. Bey u chíikpajalo'ob ichil le úuchben maayáaj k'iche'o': <hi rend="italic">tzacol</hi>, 
+                            <hi rend="italic">bitol</hi>, <hi rend="italic">alom</hi>, <hi rend="italic">qaholom</hi>. 
                             Il a wil le Yáax Kanti'ismanti'itso'.    
                         </note>
                         U K'AABA' LE WAYA' <rs ana="TINAMIT_K'ICHE'">&lt;K'ICHE' KAAJ&gt;</rs>
@@ -2082,14 +2082,14 @@
                         <note place="foot" xml:id="yua.n002"><seg type="note-symbol">2</seg>
                             U táan óolal ajk'exts'íib. Le k'aaba'a táan u ch'a'abal 
                             je'él bix u chíikpajal ichil u ts'íibil le úuchbhen 
-                            maayáaj k'iche'o': <rs ana="JUNAJPU_WUCH"><emph rend="italic">hun ah pu vuch</emph></rs>, 
+                            maayáaj k'iche'o': <rs ana="JUNAJPU_WUCH"><hi rend="italic">hun ah pu vuch</hi></rs>, 
                             ka'alikil xan u ts'íibta'al je'el bix u tukulta'al u juum ich maayat'aane'. 
                             Je'el u béeytal u ya'ala'ale': <rs ana="JUNAJPU_WUCH">Jun Ajts'on Ooch</rs>. Láayli' bey u yúuchul xan yéetel: 
-                            <rs ana="JUNAJPU_UTIW"><emph rend="italic">hun ah pu vtiu</emph> (Jun Ajts'onch'omak)</rs>, 
-                            <rs ana="TEPEW_Q'UKUMATZ"><emph rend="italic">tepeu</emph> (Ajtáabantsil), <emph rend="italic">qucumatz</emph> (Ajbáalam Kaan)</rs>, 
-                            <rs ana="UK'U'X_CHO"><emph rend="italic">vqux cho</emph> (U Yóol Áak'alja')</rs>, <rs ana="UK'U'X_PALO"><emph rend="italic">vqux palo</emph> 
-                            (U Yóol K'áak'nab)</rs>, <rs ana="AJRAXA_LAQ"><emph rend="italic">ah  raxala</emph> (Nukuch Ajjo'olpóopo'ob)</rs>, 
-                            <rs ana="AJRAXA_TZEL"><emph rend="italic">ah raxatzel</emph> (Nukuch Almejenilo'ob)</rs>. Ti' le 
+                            <rs ana="JUNAJPU_UTIW"><hi rend="italic">hun ah pu vtiu</hi> (Jun Ajts'onch'omak)</rs>, 
+                            <rs ana="TEPEW_Q'UKUMATZ"><hi rend="italic">tepeu</hi> (Ajtáabantsil), <hi rend="italic">qucumatz</hi> (Ajbáalam Kaan)</rs>, 
+                            <rs ana="UK'U'X_CHO"><hi rend="italic">vqux cho</hi> (U Yóol Áak'alja')</rs>, <rs ana="UK'U'X_PALO"><hi rend="italic">vqux palo</hi> 
+                            (U Yóol K'áak'nab)</rs>, <rs ana="AJRAXA_LAQ"><hi rend="italic">ah  raxala</hi> (Nukuch Ajjo'olpóopo'ob)</rs>, 
+                            <rs ana="AJRAXA_TZEL"><hi rend="italic">ah raxatzel</hi> (Nukuch Almejenilo'ob)</rs>. Ti' le 
                             uláak' kun chíikpajalo'ob beyo', il a wil le Yáax Kanti'itsmanti'itso'. 
                         </note>, 
                         <rs ana="JUNAJPU_UTIW">Jun Ajpúub Utyuj</rs>, Jach Ajk'aayo'ob, <rs ana="TEPEW_Q'UKUMATZ">Téepew, K'u'uk'umaats</rs>, <rs ana="UK'U'X_CHO">Ukúux Chooj</rs>,
@@ -2098,9 +2098,9 @@
                         <rs ana="IXMUKANE">Xmúukanej</rs> <ref target="yua.n003"><hi rend="sup">3</hi></ref>
                         <note place="foot" xml:id="yua.n003"><seg type="note-symbol"><hi rend="sup">3</hi></seg>
                             U táan óolal ajk'exts'íib: Ka'ap'éel u k'aaba' bin <rs ana="IXMUKANE">&lt;le</rs> <rs ana="XPIYAKOK">noolo'&gt;</rs>, le o'olale' ku ja'atsal yéetel jump'éel 
-                            <emph rend="italic">coma</emph> (,). Ku ts'íibta'al je'el bix 
-                            u tukulta'al u juum ich maayat'aane': <rs ana="XPIYAKOK">Xpíiyakok</rs>, <rs ana="IXMUKANE">Xmúukanej</rs> (<rs ana="XPIYAKOK"><emph rend="italic">xpiyacoc</emph></rs>, 
-                            <rs ana="IXMUKANE"><emph rend="italic">xmucane</emph></rs>).
+                            <hi rend="italic">coma</hi> (,). Ku ts'íibta'al je'el bix 
+                            u tukulta'al u juum ich maayat'aane': <rs ana="XPIYAKOK">Xpíiyakok</rs>, <rs ana="IXMUKANE">Xmúukanej</rs> (<rs ana="XPIYAKOK"><hi rend="italic">xpiyacoc</hi></rs>, 
+                            <rs ana="IXMUKANE"><hi rend="italic">xmucane</hi></rs>).
                         </note>. Leti' bine' jach <rs ana="XPIYAKOK">u k'ubmaj u yóol ti' u meyaj</rs>, <rs ana="IXMUKANE">ka'amáal Ix-aalansaj</rs> yéetel <rs ana="XPIYAKOK"><rs ana="IXMUKANE">ka'apuul noolinta'an</rs></rs>, tumen 
                         bey bin u ya'ala'al ich u t'aanil <rs ana="TINAMIT_K'ICHE'">le k'iche' kaajo'</rs>.</p>
                     <p>Tu tsikbaltajo'ob tuláakal a'ax tu beetajo'ob iccil le táalkab jaajilo', ichil le t'áalkab ts'áaj 
@@ -2122,7 +2122,7 @@
                         <pb xml:id="yua2021-050" /></p>
                 </div>
                 <div type="tsúuk" n="yua.tsk.02">
-                    <head>U TSIKBALIL BIN CH'ENCH'ENKILIL, TÍITBALIL YÉETEL
+                    <head rend="center">U TSIKBALIL BIN CH'ENCH'ENKILIL, TÍITBALIL YÉETEL
                     YÓOMANKILIL. BIX U TÍITBAL, U JAK' ÓOLAL YÉETEL 
                     U KUKULAANKIL KA'AN LE BIN KA'ACH JÓOCHBABE'ENO'</head>
                     <p>Le bin leti' le yáax nojt'aana', leti' bin le yáax tuukulo'; mix bin juntúul wíinik, mix 
@@ -2412,10 +2412,10 @@
                         <pb xml:id="yua2021-062" /> </p>
                 </div> 
                 <div type="tsúuk" n="yua.tsk.03">
-                    <head> 
-                        <emph rend="center">WAY BÍIN IN WA'AXALO'ON BIX ÚUCHIK U KÍIMIL <rs ana="WUQUB'_KAQIX">WUKUB
+                    <head rend="center"> 
+                        WAY BÍIN IN WA'AXALO'ON BIX ÚUCHIK U KÍIMIL <rs ana="WUQUB'_KAQIX">WUKUB
                         KÁAKIX</rs> LE KAJTS'ITS' ÓOLTXABE', LE KA JBEETA'AB WÍINIK
-                        TUMEN <rs ana="TZ'AQOL">TSÁAKOL</rs>, <rs ana="B'ITOL">BÍITOLE'</rs></emph>
+                        TUMEN <rs ana="TZ'AQOL">TSÁAKOL</rs>, <rs ana="B'ITOL">BÍITOLE'</rs>
                     </head>
                     <p>Le je'ela' u yáax tsikbalil úuchik u ts'its' óolta'al, wáaj le ka jk'uch u k'iinil u ts'its' óolta'al 
                         <rs ana="WUQUB'_KAQIX">Wukub Káakix</rs>: tumen juntúul xi'ipal u k'aaba'e' <rs ana="JUNAJPU">Jun Ajpúub</rs>, <rs ana="XB'ALAMQ'E">Xbáalankej</rs>, le bin ka'ach Káa-
@@ -2460,12 +2460,11 @@
                     <pb xml:id="yua2021-064" /> </p>   
                 </div>
                 <div type="tsúuk" n="yua.tsk.04">
-                    <head> 
-                        <emph rend="center">LE BIN KA JCH'I'IN <rs ana="WUQUB'_KAQIX">WUKUB KÁAKIX</rs> TUMEN <rs ana="JUNAJPU">JUN AJPÚUB</rs>,</emph> 
-                        <emph rend="center"><rs ana="XB'ALAMQ'E">XBÁALANKEJ</rs> YÉETEL, <rs ana="WUB">LE JOBONNÁABTE'E'</rs>. WAY KIN</emph> 
-                        <emph rend="center">IN TSIKBALTO'ON BIX ÚUCHIK U TS'ITS' ÓOLTA'AL LE</emph> 
-                        <emph rend="center">AJNOJBA'ALO'OBO'</emph>
-                    </head>
+                    <head rend="center"> 
+                        LE BIN KA JCH'I'IN <rs ana="WUQUB'_KAQIX">WUKUB KÁAKIX</rs> TUMEN <rs ana="JUNAJPU">JUN AJPÚUB</rs>,
+                        <rs ana="XB'ALAMQ'E">XBÁALANKEJ</rs> YÉETEL, <rs ana="WUB">LE JOBONNÁABTE'E'</rs>. WAY KIN
+                        IN TSIKBALTO'ON BIX ÚUCHIK U TS'ITS' ÓOLTA'AL LE
+                        AJNOJBA'ALO'OBO'</head>
                     <p><rs ana="WUQUB'_KAQIX">Wukub Káakixe'</rs> te' bin suuk u janal tu k'ab junkúul nuxi' chi'e'. Le je'elo' jach u yo'och 
                         bin; chéen tu yóok'olal u yich le chi'o', sáansamal bin u na'akal tu k'abi'. <rs ana="JUNAJPU">Jun Ajpúub</rs>, <rs ana="XB'ALAMQ'E">Xbáalankeje'</rs><ref target="yua.n017"><hi rend="sup">17</hi></ref> 
                         <note place="foot" xml:id="yua.n017"><seg type="note-symbol"><hi rend="sup">17</hi></seg>
@@ -2542,11 +2541,11 @@
                         ch'a'abil u k'ab <rs ana="JUNAJPU">Jun Ajpúub</rs>. Jkíim xan <rs ana="CHIMALMAT">Chíimalmaat</rs>, le u yatan <rs ana="WUQUB'_KAQIX">Wukub Káakixo'</rs>. Bey túun 
                         ts'o'okik u ayik'alil <rs ana="WUQUB'_KAQIX">Wukub Káakixo'</rs>. Juntúul ajts'akyaj tu tenajubáaj bin yéetel le ki'ichkelem 
                         ya'axsáastuno'ob kanáantik ka'ceh u kuxtal <rs ana="WUQUB'_KAQIX">Wukub Káakix</rs> way yóok'olkaabe'.</p>
-                    <p><emph rend="indent">________________________________________________________________________________</emph>
+                    <p><hi rend="indent">________________________________________________________________________________</hi>
                         _______________________________________________________________________________________________
                         _______________________________________________________________________________________________
                         __________</p>
-                        <p><emph rend="indent">________________________________________________________________________________</emph>
+                        <p><hi rend="indent">________________________________________________________________________________</hi>
                         _______________________________________________________________________________________________
                         __________U chíikul kanáambalil <rs ana="SAQI_NIM_AQ_SIS">le nojoch máak</rs> beet u yúuchul
                         tuláakal le ba'ax je'elo'. Tu ch'a'ajo'ob le' u k'abo', ka tu ka'tabo'ob tu kúuchil, ka jp'áat ma'alobil 
@@ -2557,11 +2556,10 @@
                         <pb xml:id="yua2021-068" /> </p>
                 </div>
                 <div type="tsúuk" n="yua.tsk.05">
-                    <head>
-                        <emph rend="center">BA'AX TU BEETAJ <rs ana="SIPAKNA">SÍIPAKNA'</rs>, U YÁAX PAAL <rs ana="WUQUB'_KAQIX">WUKUB KÁAKIX</rs>.</emph> 
-                        <emph rend="center">&lt;TENE' KIN WA'AKUNTIK WITBO'OB&gt;</emph> 
-                        <emph rend="center">KU YA'ALIK BIN KA'ACH <rs ana="SIPAKNA">SÍIPAKNA'</rs></emph> 
-                    </head>
+                    <head rend="center">
+                        BA'AX TU BEETAJ <rs ana="SIPAKNA">SÍIPAKNA'</rs>, U YÁAX PAAL <rs ana="WUQUB'_KAQIX">WUKUB KÁAKIX</rs>.
+                        &lt;TENE' KIN WA'AKUNTIK WITBO'OB&gt;
+                        KU YA'ALIK BIN KA'ACH <rs ana="SIPAKNA">SÍIPAKNA'</rs></head>
                     <p>Táan bin ka'ach u yichkíil <rs ana="SIPAKNA">Síipakna'</rs> tu jáal jump'éel áalkabja' ka jmáan <rs ana="MOTZ">jumbaak' u túulul 
                         xi'ipalal</rs> ka'alikil u jíiltiko'ob jump'éel nuxi' che' uti'al u yokmalil u yotocho'ob bin; <rs ana="MOTZ">jumbaak' 
                         u túululalo'ob</rs> uti'al u jíiltiko'ob bin.</p> 
@@ -2639,10 +2637,9 @@
                         <pb xml:id="yua2021-072" /> </p>
                 </div>
                 <div type="tsúuk" n="yua.tsk.06">
-                    <head>
-                        <emph rend="center">U TS'ITS' ÓOLTA'AL YÉETEL U KÍINSXAL <rs ana="SIPAKNA">SÍIPAKNA'</rs>.</emph> 
-                        <emph rend="center">JTS'ITS' ÓOLTXAB TUMEN <rs ana="JUNAJPU">JUN AJPUUB</rs>, <rs ana="XB'ALAMQ'E">XBÁALANKEJ</rs></emph>
-                    </head>
+                    <head rend="center">
+                        U TS'ITS' ÓOLTA'AL YÉETEL U KÍINSXAL <rs ana="SIPAKNA">SÍIPAKNA'</rs>.
+                        JTS'ITS' ÓOLTXAB TUMEN <rs ana="JUNAJPU">JUN AJPUUB</rs>, <rs ana="XB'ALAMQ'E">XBÁALANKEJ</rs></head>
                     <p><rs ana="JUNAJPU">Jun Ajpúub</rs>, <rs ana="XB'ALAMQ'E">Xbáalankeje'</rs> jach tu yaaj óoltaj úuchik u kíinsa'al <rs ana="MOTZ">le jumbaak' u túulul 
                         xi'ipalalo'ob</rs> tumen <rs ana="SIPAKNA">Síipakna'o'</rs>. U yo'och bin <rs ana="SIPAKNA">Síipakna'e'</rs> <rs ana="KAR">kay</rs> yéetel <rs ana="TAP">baaw</rs> ku kaxtik tu jáal le 
                         áalkabja'obo', leti' le bin ku jaantik sáansamalo'. Lekéen sáaschajake' ku jóok'ol u kaxt ba'ax kun 
@@ -2759,10 +2756,9 @@
                         <pb xml:id="yua2021-078" /> </p>
                 </div>
                 <div type="tsúuk" n="yua.tsk.07">
-                    <head>
-                        <emph rend="center">TI' LE SÚUTUKN YAAN IN WA'ALIKO'ON BIX SÍIJIK</emph> 
-                        <emph rend="center"><rs ana="JUNAJPU">JUN AJPÚUB</rs>, <rs ana="XB'ALAMQ'E">XBÁALANKEJ</rs></emph> 
-                    </head>
+                    <head rend="center">
+                        TI' LE SÚUTUKN YAAN IN WA'ALIKO'ON BIX SÍIJIK
+                        <rs ana="JUNAJPU">JUN AJPÚUB</rs>, <rs ana="XB'ALAMQ'E">XBÁALANKEJ</rs></head>
                     <p>Yáaxe' yaan in wa aliko'on bix úuchik u ts'its'óolta'al <rs ana="WUQUB'_KAQIX">Wukub Káakix</rs>, <rs ana="SIPAKNA">Síipakna'</rs> yéetel <rs ana="KAB'RAQAN">Ka 
                         Ráakan</rs> way yóok'olkaabe'.</p> 
                     <p>Way kun káajal in tsikbaltiko'on bix u k'aaba u yuumo'ob <rs ana="JUNAJPU">Jun Ajpúub</rs>, <rs ana="XB'ALAMQ'E">Xbáalankeje'</rs>. 
@@ -2857,10 +2853,9 @@
                     <pb xml:id="yua2021-082" /> </p>
                 </div>
                 <div type="tsúuk" n="yua.tsk.08">
-                    <head>
-                        <emph rend="center">U K'AABA' <rs ana="RAJAWAL_XIB'ALB'A">LE METNÁAL AJAWO'OB</rs> KIN</emph> 
-                        <emph rend="center">IN WA'ALO'ON TI' LE SÚUTUKA'</emph> 
-                    </head>
+                    <head rend="center">
+                        U K'AABA' <rs ana="RAJAWAL_XIB'ALB'A">LE METNÁAL AJAWO'OB</rs> KIN
+                        IN WA'ALO'ON TI' LE SÚUTUKA'</head>
                     <p>Yaan in jáan p'atiko'on u tsikbalil <rs ana="JUN_B'ATZ">Jun Ba'ats'</rs>, <rs ana="JUN_CHOWEN">Jun Chóowen</rs>; le u paal <rs ana="JUN_JUNAJPU">Jun Jun Ajpúube'</rs>; 
                         tumen kex ts'o'okili' u kíimil u na'e', uláak' ba'al bin le úuchik u ts'its' óolta'al <rs ana="JUN_B'ATZ">Jun Ba'ats'</rs>, <rs ana="JUN_CHOWEN">Jun 
                         Chóowen</rs> tumen <rs ana="JUNAJPU">Jun Ajpúub</rs>, <rs ana="XB'ALAMQ'E">Xbáalankejo'</rs>:</p> 
@@ -3001,7 +2996,7 @@
                     <p>Bey túun úuchik u káajal u yantal u yich le che'o', tumen ma'atech bin u ch'úuyul u
                         yich a'ili' ka'apak u pool <rs ana="JUN_JUNAJPU">Jun Jun Ajpúub</rs>, <rs ana="WUQUB'_JUNAJPU">Wukub Jun Ajpúub</rs> te' tu k'abo'o'. <rs ana="TZIMA">&lt;Luuch&gt;</rs><ref target="yua.n033"><hi rend="sup">33</hi></ref>
                         <note place="foot" xml:id="yua.n033"><seg type="note-symbol"><hi rend="sup">33</hi></seg>
-                            U táan óolal ajk'exts'íib. <emph rend="italic">Bignoniáceae'</emph>, jump'éel paak'al sijnáal tu lu'umil América, u yiche' ku 
+                            U táan óolal ajk'exts'íib. <hi rend="italic">Bignoniáceae'</hi>, jump'éel paak'al sijnáal tu lu'umil América, u yiche' ku 
                             k'a'abetkuunsa'al uti'al u lu'uchal ba'alo'ob bey ja'e' wáaj u yich paák'alo'ob je'el bix <rs ana="KINAQ'">bu'ule'</rs>, <rs ana="IXIM">ixi'im</rs>, ichil
                             uláak'o'ob; bejla'e' ku k'a'abetchajal xan uti'al u jóok'sa'al sakab ichil u meeyjulil ch'a'acháak.
                         </note>
@@ -3022,9 +3017,8 @@
                         <pb xml:id="yua2021-090" /> </p>
                 </div>
                 <div type="tsúuk" n="yua.tsk.09">
-                    <head> 
-                        <emph rend="center"><rs ana="IXKIK'">U SUJUY CH'ÚUPAL</rs> <rs ana="KUCHUMA_KIK'">KÚUCHUMAKIIK</rs></emph> 
-                    </head>
+                    <head rend="center"> 
+                        <rs ana="IXKIK'">U SUJUY CH'ÚUPAL</rs> <rs ana="KUCHUMA_KIK'">KÚUCHUMAKIIK</rs></head>
                     <p><rs ana="IXKIK'">Xkiike'</rs><ref target="yua.n034"><hi rend="sup">34</hi></ref>
                         <note place="foot" xml:id="yua.n034"><seg type="note-symbol"><hi rend="sup">34</hi></seg>Il a wil le Yáax Kanti'itsmanti'itso'.
                         </note>
@@ -3259,9 +3253,8 @@
                     </figure>
                 </div>
                 <div type="tsúuk" n="yua.tsk.10">
-                    <head>
-                        <emph rend="center">U SÍIJIL <rs ana="JUNAJPU">JUN AJPÚUB</rs>, <rs ana="XB'ALAMQ'E">XBÁALANKEJ</rs></emph> 
-                    </head>
+                    <head rend="center">
+                        U SÍIJIL <rs ana="JUNAJPU">JUN AJPÚUB</rs>, <rs ana="XB'ALAMQ'E">XBÁALANKEJ</rs></head>
                     <p>Ti le súutuká' bíin in k'a'jo'on in tsikbalt bix úuchik u síijil <rs ana="KA'IB_K'AJOLAB'">u paal</rs> <rs ana="IXKIK'">Ixkik</rs>, le ka jk'uch u 
                         k'iinilo'. <rs ana="IXMUKANE">Xmúukanej</rs> bine' ma' bin tu ts'áaj táantaj bix úuchik u síijili' wa ma' tak ka jch'úuy'abij;
                         u k'aaba'e', <rs ana="JUNAJPU">Jun Ajpúub</rs>, <rs ana="XB'ALAMQ'E">Xbáalankej</rs>. Tu ts'u k'áax bin jlíik u kuxtal, ku ts'o'kole' ka jbisa'ab
@@ -3929,9 +3922,8 @@
                         <pb xml:id="yua2021-138" /></p>
                 </div>
                 <div type="tsúuk" n="yua.tsk.11">
-                    <head>
-                        <emph rend="center">U KÍIMIL <rs ana="JUNAJPU">JUN AJPÚUB</rs>, <rs ana="XB'ALAMQ'E">XBÁALANKEJ</rs></emph> 
-                    </head>
+                    <head rend="center">
+                        U KÍIMIL <rs ana="JUNAJPU">JUN AJPÚUB</rs>, <rs ana="XB'ALAMQ'E">XBÁALANKEJ</rs></head>
                     <p>Le je'ela' u tsikbalil bix úuchik u kíimil <rs ana="JUNAJPU">Jun Ajpúub</rs>, <rs ana="XB'ALAMQ'E">Xbáalankej</rs>.</p> 
                     <p>Tu beetajo'ob u muk'yajtik tuláakal le yaayaj óolal tu ts'íiboltajo'ob ti'o', ba'ale' ma' bin 
                         jkíim tu yóok'olal u tse'ek kíimil <rs ana="RAJAWAL_XIB'ALB'A">le Metnáalilo'obo'</rs>, mix xan jts'its' óolta'ab tumen tuláakal u 
@@ -4154,16 +4146,15 @@
                     <p>Bey bin úuchik u tsolik u tuukul le ka payalchi'inaj úuchik u ts'its' óoltik tuláakal le 
                         Metnáalilo'bbo'. Ku ts'o'okole' ka bin jna'ak way chúumuk sáasile' (way yóok'olkaabe'). Ka 
                         wilike', jach uts úuchik bin u na'akal te' ka'ano', ka bin suunnaj Yuum K'iinil; leti' bin sáasil 
-                        kuunt le ka'ano', bey xan way Yóok'olkaabe'. Te' ka'an bin jp'áato', pak'te' yéetel le <emph rend="italic">cuatrocientos</emph> 
+                        kuunt le ka'ano', bey xan way Yóok'olkaabe'. Te' ka'an bin jp'áato', pak'te' yéetel le <hi rend="italic">cuatrocientos</hi> 
                         u túulul xi'ipalal jkíinsa'ab tumen Síipakna'e'; leti' bin jp'áat bey u yéetbisajba'ilo'ob te' ka'ano', 
                         ka suunnajo'ob bey u sáast'abe'en eek'ilo'ob ka'ane'. 
                         <pb xml:id="yua2021-148" /> </p>
                 </div>
                 <div type="tsúuk" n="yua.tsk.12">
-                    <head>
-                        <emph rend="center">LE JE'ELX U N-OJKÁAJBAL U KUXKÍINTXAL WÍINIK LE KA</emph>
-                        <emph rend="center">JKAXTA'AB UYÓOL UKUXTALIL LE UWÍINKILILO'</emph> 
-                    </head>
+                    <head rend="center">
+                        LE JE'ELX U N-OJKÁAJBAL U KUXKÍINTXAL WÍINIK LE KA
+                        JKAXTA'AB UYÓOL UKUXTALIL LE UWÍINKILILO'</head>
                     <p>Ka bin tu ya'alajo'ob Áalom; Káajolom, Tsáakol, Bíitol, Téepew yéetel K'u'uk'umaatse':</p> 
                     <p>-Ts'o'ok u k'uchul u k'iinil u sáastal; beetk'ajak tu beel le líik'saj kuxtalo'. Ts'áabak k'aj 
                         óoltbil le ajkaxan kux óolalo', le sujuy ch'i'ibalo' wáaj le jach láak'tsilo'obo'. Ka líik'ik u kuxtal 
@@ -4364,11 +4355,10 @@
                         <pb xml:id="yua2021-156" /> </p>
                 </div>
                 <div type="tsúuk" n="yua.tsk.13">
-                    <head>
-                        <emph rend="center">U K'AABA' LE NOJLU'UM TÚ'UX JBINO'OB BÁALAM KI'CHE'EJ,</emph> 
-                        <emph rend="center">BÁALAM ÁAK'AB, MÁAJUKUTAJ, BÁALAM UJ; LÁAK'INTXANO'OB</emph> 
-                        <emph rend="center">TOMEN BIN TÁAMUB YÉETEL ÍILOKAAB</emph> 
-                    </head>
+                    <head rend="center">
+                        U K'AABA' LE NOJLU'UM TÚ'UX JBINO'OB BÁALAM KI'CHE'EJ,
+                        BÁALAM ÁAK'AB, MÁAJUKUTAJ, BÁALAM UJ; LÁAK'INTXANO'OB
+                        TOMEN BIN TÁAMUB YÉETEL ÍILOKAAB</head>
                     <p>&lt;Áaktun Túulan&gt;<ref target="yua.057"><hi rend="sup">57</hi></ref>
                         <note place="foot" xml:id="yua.057"><seg type="note-symbol"><hi rend="sup">57</hi></seg>
                             Il a wil le Yáax Kanti'itsmanti'itso'.
@@ -4650,10 +4640,9 @@
                         <pb xml:id="yua2021-168" /> </p>
                 </div>
                 <div type="tsúuk" n="yua.tsk.14">
-                    <head>
-                        <emph rend="center">U JUUL YÉETEL BIX CHÍIKPAJIK YUUM K'IIN,</emph> 
-                        <emph rend="center">KI'ICHPAN UJ YÉETEL LE EEK'O'OBO'</emph> 
-                    </head>
+                    <head rend="center">
+                        U JUUL YÉETEL BIX CHÍIKPAJIK YUUM K'IIN,
+                        KI'ICHPAN UJ YÉETEL LE EEK'O'OBO'</head>
                     <p>Jach jki'imakchaj u yóol Báalam Kí' Che'ej, Báalam Áak'ab, Máajukutaj yéetel Báalam Uj 
                         úuchik u yiliko'ob le Noj Eek'o'. Yáax táanil leti' jjóok'ij, jach sáast'abe'en úuchik bin u chíikpa- 
                         jal; táanil bin ku jóok'ol ti' Yuum K'iin. Kabin tu jáan wach'ajo'ob le poom tu ch'a'ajo'ob 
@@ -4750,10 +4739,9 @@
                         <pb xml:id="yua2021-172" /> </p>
                 </div>
                 <div type="tsúuk" n="yua.tsk.15">
-                    <head>
-                        <emph rend="center">BÍIN IN KA'AJO'ON IN TSIKBALTO'ON BIX ÚUCHIK U KAJTAL</emph> 
-                        <emph rend="center">WÍINIK TE' WITSA', YÉETEL BA'AXTEN JA'ÁANCHAJO'OBI'</emph> 
-                    </head>
+                    <head rend="center">
+                        BÍIN IN KA'AJO'ON IN TSIKBALTO'ON BIX ÚUCHIK U KAJTAL
+                        WÍINIK TE' WITSA', YÉETEL BA'AXTEN JA'ÁANCHAJO'OBI'</head>
                     <p>Ti' bin jump'éelili' kúuchil yaan tu kantúulilo'ob: Báalam Ki' Che'ej, Báalam Áak'ab, 
                         Máajukutaj yéetel Báalam Uj. Táan bin u yok'tiko'ob Tojil, Áawilix yéetel Jáakawits, tumen 
                         chéen bin ichil u le'il k'éewel xíiw yano'ob, to'ano'ob yéetel t'ut'lix nook'o'obi'.</p> 
@@ -4838,10 +4826,9 @@
                         <pb xml:id="yua2021-176" /> </p>
                 </div>
                 <div type="tsúuk" n="yua.tsk.16">
-                    <head>
-                        <emph rend="center">U CHU'UKUL MÚUCH'KAJNÁALO'OB TUMEN BÁALAM KI'</emph>
-                        <emph rend="center">CHE'EJ, BÁALAM,ÁAK'AB, MÁAJUKUTAJ YÉETEL BÁALAM UJ</emph> 
-                    </head>
+                    <head rend="center">
+                        U CHU'UKUL MÚUCH'KAJNÁALO'OB TUMEN BÁALAM KI'CHE'EJ,
+                        BÁALAM,ÁAK'AB, MÁAJUKUTAJ YÉETEL BÁALAM UJ</head>
                     <p>Jkáaj u kíinsiko'ob le múuch'kajnáalo'obo'. Chéen bin ku chukiko'ob le máax tu juunal 
                         wáaj ka'aka'atúulil u máano'obo', beyo' ma' u jáan chíikpajal wa mina'ano'obi'. Ku bino'ob 
                         u xoto'ob u kuxtal le wíiniko'ob tu táan Tojil yéetel Áawilixo'. Ku ts'o'okole', ku jáan bin u 
@@ -5059,9 +5046,8 @@
                         <pb xml:id="yua2021-186" /> </p>
                 </div>
                 <div type="tsúuk" n="yua.tsk.17">
-                    <head>
-                        <emph rend="center">U TSIKBALIL LE BA'ATELTÁAMBALO'</emph> 
-                    </head>
+                    <head rend="center">
+                        U TSIKBALIL LE BA'ATELTÁAMBALO'</head>
                     <p>Báalam Ki' Che'ej, Báalam Áak'ab,' Máajukutaj yéetel Báalam Uje', ti' bin jump'éelili' 
                         kúuchil yano'ob te' witso', pak'te' yéetel u yatano'ob yéetel u paalalo'ob. Jnáats' bin tu 
                         yiknalo'ob tuláakal le ajk' a tuno'obo', le ajkíinsajo'obo'; mix chéen ka'ap'éel wáaj óoxp'éel 
@@ -5108,10 +5094,9 @@
                         <pb xml:id="yua2021-190" /></p>
                 </div>
                 <div type="tsúuk" n="yua.tsk.18">
-                    <head>
-                        <emph rend="center">U KÍIMIL BÁALAM KI' CHE'EJ, BÁALAM ÁAK'AB,</emph> 
-                        <emph rend="center">MÁAJUKUTAJ YÉETEL BÁALAM UJ</emph> 
-                    </head>
+                    <head rend="center">
+                        U KÍIMIL BÁALAM KI' CHE'EJ, BÁALAM ÁAK'AB,
+                        MÁAJUKUTAJ YÉETEL BÁALAM UJ</head>
                     <p>Jbóoj tu poolo'ob yaan bin u kíimilo'ob, yaan u jach bino'ob, le beetik jbáaj u tsolxikint 
                         u paalalo'obi'. Ma' tumen wa k'oja'ano'ob, wa táan u yáakam óolalo'ob, wa tumen táan u sa'atal 
                         u kuxtalo'ob úuchik u tsikhaltiko'ob u k'ajla'ayil u kuxtalo'ob ti' u paalalo'ob.</p> 
@@ -5343,9 +5328,8 @@
                         <pb xml:id="yua2021-200" /></p> 
                 </div>
                 <div type="tsúuk" n="yua.tsk.19">
-                    <head>
-                        <emph rend="center">U K'AABX U AJAWILO'OB U AJAWCH'I'IBALIL KÁAWIKIIB</emph> 
-                    </head>
+                    <head rend="center">
+                        U K'AABX U AJAWILO'OB U AJAWCH'I'IBALIL KÁAWIKIIB</head>
                     <p>Le je'elo'oba' leti' le yáax ajawo'ob bino': Ajpóop yéetel Ajpóopkamjaaj, Ajtojil<ref target="yua.n091"><hi rend="sup">91</hi></ref>
                         <note place="foot" xml:id="yua.n091"><seg type="note-symbol"><hi rend="sup">91</hi></seg>
                             Il a wil le Yáax Kanti'itsmanti'itso'.
@@ -5357,9 +5341,8 @@
                         <pb xml:id="yua2021-202" /></p> 
                 </div>
                 <div type="tsúuk" n="yua.tsk.20">
-                    <head>
-                        <emph rend="center">U AJAWILO'OB U AJAWCH'I'IBALIL NÍIMJAYBAAB</emph> 
-                    </head>
+                    <head rend="center">
+                        U AJAWILO'OB U AJAWCH'I'IBALIL NÍIMJAYBAAB</head>
                     <p>Le yáax ajawo', Ajkálel Ajaw bin. Tu paach bin jtaal xan Ajtsíik Wíinak Ajaw<ref target="yua.n092"><hi rend="sup">92</hi></ref>
                         <note place="foot" xml:id="yua.n092"><seg type="note-symbol"><hi rend="sup">92</hi></seg>
                             Il a wil le Yáax Kanti'itsmanti'itso'.
@@ -5370,9 +5353,8 @@
                         <pb xml:id="yua2021-204" /></p> 
                 </div>
                 <div type="tsúuk" n="yua.tsk.21">
-                    <head>
-                        <emph rend="center">U K'AABA' LE K'ICHE' AJAWO'OBO'</emph>
-                    </head> 
+                    <head rend="center">
+                        U K'AABA' LE K'ICHE' AJAWO'OBO'</head> 
                     <p>U ajawilo'obe': Aitsíik Wíinak<ref target="yua.n093"><hi rend="sup">93</hi></ref>
                         <note place="foot" xml:id="yua.n093"><seg type="note-symbol"><hi rend="sup">93</hi></seg>
                             Il a wil le Yáax Kanti'itsmanti'itso'.
@@ -5381,9 +5363,8 @@
                         <pb xml:id="yua2021-206" /></p> 
                 </div>
                 <div type="tsúuk" n="yua.tsk.22">
-                    <head>
-                        <emph rend="center">KA'AP'ÉEL KAAJAL LE SÁAKIKIIB AJAWO'OBO'</emph> 
-                    </head>
+                    <head rend="center">
+                        KA'AP'ÉEL KAAJAL LE SÁAKIKIIB AJAWO'OBO'</head>
                     <p>Tsúutuja'<ref target="yua.n094"><hi rend="sup">94</hi></ref>
                         <note place="foot" xml:id="yua.n094"><seg type="note-symbol"><hi rend="sup">94</hi></seg>
                             Il a wil le Yáax Kanti'itsmanti'itso'.
@@ -5432,9 +5413,8 @@
                         <pb xml:id="yua2021-210" /></p>  
                 </div>
                 <div type="tsúuk" n="yua.tsk.23">
-                    <head>
-                        <emph rend="center">U WAKP'ÉEL TSAYCH'I'IBALIL AJAWO'OB</emph> 
-                    </head>
+                    <head rend="center">
+                        U WAKP'ÉEL TSAYCH'I'IBALIL AJAWO'OB</head>
                     <p>Te' tu wakp'éel tsaych'i'ibalilo', ku chíikpajal bin ka'atúul nukuch ajawi'. Juntúul le 
                         ajawo'obo', Kíikab<ref target="yua.n096"><hi rend="sup">96</hi></ref>
                         <note place="foot" xml:id="yua.n096"><seg type="note-symbol"><hi rend="sup">96</hi></seg>
@@ -5550,9 +5530,8 @@
                         <pb xml:id="yua2021-216" /></p> 
                 </div>
                 <div type="tsúuk" n="yua.tsk.24">
-                    <head>
-                        <emph rend="center">U MEYAJTA'AL YÉETEL U YÉEYA'AL LE AJK'ALELO'OBO'</emph> 
-                    </head>
+                    <head rend="center">
+                        U MEYAJTA'AL YÉETEL U YÉEYA'AL LE AJK'ALELO'OBO'</head>
                     <p>Junk'aal u túulul bin Ajk'alel wáaj junk'aal u túulul Ajpóop jyéeya'ab tumen Ajpóop yée- 
                         tel Ajpóopkamjaaj, wa xan tumen Ajk'alel yéetel Ajtsíik Wíinak. Jk'u'ub bin u kuuch tuláakal 
                         le junk'aal u túulul Ajk'alel, Ajpóopo'obo'. Ichilo'ob jyéeya'ab Junlajun Níim Chokoj<ref target="yua.n105"><hi rend="sup">105</hi></ref>
@@ -5575,9 +5554,8 @@
                         <pb xml:id="yua2021-218" /></p> 
                 </div>
                 <div type="tsúuk" n="yua.tsk.25">
-                    <head>
-                        <emph rend="center">U K'AABA' U K'UJNAJIL LE KÁABAWILO'OBO'</emph> 
-                    </head>
+                    <head rend="center">
+                        U K'AABA' U K'UJNAJIL LE KÁABAWILO'OBO'</head>
                     <p>U k'aaba' bin le káabawilo'obo' tu beetajo'ob u síijil u k'aaba bin u k'ujnajo'ob: Níim 
                         Tsáak Tojil<ref target="yua.n106"><hi rend="sup">106</hi></ref>
                         <note place="foot" xml:id="yua.n106"><seg type="note-symbol"><hi rend="sup">106</hi></seg>
@@ -5667,9 +5645,8 @@
                         <pb xml:id="yua2021-222" /></p> 
                 </div>
                 <div type="tsúuk" n="yua.tsk.26">
-                    <head>
-                        <emph rend="center">U K'AABA' U AJAWCH'I'IBALIL TULÁAKAL LE AJÁWO'OBO'</emph>
-                    </head> 
+                    <head rend="center">
+                        U K'AABA' U AJAWCH'I'IBALIL TULÁAKAL LE AJÁWO'OBO'</head> 
                     <p>Yaan in máanchi'itiko'on tuláakal le ajawo'obo', u ajawch'i'ibalilo'ob, u jatsaljaatsilo'ob. 
                         Le ajawch'i'ibalo'ob wáaj le jatsaljáats láayli' kuxa'ano'obo': Báalam Ki' Che'ej, Báalam Áak'ab, 
                         Máajukutaj yéetel Báalam Uj. In yáax noolo'on yéetel in yáax ajawo'ob líik'ul ka juulnaj Yuum 
@@ -5680,9 +5657,8 @@
                         <pb xml:id="yua2021-224" /></p>                              
                 </div>
                 <div type="tsúuk" n="yua.tsk.27">
-                    <head>
-                        <emph rend="center">U AJAWCH'I'IBALILO'OB LE K'ICHE' AJAWILO'</emph> 
-                    </head>
+                    <head rend="center">
+                        U AJAWCH'I'IBALILO'OB LE K'ICHE' AJAWILO'</head>
                     <p>Báálam Ki' Che'eje', u Nojkáajbalil bin le Káawikiibilo'obo'.</p> 
                     <p>Kóokawiibe', u ka'ap'éel ajawch'i'ibalil Báalam Ki' Che'ej.</p> 
                     <p>Báalam Kóonache'e'<ref target="yua.n110"><hi rend="sup">110</hi></ref>
@@ -5742,9 +5718,8 @@
                         <pb xml:id="yua2021-226" /></p> 
                 </div>
                 <div type="tsúuk" n="yua.tsk.28">
-                    <head>
-                        <emph rend="center">U AJAWILO'OB LE KÁAWIKIIBILO'OBO'</emph> 
-                    </head>
+                    <head rend="center">
+                        U AJAWILO'OB LE KÁAWIKIIBILO'OBO'</head>
                     <p>Leti' bin le u ajawnajilo'ob le Ajpóopo'ob, le  Ajpóopkamjaajo'obo', tumen ti' leti'ob 
                     jch'aab u k'aaba le Bolomp'éel Káawikiib Ajawnajo'obo'. U ajawilo'ob bin le Bolomp'éel 
                     Káawikiib Ajawnajo'obo':</p> 
@@ -5764,9 +5739,8 @@
                         <pb xml:id="yua2021-228" /></p> 
                 </div>
                 <div type="tsúuk" n="yua.tsk.29">
-                    <head>
-                        <emph rend="center">U AJAWILO'OB LE NÍIMJAYBAABILO'OBO'</emph> 
-                    </head>
+                    <head rend="center">
+                        U AJAWILO'OB LE NÍIMJAYBAABILO'OBO'</head>
                     <p>Lé Níimjaybaabilo'obo', Bolomp'éel Ajawnaj yaan bin ti'ob ka'achil. Leti' le yáax t'aan ku 
                         beeta'al tu yóok'olal u ajawchi'ibalilo'ob le Ajawilo'. Chéen jump'éelili' u Nojkáajbalo'ob ma'ili' 
                         juulnak Yuum K'iin yéetel le Nolsáasile'e'.</p> 
@@ -5810,9 +5784,8 @@
                         <pb xml:id="yua2021-230" /></p> 
                 </div>
                 <div type="tsúuk" n="yua.tsk.30">
-                    <head>
-                        <emph rend="center">U YÁAX NOOL YÉETEL U YÁAX AJAWIL LE K'ICHE' AJAWO'OBO'</emph> 
-                    </head>
+                    <head rend="center">
+                        U YÁAX NOOL YÉETEL U YÁAX AJAWIL LE K'ICHE' AJAWO'OBO'</head>
                     <p>Maajukutaj. U yáax wíinikil, u yáax nool yéetel u yaax ajawil le K'iche' Ajawilo'.</p> 
                     <p>Kóojajawe', u k'aaba' ú ka'ap'éel ajawchi'i'balil u ajawilo'ob Máajukutaj.</p> 
                     <p>Káaklakaane'<ref target="yua.n124"><hi rend="sup">124</hi></ref>
@@ -5848,9 +5821,8 @@
                         <pb xml:id="yua2021-232" /></p> 
                 </div>
                 <div type="tsúuk" n="yua.tsk.31">
-                    <head>
-                        <emph rend="center">U K'AABA' U AJAWIL LE AJAWNAJO'OBO'</emph> 
-                    </head>
+                    <head rend="center">
+                        U K'AABA' U AJAWIL LE AJAWNAJO'OBO'</head>
                     <p>Chéen kantúulo'ob bin:</p> 
                     <p>Ajtsíik Wíinak Ajaw. U k'aaba uyáax ajawil jump'éel Ajawnaj bin.</p>  
                     <p>Lolmet Ajaw. U ka'atúul ajawil jump'éel Ajawnaj bin xan.</p>  
@@ -5882,16 +5854,16 @@
             </div>
             <div xml:lang="spa">
                 <div type="tsúuk" n="spa.tsk.01">
-                    <head>DESDE ANTES DE ESCRIBIRSE EL POP WUJ<ref target="spa.n001"><hi rend="sup">1</hi></ref>
+                    <head rend="center">DESDE ANTES DE ESCRIBIRSE EL POP WUJ<ref target="spa.n001"><hi rend="sup">1</hi></ref>
                         <note place="foot" xml:id="spa.n001"><seg type="note-symbol"><hi rend="sup">1</hi></seg>
-                            Homólogo de Antigua Palabra, o sea, de <emph rend="italic">Ojer Tzij</emph> que aparece en la copia del padre Jiménez y que en 
-                            el renglón 27 aparece con el nombre de <emph rend="italic">Pop Wuj</emph>. Literalmente significa Libro del Tiempo o Libro  de 
+                            Homólogo de Antigua Palabra, o sea, de <hi rend="italic">Ojer Tzij</hi> que aparece en la copia del padre Jiménez y que en 
+                            el renglón 27 aparece con el nombre de <hi rend="italic">Pop Wuj</hi>. Literalmente significa Libro del Tiempo o Libro  de 
                             Acontecimientos. 
                         </note>
                         AQUÍ SE HA LLAMADO "LOS MAGUEYES"</head>
                     <p>Y aquí escribimos (ya con letra castellana), aquí fijamos la antigua palabra<ref target="spa.n002"><hi rend="sup">2</hi></ref>
                         <note place="foot" xml:id="spa.n002"><seg type="note-symbol"><hi rend="sup">2</hi></seg>
-                            <emph rend="italic">Ojer tzij</emph> significa: antigua palabra, o sea, el <emph rend="italic">Pop Wuj</emph>. 
+                            <hi rend="italic">Ojer tzij</hi> significa: antigua palabra, o sea, el <hi rend="italic">Pop Wuj</hi>. 
                         </note>. Principio, es 
                         decir, base de todo lo sucedido en el pueblo. Los Magueyes, pero de las grandes <rs ana="TINAMIT_K'ICHE'">gentes k'ichés</rs>. 
                         De manera que aquí empezaremos a enseñarlo, a revelarlo, es decir, a relatarlo, lo dejado e 
@@ -5902,8 +5874,8 @@
                         amante y trabajador, dos veces partera, dos veces abuelo, se decía, en lengua k'iche'.</p> 
                     <p>Contaron todo lo que hicieron, ya en la clara realidad, en clara manifestación. Y si aquí 
                         escribimos ya con letra castellana, ya en cristianismo, en esta forma lo divulgaremos porque ya 
-                        no se verá nada del <rs ana="POPOL_WUJ"><emph rend="italic">Pop Wuj</emph></rs>, ciencia que vino del otro lado del mar y que es relato de nuestro 
-                        origen, ciencia de la existencia, se decía. Existe <rs ana="POPOL_WUJ">el primer libro</rs> (<rs ana="POPOL_WUJ">el <emph rend="italic">Pop Wuj</emph></rs>), es decir, <rs ana="POPOL_WUJ">la antigua 
+                        no se verá nada del <rs ana="POPOL_WUJ"><hi rend="italic">Pop Wuj</hi></rs>, ciencia que vino del otro lado del mar y que es relato de nuestro 
+                        origen, ciencia de la existencia, se decía. Existe <rs ana="POPOL_WUJ">el primer libro</rs> (<rs ana="POPOL_WUJ">el <hi rend="italic">Pop Wuj</hi></rs>), es decir, <rs ana="POPOL_WUJ">la antigua 
                         escritura</rs>.</p> 
                     <p>Esto es únicamente para lamentarlo, para meditarlo. Es muy extenso, porque relata desde 
                         que se terminó de cubrir el cielo y la tierra, la cúspide del cielo, los lados del cielo, las medidas 
@@ -5915,9 +5887,9 @@
                         <pb xml:id="yua2021-051" /></p> 
                 </div>
                 <div type="tsúuk" n="spa.tsk.02">
-                    <head><emph rend="center">RELATO DE LO QUE TODAVÍA ERA SILENCIO,VIBRACIÓN,</emph> 
-                        <emph rend="center">FERMENTACIÓN, VIBRABA, ESPASMABA, PALPITABA,</emph> 
-                        <emph rend="center">ES DECIR, CUANDO EL CIELO ESTABA VACÍO</emph></head>
+                    <head rend="center">RELATO DE LO QUE TODAVÍA ERA SILENCIO,VIBRACIÓN,
+                        FERMENTACIÓN, VIBRABA, ESPASMABA, PALPITABA,
+                        ES DECIR, CUANDO EL CIELO ESTABA VACÍO</head>
                     <p>Esta primera palabra, es la primera expresión; no había una sola gente ni animal, <rs ana="TZ'IKIN">pájaro</rs>,
                         <rs ana="KAR">pez</rs>, <rs ana="TAP">cangrejo</rs>, árbol, piedra, hoyo, barranco, pajón, bosque; solamente estaba el cielo.</p> 
                     <p>No se veía tierra en ninguna parte, solamente el mar estaba represado; el cielo, todo 
@@ -5994,7 +5966,7 @@
                     <p>-Digan ahora mis nombres, invóquenme, soy su madre, su dueño. Llamen pues a <rs ana="JUN_RAQAN">Un 
                         Pié</rs><ref target="spa.n006"><hi rend="sup">6</hi></ref>
                         <note place="foot" xml:id="spa.n006"><seg type="note-symbol"><hi rend="sup">6</hi></seg>
-                            Es el <rs ana="JUN_RAQAN"><emph rend="italic">Jun Rakán</emph></rs> cuyo secreto es que no tiene sexo o lo que es lo mismo: padre y madre al mismo tiempo. 
+                            Es el <rs ana="JUN_RAQAN"><hi rend="italic">Jun Rakán</hi></rs> cuyo secreto es que no tiene sexo o lo que es lo mismo: padre y madre al mismo tiempo. 
                         </note>
                         , a <rs ana="CH'IPI_KAQULJA">Último Rayo</rs>, a <rs ana="RAXA_KAQULJA">Verdadero Rayo</rs>, al <rs ana="UK'U'X_KAJ">Espíritu del Cielo</rs>, al <rs ana="UK'U'X_ULEW">Espíritu de la Tierra</rs>, al <rs ana="TZ'AQOL">Arquitecto</rs>, 
                         al <rs ana="B'ITOL">Formador</rs>, al <rs ana="ALOM">Creado</rs>, al <rs ana="K'AJOLOM">Varón Creado</rs>.</p> 
@@ -6086,7 +6058,7 @@
                         <note place="foot" xml:id="spa.n008"><seg type="note-symbol"><hi rend="sup">8</hi></seg>
                             Es sentido secreto: esa humanidad fue destruida por haber sido insensible y corrupta. Si la presente 
                             humanidad, en su locura, sigue siendo fría como el hierro, no se sabe cuál será su suerte; según se deduce 
-                            del <rs ana="POPOL_WUJ"><emph rend="italic">Pop Wuj</emph></rs>.
+                            del <rs ana="POPOL_WUJ"><hi rend="italic">Pop Wuj</hi></rs>.
                         </note>
                         .De madera del pito era el cuerpo, del hombre cuando fue tallado 
                         por <rs ana="TZ'AQOL">El Arquitecto</rs>, <rs ana="B'ITOL">El Formador</rs>; y la mujer, de zibak; eso quiso <rs ana="TZ'AQOL">El Arquitecto</rs>, <rs ana="B'ITOL">El Formador</rs> que 
@@ -6150,9 +6122,9 @@
                         <pb xml:id="yua2021-063" /></p>
                     </div>
                 <div type="tsúuk" n="spa.tsk.03">
-                    <head><emph rend="center">AQUÍ DIREMOS AHORA LA MUÉRTE DE NUESTRAS SIETE</emph> 
-                        <emph rend="center">VERGÜENZAS, CUANDO LO VENCIERON, CUANDO SE CREÓ</emph> 
-                        <emph rend="center">LA GENTE POR EL ARQUITECTO, EL FORMADOR</emph></head>
+                    <head rend="center">AQUÍ DIREMOS AHORA LA MUÉRTE DE NUESTRAS SIETE
+                        VERGÜENZAS, CUANDO LO VENCIERON, CUANDO SE CREÓ
+                        LA GENTE POR EL ARQUITECTO, EL FORMADOR</head>
                     <p>Este es el antecedente de la derrota, mejor dicho, cuando le llegó su día al <rs ana="WUQUB'_KAQIX">Nuestras Siete 
                         Vergüenzas</rs> por un hijo llamado <rs ana="XB'ALAMQ'E">Un Cerbatanero, Xbalanké</rs><ref target="spa.n010"><hi rend="sup">10</hi></ref>
                         <note place="foot" xml:id="spa.n010"><seg type="note-symbol"><hi rend="sup">10</hi></seg>
@@ -6182,9 +6154,9 @@
                     <pb xml:id="yua2021-065" /></p>
                 </div>
                 <div type="tsúuk" n="spa.tsk.04">
-                    <head><emph rend="center">DE CUANDO EL HIJO TIRÓ CON CERBATANA A NUESTRAS SIETE</emph> 
-                    <emph rend="center">VERGÜENZAS. AQUÍ RELATAREMOS LA DERROTA DE CADA UNO</emph> 
-                    <emph rend="center">DE LOS SOBERBIOS</emph></head>
+                    <head rend="center">DE CUANDO EL HIJO TIRÓ CON CERBATANA A NUESTRAS SIETE
+                    VERGÜENZAS. AQUÍ RELATAREMOS LA DERROTA DE CADA UNO
+                    DE LOS SOBERBIOS</head>
                     <p>El Nuestras Siete Vergüenzas comía en un gran árbol de nance; ésta era la comida de 
                         Nuestras Siete Vergüenzas; por la fruta del nance se subía al árbol todos los días. Un Cerba- 
                         tanero, Xbalanké vio la comida de Nuestras Siete Vergüenzas, entonces espió a Nuestras Siete 
@@ -6253,7 +6225,7 @@
                         Cerbatanero. Murió también Chimalmat, la mujer de Nuestras Siete Vergüenzas. Así fue como 
                         se acabó la riqueza de Nuestras Siete Vergüenzas. Así que era médico quien se apoderó de sus 
                         esmeraldas virtuosas que lo protegían aquí sobre la superficie de la tierra.</p>
-                    <p><emph rend="indent">__________________________________________________________________________</emph>
+                    <p><hi rend="indent">__________________________________________________________________________</hi>
                         ____________________________________________________________________________________________
                         ____________________________________________________________________________________________
                         ____________________________________________________________________________________________
@@ -6266,7 +6238,7 @@
                         quienes hicieron esto. Así que recogieron el brazo y se lo injertaron y resultó bien. Sólo para 
                         matar a Nuestras Siete Vergüenzas fue que hicieron esto; malo les pareció el enorgullecimiento 
                         de Nuestras Siete Vergüenzas.</p> 
-                    <p><emph rend="indent">__________________________________________________________________________</emph>
+                    <p><hi rend="indent">__________________________________________________________________________</hi>
                         ____________________________________________________________________________________________
                         ____________________________________________________________________________________________
                         __________</p>
@@ -6275,9 +6247,9 @@
                     <pb xml:id="yua2021-069" /></p>
                 </div>
                 <div type="tsúuk" n="spa.tsk.05">
-                    <head><emph rend="center">LO QUE HIZO ZIPACNÁ, PRIMER HIJO</emph> 
-                    <emph rend="center">DE NUESTRAS SIETE VERGÜENZAS.</emph> 
-                    <emph rend="center">"YO HAGO MONTAÑAS" DECÍA ZIPACNÁ</emph></head>
+                    <head rend="center">LO QUE HIZO ZIPACNÁ, PRIMER HIJO
+                    DE NUESTRAS SIETE VERGÜENZAS.
+                    "YO HAGO MONTAÑAS" DECÍA ZIPACNÁ</head>
                     <p>Zipacná estaba bañándose a la orilla de un río cuando pasaron cuatrocientos hijos que 
                         arrastraban un palo, base para su rancho; cuatrocientos eran para arrastrarlo.</p> 
                     <p>Cortaron pues un palo grande para viga madre de su casa, en seguida se fue Zipacná y 
@@ -6349,8 +6321,8 @@
                     <pb xml:id="yua2021-073" /></p>  
                 </div>
                 <div type="tsúuk" n="spa.tsk.06">
-                    <head><emph rend="center">VENCIMIENTO Y MUERTE DE ZIPACNÁ. FUE VENCIDO PUES</emph> 
-                    <emph rend="center">POR UN HIJO, UN CERBATANERO; XBALANKÉ</emph></head>
+                    <head rend="center">VENCIMIENTO Y MUERTE DE ZIPACNÁ. FUE VENCIDO PUES
+                    POR UN HIJO, UN CERBATANERO; XBALANKÉ</head>
                     <p>El hijo sintió mucho la muerte de los cuatrocientos hijos que mató Zipacná. El alimento 
                         de Zipacná era pescado, cangrejo que buscaba a la orilla de los ríos, era su alimento de todos los 
                         días. De día salía a pasear para buscar su alimento y de noche se subía a las montañas. Entonces 
@@ -6449,8 +6421,8 @@
                     <pb xml:id="yua2021-079" /></p>
                 </div>
                 <div type="tsúuk" n="spa.tsk.07">
-                    <head><emph rend="center">AHORA DIREMOS EL NACIMIENTO DE UN CERBATANERO,</emph> 
-                    <emph rend="center">XBALANKÉ</emph></head>
+                    <head rend="center">AHORA DIREMOS EL NACIMIENTO DE UN CERBATANERO,
+                    XBALANKÉ</head>
                     <p>Primero referimos la derrota de Nuestras Siete Vergüenzas, de Zipacná y de Dos Pies aquí 
                         Contaremos áhora los nombres de los padres de Un Cerbatanero, Xbalanké,' es muy 
                         oscuro, muy vago relatar el nacimiento de Un Cerbatanero, Xbalanké, sólo una parte diremos, 
@@ -6501,8 +6473,8 @@
                     <pb xml:id="yua2021-083" /></p>
                 </div>
                 <div type="tsúuk" n="spa.tsk.08">
-                    <head><emph rend="center">DIREMOS AHORA LOS NOMBRES</emph> 
-                    <emph rend="center">DE LOS SEÑORES DEL INFRAMUNDO</emph></head>
+                    <head rend="center">DIREMOS AHORA LOS NOMBRES
+                    DE LOS SEÑORES DEL INFRAMUNDO</head>
                     <p>Dejaremos a Un Mono hijo de Cada Cerbatanero; ya había muerto la  madre. Es otro 
                         asunto el vencimiento de Un Mono, por Un Cerbatanero, Xbalanké:</p>
                     <p>Vinieron entonces los  mensajeros de Una Muerte, Sieté Muertes.</p>
@@ -6619,8 +6591,8 @@
                         <pb xml:id="yua2021-091" /></p>
                 </div>
                 <div type="tsúuk" n="spa.tsk.09">
-                    <head>
-                        <emph rend="center">LA DONCELLA HIJA DE KUCHUMAKIK</emph></head>
+                    <head rend="center">
+                        LA DONCELLA HIJA DE KUCHUMAKIK</head>
                     <p>Una doncella llamada Xkik, hija de un Señor llamado Kuchumakik, supo la noticia de los 
                         frutos del árbol cuando lo contó su padre, se impresionó mucho cuando se lo contaron.</p> 
                     <p>-Iré a ver el árbol que dicen, si es cierto que ya tiene el fruto que oigo -dijo, se fue sola y 
@@ -6746,7 +6718,7 @@
                         <pb xml:id="yua2021-099" /></p>
                 </div>
                 <div type="tsúuk" n="spa.tsk.10">
-                    <head><emph rend="center">NACIMIENTO DE UN CERBATANERO, XBALANKÉ</emph></head>
+                    <head rend="center">NACIMIENTO DE UN CERBATANERO, XBALANKÉ</head>
                     <p>Ahora diremos el nacimiento, cuando llegó el día, es decir, cuando dio a luz la doncella 
                         Ixkik. No se dio cuenta la abuela cuando nació, sino hasta cuando levantaron al nacido, se lla-
                         maba Un Cerbatanero, Xbalanké. En el monte lo levantaron y lo llevaron a la casa, no dormía.</p> 
@@ -7309,7 +7281,7 @@
                         <pb xml:id="yua2021-139" /></p>
                 </div>
                 <div type="tsúuk" n="spa.tsk.11">
-                    <head><emph rend="center">MUERTE DE UN CERBATANERO, XBALANKÉ</emph></head> 
+                    <head rend="center">MUERTE DE UN CERBATANERO, XBALANKÉ</head> 
                     <p>Éste es el relato de la· muerte de Un Cerbatanero, Xbalanké.</p> 
                     <p>Dispusieron pues todos los sufrimientos que le desearon, pero no se murió por los casti- 
                         gos del Inframundo, no lo vencieron todas las fieras que estaban en el Inframundo.</p> 
@@ -7359,8 +7331,8 @@
                         mostraba de apariencia miserable, su cuerpo cubierto de andrajos y se cubría con vestimenta 
                         muy pobre.</p>
                     <p>Los del Inframundo lo vieron muy pobre, pero ya era diferente lo que hacía: divertía 
-                        con el baile del <emph rend="italic">pujuy</emph>, baile de la comadreja, del armadillo, del anda-solo, de preferencia el del 
-                        <emph rend="italic">chitik</emph>. Muy admirable lo que hacía: quemaba casas y volvían a ser casas.</p> 
+                        con el baile del <hi rend="italic">pujuy</hi>, baile de la comadreja, del armadillo, del anda-solo, de preferencia el del 
+                        <hi rend="italic">chitik</hi>. Muy admirable lo que hacía: quemaba casas y volvían a ser casas.</p> 
                     <p>Muchos de los del Inframundo lo vieron, se tendía y se cortaba el vientre para matarse. Se 
                         mataba primero y luego resucitaba; sólo miraban los  del Inframundo todo lo que hacía. Todo 
                         lo que hacía era pensando para vencer a los del Inframundo.</p> 
@@ -7493,8 +7465,8 @@
                         <pb xml:id="yua2021-149" /></p>
                 </div>
                 <div type="tsúuk" n="spa.tsk.12">
-                    <head><emph rend="center">ÉSTE ES EL PRINCIPIO DE LA CREACION DE LA GENTE,</emph> 
-                    <emph rend="center">CUANDO SE BUSCÓ LA NATURALEZA DE SU CUERPO</emph></head>
+                    <head rend="center">ÉSTE ES EL PRINCIPIO DE LA CREACION DE LA GENTE,
+                    CUANDO SE BUSCÓ LA NATURALEZA DE SU CUERPO</head>
                     <p>Dijeron entonces El Creado, El Varón Creado, El Arquitecto, El  Formador, El Infinito, 
                         El Oculta Serpiente:</p> 
                     <p>-Ya llegó el  amanecer, que se haga bien la construcción, que se revele el buscador de la 
@@ -7641,11 +7613,10 @@
                     <p>Tuvieron noticia de un país y allá se fueron. <pb xml:id="yua2021-157" /></p> 
                 </div>
                 <div type="tsúuk" n="spa.tsk.13">
-                    <head>
-                        <emph rend="center">NOMBRE DEL PAÍS A DONDE FUERON RISA DE LEÓN,</emph> 
-                        <emph rend="center">LEÓN MADRUGADOR, MAJ U KUTAJ, LEÓN DE LA LUNA</emph> 
-                        <emph rend="center">CON TAMUB E ILOKAB</emph>
-                    </head>
+                    <head rend="center">
+                        NOMBRE DEL PAÍS A DONDE FUERON RISA DE LEÓN,
+                        LEÓN MADRUGADOR, MAJ U KUTAJ, LEÓN DE LA LUNA
+                        CON TAMUB E ILOKAB</head>
                     <p>"Tul de Agua Barranco", "Siete Peñas", "Siete Barrancos" se llama el país a donde fueron 
                             a traer Dos Apariencias.</p>  
                     <p> Llegaron pues todos a "Tul de Agua"<ref target="spa.n026"><hi rend="sup">26</hi></ref>
@@ -7844,10 +7815,9 @@
                     padres. La iluminación y aparecimiento del Sol, la Luna y las estrellas. <pb xml:id="yua2021-169"/></p> 
                 </div> 
                 <div type="tsúuk" n="spa.tsk.14">
-                    <head>
-                        <emph rend="center">ILUMINACIÓN Y APARECIMIENTO DEL SOL,</emph> 
-                        <emph rend="center">LA LUNA Y LAS ESTRELLAS</emph> 
-                    </head>
+                    <head rend="center">
+                        ILUMINACIÓN Y APARECIMIENTO DEL SOL,
+                        LA LUNA Y LAS ESTRELLAS</head>
                     <p>Muy contentos se pusieron Risa de León, León Madrugador, Maj U Kutaj y León de la 
                         Luna cuando vieron a Venus. Primero salió, muy brillante cuando apareció; primero pues sale 
                         delante del Sol. Inmediatamente desataron el copal traído de allá del Oriente.</p> 
@@ -7875,7 +7845,7 @@
                     <p>Por este motivo se volvieron piedra Tojil, Awilish y Jakawitz con las imágenes del tigre, 
                         león, cascabel, cantí, sak keshol: Tan sólo se colgaron ele los árboles cuando alumbraron el Sol, 
                         la Luna y las estrellas; en pedazos de piedra se convirtieron todos. Estaríamos muertos hoy por 
-                        mordidas de  animales como tigres, leones, cascabel, cantí, <emph rend="italic">sak keshol</emph>. No tendríamos Sol hoy 
+                        mordidas de  animales como tigres, leones, cascabel, cantí, <hi rend="italic">sak keshol</hi>. No tendríamos Sol hoy 
                         día no se hubieran vuelto piedras los primeros animales por el Sol cuando salió.</p> 
                     <p>Sintieron un gran contento Risa de León, León Madrugador, Maj U Kutaj y León de la 
                         Luna; se pusieron muy contentos cuando amaneció. No eran muchas las gentes que estaban, 
@@ -7911,10 +7881,9 @@
                         dioses de cada grupo. <pb xml:id="yua2021-173"/></p> 
                 </div>
                 <div type="tsúuk" n="spa.tsk.15">
-                    <head>
-                        <emph rend="center">AHORA DIREMOS LA ESTANCIA Y TARDANZA,</emph> 
-                        <emph rend="center">MEJOR DICHO AQUÍ SOBRE LA MONTAÑA</emph> 
-                    </head>
+                    <head rend="center">
+                        AHORA DIREMOS LA ESTANCIA Y TARDANZA,
+                        MEJOR DICHO AQUÍ SOBRE LA MONTAÑA</head>
                     <p>En un mismo lugar estaban los cuatro: Risa de León, León Madrugador, Maj U Kutaj 
                         y León de la Luna. Lloraban por Tojil, Awilish y Jakawitz, porque estaban entre pie de gallo 
                         (planta parásita), envueltos en trapos por ellos.</p> 
@@ -7973,10 +7942,9 @@
                         lluvia la sangre que les dieron a Tojil, Awilish y Jakawitz. <pb xml:id="yua2021-177"/></p> 
                 </div>
                 <div type="tsúuk" n="spa.tsk.16">
-                    <head>
-                        <emph rend="center">SECUESTRO DE LAS TRIBUS POR RISA DE LEÓN,</emph> 
-                        <emph rend="center">LEÓN MADRUGADOR, MAJ U KUTAJ Y LEÓN DE LA LUNA</emph>
-                    </head>
+                    <head rend="center">
+                        SECUESTRO DE LAS TRIBUS POR RISA DE LEÓN,
+                        LEÓN MADRUGADOR, MAJ U KUTAJ Y LEÓN DE LA LUNA</head>
                     <p>Comenzaron a matar a las tribus. Sólo atrapaban a los que andaban solos o de a dos, así 
                         no se notaba la desaparición, luego iban a sajados ante Tojil y'Awilish. En seguida iban a regar 
                         sangre en los caminos, la cabeza la escondían por el camino. Decían entonces las tribus:</p> 
@@ -8009,7 +7977,7 @@
                         dos. Si son grandes los poderes de Tojil, Awilish y Jakawitz, entonces que sea nuestro Dios Tojil. 
                         Si así es el destino, que no se deje, porque no está bien que nos ganen, somos mucha gente que 
                         hemos nacido y los Kawek no son tantos -dijeron cuando llegaron todos. Dijeron en seguida 
-                        los <emph rend="italic">chajkar</emph> cuando hablaron:</p> 
+                        los <hi rend="italic">chajkar</hi> cuando hablaron:</p> 
                     <p>-¿Quién ha visto que se bañan a orillas del río todos los días? Si son Tojil, Awilish y 
                         Jakawitz, tenemos que vencerlos primero; aquí también comenzará la derrota de los nobles y 
                         los celestiales -dijeron los chajkar cuando hablaron.</p> 
@@ -8138,9 +8106,8 @@
                         Ahora contaremos cómo entraron. <pb xml:id="yua2021-187"/></p> 
                 </div>
                 <div type="tsúuk" n="spa.tsk.17">
-                    <head>
-                        <emph rend="center">RELATO DEL ASALTO</emph> 
-                    </head>
+                    <head rend="center">
+                        RELATO DEL ASALTO</head>
                     <p>Risa de León, León Madrugador, Maj U Kutaj y León de la Luna estaban en un mismo 
                         lugar sobre la montaña juntamente con sus mujeres e hijos. Se fueron entonces todos los gue- 
                         rreros, eran matadores; ya no eran dos, tres tribus. Circularon el pueblo y decían: -¡Oh! ¡Oh! 
@@ -8178,10 +8145,9 @@
                         muerte. <pb xml:id="yua2021-191"/></p>                         
                 </div>
                 <div type="tsúuk" n="spa.tsk.18">
-                    <head>
-                        <emph rend="center">MUERTE DE RISA DE LEÓN, LEÓN MADRUGADOR,</emph> 
-                        <emph rend="center">MAJ U KUTAJ Y LEÓN DE LA LUNA</emph> 
-                    </head>
+                    <head rend="center">
+                        MUERTE DE RISA DE LEÓN, LEÓN MADRUGADOR,
+                        MAJ U KUTAJ Y LEÓN DE LA LUNA</head>
                     <p>Presintieron la muerte y su desaparición, por eso dispusieron aconsejar a sus hijos. No 
                         porque estuvieran enfermos o gimiendo o en agonía cuando transmitieron la tradición a sus 
                         hijos.</p> 
@@ -8359,9 +8325,8 @@
                         señor. Aquí diremos ahora los nombres de cada señor de cada una de las grandes casas. <pb xml:id="yua2021-201" /></p> 
                 </div>
                 <div type="tsúuk" n="spa.tsk.19">
-                    <head>
-                        <emph rend="center">NOMBRE DE LOS SEÑORES DE LA LÍNEA KAWIKIB</emph> 
-                    </head>
+                    <head rend="center">
+                        NOMBRE DE LOS SEÑORES DE LA LÍNEA KAWIKIB</head>
                     <p>Éstos fueron los primeros señores: Aj Pop, Aj Pop Kamja, Aj Tojil, Aj Kukumatz, Nim 
                         Chokoj Kawek, Popol Winak, Chituy Lolmet, Kej Nay, Popol Winak Pajom Tzalatz, Uchuch 
                         Kamja<ref target="spa.n034"><hi rend="sup">34</hi></ref>
@@ -8371,25 +8336,22 @@
                         su gran casa, con su respectiva descendencia. <pb xml:id="yua2021-203" /></p>
                 </div>
                 <div type="tsúuk" n="spa.tsk.20">
-                    <head>
-                        <emph rend="center">SEÑORES DE LA LÍNEA NIMJAIBAB</emph>
-                    </head>
+                    <head rend="center">
+                        SEÑORES DE LA LÍNEA NIMJAIBAB</head>
                     <p>El primer señor fue Ajau Kalel. Y siguen Ajau Aj Tzik Winak, Kalel Kamja, Uchuch Ka- 
                         mja, Nim Chokoj Nimjaibab, Awilish, Yakolatam, Utzam Pop Sak Latol, Nim Lolmet Yeoltux. 
                         Así pues, nueve fueron Señores de los Nimjaibab.
                         <pb xml:id="yua2021-205" /></p>                         
                 </div>
                 <div type="tsúuk" n="spa.tsk.21">
-                    <head>
-                        <emph rend="center">NOMBRE DE LOS SEÑORES K'ICHÉS</emph> 
-                    </head>
+                    <head rend="center">
+                        NOMBRE DE LOS SEÑORES K'ICHÉS</head>
                     <p>Los señores fueron: AjTzik Winak, Ajau Lolmet, Ajau Nim Chokoj Ajau, Ajau Jakawitz. 
                         Cuatro fueron los Señores K'ichés, con grandes casas separadas.<pb xml:id="yua2021-207" /></p> 
                 </div>
                 <div type="tsúuk" n="spa.tsk.22">
-                    <head>
-                        <emph rend="center">DOS PUEBLOS DE LOS SEÑORES SAKIKIB</emph> 
-                    </head>
+                    <head rend="center">
+                        DOS PUEBLOS DE LOS SEÑORES SAKIKIB</head>
                     <p>Tzutujá y Kalel Sakik, eran solamente una gran casa con dos señores. De esta manera, se 
                         completaron veinticuatro señores, o sea, veinticuatro grandes casas. En ese entonces aumentó 
                         el poderío y grandeza en el sector k'iché. Fueron poderosos y gloriosos por el gran peso de los 
@@ -8422,9 +8384,8 @@
                         quinta generación de reyes. Cada señor tuvo sendas generaciones. <pb xml:id="yua2021-211" /></p> 
                 </div>
                 <div type="tsúuk" n="spa.tsk.23">
-                    <head>
-                        <emph rend="center">SEXTA GENERACIÓN DE REYES</emph> 
-                    </head>
+                    <head rend="center">
+                        SEXTA GENERACIÓN DE REYES</head>
                     <p>En la sexta generación aparecen dos grandes reyes. Poderoso Kikab se llamaba uno de 
                         los reyes, el otro se llamaba Kawisimaj. Kikab y Kawisimaj hicieron muchas obras; ellos fueron 
                         quienes extendieron los dominios del K'iché, porque en realidad eran misteriosas sus existen- 
@@ -8494,9 +8455,8 @@
                         se les asignó los cargos. <pb xml:id="yua2021-217" /></p>
                 </div>
                 <div type="tsúuk" n="spa.tsk.24">
-                    <head>
-                        <emph rend="center">PREPARACION Y SELECCIÓN DE LAS  DIVISIONES</emph> 
-                    </head>
+                    <head rend="center">
+                        PREPARACION Y SELECCIÓN DE LAS  DIVISIONES</head>
                     <p>Veinte Kalel, o sea, veinte Aj Pop fueron seleccionados por el Aj Pop, Aj Pop Kamja, es 
                         decir; por el Kalel, Aj Tzik Winak. Y se les asignó los cargos a todos los veinte Kalel, Aj Pop. 
                         Entre ellos se nombraron a Once Grandes de la Casa de Tigre con distintos nombres: Kalel de 
@@ -8511,9 +8471,8 @@
                         se derivó de los Kalel y Aj Tzik Winak.<pb xml:id="yua2021-219" /></p> 
                 </div>
                 <div type="tsúuk" n="spa.tsk.25">                    
-                    <head>
-                        <emph rend="center">NOMBRE DE LOS TEMPLOS DE LOS DIOSES</emph> 
-                    </head>
+                    <head rend="center">
+                        NOMBRE DE LOS TEMPLOS DE LOS DIOSES</head>
                     <p>Los nombres de los dioses dieron origen a los nombres de sus respectivos templos: Gran 
                         Templo de Tojil se llamaba el templo de Tojil, correspondientes a los Kawikib. Awilish se lla- 
                         maba el templo de Awilish; correspondiente a los Nimjaibab. Jakawitz se llamaba el templo del 
@@ -8572,9 +8531,8 @@
                         Kukumatz, que era el principio del Reino. Así fue pues como principió el poderío K'iché.<pb xml:id="yua2021-223" /></p> 
                 </div>
                 <div type="tsúuk" n="spa.tsk.26">
-                    <head>
-                        <emph rend="center">NOMBRE DE LAS GENERACIONES DE SEÑORES</emph> 
-                    </head>
+                    <head rend="center">
+                        NOMBRE DE LAS GENERACIONES DE SEÑORES</head>
                     <p>Mencionaremos pues a todos los señores, las generaciones o divisiones. Las generaciones 
                         o divisiones que subsisten son: Risa de León, León Madrugador; Maj U Kutaj y León de la 
                         Luna. Nuestros primeros abuelos, nuestros primeros padres desde que alumbró el Sol, la Luna 
@@ -8583,9 +8541,8 @@
                         juntamente con la generación de reyes. Todos y cada uno de los que dejaron descendencia.<pb xml:id="yua2021-225" /></p> 
                 </div>
                 <div type="tsúuk" n="spa.tsk.27">
-                    <head>
-                        <emph rend="center">GENERACIONES DEL K'ICHÉ</emph> 
-                    </head>
+                    <head rend="center">
+                        GENERACIONES DEL K'ICHÉ</head>
                     <p>Risa de León, Principio de los Kawikib.</p> 
                     <p>Kokawib, segunda generación de Risa de León.</p> 
                     <p>Balam Konaché, Principio de los Aj Popol. Es la tercera generación.</p> 
@@ -8610,9 +8567,8 @@
                         de Kawikib del K'iché.<pb xml:id="yua2021-227" /></p> 
                 </div>
                 <div type="tsúuk" n="spa.tsk.28">
-                    <head>
-                        <emph rend="center">LOS PRINCIPALES DE LOS KAWIKIB</emph> 
-                    </head>
+                    <head rend="center">
+                        LOS PRINCIPALES DE LOS KAWIKIB</head>
                     <p>Son las grandes casas correspondientes a cada uno de los señores de los Señores del Tiem- 
                         po, Señores de Kamja, de quienes han tomado nombre las Nueve Grandes Casas Kawikib. 
                         Nueve Grandes Casas, cuyos principales son:</p> 
@@ -8628,9 +8584,8 @@
                     <p>Los Nueve Principales Kawikib tuvieron muchísimos hijos.<pb xml:id="yua2021-229" /></p> 
                 </div>
                 <div type="tsúuk" n="spa.tsk.29">
-                    <head>
-                        <emph rend="center">LOS PRINCIPALES DE LOS NIMJAIBAB</emph> 
-                    </head>
+                    <head rend="center">
+                        LOS PRINCIPALES DE LOS NIMJAIBAB</head>
                     <p>Los Nimjaibab tenían Nueve Grandes Casas. Es lo primero que se dice sobre la genera- 
                         ción del Reino. Sólo uno fue el Principio desde antes del Sol y antes de la Luz<ref target="spa.n037"><hi rend="sup">37</hi></ref>
                         <note place="foot" xml:id="spa.n037"><seg type="note-symbol"><hi rend="sup">37</hi></seg>
@@ -8665,9 +8620,8 @@
                         hemos mencionado.<pb xml:id="yua2021-231" /></p>
                 </div>
                 <div type="tsúuk" n="spa.tsk.30">
-                    <head>
-                        <emph rend="center">ABUELO Y PADRE DE LOS SEÑORES K'ICHÉS</emph> 
-                    </head>
+                    <head rend="center">
+                        ABUELO Y PADRE DE LOS SEÑORES K'ICHÉS</head>
                     <p>Maj U Kutaj. La primera gente, el primer abuelo y padre de Ajau K'iché.</p> 
                     <p>Koajau, nombre de la segunda generación de señores.</p>
                     <p>Kaklakán, tercera generación.</p> 
@@ -8681,9 +8635,8 @@
                         o divisiones.<pb xml:id="yua2021-233" /> </p>                        
                 </div>
                 <div type="tsúuk" n="spa.tsk.31">
-                    <head>
-                        <emph rend="center">NOMBRE DE SEÑORES DE CADA CASA</emph>
-                    </head>
+                    <head rend="center">
+                        NOMBRE DE SEÑORES DE CADA CASA</head>
                     <p>Son sólo cuatro:</p> 
                     <p>Aj Tzik Winak Ajau. Nombre del primer señor de una Gran Casa.</p>  
                     <p>Lolmet Ajau. Segundo señor de una Gran Casa.</p>  
@@ -8706,8 +8659,8 @@
         </body>
         <back>
             <div xml:id="parte">
-                <head>YÁAX KANTI'ITSMANTI'ITS</head>
-                <head>TABLA UNO</head>
+                <head rend="center">YÁAX KANTI'ITSMANTI'ITS</head>
+                <head rend="center">TABLA UNO</head>
 
                 <head type="sub">U TSOLOBIL U K'AABA' YUUNK'UJO'OB, AJAWO'OB YÉETEL KÚUCHILO'OB</head>
                 <head type="sub">RELACIÓN DE NOMBRES DE DIOSES, REYES Y LUGARES</head> 
