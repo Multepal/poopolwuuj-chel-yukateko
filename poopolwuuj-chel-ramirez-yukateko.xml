@@ -10220,274 +10220,223 @@
                     <!-- <pb xml:id="yua2021-245" />  -->
                     <!-- <table rows="36" cols="4"> -->
                     <row role="data">
-                        
+                        <cell role="data">chi temah</cell>
+                        <cell role="data">----------</cell>
+                        <cell role="data">Chíitemaajil</cell>
+                        <cell role="data">----------</cell>
                     </row>
                     <row role="data">
-                        
+                        <cell role="data">vaqxalahuh</cell>
+                        <cell role="data">----------</cell>
+                        <cell role="data">Wáakxalajuujil</cell>
+                        <cell role="data">----------</cell>
                     </row>
                     <row role="data">
-                        
+                        <cell role="data">ah cabracan</cell>
+                        <cell role="data">----------</cell>
+                        <cell role="data">Ka' Ráakanil</cell>
+                        <cell role="data">----------</cell>
                     </row>
                     <row role="data">
-                        
+                        <cell role="data">cabicac</cell>
+                        <cell role="data">----------</cell>
+                        <cell role="data">Káabikaakil</cell>
+                        <cell role="data">----------</cell>
                     </row>
                     <row role="data">
-                        
+                        <cell role="data">ahmaca</cell>
+                        <cell role="data">----------</cell>
+                        <cell role="data">Máakajil</cell>
+                        <cell role="data">----------</cell>
                     </row>
                     <row role="data">
-                        
+                        <cell role="data">ahxayabah</cell> 
+                        <cell role="data">----------</cell>
+                        <cell role="data">Xáayabaajil</cell> 
+                        <cell role="data">----------</cell>
                     </row>
                     <row role="data">
-                        
+                        <cell role="data">zac cabaha</cell> 
+                        <cell role="data">----------</cell>
+                        <cell role="data">Sáajkabaja'il</cell> 
+                        <cell role="data">----------</cell>
                     </row>
                     <row role="data">
-                        
+                        <cell role="data">ah ziyaha</cell> 
+                        <cell role="data">----------</cell>
+                        <cell role="data">Síiyaja'il</cell>
+                        <cell role="data">----------</cell>
                     </row>
                     <row role="data">
-                        
+                        <cell role="data">ah miquina</cell> 
+                        <cell role="data">(Hoy Tutunicapa)</cell> 
+                        <cell role="data">Míikina'il</cell> 
+                        <cell role="data">----------</cell>
                     </row>
                     <row role="data">
-                        
+                        <cell role="data">---------</cell> 
+                        <cell role="data">(Hoy Quetzaltenango)</cell> 
+                        <cell role="data">Xéelajuujil</cell> 
+                        <cell role="data">----------</cell>
                     </row>
                     <row role="data">
-                        
+                        <cell role="data">---------</cell> 
+                        <cell role="data">----------</cell>
+                        <cell role="data">Táakajaajil</cell> 
+                        <cell role="data">----------</cell>
                     </row>
                     <row role="data">
-                        
+                        <cell role="data">---------</cell> 
+                        <cell role="data">----------</cell>
+                        <cell role="data">Júuyubilo'ob</cell>
+                        <cell role="data">----------</cell>
                     </row>
                     <row role="data">
-                        
+                        <cell role="data">que ema</cell> 
+                        <cell role="data">----------</cell>
+                        <cell role="data">Kéema'</cell> 
+                        <cell role="data">----------</cell>
                     </row>
                     <row role="data">
-                        
+                        <cell role="data">achac iboy</cell> 
+                        <cell role="data">Señor Pequeño Armadillo</cell>
+                        <cell role="data">Áachak Iboy</cell> 
+                        <cell role="data">Chan Weech Ajaw</cell>
                     </row>
                     <row role="data">
-                        
+                        <cell role="data">ahau ꜫalel</cell>
+                        <cell role="data">Señor Porteador</cell>
+                        <cell role="data">Ajk'alel Ajaw</cell> 
+                        <cell role="data"></cell>
                     </row>
                     <row role="data">
-                        
+                        <cell role="data">Xebalax, xecamac</cell>
+                        <cell role="data">----------</cell>
+                        <cell role="data">Xéebalax, Xéekamak</cell>
+                        <cell role="data">----------</cell>
                     </row>
                     <row role="data">
-                        
+                        <cell role="data">chulimal</cell>
+                        <cell role="data">----------</cell>
+                        <cell role="data">Chúulimal</cell>
+                        <cell role="data">----------</cell>
                     </row>
                     <row role="data">
-                        
+                        <cell role="data">hulahun nim chocoh</cell>
+                        <cell role="data">Once Grandes de la Casa de Tigre</cell>
+                        <cell role="data">Junlajun Níim Chokoj</cell>
+                        <cell role="data">Buluk Nuxi' Ajawnaj Koj</cell>
                     </row>
                     <row role="data">
-                        
+                        <cell role="data">ꜫalel ahau</cell>
+                        <cell role="data">Porteador de Señor o Señor de los Guerreros</cell>
+                        <cell role="data">Ajk'alel Ajaw</cell>
+                        <cell role="data">Ajkananjool Ajaw wáaj Ajkanjool K'atun</cell>
                     </row>
                     <row role="data">
-                        
+                        <cell role="data">ꜫalel zaquic v</cell>
+                        <cell role="data">Porteador de Sakikú o Colector de Tributos</cell>
+                        <cell role="data">Ajk'alel Sáakiku'</cell>
+                        <cell role="data">Ajkananjool Sáakiku' wáaj Ajmol Páatam</cell>
                     </row>
                     <row role="data">
-                        
+                        <cell role="data">ꜫalel achih</cell>
+                        <cell role="data">Hombre Porteador o Jefe Guerrero</cell>
+                        <cell role="data">Ajk'alel Áachij</cell>
+                        <cell role="data">Ajkananjool Wíinik wáaj Ajjo'olpóop K'atun</cell>
                     </row>
                     <row role="data">
-                        
+                        <cell role="data">rah pop achih</cell>
+                        <cell role="data">Hombre Defensor de Empalizada</cell>
+                        <cell role="data">Ajpóop Áachij</cell>
+                        <cell role="data">Ajkanan K'alpachche'</cell>
                     </row>
                     <row role="data">
-                        
+                        <cell role="data">rah tzalam achih</cell>
+                        <cell role="data">Hombre de Tablas</cell>
+                        <cell role="data">Ajtsáalam Áachij</cell>
+                        <cell role="data">Ajwíinik Pakche'</cell>
                     </row>
                     <row role="data">
-                        
+                        <cell role="data">vtzam achih</cell>
+                        <cell role="data">Nariz de Hombre o Varones Mensajeros</cell>
+                        <cell role="data">Aj-utsam Áachij</cell>
+                        <cell role="data">Ajni' Wíinik wáaj Ajxibil Bisajt'aano'ob</cell>
                     </row>
                     <row role="data">
-                        
+                        <cell role="data">Nimac tazc tohil</cell>
+                        <cell role="data">Gran Templo o Edificio de Tojil</cell>
+                        <cell role="data">Níim Tsáak Tojil</cell>
+                        <cell role="data">U Nuxi' K'unjnajil Tojil</cell>
                     </row>
                     <row role="data">
-                        
+                        <cell role="data">Tzutuha cahbaha</cell>
+                        <cell role="data">Templo del Baño de Vapor</cell>
+                        <cell role="data">Tsúutujaaj Káajbaja'</cell>
+                        <cell role="data">U K'ujnajil u Yooxolil Ichk'iil</cell>
                     </row>
                     <row role="data">
-                        
+                        <cell role="data">pam cah</cell>
+                        <cell role="data">Vientre del Cielo</cell>
+                        <cell role="data">Páam Kaaj</cell>
+                        <cell role="data">U Nak' Ka'an</cell>
                     </row>
                     <row role="data">
-                        
+                        <cell role="data">pam vleu</cell>
+                        <cell role="data">Vientre de la Tierra</cell>
+                        <cell role="data">Páam Ulew</cell>
+                        <cell role="data">U Chúumuk Lu'um</cell>
                     </row>
                     <row role="data">
-                        
+                        <cell role="data">ꜫaꜫal ahtzik vinac</cell>
+                        <cell role="data">Cargador</cell>
+                        <cell role="data">K'áak'al Ajtsíik Wíinak</cell>
+                        <cell role="data">Ajkuucho'ob</cell>
                     </row>
                     <row role="data">
-                        
+                        <cell role="data">vchabana</cell>
+                        <cell role="data">Los de la Casa de Flecheros</cell>
+                        <cell role="data">Úuchabajaajilo'ob</cell>
+                        <cell role="data">Ajjaláalte' Najilo'ob</cell>
                     </row>
                     <row role="data">
-                        
+                        <cell role="data">Balam conache</cell>
+                        <cell role="data">----------</cell>
+                        <cell role="data">Báalam Kóonache'</cell>
+                        <cell role="data">----------</cell>
                     </row>
                     <row role="data">
-                        
+                        <cell role="data">ah popol</cell>
+                        <cell role="data">----------</cell>
+                        <cell role="data">Ajpóopolo'ob</cell>
+                        <cell role="data">----------</cell>
                     </row>
                     <row role="data">
-                        
+                        <cell role="data">Cotuha ztayub</cell>
+                        <cell role="data">----------</cell>
+                        <cell role="data">Kóotujaaj, Xtáayub</cell>
+                        <cell role="data">----------</cell>
                     </row>
                     <row role="data">
-                        
+                        <cell role="data">Tepeul xtayub</cell>
+                        <cell role="data">----------</cell>
+                        <cell role="data">Téepepuul, Xtáayub</cell>
+                        <cell role="data">----------</cell>
                     </row>
                     <row role="data">
-                        
+                        <cell role="data">Tecum tepepul</cell>
+                        <cell role="data">----------</cell>
+                        <cell role="data">Téekum, Téepepuul</cell>
+                        <cell role="data">----------</cell>
                     </row>
                     <row role="data">
-                        
+                        <cell role="data">Vahxaqui caam</cell>
+                        <cell role="data">----------</cell>
+                        <cell role="data">Wáajxakij Kaam</cell>
+                        <cell role="data">----------</cell>
                     </row>
 
                 </table>
-
-
-                    <table rows="36" cols="4">
-                    <row role="data">
-                    <cell role="data">chi temah</cell>
-                    <cell role="data">vaqxalahuh</cell>
-                    <cell role="data">ah cabracan</cell>
-                    <cell role="data">cabicac</cell>
-                    <cell role="data">ahmaca</cell>
-                    <cell role="data">ahxayabah</cell> 
-                    <cell role="data">zac cabaha</cell> 
-                    <cell role="data">ah ziyaha</cell> 
-                    <cell role="data">ah miquina</cell> 
-                    <cell role="data">---------</cell> 
-                    <cell role="data">----------</cell>
-                    <cell role="data">----------</cell> 
-                    <cell role="data">que ema</cell> 
-                    <cell role="data">achac iboy</cell> 
-                    <cell role="data">ahau ꜫalel</cell>
-                    <cell role="data">Xebalax, xecamac</cell>
-                    <cell role="data">chulimal</cell>
-                    <cell role="data">hulahun nim chocoh</cell>
-                    <cell role="data">ꜫalel ahau</cell>
-                    <cell role="data">ꜫalel zaquic v</cell>
-                    <cell role="data">ꜫalel achih</cell>
-                    <cell role="data">rah pop achih</cell>
-                    <cell role="data">rah tzalam achih</cell>
-                    <cell role="data">vtzam achih</cell>
-                    <cell role="data">Nimac tazc tohil</cell>
-                    <cell role="data">Tzutuha cahbaha</cell>
-                    <cell role="data">pam cah</cell>
-                    <cell role="data">pam vleu</cell>
-                    <cell role="data">ꜫaꜫal ahtzik vinac</cell>
-                    <cell role="data">vchabana</cell>
-                    <cell role="data">Balam conache</cell>
-                    <cell role="data">ah popol</cell>
-                    <cell role="data">Cotuha ztayub</cell>
-                    <cell role="data">Tepeul xtayub</cell>
-                    <cell role="data">Tecum tepepul</cell>
-                    <cell role="data">Vahxaqui caam</cell>
-                    </row>
-
-                    <row role="data">
-                    <cell role="data">----------</cell>
-                    <cell role="data">----------</cell>
-                    <cell role="data">----------</cell>
-                    <cell role="data">----------</cell>
-                    <cell role="data">----------</cell>
-                    <cell role="data">----------</cell> 
-                    <cell role="data">----------</cell> 
-                    <cell role="data">----------</cell> 
-                    <cell role="data">(Hoy Tutunicapa)</cell> 
-                    <cell role="data">(Hoy Quetzaltenango)</cell> 
-                    <cell role="data">----------</cell> 
-                    <cell role="data">----------</cell> 
-                    <cell role="data">----------</cell> 
-                    <cell role="data">Señor Pequeño Armadillo</cell>
-                    <cell role="data">Señor Porteaor</cell>
-                    <cell role="data">----------</cell>
-                    <cell role="data">----------</cell>
-                    <cell role="data">Once Grandes de la Casa de Tigre</cell>
-                    <cell role="data">Porteador de Señor o Señor de los Guerreros</cell>
-                    <cell role="data">Porteador de Sakikú o Colector de Tributos</cell>
-                    <cell role="data">Hombre Porteador o Jefe Guerrero</cell>
-                    <cell role="data">Hombre Defensor de Empalizada</cell>
-                    <cell role="data">Hombre de Tablas</cell>
-                    <cell role="data">Nariz de Hombre o Varones Mensajeros</cell>
-                    <cell role="data">Gran Templo o Edificio de Tojil</cell>
-                    <cell role="data">Templo del Baño de Vapor</cell>
-                    <cell role="data">Vientre del Cielo</cell>
-                    <cell role="data">Vientre de la Tierra</cell>
-                    <cell role="data">Cargador</cell>
-                    <cell role="data">Los de la Casa de Flecheros</cell>
-                    <cell role="data">----------</cell>
-                    <cell role="data">----------</cell>
-                    <cell role="data">----------</cell>
-                    <cell role="data">----------</cell>
-                    <cell role="data">----------</cell>
-                    <cell role="data">----------</cell>
-                    </row>
-                    
-                    <row role="data">
-                    <cell role="data">Chíitemaajil</cell>
-                    <cell role="data">Wáakxalajuujil</cell>
-                    <cell role="data">Ka' Ráakanil</cell>
-                    <cell role="data">Káabikaakil</cell>
-                    <cell role="data">Máakajil</cell>
-                    <cell role="data">Xáayabaajil</cell> 
-                    <cell role="data">Sáajkabaja'il</cell> 
-                    <cell role="data">Síiyaja'il</cell>
-                    <cell role="data">Míikina'il</cell> 
-                    <cell role="data">Xéelajuujil</cell> 
-                    <cell role="data">Táakajaajil</cell> 
-                    <cell role="data">Júuyubilo'ob</cell>
-                    <cell role="data">Kéema'</cell> 
-                    <cell role="data">Áachak Iboy</cell> 
-                    <cell role="data">Ajk'alel Ajaw</cell> 
-                    <cell role="data">Xéebalax, Xéekamak</cell>
-                    <cell role="data">Chúulimal</cell>
-                    <cell role="data">Junlajun Níim Chokoj</cell>
-                    <cell role="data">Ajk'alel Ajaw</cell>
-                    <cell role="data">Ajk'alel Sáakiku'</cell>
-                    <cell role="data">Ajk'alel Áachij</cell>
-                    <cell role="data">Ajpóop Áachij</cell>
-                    <cell role="data">Ajtsáalam Áachij</cell>
-                    <cell role="data">Aj-utsam Áachij</cell>
-                    <cell role="data">Níim Tsáak Tojil</cell>
-                    <cell role="data">Tsúutujaaj Káajbaja'</cell>
-                    <cell role="data">Páam Kaaj</cell>
-                    <cell role="data">Páam Ulew</cell>
-                    <cell role="data">K'áak'al Ajtsíik Wíinak</cell>
-                    <cell role="data">Úuchabajaajilo'ob</cell>
-                    <cell role="data">Báalam Kóonache'</cell>
-                    <cell role="data">Ajpóopolo'ob</cell>
-                    <cell role="data">Kóotujaaj, Xtáayub</cell>
-                    <cell role="data">Téepepuul, Xtáayub</cell>
-                    <cell role="data">Téekum, Téepepuul</cell>
-                    <cell role="data">Wáajxakij Kaam</cell>
-                    </row>
-
-                    <row role="data">
-                    <cell role="data">----------</cell>
-                    <cell role="data">----------</cell>
-                    <cell role="data">----------</cell>
-                    <cell role="data">----------</cell>
-                    <cell role="data">----------</cell>
-                    <cell role="data">----------</cell> 
-                    <cell role="data">----------</cell> 
-                    <cell role="data">----------</cell> 
-                    <cell role="data">----------</cell> 
-                    <cell role="data">----------</cell> 
-                    <cell role="data">----------</cell> 
-                    <cell role="data">----------</cell> 
-                    <cell role="data">----------</cell> 
-                    <cell role="data">Chan Weech Ajaw</cell>
-                    <cell role="data"><note>I don't know how to encode the blank row</note></cell>
-                    <cell role="data">----------</cell>
-                    <cell role="data">----------</cell>
-                    <cell role="data">Buluk Nuxi' Ajawnaj Koj</cell>
-                    <cell role="data">Ajkananjool Ajaw wáaj Ajkanjool K'atun</cell>
-                    <cell role="data">Ajkananjool Sáakiku' wáaj Ajmol Páatam</cell>
-                    <cell role="data">Ajkananjool Wíinik wáaj Ajjo'olpóop K'atun</cell>
-                    <cell role="data">Ajkanan K'alpachche'</cell>
-                    <cell role="data">Ajwíinik Pakche'</cell>
-                    <cell role="data">Ajni' Wíinik wáaj Ajxibil Bisajt'aano'ob</cell>
-                    <cell role="data">U Nuxi' K'unjnajil Tojil</cell>
-                    <cell role="data">U K'ujnajil u Yooxolil Ichk'iil</cell>
-                    <cell role="data">U Nak' Ka'an</cell>
-                    <cell role="data">U Chúumuk Lu'um</cell>
-                    <cell role="data">Ajkuucho'ob</cell>
-                    <cell role="data">Ajjaláalte' Najilo'ob</cell>
-                    <cell role="data">----------</cell>
-                    <cell role="data">----------</cell>
-                    <cell role="data">----------</cell>
-                    <cell role="data">----------</cell>
-                    <cell role="data">----------</cell>
-                    <cell role="data">----------</cell>
-                    </row>
-                    </table>
 
                     <pb xml:id="yua2021-246" />
 
