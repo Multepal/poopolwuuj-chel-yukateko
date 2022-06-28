@@ -2067,8 +2067,8 @@
                         <note place="foot" xml:id="yua.n001"><seg type="note-symbol">1</seg>
                             U táan óolal ajk'exts'íib. U jejeláas k'aaba'ob le yáax K'iche' Yuunk'ujo' táan u ch'a'abal e'el bix u
                             chíikpajalo'ob ichil u ts'íibil <rs ana="TINAMIT_K'ICHE'">le úuchben maayáaj k'iche'o'</rs>, ka'alikil xan u je'ets'el bix unạj u ts'íibta'al ich
-                            maayat'aan. Bey u chíikpajalo'ob ichil le úuchben maayáaj k'iche'o': <hi rend="italic">tzacol</hi>, 
-                            <hi rend="italic">bitol</hi>, <hi rend="italic">alom</hi>, <hi rend="italic">qaholom</hi>. 
+                            maayat'aan. Bey u chíikpajalo'ob ichil le úuchben maayáaj k'iche'o': <rs ana="TZ'AQOL"><hi rend="italic">tzacol</hi></rs>, 
+                            <rs ana="BITOL"><hi rend="italic">bitol</hi></rs>, <rs ana="ALOM"><hi rend="italic">alom</hi></rs>, <rs ana="K'AJOLOM"><hi rend="italic">qaholom</hi></rs>. 
                             Il a wil le Yáax Kanti'ismanti'itso'.    
                         </note>
                         U K'AABA' LE WAYA' <rs ana="TINAMIT_K'ICHE'">&lt;K'ICHE' KAAJ&gt;</rs>
@@ -2094,7 +2094,7 @@
                         </note>, 
                         <rs ana="JUNAJPU_UTIW">Jun Ajpúub Utyuj</rs>, Jach Ajk'aayo'ob, <rs ana="TEPEW_Q'UKUMATZ">Téepew, K'u'uk'umaats</rs>, <rs ana="UK'U'X_CHO">Ukúux Chooj</rs>,
                         <rs ana="UK'U'X_PALO">Ukúux Paaloj</rs>, <rs ana="AJRAXA_LAQ">Ajráaxalaj</rs>, <rs ana="AJRAXA_TZEL">Ajráaxatsel</rs>, juntúul u <rs ana="XPIYAKOK">yéettsikbal</rs> 
-                        yéetel <rs ana="IXMUKANE">u yéett'aan Ixaalapsaj</rs>, yéetel <rs ana="XPIYAKOK">juntúul nool u k'aaba' bine' Xpíiyakok</rs>,
+                        yéetel <rs ana="XPIYAKOK">u yéett'aan</rs> <rs ana="IXMUKANE">Ixaalapsaj</rs>, yéetel <rs ana="XPIYAKOK">juntúul nool u k'aaba' bine' Xpíiyakok</rs>,
                         <rs ana="IXMUKANE">Xmúukanej</rs> <ref target="yua.n003"><hi rend="sup">3</hi></ref>
                         <note place="foot" xml:id="yua.n003"><seg type="note-symbol"><hi rend="sup">3</hi></seg>
                             U táan óolal ajk'exts'íib: Ka'ap'éel u k'aaba' bin <rs ana="IXMUKANE">&lt;le</rs> <rs ana="XPIYAKOK">noolo'&gt;</rs>, le o'olale' ku ja'atsal yéetel jump'éel 
@@ -2334,8 +2334,8 @@
                         yéetel síibak<ref target="yua.n011"><hi rend="sup">11</hi></ref>
                         <note place="foot" xml:id="yua.n011"><seg type="note-symbol"><hi rend="sup">11</hi></seg>
                             Il a wil le Yáax Kanti'itsmanti'itso'.
-                        </note> jbeeta'abik xan, tu- 
-                        men <rs ana="TZ'AQOL">Tsáakol</rs>, <rs ana="B'ITOL">Bíitole'</rs>, leti' bin u k'áat ka'ach ka meyajta'ak u ti'al u máak'anta'al u wíinkilil le 
+                        </note> jbeeta'abik xan, tumen 
+                        <rs ana="TZ'AQOL">Tsáakol</rs>, <rs ana="B'ITOL">Bíitole'</rs>, leti' bin u k'áat ka'ach ka meyajta'ak u ti'al u máak'anta'al u wíinkilil le 
                         xch'uupo'. Ma' bin jjóok'o'ob utsili', tumen ma' bin t'aannajo'ob tu táan <rs ana="TZ'AQOL">Tsáakol</rs>, <rs ana="B'ITOL">Bíitoli'</rs>, le 
                         máax jpatjo'olto'obo', le máax jbeeto'obo'.</p> 
                     <p>Bey túun úuchik u kíinsa'alo'ob le ka jbeeta'ab loob ti'obo': jk'áax bin <rs ana="Q'OL">u ya'abkach yiits</rs> 
@@ -2350,15 +2350,15 @@
                         k'aabainta'an xan bey <rs ana="JUN_RAQAN">Jun Ráakane'</rs>. Tu yóok'olalo'ob ka j-éek'jolch'e'enchaj way yóok'olkaabe', 
                         ka bin jkáaj xan jump'éel sabakja' bulk'iin, bul áak'ab bini'. J-ook bin mejen yéetel nukuch 
                         ba'alche'obi'. J-aktáanta'abo'ob tumen che'ob yéetel tuunicho'obi'; tuláakal bin t'aannajo'obi': 
-                        u kaato'ob, u xaamacho'ob, u laako'ob, u kuumo'ob, u k'u'umo'ob, u kaob, u p'uulo'ob, <rs ana="TZIMA">u 
+                        u kaato'ob, u xaamacho'ob, u laako'ob, u kuumo'ob, u k'u'umo'ob, <rs ana="KA'">u ka'ob</rs>, u p'uulo'ob, <rs ana="TZIMA">u 
                         luucho'ob</rs>; tuláakalo'ob k'uuxilnajo'obi', -jach ta beetaje'ex in muk'yajo'on. Ta chi'one'ex, le 
                         beetik yaan in chi'iko'one'ex xan te' súutuka -ku ya'ala'al bin ti'ob tumen u k'u'umo'ob yéetel 
-                        u ka'ob. Ka bin tu ya'alaj xan le ka'o':</p> 
+                        <rs ana="KA'">u ka'ob</rs>. Ka bin tu ya'alaj xan <rs ana="KA'">le ka'o'</rs>:</p> 
                     <p>-Ta wóok'olale'exe' sáansamal, sáansamal ma'alob juuch'najiko'on; jaatskabk'iin, 
                         oknajk'iin, mantats'e': ¡jóoli'!, ¡jóoli'!, ¡juk'!, ¡juk'! ka beetike'ex ti' to'on. Yáaxe' mina'an to'on 
                         ka'ach uláak' meyaj wa mata wóok'olale'exi'. Wíinike'ex, u'uy a wu'uye'ex: líik'ul ti' le k'iina', 
                         yaan in xachikimba'on in juch'o'on wáaj in xiixkunto'on a bak'ele'ex -ku ya'ala'al bin ti'ob tumen 
-                        le ka'obo'. Ku ts'o'okole' ka bin t'aannaj le peek'o', ka tu ya'alaj bin:</p>
+                        <rs ana="KA'">le ka'obo'</rs>. Ku ts'o'okole' ka bin t'aannaj le peek'o', ka tu ya'alaj bin:</p>
                     <p>-Baax k'iin ka jsíij ta tuukul a tich'ike'ex in wo'ocho'on. Chéen nóot' baalo'ob kin 
                         beetiko'oni', tumen bey a péech' óoltiko'one'ex ka'achilo'; táankab ka jóok'siko'one'ex wenel, 
                         yéetel a ch'uykíintmaje'ex u che'il tu'ux ka jats'iko'one'ex lekéen kulake'ex janal. Chéen 
@@ -2826,7 +2826,7 @@
                         yéetel <rs ana="CH'AMIYA_JOLOM">Cháamyajo'olomi'</rs>, leti'ob bin u ajkananbejilo'ob <rs ana="RAJAWAL_XIB'ALB'A">le Metnáalo'</rs>; yéetel bin baak beeta'an
                         u báatche'ob. Leti'ob bin beetik u ts'o'oyol wíinik, tu jaajil bin chéen chéej baak u poolo'ob
                         lekéen kíimiko'ob; máan ts'oya'anili' bin u lúubulo'obe.</p>
-                    <p>Le jewel' u nojmeyaj bin <rs ana="CH'AMIYA_BAQ">Cháamyabaak</rs> yéetel <rs ana="CH'AMIYA_JOLOM">Cháamyajo'olom</rs>. Yaan bin uláak'o'ob
+                    <p>Le je'el'o u nojmeyaj bin <rs ana="CH'AMIYA_BAQ">Cháamyabaak</rs> yéetel <rs ana="CH'AMIYA_JOLOM">Cháamyajo'olom</rs>. Yaan bin uláak'o'ob
                         k'aaba'inta'ano'ob bey: <rs ana="AJAL_MES">Aj-almes</rs><ref target="yua.n027"><hi rend="sup">27</hi></ref>
                         <note place="foot" xml:id="yua.n027"><seg type="note-symbol"><hi rend="sup">27</hi></seg>
                             Il a wil le Yáax Kanti'itsmanti'itso'.
@@ -2857,7 +2857,7 @@
                         U K'AABA' <rs ana="RAJAWAL_XIB'ALB'A">LE METNÁAL AJAWO'OB</rs> KIN
                         IN WA'ALO'ON TI' LE SÚUTUKA'</head>
                     <p>Yaan in jáan p'atiko'on u tsikbalil <rs ana="JUN_B'ATZ">Jun Ba'ats'</rs>, <rs ana="JUN_CHOWEN">Jun Chóowen</rs>; le u paal <rs ana="JUN_JUNAJPU">Jun Jun Ajpúube'</rs>; 
-                        tumen kex ts'o'okili' u kíimil u na'e', uláak' ba'al bin le úuchik u ts'its' óolta'al <rs ana="JUN_B'ATZ">Jun Ba'ats'</rs>, <rs ana="JUN_CHOWEN">Jun 
+                        tumen kex ts'o'okili' u kíimil <rs ana="IXB'AQIYALO">u na'e'</rs>, uláak' ba'al bin le úuchik u ts'its' óolta'al <rs ana="JUN_B'ATZ">Jun Ba'ats'</rs>, <rs ana="JUN_CHOWEN">Jun 
                         Chóowen</rs> tumen <rs ana="JUNAJPU">Jun Ajpúub</rs>, <rs ana="XB'ALAMQ'E">Xbáalankejo'</rs>:</p> 
                     <p>Ka bin: jtaálo'ob túun u ajbisajt'aanilo'ob <rs ana="JUN_KAME''">Jun Káame'</rs>, <rs ana="WUQUB'_KAME'">Wukub Káame'</rs>.</p> 
                     <p>-Te'ex ajpóopile'exe', xeen a t'ane'ex <rs ana="JUN_JUNAJPU">Jun Jun Ajpúub</rs>, <rs ana="WUQUB'_JUNAJPU">Wukub Jun Ajpúub</rs>, uti'al ka a 
@@ -5850,27 +5850,29 @@
             </div>
             <div xml:lang="spa">
                 <div type="tsúuk" n="spa.tsk.01">
-                    <head rend="center">DESDE ANTES DE ESCRIBIRSE EL POP WUJ<ref target="spa.n001"><hi rend="sup">1</hi></ref>
+                <!-- editor's note: corresponds to paragraph 1, folio 1r -->
+                    <head rend="center">DESDE ANTES DE ESCRIBIRSE <rs ana="POPOL_WUJ">EL POP WUJ</rs><ref target="spa.n001"><hi rend="sup">1</hi></ref>
                         <note place="foot" xml:id="spa.n001"><seg type="note-symbol"><hi rend="sup">1</hi></seg>
-                            Homólogo de Antigua Palabra, o sea, de <hi rend="italic">Ojer Tzij</hi> que aparece en la copia del padre Jiménez y que en 
-                            el renglón 27 aparece con el nombre de <hi rend="italic">Pop Wuj</hi>. Literalmente significa Libro del Tiempo o Libro  de 
-                            Acontecimientos. 
+                            Homólogo de <rs ana="POPOL_WUJ">Antigua Palabra</rs>, o sea, de <rs ana="POPOL_WUJ"><hi rend="italic">Ojer Tzij</hi></rs> que aparece en la copia del <rs ana="XIMENEZ">padre Jiménez</rs> y que en 
+                            el renglón 27 aparece con el nombre de <rs ana="POPOL_WUJ"><hi rend="italic">Pop Wuj</hi></rs>. Literalmente significa <rs ana="POPOL_WUJ">Libro del Tiempo</rs> o <rs ana="POPOL_WUJ">Libro  de 
+                            Acontecimientos</rs>. 
                         </note>
-                        AQUÍ SE HA LLAMADO "LOS MAGUEYES"</head>
-                    <p>Y aquí escribimos (ya con letra castellana), aquí fijamos la antigua palabra<ref target="spa.n002"><hi rend="sup">2</hi></ref>
+                        AQUÍ SE HA LLAMADO <rs ana="TINAMIT_K'ICHE'">"LOS MAGUEYES"</rs></head>
+                <!-- editor's note: corresponds to paragraph 2, folio 1r -->
+                    <p>Y aquí escribimos (ya con letra castellana), aquí fijamos <rs ana="POPOL_WUJ">la antigua palabra</rs><ref target="spa.n002"><hi rend="sup">2</hi></ref>
                         <note place="foot" xml:id="spa.n002"><seg type="note-symbol"><hi rend="sup">2</hi></seg>
-                            <hi rend="italic">Ojer tzij</hi> significa: antigua palabra, o sea, el <hi rend="italic">Pop Wuj</hi>. 
+                            <rs ana="POPOL_WUJ"><hi rend="italic">Ojer tzij</hi></rs> significa: <rs ana="POPOL_WUJ">antigua palabra</rs>, o sea, el <hi rend="italic">Pop Wuj</hi>. 
                         </note>. Principio, es 
-                        decir, base de todo lo sucedido en el pueblo. Los Magueyes, pero de las grandes <rs ana="TINAMIT_K'ICHE'">gentes k'ichés</rs>. 
+                        decir, base de todo lo sucedido <rs ana="TINAMIT_K'ICHE'">en el pueblo</rs>. <rs ana="TINAMIT_K'ICHE'">Los Magueyes</rs>, pero de las grandes <rs ana="TINAMIT_K'ICHE'">gentes k'ichés</rs>. 
                         De manera que aquí empezaremos a enseñarlo, a revelarlo, es decir, a relatarlo, lo dejado e 
                         iluminado por <rs ana="TZ'AQOL">El Arquitecto</rs>, <rs ana="B'ITOL">El Formador</rs>, <rs ana="ALOM">El Creado</rs>, <rs ana="K'AJOLOM">El Varón Creado</rs>, cuyos nombres: <rs ana="JUNAJPU_WUCH">Un 
-                        Cazador de Tacuatzín</rs>, <rs ana="JUNAJPU_UTIW">Un Cazador de Lobo</rs>, <rs ana="SAQI_NIM_AQ_SIS">Verdaderos Cantores</rs>, <rs ana="TEPEW_Q'UKUMATZ">OVenidos del Infinito, Ocultador 
+                        Cazador de Tacuatzín</rs>, <rs ana="JUNAJPU_UTIW">Un Cazador de Lobo</rs>, <rs ana="SAQI_NIM_AQ_SIS">Verdaderos Cantores</rs>, <rs ana="TEPEW_Q'UKUMATZ">Venidos del Infinito, Ocultador 
                         de Serpiente</rs>, <rs ana="UK'U'X_CHO">Espíritu de Lago</rs> y <rs ana="UK'U'X_PALO">Mar</rs>, <rs ana="AJRAXA_LAQ">Verdaderos Superiores</rs>, <rs ana="AJRAXA_TZEL">Hijos Mayores</rs> se decía, 
-                        compañero de plática y comentario de la partera, <rs ana="XPIYAKOK">abuelo</rs> que se llamaba <rs ana="XPIYAKOK">Xpiyakok</rs>, <rs ana="XMUKANE">Xmukané</rs>, 
+                        <rs ana="XPIYAKOK">compañero de plática</rs> y <rs ana="XPIYAKOK">comentario</rs> de <rs ana="XMUKANE">la partera</rs>, <rs ana="XPIYAKOK">abuelo</rs> que se llamaba <rs ana="XPIYAKOK">Xpiyakok</rs>, <rs ana="XMUKANE">Xmukané</rs>, 
                         amante y trabajador, <rs ana="XMUKANE">dos veces partera</rs>, <rs ana="XPIYAKOK">dos veces abuelo</rs>, se decía, en lengua k'iche'.</p> 
                     <p>Contaron todo lo que hicieron, ya en la clara realidad, en clara manifestación. Y si aquí 
                         escribimos ya con letra castellana, ya en cristianismo, en esta forma lo divulgaremos porque ya 
-                        no se verá nada del <rs ana="POPOL_WUJ"><hi rend="italic">Pop Wuj</hi></rs>, ciencia que vino del otro lado del mar y que es relato de nuestro 
+                        no se verá nada del <rs ana="POPOL_WUJ"><hi rend="italic">Pop Wuj</hi></rs>, ciencia que vino del otro lado <rs ana="PALO">del mar</rs> y que es relato de nuestro 
                         origen, ciencia de la existencia, se decía. Existe <rs ana="POPOL_WUJ">el primer libro</rs> (<rs ana="POPOL_WUJ">el <hi rend="italic">Pop Wuj</hi></rs>), es decir, <rs ana="POPOL_WUJ">la antigua 
                         escritura</rs>.</p> 
                     <p>Esto es únicamente para lamentarlo, para meditarlo. Es muy extenso, porque relata desde 
@@ -5879,18 +5881,20 @@
                     <p>¡Cúspide del cielo! ¡Lados del cielo!, se dijo por <rs ana="TZ'AQOL">El Arquitecto</rs>, <rs ana="B'ITOl">El Formador</rs>, señora y 
                         señor de la existencia y de la humanidad, constructor y espíritu, dueño de la creación, espíritu 
                         de la pura grandeza, de la clara creación, claridad varonil, meditador y pensador de todo donde 
-                        quiera, donde haya cielo, tierra, lagos, mares.
+                        quiera, donde haya cielo, tierra, lagos, <rs ana="PALO">mares</rs>.
                         <pb xml:id="yua2021-051" /></p> 
                 </div>
                 <div type="tsúuk" n="spa.tsk.02">
+                    <!-- editor's note: corresponds to paragraph 3, folio 1v -->
                     <head rend="center">RELATO DE LO QUE TODAVÍA ERA SILENCIO,VIBRACIÓN,
                         FERMENTACIÓN, VIBRABA, ESPASMABA, PALPITABA,
                         ES DECIR, CUANDO EL CIELO ESTABA VACÍO</head>
+                    <!-- editor's note: corresponds to paragraph 4, folio 1v -->
                     <p>Esta primera palabra, es la primera expresión; no había una sola gente ni animal, <rs ana="TZ'IKIN">pájaro</rs>,
                         <rs ana="KAR">pez</rs>, <rs ana="TAP">cangrejo</rs>, árbol, piedra, hoyo, barranco, pajón, bosque; solamente estaba el cielo.</p> 
                     <p>No se veía tierra en ninguna parte, solamente el <rs ana="PALL">mar</rs> estaba represado; el cielo, todo 
                         quieto. Nada había de eso que es cosa, todo era absorción, nada se movía. Recién acabábase de 
-                        hacer el cielo, tampoco había algo levantado. Solamente el agua estaba represada, el mar estaba 
+                        hacer el cielo, tampoco había algo levantado. Solamente el agua estaba represada, <rs ana="PALO">el mar</rs> estaba 
                         tendido, represado.</p> 
                     <p>No había de eso que es objeto, todo era formación, todo vibraba en la oscuridad, en la 
                         noche.</p>
@@ -5902,6 +5906,7 @@
                         <note place="foot" xml:id="spa.n003"><seg type="note-symbol"><hi rend="sup">3</hi></seg>
                             <rs ana="UK'U'X_KAJ">"Doble Mirada"</rs>, significa que mira de noche y de día, cerca y en el Infinito. 
                         </note>, le dicen.</p> 
+                    <!-- edtitor's note: corresponds to paragraph 5, folio 1v -->
                     <p>Vino y habló entonces aquí con <rs ana="TEPEW_Q'UKUMATZ">el que viene del Infinito, El Ocultador de Serpiente</rs> aquí 
                         en la oscuridad, de noche. Habló con <rs ana="TEPEW_Q'UKUMATZ">el del Infinito, Ocultador de Serpiente</rs>, se hablaron, pensaron 
                         y meditaron; se juntaron y se pusieron de acuerdo en pensamientos y palabras; se quisieron 
@@ -5924,23 +5929,24 @@
                         se levante sola! Oigan entonces: ¡Aparezcan! ¡Aclárense! Cielo, tierra, ¿acaso no es el esfuerzo, el 
                         propósito, la mira de nuestra estructura, de  nuestra formadura? ¡Aparezcan gente construida, 
                         gente formada! -dijeron entonces.</p> 
-                    <p>-¡Tierra! -dijeron. Al instante apareció. Era como nube, era como neblina el apareci- 
-                        miento. He aquí, entonces de una vez se levantaron las montañas del agua, se hicieron grandes 
+                    <p>-¡Tierra! -dijeron. Al instante apareció. Era como nube, era como neblina el aparecimiento. 
+                        He aquí, entonces de una vez se levantaron las montañas del agua, se hicieron grandes 
                         montañas.
                         <pb xml:id="yua2021-053" /></p> 
-                    <p>Sólo por sus signos, sólo por sus poderes se hicieron. Fue así como se idearon las monta- 
-                        ñas y las  costas, pero al mismo tiempo aparecieron el cipresal y el pinar. 
+                    <p>Sólo por sus signos, sólo por sus poderes se hicieron. Fue así como se idearon las montañas 
+                        y las  costas, pero al mismo tiempo aparecieron el cipresal y el pinar. 
                         Se contentó <rs ana="TEPEW_Q'UKUMATZ">El Ocultador de Serpiente</rs> y dijo:</p> 
                     <p>¡Qué bueno que hayas venido tú, <rs ana="UK'U'X_KAJ">Espíritu del Cielo</rs>, tú, <rs ana="JUN_RAQAN">Un Pie</rs>, es decir, tú, <rs ana="CH'IPI_KAQULJA">Último 
                         Rayo</rs>, <rs ana="RAXA_KAQULJA">Verdadero Rayo</rs>! Salió bien nuestra obra, nuestra formadura, -dijeron.</p> 
                     <p>Primero apareció el asiento de las montañas y de las costas. Luego se pensó en el camino 
                         de los ríos, y corrieron; parecían piernas entre montañas. Sólo se pensó y ya estaban corriendo 
-                        los ríos, así se juntaron las grandes montañas. Así fue como apareció la tierra, se originó por los 
-                        Espíritus del Cielo, por eso se decía <rs ana="UK'U'X_ULEW">"Espíritu de la Tierra"</rs>.</p> 
+                        los ríos, así se juntaron las grandes montañas. Así fue como apareció la tierra, se originó por <rs ana="UK'U'X_KAJ">los 
+                        Espíritus del Cielo</rs>, por eso se decía <rs ana="UK'U'X_ULEW">"Espíritu de la Tierra"</rs>.</p> 
                     <p>Al momento, idearon primero la existencia de la tierra que salió del agua. Así fue como 
                         se ideó, como lo idearon, como pensó hacer bien su obra.</p> 
+                        <!--editor's note: corresponds to paragraph 6, folio 2v --> 
                     <p>De una vez idearon los animales de las montañas, los guardianes de las selvas, los moradores 
-                        de las montañas: <rs ana="KEJ">venados</rs>, <rs ana="TZ'IKIN">pájaros</rs>, <rs ana="B'ALAM">tigres</rs>, <rs ana="KOJ">leones</rs>, serpientes: cascabel, <rs ana="K'ANTI'">cantí</rs>, bejuquillo. 
+                        de las montañas: <rs ana="KEJ">venados</rs>, <rs ana="TZ'IKIN">pájaros</rs>, <rs ana="B'ALAM">tigres</rs>, <rs ana="KOJ">leones</rs>, <rs ana="KUMATZ">serpientes</rs>: <rs ana="SOCHOJ">cascabel</rs>, <rs ana="K'ANTI'">cantí</rs>, bejuquillo. 
                         Dijo <rs ana="ALOM">Creado</rs>, <rs ana="K'AJOLOM">El Varón Creado</rs>:</p>
                     <p>-¿Acaso sólo es soledad? ¿Es bueno que haya silencio bajo los árboles y bejucos?</p>
                     <p>-Es bueno que haya guardianes -dijeron. Entonces idearon, mejor dicho platicaron y al 
@@ -5966,6 +5972,7 @@
                         </note>
                         , a <rs ana="CH'IPI_KAQULJA">Último Rayo</rs>, a <rs ana="RAXA_KAQULJA">Verdadero Rayo</rs>, al <rs ana="UK'U'X_KAJ">Espíritu del Cielo</rs>, al <rs ana="UK'U'X_ULEW">Espíritu de la Tierra</rs>, al <rs ana="TZ'AQOL">Arquitecto</rs>, 
                         al <rs ana="B'ITOL">Formador</rs>, al <rs ana="ALOM">Creado</rs>, al <rs ana="K'AJOLOM">Varón Creado</rs>.</p> 
+                    <!-- editor's note: corresponds to paragraph 7, folio 2v -->
                     <p>-Hablen, llámennos, invóquennos -les dijeron.
                         <pb xml:id="yua2021-055" /></p> 
                     <p>Pero no hablaron bien como la gente. Sólo tonteaban, cacareaban, sólo gritaban. Cómo 
@@ -5977,7 +5984,7 @@
                     <p>-Los cambiaremos porque no fueron buenos, no hablaron. Así que cambiamos nuestro 
                         parecer. Su zacate, su grano, su lecho, su deambular, su destino es el barranco, la selva, porque 
                         no fue buena su invocación, no nos llamaron. Todavía miro que habrá invocadores, los haremos 
-                        grandes. Tomarán su  servicio: sus carnes serán comidas, es su destino. De manera pues, sirvan 
+                        grandes. Tomarán su servicio: sus carnes serán comidas, es su destino. De manera pues, sirvan 
                         -les  dijeron.</p>  
                     <p>Así advirtieron a los pequeños animales y a los grandes animales que hay sobre la tierra. 
                         Lucharon otra vez, probaron otra vez, invocaron otra vez. Pero oyeron sus hablas y no sirvió. 
@@ -5986,14 +5993,14 @@
                         estaban sobre la tierra. Así fue la comida de la gente construida, de la gente formada, dispuesto 
                         por <rs ana="TZ'AQOL">El Arquitecto</rs>, <rs ana="B'ITOL">El Formador</rs>, <rs ana="ALOM">El Creado</rs>, <rs ana="K'AJOLOM">El Varón Creado</rs>. Probaron otra vez.</p>  
                     <p>-¿No habrá amanecido?, haremos quien nos busque, quien nos guarde, ¿cuándo nos 
-                        invocarán, dándonos prioridad sobre la tierra?, ¿acaso no luchamos primero por nuestro cons- 
-                        truido, nuestro formado? ¿Acaso resultó bien nuestra invocación, nuestra revelación -por ellos? 
+                        invocarán, dándonos prioridad sobre la tierra?, ¿acaso no luchamos primero por nuestro construido, 
+                        nuestro formado? ¿Acaso resultó bien nuestra invocación, nuestra revelación -por ellos? 
                         Así que porfiemos en hacerlos bien grandes, adivinos, que sean buscadores de la existencia -dijeron.</p>  
                     <p> Al punto se hizo la estructura de ellos; de tierra, de lodo les hicieron sus músculos. Pero 
-                        vieron que tampoco resultó  bien, se  desleían, estaban inmóviles, aplastados, blandos, estaban 
+                        vieron que tampoco resultó bien, se desleían, estaban inmóviles, aplastados, blandos, estaban 
                         encogidos, en fin, se desleían. No movían la cabeza, la vista sólo hacia abajo, no podían voltearse. 
                         Hablaron primero pero no pensaban, sólo se desleían entre el agua.</p>  
-                    <p> -No son sólidos -dijo <rs ana="TZ'AQOL">El Arquitecto</rs>, <rs ana="B'ITOL">El Formador</rs>. Engendraron primero cuando los 
+                    <p>-No son sólidos -dijo <rs ana="TZ'AQOL">El Arquitecto</rs>, <rs ana="B'ITOL">El Formador</rs>. Engendraron primero cuando los 
                         hicieron, pero sólo al principio. No caminaban, no se multiplicaban cuando fueron hechos.</p>  
                     <p>-Sólo la mente les falta -dijo.</p>  
                     <p>-Los desbarataré. -Criticó su obra. Después dijeron:</p>  
@@ -6003,13 +6010,13 @@
                         de Coyote</rs>, que prueben averiguar otra vez de qué debe ser su estructura -dijeron entre ellos.</p>  
                     <p>Se lo  comunicaron a <rs ana="XPIYAKOK">Xpiyakok</rs>, <rs ana="IXMUKANE">Xmukané</rs>. Al instante, entonces, dijeron esto a los Adi- 
                         vinos, a la <rs ana="RATI'T_Q'IJ">Abuela del Sol</rs>, <rs ana="RATI'T_SAQ">Abuela de la Luz</rs> quienes se llamaban <rs ana="XPIYAKOK">Xpiyakok</rs>, <rs ana="IXMUKANE">Xmukané</rs> por <rs ana="TZ'AQOL">El 
-                        Arquitecto</rs>, <rs ana="B'ITOL">El Formador</rs>. Dijeron entonces <rs ana="JUN_RAQAN">Un Pie</rs>, <rs ana="TEPEW_Q'UKUMATZ">el del Infinito y El Ocultador de Serpiente</rs>, 
+                        Arquitecto</rs>, <rs ana="B'ITOL">El Formador</rs>. <!-- editor's note: corresponds to paragraph 8, folio 3v --> Dijeron entonces <rs ana="JUN_RAQAN">Un Pie</rs>, <rs ana="TEPEW_Q'UKUMATZ">el del Infinito y El Ocultador de Serpiente</rs>, 
                         a la Sacerdotisa del Sol, al <rs ana="B'ITOL">Formador</rs>, a los Adivinos:  
                         <pb xml:id="yua2021-057" /></p>
-                    <p>-Que se encuentre, es decir, que se halle la estructura. Averigüen sobre nuestra gente for- 
-                        mada, gente construida; pregunten sobre los buscadores de la existencia, que nos invoquen, que 
-                        nos llamen primero sobre todas las cosas. Entren en la oración partera, ancestro, abuela nuestra, 
-                        abuelo nuestro, <rs ana="XPIYAKOK">Xpiyakok</rs>! <rs ana="XMUKANE">Xmukané</rs>: pidan, hablen, que se ilumine nuestra invocación, nuestra 
+                    <p>-Que se encuentre, es decir, que se halle la estructura. Averigüen sobre nuestra gente formada, 
+                        gente construida; pregunten sobre los buscadores de la existencia, que nos invoquen, que 
+                        nos llamen primero sobre todas las cosas. Entren en la oración <rs ana="XMUKANE">partera</rs>, <rs ana="XPIYAKOK">ancestro</rs>, <rs ana="XMUKANE">abuela nuestra</rs>, 
+                        <rs ana="XPIYAKOK">abuelo nuestro</rs>, <rs ana="XPIYAKOK">Xpiyakok</rs>! <rs ana="XMUKANE">Xmukané</rs>: pidan, hablen, que se ilumine nuestra invocación, nuestra 
                         veneración, nuestra prioridad sobre todas las cosas por la gente construida, formada; gente 
                         de madera, pálida.</p> 
                     <p>-¡Origínense! ¡Que se revele su nombre, <rs ana="JUNAJPU_WUCH">Un Cerbatanero de Tacuatzíri</rs>, <rs ana="JUNAJPU_UTIW">Un Cerbatanero</rs> 
@@ -6018,7 +6025,7 @@
                         <rs ana="AJTOLTEKAT">Señores del Toltecat</rs>, <rs ana="RATI'T_Q'IJ">Abuela del Sol</rs>,<rs ana="RATI'T_SAQ">Abuela de la Luz</rs>! -les decían <rs ana="TZ'AQOL">Nuestro Arquitecto</rs>, <rs ana="B'ITOL">Formador</rs>.</p> 
                     <p>-Traigan <rs ana="IXIM">maíz</rs>, traigan <rs ana="TZ'ITE'">frijol del pito</rs><ref target="spa.n007"><hi rend="sup">7</hi></ref>
                         <note place="foot" xml:id="spa.n007"><seg type="note-symbol"><hi rend="sup">7</hi></seg>
-                            N. del T. El término "del pito", hace referencia a una variedad de árbol de color rojo, que le es útil a los 
+                            N. del T. El término <rs ana="TZ'ITE'">"del pito"</rs>, hace referencia a una variedad de árbol de color rojo, que le es útil a los 
                             hechiceros o chamanes, con la finalidad de hacer maleficios a otras personas (Pellecer: 2006). Tomado 
                             de: Diccionario de Guatemaltequismos.  
                         </note>
@@ -6026,25 +6033,26 @@
                         labraremos la boca, la cara a la madera -les dijeron a los adivinos. Al punto separaron en porciones, 
                         barajaron cuando trajeron el <rs ana="IXIM">maíz</rs>, el <rs ana="TZ'ITE'">frijol del pito</rs>.</p> 
                     <p>-¡Sol de la formación! -les dijeron <rs ana="XMUKANE">la abuela</rs> y <rs ana="XPIYAKOK">el abuelo</rs> a ellos.</p>
-                    <p>El abuelo era el del <rs ana="TZ'ITE'">frijol del pito</rs>, cuyo nombre es <rs ana="XPIYAKOK">Xpiyakok</rs>; la abuela adivina, la forma- 
-                        dora, se llama <rs ana="XMUKANE">Chirikán Xmukané</rs>. Entonces fijaron el día, y dijeron:</p> 
+                    <p><rs ana="XPIYAKOK">El abuelo</rs> era el del <rs ana="TZ'ITE'">frijol del pito</rs>, cuyo nombre es <rs ana="XPIYAKOK">Xpiyakok</rs>; <rs ana="XMUKANE">la abuela</rs> adivina, la formadora, 
+                        se llama <rs ana="XMUKANE">Chirikán Xmukané</rs>. Entonces fijaron el día, y dijeron:</p> 
                     <p>-Que se encuentre, que se halle, díganlo, lo oímos con nuestros oídos, hablen, conversen, 
                         sólo la madera fue escogida, y fue labrada por <rs ana="TZ'AQOL">El Arquitecto</rs>, <rs ana="B'ITOL">El Formador</rs>. Si es el buscador de 
                         la existencia, habla, tú, <rs ana="IXIM">maíz</rs>, ilumina, tú, <rs ana="TZ'ITE'">frijol del pito</rs>, tú Sol, tú <rs ana="B'ITOL">Formador</rs>. Trabajen, no estén 
-                        quietos -le  dijo al <rs ana="IXIM">maíz</rs> y al <rs ana="TZ'ITE'">frijol del pito</rs>.  -¡Sol <rs ana="B'ITOL">Formador</rs>!, ten vergüenza, eres <rs ana="UK'U'X'_KAJ">Espíritu del 
+                        quietos -le dijo al <rs ana="IXIM">maíz</rs> y al <rs ana="TZ'ITE'">frijol del pito</rs>. -¡Sol <rs ana="B'ITOL">Formador</rs>!, ten vergüenza, eres <rs ana="UK'U'X'_KAJ">Espíritu del 
                         Cielo</rs>, no quebrantes la voz, la figura del <rs ana="TEPEW_Q'UKUMATZ">Venido del Infinito, Ocultador de Serpiente</rs> -dijeron. 
                         Luego anunciaron la respuesta buena:</p>
                     <p>-Que se haga gente de madera, de madera labrada, que hable, que platique sobre la tierra.</p> 
-                    <p>-¡Origínense! -dijeron entonces. Sólo lo dijeron y al punto se hicieron muñecos de ma-
-                        dera labrada, engendraron como gentes, hablaron como gentes, esos eran los habitantes de la 
+                    <p>-¡Origínense! -dijeron entonces. Sólo lo dijeron y al punto se hicieron muñecos de madera 
+                        labrada, engendraron como gentes, hablaron como gentes, esos eran los habitantes de la 
                         tierra que resultaron, se  multiplicaron. Tuvieron hijas, hijos los muñecos de madera labrada, 
                         pero no tenían nada de espíritu, mejor dicho, nada de pensamiento, no pensaban en <rs ana="TZ'AQOL">El Arquitecto</rs>, 
                         en <rs ana="B'ITOL">El Formador</rs>, sólo caminaron, sólo gatearon; no pensaron en el <rs ana="UK'U'X'_KAJ">Espíritu del Cielo</rs> y así 
                         cayeron en desgracia; fue prueba, es decir, fue remedo de gente.</p> 
                     <p>Hablaron primero, eran flacos, de piernas caídas, en los brazos nada de sangre tenían, ni 
-                        color; nada de sudor, las  mejillas secas, puras máscaras las caras, tiesas las piernas y los brazos, 
+                        color; nada de sudor, las mejillas secas, puras máscaras las caras, tiesas las piernas y los brazos, 
                         hacían ruido sus músculos. Así pues, no pudieron ser buenos delante de <rs ana="TZ'AQOL">El Arquitecto</rs>, <rs ana="B'ITOL">El Formador</rs>, 
                         creador de ellos, espíritu de ellos. Al principio resultó una multitud aquí sobre la tierra. 
+                        <!-- editor's note: corresponds to paragraph 9, folio 4v -->
                         De repente los exterminaron, los eliminaron, mejor dicho los destruyeron; mataron a las gentes 
                         de madera labrada.
                         <pb xml:id="yua2021-059" /></p>
@@ -6059,22 +6067,22 @@
                         por <rs ana="TZ'AQOL">El Arquitecto</rs>, <rs ana="B'ITOL">El Formador</rs>; y la mujer, de zibak; eso quiso <rs ana="TZ'AQOL">El Arquitecto</rs>, <rs ana="B'ITOL">El Formador</rs> que 
                         se empleara para el cuerpo de la mujer. No sirvieron, no hablaron delante de su <rs ana="TZ'AQOL">Arquitecto</rs>, su 
                         <rs ana="B'ITOL">Formador</rs>, obrador de ellos, creador de ellos.</p> 
-                    <p>Así fue como los mataron, los mutilaron: cayó una gran trementina del cielo. <rs ana="K'OTK'OWACH">El Escarba 
-                        Ojos</rs>, les extrajo los ojos, vino el Kamalotz y les cortó la cabeza, vino La Fiera León, se los co- 
-                        mió; vino El León Batidor, batió los huesos, hizo astillas los huesos y nervios.</p>
+                    <p>Así fue como los mataron, los mutilaron: cayó <rs ana="Q'OL">una gran trementina</rs> del cielo. <rs ana="K'OTK'OWACH">El Escarba 
+                        Ojos</rs>, les extrajo los ojos, vino <rs ana="KAMALOTZ'">el Kamalotz</rs> y les cortó la cabeza, vino <rs ana="KOTZB'ALAM">La Fiera León</rs>, se los comió; 
+                        vino <rs ana="TUKUMB'ALAM">El León Batidor</rs>, batió los huesos, hizo astillas los huesos y nervios.</p>
                     <p>Destrozaron, mutilaron, los huesos para escarmiento de ellos porque no sirvieron delante 
                         de la madre, es decir, delante del dueño, el <rs ana="UK'U'X'_KAJ">Espíritu del Cielo</rs> llamado <rs ana="JUN_RAQAN">Un Pie</rs>. Por ellos se oscureció 
                         la faz de la tierra, comenzó un aguacero negro, de día, de noche, entraron pequeños y 
                         grandes animales. Se rebelaron árboles y piedras, todos hablaron: sus tinajas, sus  comales, sus 
-                        trastos, sus ollas, sus nixtamales, sus <rs ana="KA'">piedras de moler</rs>, sus jarros, sus jícaras; todos se rebelaron, 
-                        mucho nos hicieron sufrir. Nos mordieron, y ahora los morderemos -les dijeron sus nixtama-
-                        les y sus <rs ana="KA'">piedras de moler</rs>. Y dijo <rs ana="KA'">la piedra de moler</rs>:</p>
+                        trastos, sus ollas, sus nixtamales, sus <rs ana="KA'">piedras de moler</rs>, sus jarros, sus <rs ana="TZIMA">jícaras</rs>; todos se rebelaron, 
+                        mucho nos hicieron sufrir. Nos mordieron, y ahora los morderemos -les dijeron sus nixtamales 
+                        y sus <rs ana="KA'">piedras de moler</rs>. Y dijo <rs ana="KA'">la piedra de moler</rs>:</p>
                     <p>-Por ustedes molimos fino diario, diario; tarde y mañana, siempre: ¡jolí!, ¡jolí!, ¡juk!, 
                         ¡juk!, nos hacíamos. Primero no teníamos otro oficio por ustedes. Oigan gente: ahora, hoy nos 
                         esforzaremos en moler; mejor dicho, en pulverizar sus carnes -les dijeron <rs ana="KA'">las piedras de moler</rs>. 
                         Y ahora el nixtamal, dijo y habló:</p>
-                    <p>¿Cuándo nos dieron de comer? Sólo nos manteníamos triturando, es decir, nos humi-
-                        llaban, nos echaban afuera, tenían colgado nuestro palo cuando comían. Sólo nos vigilaban, 
+                    <p>¿Cuándo nos dieron de comer? Sólo nos manteníamos triturando, es decir, nos humillaban, 
+                        nos echaban afuera, tenían colgado nuestro palo cuando comían. Sólo nos vigilaban, 
                         siempre, no hablábamos. ¿Acaso no nos estábamos muriendo por ustedes? ¿Cuándo iban a ser 
                         buenos, a hacer un bien? Por causa de ustedes íbamos a desaparecer. Entonces ahora comeremos 
                         el hueso de ustedes que tenemos en la boca, los morderemos -les dijo el nixtamal (el perro) y 
@@ -6091,12 +6099,13 @@
                         a causa de que sólo de madera eran los músculos que les hizo <rs ana="TZ'AQOL">El Arquitecto</rs>, <rs ana="B'ITOL">El Formador</rs>. Los 
                         <rs ana="K'OY">micos</rs>  se  procrearon  como  gente; son restos de una clase de gente hecha, gente formada que 
                         existió; eran gentes de madera labrada.
+                        <!-- editor's note: corresponds to paragraph 10, folio 5v -->
                         <pb xml:id="yua2021-061" /></p>
                     <p>En ese entonces había poca claridad sobre la tierra, no había Sol. Y había uno que se 
                         engrandecía, se llamaba <rs ana="WUQUB'_KAQIX">"Nuestras Siete Vergüenzas"</rs><ref target="spa.n009"><hi rend="sup">9</hi></ref>
                         <note place="foot" xml:id="spa.n009"><seg type="note-symbol"><hi rend="sup">9</hi></seg>
                             <rs ana="WUQUB'_KAQIX'">Las Siete Vergüenzas</rs> son: el Orgullo, que engendra la Ambición, la Envidia, la Mentira, el Crimen, la 
-                            Ingratitud y la Ignorancia. En un principio fue traducido como "Siete Guacamayas". 
+                            Ingratitud y la Ignorancia. En un principio fue traducido como <rs ana="WUQUB'_KAQIX">"Siete Guacamayas"</rs>. 
                         </note>
                         . Ya había cielo y tierra, pero todavía era 
                         tenue la luz del Sol y de la Luna. Y dijo <rs ana="WUQUB'_KAQIX">Nuestras Siete Vergüenzas</rs>:</p> 
@@ -6116,23 +6125,24 @@
                         grandeza de Luna. Fue cuando ocurrió la mutilación de la gente de madera labrada.
                         <pb xml:id="yua2021-063" /></p>
                     </div>
+                <!-- editor's note: corresponds to paragraph 11, folio 6r -->
                 <div type="tsúuk" n="spa.tsk.03">
-                    <head rend="center">AQUÍ DIREMOS AHORA LA MUÉRTE DE NUESTRAS SIETE
-                        VERGÜENZAS, CUANDO LO VENCIERON, CUANDO SE CREÓ
-                        LA GENTE POR EL ARQUITECTO, EL FORMADOR</head>
+                    <head rend="center">AQUÍ DIREMOS AHORA LA MUÉRTE DE <rs ana="WUQUB'_KAQIX">NUESTRAS SIETE
+                        VERGÜENZAS</rs>, CUANDO LO VENCIERON, CUANDO SE CREÓ
+                        LA GENTE POR <rs ana="TZ'AQOL">EL ARQUITECTO</rs>, <rs ana="B'ITOL">EL FORMADOR</rs></head>
                     <p>Este es el antecedente de la derrota, mejor dicho, cuando le llegó su día al <rs ana="WUQUB'_KAQIX">Nuestras Siete 
-                        Vergüenzas</rs> por un hijo llamado <rs ana="JUNAJPU">Un Cerbatanero</rs>, <rs ana="XB'ALAMQ'E">Xbalanké</rs><ref target="spa.n010"><hi rend="sup">10</hi></ref>
+                        Vergüenzas</rs> por <rs ana="KA'IB_K'AJOLAB'">un hijo</rs> llamado <rs ana="JUNAJPU">Un Cerbatanero</rs>, <rs ana="XB'ALAMQ'E">Xbalanké</rs><ref target="spa.n010"><hi rend="sup">10</hi></ref>
                         <note place="foot" xml:id="spa.n010"><seg type="note-symbol"><hi rend="sup">10</hi></seg>
                             <rs ana="JUNAJPU">Jun Aj Pu</rs>, <rs ana="XB'ALAMQ'E">Xbalanké</rs> son dos nombres de un mismo ser: el primero alude a su oficio de cazador con 
-                            cerbatana, el segundo es el nombre propio del mismo.   
+                            <rs ana="WUB">cerbatana</rs>, el segundo es el nombre propio del mismo.   
                         </note>
                         era <rs ana="DIOS">Dios</rs>.</p> 
-                    <p>A causa de que vio mal la soberbia ante el <rs ana="UK'U'X_KAJ">Espíritu del Cielo</rs>, dijo entonces el hijo:</p> 
+                    <p>A causa de que vio mal la soberbia ante el <rs ana="UK'U'X_KAJ">Espíritu del Cielo</rs>, dijo entonces <rs ana="KA'IB_K'AJOLAB'">el hijo</rs>:</p> 
                     <p>-No es bueno que exista porque no vivirán las gentes aquí sobre la tierra. Así es que me 
-                        propondré tirarle con cerbatana sobre su comida, aquí le tiraré y lo enfermaré. Que se acabe su 
-                        riqueza, sus amuletos, sus joyas y sus esmeraldas; su vislumbre motivo de su orgullo; lo sorpren- 
-                        deré espiándolo y así lo haga toda la gente. ¿No fue por eso que apareció la ira? Sólo por riqueza 
-                        se envaneció -dijo el hijo, llevó su cerbatana sobre sus hombros.</p> 
+                        propondré tirarle con <rs ana="WUB">cerbatana</rs> sobre su comida, aquí le tiraré y lo enfermaré. Que se acabe su 
+                        riqueza, sus amuletos, sus joyas y sus esmeraldas; su vislumbre motivo de su orgullo; lo sorprenderé 
+                        espiándolo y así lo haga toda la gente. ¿No fue por eso que apareció la ira? Sólo por riqueza 
+                        se envaneció -dijo <rs ana="KA'IB_K'AJOLAB'">el hijo</rs>, llevó <rs ana="WUB">su cerbatana</rs> sobre sus hombros.</p> 
                     <p><rs ana="WUQUB'_KAQIX">El Nuestras Siete Vergüenzas</rs> tenía dos hijos, <rs ana="SIPAKNA">Zipacná</rs> era el primer hijo, el segundo era 
                         <rs ana="KAB'RAQAN">"Dos Pies"</rs>; <rs ana="CHIMALMAT">la madre</rs> se llamaba <rs ana="CHIMALMAT">Chimalmat</rs>, mujer de Nuestras Siete Vergüenzas.</p> 
                     <p><rs ana="SIPAKNA">Zipacná</rs> se entretenía en las grandes montañas: <rs ana="CHI'Q'AQ'">El del Fuego</rs>, <rs ana="JUNAJUPU_JUYUB">Un Cerbatanero</rs>, <rs ana="PE_KUL_YA'">Pe Kul</rs>, 
@@ -6148,6 +6158,7 @@
                     <p>Así pues se ideó la muerte y desaparición de ellos por <rs ana="KA'IB_K'AJOLAB'">el hijo</rs>.
                     <pb xml:id="yua2021-065" /></p>
                 </div>
+                <!-- editor's note: this corresponds to paragraph 11.5 in Spanish, folio 6v -->
                 <div type="tsúuk" n="spa.tsk.04">
                     <head rend="center">DE CUANDO <rs ana="KA'IB_K'AJOLAB'">EL HIJO</rs> TIRÓ CON <rs ana="WUB">CERBATANA</rs> A <rs ana="WUQUB'_KAQIX">NUESTRAS SIETE
                     VERGÜENZAS</rs>. AQUÍ RELATAREMOS LA DERROTA DE CADA UNO
@@ -6160,6 +6171,7 @@
                         Comienza la lucha entre el bien y el mal, o sea, el Dualismo Universal.
                     </note>
                     .</p>
+                <!-- editor's note: this corresponds to paragraph 12, folio 6v -->
                     <p>Llegó entonces <rs ana="WUQUB'_KAQIX">Nuestras Siete Vergüenzas</rs>, fue derecho sobre su comida que era, el nance, 
                         entonces, <rs ana="JUNAJPU">Un Cerbatanero</rs>, <rs ana="XB'ALAMQ'E">Xbalanké</rs> le tiró con <rs ana="WUB"> una cerbatana</rs><ref target="spa.n012"><hi rend="sup">12</hi></ref>
                     <note place="foot" xml:id="spa.n012"><seg type="note-symbol"><hi rend="sup">12</hi></seg>
@@ -6178,40 +6190,40 @@
                         (el brazo) sobre el fuego, cuélgalo. A ver si viene por él así como está sobre el fuego. De veras 
                         es malhechor -dijo <rs ana="WUQUB'_KAQIX">Nuestras Siete Vergüenzas</rs> y colgó el brazo de <rs ana="JUNAJPU">Un Cerbatanero</rs>, <rs ana="XB'ALAMQ'E">Xbalanké</rs>. 
                         Después, <rs ana="JUNAJPU">Un Cerbatanero</rs>, <rs ana="XB'ALAMQ'E">Xbalanké</rs> meditó y le dijo a un abuelo, en verdad era de cabello 
-                        cano el abuelo, y a <rs ana="SAQI_NIM_AQ_SIS">una abuela</rs>, de veras abuela moribunda, eran encorvados de pura vejez. 
-                        <rs ana="SAQI_NIM_AQ_SIS">El abuelo</rs> se llamaba Gran Anciano y <rs ana="SAQI_NIM_AQ_SIS">la abuela</rs> se llamaba <rs ana="SAQI_NIM_AQ_SIS">Gran Blanca Pizote</rs> y les dijo a <rs ana="SAQI_NIM_AQ_SIS">la 
+                        cano <rs ana="SAQI_NIM_AQ_SIS">el abuelo</rs>, y a <rs ana="SAQI_NIM_AQ_SIS">una abuela</rs>, de veras abuela moribunda, eran encorvados de pura vejez. 
+                        El abuelo se llamaba Gran Anciano y <rs ana="SAQI_NIM_AQ_SIS">la abuela</rs> se llamaba <rs ana="SAQI_NIM_AQ_SIS">Gran Blanca Pizote</rs> y les dijo a <rs ana="SAQI_NIM_AQ_SIS">la 
                         abuela</rs> y al abuelo:</p> 
                     <p>-Irán conmigo para traer mi brazo de donde está <rs ana="WUQUB'_KAQIX">Nuestras Siete Vergüenzas</rs>, iré tras de 
                         ustedes.</p> 
-                    <p>-Es nuestro nieto que nos acompaña, han muerto la madre y el padre, por eso nos sigue. 
+                    <p>-Es <rs ana="KA'IB_K'AJOLAB'">nuestro nieto</rs> que nos acompaña, han muerto la madre y el padre, por eso nos sigue. 
                         Ojalá hubiera quien se hiciera cargo para regalarlo de una vez, porque mi oficio es sólo extraer 
                         animalitos de los dientes, dirán. Con eso me mira como niño <rs ana="WUQUB'_KAQIX">el Nuestras Siete Vergüenzas</rs>. Esto 
                         es para aleccionarlos -dijo <rs ana="KA'IB_KAJOLAB'">el hijo</rs>.</p>
                     <p>-Está bien -dijeron entonces y se fueron. Estaba recostado <rs ana="WUQUB'_KAQIX">Nuestras Siete Vergüenzas</rs> 
-                        frente a su vivienda cuando pasaron <rs ana="SAQI_NIM_AQ_SIS">la abuela</rs> y el abuelo; <rs ana="KA'IB_KAJOLAB'">el hijo</rs> jugaba tras de los abuelos al 
-                        pasar abajo de la casa del señor, a causa de sus dientes gritaba el <rs ana="WUQUB'_KAQIX">Nuestras Siete Vergüenzas</rs>. 
-                        <rs ana="WUQUB'_KAQIX">Nuestras Siete Vergüenzas</rs> vio de inmediato al abuelo y a <rs ana="SAQI_NIM_AQ_SIS">la abuela</rs> que se acompañaban mutuamente.
+                        frente a su vivienda cuando pasaron <rs ana="SAQI_NIM_AQ_SIS">la abuela</rs> y <rs ana="SAQI_NIM_AQ_SIS">el abuelo</rs>; <rs ana="KA'IB_KAJOLAB'">el hijo</rs> jugaba tras de <rs ana="SAQI_NIM_AQ_SIS">los abuelos</rs> al 
+                        pasar abajo de la casa <rs ana="WUQUB'_KAQIX">del señor</rs>, a causa de sus dientes gritaba el <rs ana="WUQUB'_KAQIX">Nuestras Siete Vergüenzas</rs>. 
+                        <rs ana="WUQUB'_KAQIX">Nuestras Siete Vergüenzas</rs> vio de inmediato <rs ana="SAQI_NIM_AQ_SIS">al abuelo</rs> y a <rs ana="SAQI_NIM_AQ_SIS">la abuela</rs> que se acompañaban mutuamente.
                     <pb xml:id="yua2021-067" /></p>
-                    <p>-¿De dónde vienen abuelos? -dijo el señor.</p> 
-                    <p>-Sólo lo buscarnos a usted, Señor, para alimentarnos -dijeron entonces.</p> 
-                    <p>-¿Qué hacen para alimentarse, es su hijo quien los acompaña?</p>
-                    <p>-Nada de eso, Señor es nieto. Sólo le tenemos lástima a este adoptivo, partimos en la 
-                        noche lo que conseguimos -dijeron <rs ana="SAQI_NIM_AQ_SIS">abuela</rs> y abuelo. Chillaba el Señor del dolor de dientes, sólo 
+                    <p>-¿De dónde vienen <rs ana="SAQI_NIM_AQ_SIS">abuelos</rs>? -dijo <rs ana="WUQUB'_KAQIX">el señor</rs>.</p> 
+                    <p>-Sólo lo buscarnos a usted, <rs ana="WUQUB'_KAQIX">Señor</rs>, para alimentarnos -dijeron entonces.</p> 
+                    <p>-¿Qué hacen para alimentarse, es <rs ana="KA'IB_KAJOLAB'">su hijo</rs> quien los acompaña?</p>
+                    <p>-Nada de eso, <rs ana="WUQUB'_KAQIX">Señor</rs> es <rs ana="KA'IB_KAJOLAB'">nieto</rs>. Sólo le tenemos lástima a este adoptivo, partimos en la 
+                        noche lo que conseguimos -dijeron <rs ana="SAQI_NIM_AQ_SIS">abuela</rs> y abuelo. Chillaba <rs ana="WUQUB'_KAQIX">el Señor</rs> del dolor de dientes, sólo 
                         a grandes penas comía y hablaba.</p> 
-                    <p>-No me dejen, tengan lástima de mí. ¿Qué hacen?, ¿qué curan? -dijo el señor.</p> 
-                    <p>-Sólo extraemos animalitos de los dientes, curamos el globo del ojo, remendamos hue-
-                        sos, Señor -dijeron entonces.</p> 
+                    <p>-No me dejen, tengan lástima de mí. ¿Qué hacen?, ¿qué curan? -dijo <rs ana="WUQUB'_KAQIX">el señor</rs>.</p> 
+                    <p>-Sólo extraemos animalitos de los dientes, curamos el globo del ojo, remendamos huesos, 
+                        <rs ana="WUQUB'_KAQIX">Señor</rs> -dijeron entonces.</p> 
                     <p>-Está bien, cúrenme mis dientes, de veras me duelen todos los días; no me entra nada 
-                        de sueño con mi ojo. Es que me tiró con cerbatana un malhechor, desde entonces empezó, por 
+                        de sueño con mi ojo. Es que me tiró con <rs ana="WUB">cerbatana</rs> <rs ana="KA'IB_KAJOLAB'">un malhechor</rs>, desde entonces empezó, por 
                         eso ya no puedo comer. Ojalá me tuvieran lástima. Sólo corten los dientes, que queden como 
                         dientes.</p> 
-                    <p>-Está bien Señor, la causa del dolor es un animal, sólo hay que cambiar, quitar los suyos.</p> 
-                    <p>-Tal vez no está bien que se extraigan, porque por ellos soy Señor, mi poderío son mis 
+                    <p>-Está bien <rs ana="WUQUB'_KAQIX">Señor</rs>, la causa del dolor es un animal, sólo hay que cambiar, quitar los suyos.</p> 
+                    <p>-Tal vez no está bien que se extraigan, porque por ellos <rs ana="WUQUB'_KAQIX">soy Señor</rs>, mi poderío son mis 
                         dientes y mis ojos; sustitúyanlos pues por hueso molido.</p> 
                     <p>-El hueso molido es lo mismo que el <rs ana="IXIM">maíz</rs> blanco!</p> 
                     <p>-Está bien, sáquenlos, ayúdenme -dijo. Le sacaron entonces los dientes del <rs ana="WUQUB'_KAQIX">Nuestras 
                         Siete Vergüenzas</rs>; los cambiaron por <rs ana="IXIM">maíz</rs> blanco. Bien brillaba el <rs ana="IXIM">maíz</rs> en la boca, pero pronto 
-                        le decayó el semblante, ya no parecía Señor. Terminaron de sacarle los dientes de esmeralda que 
+                        le decayó el semblante, ya no parecía <rs ana="WUQUB'_KAQIX">Señor</rs>. Terminaron de sacarle los dientes de esmeralda que 
                         le cuajaban en la boca. En seguida le curaron el globo del ojo a <rs ana="WUQUB'_KAQIX">Nuestras Siete Vergüenzas</rs>, le 
                         aflojaron el ojo y terminaron de sacarle las escamas, no sintió dolor.</p> 
                     <p>Ya sólo a tientas andaba cuando le quitaron el motivo de su orgullo. Era idea de <rs ana="JUNAJPU">Un 
@@ -6226,9 +6238,9 @@
                         ____________________________________________________________________________________________
                         __________<ref target="spa.n013"><hi rend="sup">13</hi></ref>
                         <note place="foot" xml:id="spa.n013"><seg type="note-symbol"><hi rend="sup">13</hi></seg>
-                            Estos tachones, así como los siguientes, aparecen en la copia original del padre Jiménez.
+                            Estos tachones, así como los siguientes, aparecen en la copia original <rs ana="XIMENEZ">del padre Jiménez</rs>.
                         </note>
-                        El símbolo protector de <rs ana="SAQI_NIM_AQ_SIS">la abuela</rs> y el símbolo protector del abuelo fueron 
+                        El símbolo protector de <rs ana="SAQI_NIM_AQ_SIS">la abuela</rs> y el símbolo protector <rs ana="SAQI_NIM_AQ_SIS">del abuelo</rs> fueron 
                         quienes hicieron esto. Así que recogieron el brazo y se lo injertaron y resultó bien. Sólo para 
                         matar a <rs ana="WUQUB'_KAQIX">Nuestras Siete Vergüenzas</rs> fue que hicieron esto; malo les pareció el enorgullecimiento 
                         de <rs ana="WUQUB'_KAQIX">Nuestras Siete Vergüenzas</rs>.</p> 
@@ -6240,6 +6252,7 @@
                     de Cielo</rs> que él cumplió esto. 
                     <pb xml:id="yua2021-069" /></p>
                 </div>
+                <!-- editor's note: corresponds to paragraph 13, folio 8r --> 
                 <div type="tsúuk" n="spa.tsk.05">
                     <head rend="center">LO QUE HIZO <rs ana="SIPAKNA">ZIPACNÁ</rs>, PRIMER HIJO
                     DE <rs ana="WUQUB'_KAQIX">NUESTRAS SIETE VERGÜENZAS</rs>.
@@ -6248,18 +6261,18 @@
                         arrastraban un palo, base para su rancho; cuatrocientos eran para arrastrarlo.</p> 
                     <p>Cortaron pues un palo grande para viga madre de su casa, en seguida se fue <rs ana="SIPAKNA">Zipacná</rs> y 
                         llegó hacia <rs ana="MOTZ">los cuatrocientos hijos</rs>.</p> 
-                    <p>-¿Qué están haciendo, ustedes, hijos?</p>
+                    <p>-¿Qué están haciendo, ustedes, <rs ana="MOTZ">hijos</rs>?</p>
                     <p>-Es un palo que no podemos levantar en hombros para llevarlo.</p> 
                     <p>-¿Y a dónde hay que llevarlo y para qué ha de servir según vosotros?</p> 
                     <p>-Es únicamente para viga madre de nuestra casa.</p> 
                     <p>-Está bien -dijo, lo arrastró él solo y se lo llevó en hombros hacia la orilla de la casa de 
                         <rs ana="MOTZ">los cuatrocientos hijos</rs>.</p> 
-                    <p>-¿Siquiera te quedarás con nosotros, hijo? ¿Tienes madre y padre?</p> 
+                    <p>-¿Siquiera te quedarás con nosotros, <rs ana="SIPAKNA">hijo</rs>? ¿Tienes madre y padre?</p> 
                     <p>-No tengo padres -dijo entonces <rs ana="SIPAKNA">Zipacná</rs>.</p>
                     <p>-Entonces no lo empujaremos todavía; mañana tenemos que preparar otro palo para 
                         horcón de nuestra casa. (El plazo que pidieron era para premeditar un plan).</p> 
                     <p>-Está bien -dijo entonces <rs ana="SIPAKNA">Zipacná</rs>. En seguida, discutieron <rs ana="MOTZ">los cuatrocientos hijos</rs>.</p> 
-                    <p>-¿Qué haremos a este muchacho para matarlo? Porque no es bueno lo que hace, él solo 
+                    <p>-¿Qué haremos a <rs ana="SIPAKNA">este muchacho</rs> para matarlo? Porque no es bueno lo que hace, él solo 
                         levantó el palo. Cavaremos un gran hoyo, y ahí lo haremos bajar: Baja al hoyo a traer tierra, 
                         le diremos. Entonces estará agachado en el hoyo y le dejaremos caer de gran palo encima y así 
                         morirá entre el hoyo -dijeron <rs ana="MOTZ">los cuatrocientos hijos</rs>.</p> 
@@ -6269,8 +6282,8 @@
                     <p>-Está bien -dijo, y bajó al hoyó.</p>
                     <p>-Llámarás del fondo cuando esté escarbada la tierra, no lo hagas profundo -le dijeron. 
                         -Bueno -contestó, y empezó a cavar el hoyo. Pero él estaba abriendo un hoyo para su 
-                        escondite, porque ya sabía que lo quedan matar; por eso abrió un hoyo distinto, lo hizo atrave- 
-                        sado, era pues un segundo hoyo que le sirvió para esconderse.</p> 
+                        escondite, porque ya sabía que lo quedan matar; por eso abrió un hoyo distinto, lo hizo atravesado, 
+                        era pues un segundo hoyo que le sirvió para esconderse.</p> 
                     <p>-¿Cuánto falta? -le dijeron <rs ana="MOTZ">los cuatrocientos hijos</rs>.</p>
                     <p>-Todavía estoy cavando, cuando los llame es porque ya está buena la cavada -dijo <rs ana="SIPAKNA">Zipacná</rs> 
                         desde el hoyo, pero no estaba escarbando el hoyo que serviría para su tumba; lo que cavaba 
@@ -6294,8 +6307,8 @@
                         nosotros, es decir, entre nosotros <rs ana="MOTZ">los cuatrocientos hijos</rs> -dijeron. Se pusieron contentos. -Hay 
                         que hacer nuestro agradable fermento de tres días (chicha), esto llevaremos como regalo de 
                         nuestra casa -dijeron <rs ana="MOTZ">los cuatrocientos hijos</rs>.</p> 
-                    <p>-Entonces, mañana veremos, o mejor pasado mañana, veremos cuando salgan las hor- 
-                        migas de la tierra, esto indicará que está hediondo y podrido, y entonces dispondremos llevar 
+                    <p>-Entonces, mañana veremos, o mejor pasado mañana, veremos cuando salgan <rs ana="SANIK">las hormigas</rs> 
+                        de la tierra, esto indicará que está hediondo y podrido, y entonces dispondremos llevar 
                         nuestra bebida de tres días -dijeron.</p> 
                     <p><rs ana="SIPAKNA">Zipacná</rs> estaba oyendo desde el hoyo lo que decían <rs ana="MOTZ">los hijos</rs>: que hasta pasado mañana 
                         sería mejor. Aparecieron <rs ana="SANIK">las hormigas</rs> en abundancia, caminaban, se revolvían y se montonaban 
@@ -6311,16 +6324,17 @@
                         su casa sobre ellos, todos fueron aplastados, ni uno, ni dos se salvaron de <rs ana="MOTZ">los cuatrocientos 
                         hijos</rs>; <rs ana="SIPAKNA">Zipacná</rs>, el hijo de <rs ana="WUQUB'_KAQIX">Nuestras Siete Vergüenzas</rs>, los mató. Así fue pues la muerte de <rs ana="MOTZ">los 
                         cuatrocientos hijos</rs>. Se dice que ellos se convirtieron en estrellas de <rs ana="MOTZ">"Las Pléyades"</rs>, es pues una 
-                        tradición. Ahora diremos el vencimiento de <rs ana="SIPAKNA">Zipacná</rs> por Un Hijo <rs ana="JUNAJPU">Un Cerbatanero</rs>, <rs ana="XB'ALAMQ'E">Xbalanké</rs>. 
+                        tradición. Ahora diremos el vencimiento de <rs ana="SIPAKNA">Zipacná</rs> por <rs ana="KA'IB_KAJOLAB'">Un Hijo</rs> <rs ana="JUNAJPU">Un Cerbatanero</rs>, <rs ana="XB'ALAMQ'E">Xbalanké</rs>. 
                     <pb xml:id="yua2021-073" /></p>  
                 </div>
+                <!-- editor's note: corresponds to paragraph 14, folio 9v --> 
                 <div type="tsúuk" n="spa.tsk.06">
                     <head rend="center">VENCIMIENTO Y MUERTE DE <rs ana="SIPAKNA">ZIPACNÁ</rs>. FUE VENCIDO PUES
                     POR UN HIJO, <rs ana="JUNAJPU">UN CERBATANERO</rs>; <rs ana="XB'ALAMQ'E">XBALANKÉ</rs></head>
                     <p><rs ana="KA'IB_K'AJOLAB">El hijo</rs> sintió mucho la muerte de <rs ana="MOTZ">los cuatrocientos hijos</rs> que mató <rs ana="SIPAKNA">Zipacná</rs>. El alimento 
                         de <rs ana="SIPAKNA">Zipacná</rs> era <rs ana="KAR">pescado</rs>, <rs ana="TAP">cangrejo</rs> que buscaba a la orilla de los ríos, era su alimento de todos los 
                         días. De día salía a pasear para buscar su alimento y de noche se subía a las montañas. Entonces 
-                        <rs ana="JUNAJPU">Un Cerbatanero</rs>, <rs ana="XB'ALAMQ'E">Xbalanké</rs> falsificó un gran <rs ana="TAP">cangrejo</rs>, le puso lo rojo del "pie de gallo", gran 
+                        <rs ana="JUNAJPU">Un Cerbatanero</rs>, <rs ana="XB'ALAMQ'E">Xbalanké</rs> falsificó un gran <rs ana="TAP">cangrejo</rs>, le puso lo rojo del <rs ana="MAK_EK'">"pie de gallo"</rs>, gran 
                         parásita que hay en los bosques, por eso se denominó "pito de <rs ana="TAP">cangrejo</rs>"; de "doblador" le hizo 
                         las extremidades; de piedra laja le hizo la concha, tenía apariencia ahuecada.</p> 
                     <p>Lo fue a meter debajo de una peña, de una gran: montaña llamada <rs ana="ME'AWAN">"Meawán"<sic><hi rend="sup">51</hi></sic></rs> donde fue 
@@ -6356,31 +6370,32 @@
                     <p>Al punto entró boca arriba, entró totalmente, ya sólo se le veía la rodilla y al fin desapareció. 
                         En este momento le dejó caer sobre el pecho la gran montaña, ya no se movía y se volvió 
                         piedra <rs ana="SIPAKNA">Zipacná</rs>.</p> 
-                    <p>Así fue vencido <rs ana="SIPAKNA">Zipacná</rs> por el hijo <rs ana="JUNAJPU">Un Cerbatanero</rs>, <rs ana="XB'ALAMQ'E">Xbalanké</rs>. <rs ana="SIPAKNA">El Formador de Montañas</rs>
-                        le decían antiguamente al primer hijo de <rs ana="WUQUB'_KAQIX">Nuestras Siete Vergüenzas</rs>.</p> 
-                    <p>Debajo de la montaña <rs ana="ME'AWAN">Meawán</rs> fue vencido, sólo el mito venció al segundo orgulloso. 
-                        Otro entonces vamos a referir.</p> 
-                    <p>Tercer orgulloso, el segundo hijo de <rs ana="WUQUB'_KAQIX">Nuestras Siete Vergüenzas</rs> se llamaba <rs ana="KAB'RAQAN">Dos Pies</rs>. -Yo 
+                    <p>Así fue vencido <rs ana="SIPAKNA">Zipacná</rs> por <rs ana="KA'IB_K'AJOLAB">el hijo</rs> <rs ana="JUNAJPU">Un Cerbatanero</rs>, <rs ana="XB'ALAMQ'E">Xbalanké</rs>. <rs ana="SIPAKNA">El Formador de Montañas</rs>
+                        le decían antiguamente al <rs ana="SIPAKNA">primer hijo</rs> de <rs ana="WUQUB'_KAQIX">Nuestras Siete Vergüenzas</rs>.</p> 
+                    <p>Debajo de la montaña <rs ana="ME'AWAN">Meawán</rs> fue vencido, sólo el mito venció al <rs ana="SIPAKNA">segundo orgulloso</rs>. 
+                        Otro entonces vamos a referir.</p>
+                    <!-- editor's note: corresponds to paragraph 15, folio 10v -->
+                    <p><rs ana="KAB'RAQAN">Tercer orgulloso</rs>, el <rs ana="KAB'RAQAN">segundo hijo</rs> de <rs ana="WUQUB'_KAQIX">Nuestras Siete Vergüenzas</rs> se llamaba <rs ana="KAB'RAQAN">Dos Pies</rs>. -Yo 
                         soy <rs ana="KAB'RAQAN">Derribador de Montañas</rs> -decía.</p> 
                     <p>Pero fue vencido <rs ana="KAB'RAQAN">Dos Pies</rs> por <rs ana="JUNAJPU">Un Cerbatanero</rs>, <rs ana="XB'ALAMQ'E">Xbalanké</rs>. Habló <rs ana="JUN_RAQAN">Un Pie</rs>, <rs ana="CH'IPI_KAQULJA">Último Rayo</rs>, 
                         <rs ana="RAXA_KAQULJA">Verdadero Rayo</rs> y le dijo a <rs ana="JUNAJPU">Un Cerbatanero</rs>, <rs ana="XB'ALAMQ'E">Xbalanké</rs>:</p> 
-                    <p>-Al segundo hijo de <rs ana="WUQUB'_KAQIX">Nuestras Siete Vergüenzas</rs>, hay que vencerlo, es mi decisión, porque 
+                    <p>-Al <rs ana="KAB'RAQAN">segundo hijo</rs> de <rs ana="WUQUB'_KAQIX">Nuestras Siete Vergüenzas</rs>, hay que vencerlo, es mi decisión, porque 
                         su oficio no es bueno sobre la tierra, se hacen fuertes criaturas, pero no fueron creados para eso. 
                         Llévalo de algún modo allá hacia el Oriente -dijo <rs ana="JUN_RAQAN">Un Pie</rs> al <rs ana="KA'IB_K'AJOLAB">hijo</rs>.</p> 
-                    <p>-Muy bien Señor, así lo haré, tampoco a mí me parece bueno lo que hacen, ¿acaso no 
+                    <p>-Muy bien <rs ana="JUN_RAQAN">Señor</rs>, así lo haré, tampoco a mí me parece bueno lo que hacen, ¿acaso no 
                         está usted?</p>
                     <p>-¿Acaso no está levantado? Usted es <rs ana="UK'U'X_KAJ">Espíritu del Cielo</rs> -dijo <rs ana="KA'IB_K'AJOLAB">el hijo</rs>, y acató la decisión 
                         de <rs ana="JUN_RAQAN">Un Pie</rs>. Pero estaba temblando, derribando montañas, sólo era un pequeño, pero estaba 
                         derribando grandes y pequeñas montañas. En eso lo encontró <rs ana="KA'IB_K'AJOLAB">el hijo</rs>.</p> 
-                    <p>-¿A dónde vas hijo? -le dijeron a <rs ana="KAB'RAQAN">Dos Pies</rs>.</p> 
+                    <p>-¿A dónde vas <rs ana="KAB'RAQAN">hijo</rs>? -le dijeron a <rs ana="KAB'RAQAN">Dos Pies</rs>.</p> 
                     <p>-No voy a ninguna parte, sólo estoy derribando montañas, yo las muevo de día y al amanecer 
                         -de una vez habló. Dijo entonces <rs ana="KAB'RAQAN">Dos Pies</rs> a <rs ana="JUNAJPU">Un Cerbatanero</rs>, <rs ana="XB'ALAMQ'E">Xbalanké</rs>:</p> 
                     <p>-¿Cuándo viniste? No te conozco, ¿cómo te llamas? -dijo <rs ana="KAB'RAQAN">Dos Pies</rs>.</p> 
-                    <p>-No tengo nombre, sólo soy un muchacho, más bien pongo trampas en las montañas, 
-                        soy pobre, no poseo nada, hijo. Sólo voy a las montañas pequeñas, a las grandes montañas. Vi 
+                    <p>-No tengo nombre, sólo soy <rs ana="KA'IB_K'AJOLAB">un muchacho</rs>, más bien pongo trampas en las montañas, 
+                        soy pobre, no poseo nada, <rs ana="KAB'RAQAN">hijo</rs>. Sólo voy a las montañas pequeñas, a las grandes montañas. Vi 
                         una gran montaña que crecía, de veras no era muy alta, pero se levanta y crece sobre las demás 
-                        montañas por eso no pude cazar ahí ni uno ni dos pájaros, hijo. Y, ¿es cierto que derribas toda 
-                        montaña, hijo? -dijo <rs ana="JUNAJPU">Un Cerbatanero</rs>, <rs ana="XB'ALAMQ'E">Xbalanké</rs> a <rs ana="KAB'RAQAN">Dos Pies</rs>.</p> 
+                        montañas por eso no pude cazar ahí ni uno ni dos <rs ana="TZ'IKIN">pájaros</rs>, <rs ana="KAB'RAQAN">hijo</rs>. Y, ¿es cierto que derribas toda 
+                        montaña, <rs ana="KAB'RAQAN">hijo</rs>? -dijo <rs ana="JUNAJPU">Un Cerbatanero</rs>, <rs ana="XB'ALAMQ'E">Xbalanké</rs> a <rs ana="KAB'RAQAN">Dos Pies</rs>.</p> 
                     <p>-¿Es cierto que viste la montaña que dices? ¿En dónde está? Iré a verla y la derribaré. 
                         ¿Dónde la viste?</p> 
                     <p>-Allá está hacia el Oriente -dijo <rs ana="JUNAJPU">Un Cerbatanero</rs>, <rs ana="XB'ALAMQ'E">Xbalanké</rs>.</p> 
@@ -6395,13 +6410,13 @@
                     <pb xml:id="yua2021-077" /></p>
                     <p>-Éste es el que le daré para que se ahogue cuando sienta el olor de nuestro <rs ana="TZ'IKIN">pájaro</rs>, que 
                         decaiga. La tierra que le unté será su perdición y aimismo en la tierra lo enterraré. ¡Gran Sabio! 
-                        ¡Una Construcción! ¡Una Formación, habla, ilumina! -dijo <rs ana="KA'IB_K'AJOLAB">el hijo</rs>.</p> 
+                        <rs ana="TZ'AQOL">¡Una Construcción!</rs> ¡<rs ana="B'ITOL">Una Formación</rs>, habla, ilumina! -dijo <rs ana="KA'IB_K'AJOLAB">el hijo</rs>.</p> 
                     <p>-Porque sólo se mantiene antojando, su preocupación es comer y masticar. Es lo que 
                         desea <rs ana="KAB'RAQAN">Dos Pies</rs>, -se dijo entre sí <rs ana="JUNAJPU">Un Cerbatanero</rs>, <rs ana="XB'ALAMQ'E">Xbalanké</rs>. Al punto asaron <rs ana="TZ'IKIN">el pájaro</rs>. Se asó, 
                         estaba bien dorado, brillaba y chorreaba de manteca el cuerpo del <rs ana="TZ'IKIN">pájaro</rs>, trascendía el agradable 
                         olor.</p> 
                     <p><rs ana="KAB'RAQAN">Dos Pies</rs> ya quería comérselo, se le hacía agua la boca y se mantenía deglutiendo, se le 
-                        escurría la saliva, mejor dicho la baba, por el olor agradable del pájaro. Suplicó entonces:</p> 
+                        escurría la saliva, mejor dicho la baba, por el olor agradable del <rs ana="TZ'IKIN">pájaro</rs>. Suplicó entonces:</p> 
                     <p>-¿Cuál es mi comida? De veras siento el olor, siquiera me darás un pedacito -dijo entonces. 
                         De una vez le dio <rs ana="TZ'IKIN">el pájaro</rs> entero a <rs ana="KAB'RAQAN">Dos Pies</rs>, eso era para vencerlo. Y luego se acabó <rs ana="TZ'IKIN">el 
                         pájaro</rs>, continuaron su camino hacia el Oriente donde estaba la gran montaña.</p> 
@@ -6414,13 +6429,14 @@
                         sobre la tierra.
                     <pb xml:id="yua2021-079" /></p>
                 </div>
+                <!-- editor's note: corresponds to paragraph 16 in Spanish [not indicated in K'iche'], folio 12r -->
                 <div type="tsúuk" n="spa.tsk.07">
                     <head rend="center">AHORA DIREMOS EL NACIMIENTO DE <rs ana="JUNAJPU">UN CERBATANERO</rs>,
                     <rs ana="XB'ALANQ'E">XBALANKÉ</rs></head>
                     <p>Primero referimos la derrota de <rs ana="WUQUB'_KAQIX">Nuestras Siete Vergüenzas</rs>, de <rs ana="SIPAKNA">Zipacná</rs> y de <rs ana="KAB'RAQAN">Dos Pies</rs> aquí 
                         Contaremos áhora los nombres de los padres de <rs ana="JUNAJPU">Un Cerbatanero</rs>, <rs ana="XB'ALAMQ'E">Xbalanké</rs>,' es muy 
                         oscuro, muy vago relatar el nacimiento de <rs ana="JUNAJPU">Un Cerbatanero</rs>, <rs ana="XB'ALAMQ'E">Xbalanké</rs>, sólo una parte diremos, 
-                        sólo un pedazo contaremos de la historia de sus padres.</p>
+                        sólo un pedazo contaremos de la historia de <rs ana="JUN_JUNAJPU">sus padres</rs>.</p>
                     <p>Esto que decimos por primera vez, son los nombres de <rs ana="JUN_JUNAJPU">"Cada Cerbatanero"</rs> les decían; 
                         los padres eran pues <rs ana="XPIYAKOK">Xpiyakok</rs>, <rs ana="IXMUCANE">Xmukané</rs>, por ellos fue engendrado de noche <rs ana="JUN_JUNAJPU">Cada Cerbatanero</rs>, 
                         <rs ana="WUQUB'_JUNAJPU">Siete Un Cerbatanero</rs>.</p> 
@@ -6431,20 +6447,20 @@
                     <p>Enseñaron la sabiduría a <rs ana="JUN_B'ATZ">Un Mono</rs> hijo de <rs ana="JUN_JUNAJPU">Cada Cerbatanero</rs>, <rs ana="WUQUB'_JUNAJPU">Siete Un Cérbatanero</rs>, 
                         músicos, oradores, cerbataneros, escritores, plateros, grabadores, escultores. <rs ana="JUN_JUNAJPU">Cada Cerbatanero</rs>, 
                         <rs ana="WUQUB'_JUNAJPU">Siete Un Cerbatanero</rs> se mantenía todos los días tirando flechas, jugando a <rs ana="CHAAJ">la pelota</rs>, competían 
-                        de dos en dos, eran cuatro por todos cuando se juntaban en el patio de juego.</p> 
-                    <p>Vino entonces <rs ana="K'OTAL">el Águila</rs> a verlo, era el mensajero de <rs ana="JUN_RAQAN">Un Pie</rs>, <rs ana="CH'IPI_KAQULJA">Último Rayo</rs>, <rs ana="RAXA_KALQULJA">Verdadero 
-                        Rayo</rs>. <rs ana="K'OTAL">El Águila</rs> no estaba lejos de la tierra, tampoco estaba lejos del <rs ana="XIB'ALB'A">Inframundo</rs>. Desde aquí 
+                        de dos en dos, eran cuatro por todos cuando se juntaban en <rs ana="JOM">el patio de juego</rs>.</p> 
+                    <p>Vino entonces <rs ana="WOK">el Águila</rs> a verlo, era el mensajero de <rs ana="JUN_RAQAN">Un Pie</rs>, <rs ana="CH'IPI_KAQULJA">Último Rayo</rs>, <rs ana="RAXA_KALQULJA">Verdadero 
+                        Rayo</rs>. <rs ana="WOK">El Águila</rs> no estaba lejos de la tierra, tampoco estaba lejos del <rs ana="XIB'ALB'A">Inframundo</rs>. Desde aquí 
                         llegó al cielo donde estaba <rs ana="JUN_RAQAN">Un Pie</rs>. Brilló <rs ana="JUN_JUNAJPU">Cada Cerbatanero</rs>, <rs ana="WUQUB'_JUNAJPU">Siete Un Cerbatanero</rs> sobre la 
                         tierra. Ya había muerto la madre de <rs ana="JUN_B'ATZ">Un Mono</rs>, <rs ana="IXB'AQIYALO">Xbakiyaló</rs>. Resulta que en el camino hacia <rs ana="XIB'ALB'A">el 
                         Inframundo</rs> estaba jugando <rs ana="JUN_JUNAJPU">Cada Cerbatanero</rs>, <rs ana="WUQUB'_JUNAJPU">Siete Un Cerbatanero</rs> y lo escucharon por <rs ana="JUN_KAME'">Una 
                         Muerte</rs>, <rs ana="WUQUB'_KAME'">Siete Muertes</rs>, <rs ana="RAJAWAL_XIB'ALB'A">señores del lnframundo</rs>.</p> 
                     <p>-¿Qué es lo que se oye sobre la tierra? Parece que corren brincando, zumbando. Que 
-                        vayan a llamarlos, que vengan aquí a jugar, y les ganaremos. Es que no respetan, no tienen a 
+                        vayan a llamarlos, que vengan aquí <rs ana="CHAAJ">a jugar</rs>, y les ganaremos. Es que no respetan, no tienen a 
                         quien respetar, mejor dicho, no tienen sosiego.</p> 
                     <p>-Que vayan a jalarlos de ahí arriba, -dijeron todos <rs ana="RAJAWAL_XIB'ALB'A">los del Inframundo</rs>. Se pusieron a 
                         pensar todos, <rs ana="JUN_KAME'">Una Muerte</rs>, <rs ana="WUQUB'_KAME'">Siete Muertes</rs>, grandes investigadores. 
                     <pb xml:id="yua2021-081" /></p>
-                    <p>Y todos <rs ana="RAJAWAL_XIB'ALB'A">los señores</rs> tenían cada quien su autoridad,dadas por <rs ana="JUN_KAME'">Una Muerte</rs>, <rs ana="WUQUB'_KAME'">Siete Muertes</rs>. 
+                    <p>Y todos <rs ana="RAJAWAL_XIB'ALB'A">los señores</rs> tenían cada quien su autoridad, dadas por <rs ana="JUN_KAME'">Una Muerte</rs>, <rs ana="WUQUB'_KAME'">Siete Muertes</rs>. 
                         <rs ana="XIKIRIPAT">Xikiripat</rs>, <rs ana="KUCHUMA_KIK'">Sangre Carcomida</rs>; su ofico era enfermar la sangre; <rs ana="AJAL_PUJ">Ajalpuj Ajal On</rs> era la autoridad 
                         de la hinchazón que supura pus en los pies y brota aguadija hedionda, es pues la autoridad del 
                         pus y de la aguadija; había <rs ana="CH'AMIYA_B'AQ">el Señor Bastón de Hueso</rs> y <rs ana="CH'AMIYA_JOLOM">Bastón de Calavera</rs>, eran los alguaciles 
@@ -6466,22 +6482,23 @@
                         los remedios de <rs ana="JUN_JUNAJPU">Cada Cerbatanero</rs>, <rs ana="WUQUB'_JUNAJPU">Siete Un Cerbatenero</rs>.
                     <pb xml:id="yua2021-083" /></p>
                 </div>
+                <!-- editor's note: corresponds to paragraph 18, folio 13r -->
                 <div type="tsúuk" n="spa.tsk.08">
                     <head rend="center">DIREMOS AHORA LOS NOMBRES
                     DE <rs ana="RAJAWAL_XIB'ALB'A">LOS SEÑORES DEL INFRAMUNDO</rs></head>
-                    <p>Dejaremos a <rs ana="JUN_B'ATZ">Un Mono</rs> hijo de <rs ana="JUN_JUNAJPU">Cada Cerbatanero</rs>; ya había muerto la madre. Es otro 
+                    <p>Dejaremos a <rs ana="JUN_B'ATZ">Un Mono</rs> hijo de <rs ana="JUN_JUNAJPU">Cada Cerbatanero</rs>; ya había muerto <rs ana="IXB'AQIYALO">la madre</rs>. Es otro 
                         asunto el vencimiento de <rs ana="JUN_B'ATZ">Un Mono</rs>, por <rs ana="JUNAJPU">Un Cerbatanero</rs>, <rs ana="XB'ALAMQ'E">Xbalanké</rs>:</p>
                     <p>Vinieron entonces <rs ana="USAMAJEL_XIB'ALB'A">los mensajeros</rs> de <rs ana="JUN_KAME'">Una Muerte</rs>, <rs ana="WUQUB'_KAME'">Sieté Muertes</rs>.</p>
                     <p>-Vayan ustedes hombres entendidos del tiempo, vayan a llamar a <rs ana="JUN_JUNAJPU">Cada Cerbatanero</rs>, 
                        <rs ana="WUQUB'_JUNAJPU"> Siete Un Cerbatanero</rs> y le dirán: "dicen que vaya usted con <rs ana="RAJAWAL_XIB'ALB'A">los señores del Inframundo</rs>, que 
                         venga usted dicen <rs ana="RAJAWAL_XIB'ALB'A">los señores</rs>, que venga a competir aquí con nosotros para que nos divierta; 
                         de verdad aquí lo elogiaremos, así es que venga -dicen <rs ana="RAJAWAL_XIB'ALB'A">los señores</rs> -que traiga su inquietud, 
-                        sus <rs ana="B'ATE">lanzas</rs>, sus <rs ana="PACHQ'AB">guantes</rs>, que traiga, mejor dicho, su <rs ana="CHAAJ">pelota</rs> dicen los señores, así le dirán cuando 
+                        sus <rs ana="B'ATE">lanzas</rs>, sus <rs ana="PACHQ'AB">guantes</rs>, que traiga, mejor dicho, su <rs ana="CHAAJ">pelota</rs> dicen <rs ana="RAJAWAL_XIB'ALB'A">los señores</rs>, así le dirán cuando 
                         lleguen" -les dijeron a <rs ana="USAMAJEL_XIB'ALB'A">los mensajeros</rs>.</p> 
                     <p>Eran <rs ana="TUKUR">tecolotes</rs> <rs ana="USMAJEL_XIB'ALB'A">los mensajeros</rs>: <rs ana="CH'AB'I_TUKUR">Tecolote Flecha</rs>, <rs ana="JUNRAQAN_TUKUR">Tecolote Un Pie</rs>, <rs ana="KAQIX_TUKUR">Tecolote Rojo</rs> y <rs ana="JOLOM_TUKUR">Cabeza 
                         de Tecolote</rs> se llamaban <rs ana="USAMAJEL_XIB'ALB'A">los mensajeros</rs>, cuyo cargo era ser <rs ana="RAJPOP">hombres del tiempo (Pop)</rs>.</p> 
-                    <p>Vinieron pues desde la puerta del <rs ana="XIB'ALB'A">Inframundo</rs> y derecho se posaron sobre el patio del 
-                        juego. Estaba jugando <rs ana="JUN_JUNAJPU">Cada Cerbatanero</rs>, <rs ana="WUQUB'_JUNAJPU">Siete Un Cerbatanero</rs> en <rs ana="JOM">la cancha</rs>, <rs ana="JOM">la gran cancha</rs> 
+                    <p>Vinieron pues desde la puerta del <rs ana="XIB'ALB'A">Inframundo</rs> y derecho se posaron sobre <rs ana="JOM">el patio del 
+                        juego</rs>. Estaba <rs ana="CHAAJ">jugando</rs> <rs ana="JUN_JUNAJPU">Cada Cerbatanero</rs>, <rs ana="WUQUB'_JUNAJPU">Siete Un Cerbatanero</rs> en <rs ana="JOM">la cancha</rs>, <rs ana="NIM_XOB'_KARCHAJ">la gran cancha</rs> 
                         de práctica le decían. Estaban parados <rs ana="TUKUR">los tecolotes</rs> sobre el techo del juego, entonces dieron el 
                         mensaje, era relato de <rs ana="JUN_KAME'">Una Muerte</rs>, <rs ana="WUQUB'_KAME'">Siete Muertes</rs>, <rs ana="AJAL_PUS">Señor del Pus</rs>, <rs ana="AJAL_Q'ANA">Señor de la Aguadija</rs>; <rs ana="CH'AMIYA_B'AQ">Bastón 
                         de Hueso</rs>, <rs ana="CH'AMIYA_JOLOM">Bastón de Calavera</rs> <rs ana="XIKIRIPAT">Xikiripat</rs>, <rs ana="KUCHUMA_KIK'">Sangre Carcomida</rs>, <rs ana="AJAL_MES">El de la Basura</rs>, <rs ana="AJAL_TOQ'OB">El Puyador</rs>, <rs ana="XIK">El 
@@ -6490,31 +6507,32 @@
                     <p>-¿Acaso no es cierto que así dice el Señor <rs ana="JUN_KAME'">Una Muerte</rs>, <rs ana="WUQUB'_KAME">Siete Muertes</rs>? -dijeron los <rs ana="TUKUR">tecalotes</rs>.</p> 
                     <p>-Puede ser cierto -contestó -tengo que ir y los acompañaré.</p> 
                     <p>-Dicen <rs ana="RAJAWAL_XIB'ALB'A">los señores</rs> que traiga todos sus juguetes, -dijeron los <rs ana="TUKUR">tecolotes</rs>.</p>
-                    <p>-Está bien, espérenme. Tengo que despedirme de mi madre, de mi señora-contestó, y se 
+                    <p>-Está bien, espérenme. Tengo que despedirme de <rs ana="IXMUKANE">mi madre</rs>, de <rs ana="IXMUKANE">mi señora</rs>-contestó, y se 
                         fue a su casa y dijo:</p> 
-                    <p>-Tengo que irme madre, es que han venido <rs ana="USAMAJEL_XIB'ALB'A">mensajeros</rs> de <rs ana="RAJAWAL_XIB'ALB'A">los señores del Inframundo</rs> 
+                    <p>-Tengo que irme <rs ana="IXMUKANE">madre</rs>, es que han venido <rs ana="USAMAJEL_XIB'ALB'A">mensajeros</rs> de <rs ana="RAJAWAL_XIB'ALB'A">los señores del Inframundo</rs> 
                         para llevarme: "que venga" dicen que dijeron. Así dicen <rs ana="USAMAJEL_XIB'ALB'A">los mensajeros</rs> quienes han de llevarme. 
                         Dejo mi <rs ana="CHAAJ">pelota</rs> -dijo, y la fue a amarrar sobre la casa entre un hoyo. 
                         <pb xml:id="yua2021-085" /></p>
-                    <p>-Después te divertirás con ella, tocarás flauta hacia acá, hablarás hacia acá, escribirás, te 
-                        mostrarás hacia acá, consolarás nuestro hogar, es decir, consolarás el espíritu de tu abuela, -le 
+                    <p>-Después te divertirás con ella, tocarás <rs ana="SU'">flauta</rs> hacia acá, hablarás hacia acá, escribirás, te 
+                        mostrarás hacia acá, consolarás nuestro hogar, es decir, consolarás el espíritu de <rs ana="IXB'AQIYALO">tu abuela</rs>, -le 
                         dijo, de una vez lo aconsejó y lloraba amargamente la madre <rs ana="IXMUKANE">Xmukané</rs>.</p> 
                     <p>-Me voy, no moriré, no estés triste- dijo; y se fue <rs ana="JUN_JUNAJPU">Cada Cerbatanero</rs>, <rs ana="WUQUB'_JUNAJPU">Siete Un Cerbatanero</rs>.</p>
+                    <!-- editor's note: corresponds to paragraph 19, folio 14r -->
                     <p>Se fue pues <rs ana="JUN_JUNAJPU">Cada Certbatanero</rs>, <rs ana="WUQUB'_JUNAJPU">Siete Un Cerbatanero</rs> y lo guiaron <rs ana="USAMAJEL_XIB'ALB'A">los mensajeros</rs>. Bajó al 
                         camino del <rs ana="XIB'ALB'A">Inframundo</rs>, la puerta de la muralla estaba hacia abajo; bajó pues y llegó a la orilla 
                         de un río cuyos nombres eran: <rs ana="NU'_SIWAN">Barranco Montañoso</rs>, <rs ana="K'ULKU_SIWAN">Barranco del Cerro</rs>, <rs ana="EWAB'AL_SIWAN">Barranco Secreto</rs>, y 
                         lo pasó. Pasó otro río donde había guijarros; había infinidad de guijarros donde pasó pero 
                         no se lastimoó.</p> 
-                    <p>Llegó a otro río, río de sangre se llamaba; y no se lo llevó el río; llegó a otro río, sólo era 
+                    <p>Llegó a otro río, <rs ana="KIK'_YA'">río de sangre</rs> se llamaba; y no se lo llevó el río; llegó a otro río, sólo era 
                         río, no pudieron engañarlo y lo pasó. Luego llegó a cuatro caminos y aquí fue donde lo engañaron, 
                         en cuatro caminos: <rs ana="Q'EQA_B'E">un camino negro</rs>, <rs ana="KAQA_B'E">un camino rojo</rs>, <rs ana="SAQI_B'E">un camino blanco</rs> y <rs ana="Q'ANA_B'E">un camino 
                         amarillo</rs>, eran cuatro caminos. Habló <rs ana="Q'EQA_B'E">el camino negro</rs>:</p> 
-                    <p>-Sígueme a mí, soy <rs ana="Q'EQA_B'E">el camino de los señores</rs> -dijo <rs ana="Q'EQA_B'E">el caminó</rs>.</p>
-                    <p>Aquí es donde fue engañado por <rs ana="RAJAWAL_XIB'ALB'A">los del Inframundo</rs> porque tomó el camino dél mundo 
-                        de abajo, y así llegó a los tronos de <rs ana="RAJAWAL_XIB'ALB'A">los señores del Inframundo</rs>, aquí lo engañaron otra vez:</p>
+                    <p>-Sígueme a mí, soy <rs ana="Q'EQA_B'E">el camino de los señores</rs> -dijo <rs ana="Q'EQA_B'E">el camino</rs>.</p>
+                    <p>Aquí es donde fue engañado por <rs ana="RAJAWAL_XIB'ALB'A">los del Inframundo</rs> porque tomó el camino <rs ana="XIB'ALB'A">del mundo 
+                        de abajo</rs>, y así llegó a los tronos de <rs ana="RAJAWAL_XIB'ALB'A">los señores del Inframundo</rs>, aquí lo engañaron otra vez:</p>
                     <p>El primero que estaba sentado no era gente, sino estatua de madera labrada que estaba 
                         bien arreglada por <rs ana="RAJAWAL_XIB'ALB'A">los del Inframundo</rs>. A éste fue al primero que saludó.</p> 
-                    <p>-¡Salud <rs ana="JUN_KAME'">Una Muerte</rs>! -le dijo al-espantajo.</p>
+                    <p>-¡Salud <rs ana="JUN_KAME'">Una Muerte</rs>! -le dijo al espantajo.</p>
                     <p>-¡Salud <rs ana="WUQUB'_KAME'">Siete Muertes</rs>! -dijo otra vez al otro espantajo, pero no contestaban los espantajos.</p> 
                     <p>Entonces estallaron en risa escondida <rs ana="RAJAWAL_XIB'ALB'A">los señores del Inframundo</rs>, ya sólo se reían a carcajadas 
                         todos los señores porque creyeron haberlo vencido. Ganaron a <rs ana="JUN_JUNAJPU">Cada Cerbatanero</rs>, <rs ana="WUQUB'_JUNAJPU">Siete 
@@ -6528,7 +6546,8 @@
                         el calambre de risa según ellos; se destornillaban, se los movían los huesos de la risa a todos <rs ana="RAJAWAL_XIB'ALB'A">los
                         señores del Inframundo</rs>.</p> 
                     <p>-Ve a casa de aposento y te llevarás ocote y puros al dormitorio -le dijeron.</p>
-                    <p>Llegó a una casa oscura, sólo había oscuridad dentro de la casa. Entonces meditaron <rs ana="RAJAWAL_XIB'ALB'A">los 
+                    <!-- editor's note: corresponds to paragraph 19.1, Spanish, folio 14v; paragraph not indicated in K'iche' -->
+                    <p>Llegó a una <rs ana="Q'EQUMA_JA">casa oscura</rs>, sólo había oscuridad dentro de la casa. Entonces meditaron <rs ana="RAJAWAL_XIB'ALB'A">los 
                         del Inframundo</rs>: -mañana lo partiremos y luego luego morirá a causa de sus juguetes, que ya 
                         son nuestros instrumentos -se decían entre ellos <rs ana="RAJAWAL_XIB'ALB'A">los del Inframundo</rs>. El ocote era chaye redondo 
                         que se llama cuarzo blanco, era el ocote del <rs ana="XIB'ALB'A">Inframundo</rs> y hacían ruido los huesos cuando pasaban.
@@ -6545,41 +6564,44 @@
                     <p>Grandes eran los castigos del <rs ana="XIB'ALB'A">Inframundo</rs> que prepararon para hacerlo sufrir. Primero 
                         fue <rs ana="Q'EUMA_JA">la casa oscura</rs>, donde había sólo oscuridad adentro. La segunda fue llamada <rs ana="XUXULIM_JA">casa de hielo</rs>, 
                         mucho hielo había adentro, relumbraba de puro hielo, ahí entró. La tercera casa era <rs ana="B'ALAM_JA">la casa de 
-                        leones</rs>, le decían, porque había sólo <rs ana="KOJ">leones</rs> adentro; se retorcían, se confundían, se iban de un 
+                        leones</rs>, le decían, porque había sólo <rs ana="B'ALAM">leones</rs> adentro; se retorcían, se confundían, se iban de un 
                         lado a otro, se mordían encerrados dentro de la casa. <rs ana="SOTZ'I_JA">Casa de murciélagos</rs> era el nombre de la 
                         cuarta tortura, sólo murciélagos había adentro; gritaban, chillaban, volaban encerrados dentro 
                         de la casa, no tenían salida. La quinta era <rs ana="CHAYIM_JA">la casa de chayes</rs>, donde sólo había obsidianas filosas 
                         adentro; cortantes obsidianas que vibraban, se chocaban entre sí.</p> 
+                    <!-- editor's note: corresponds to paragraph 19.2, Spanish, folio 14v. Paragraph not indicated in K'iche' -->
                     <p>En la primera prueba del <rs ana="XIB'ALB'A">Inframundo</rs> no entró <rs ana="JUN_JUNAJPU">Cada Cerbatanero</rs>, <rs ana="WUQUB'_JUNAJPU">Siete Un Cerbatanero</rs>, 
-                        es únicamente para anticipar el relato de la Casa de Tortura.</p> 
+                        es únicamente para anticipar el relato de <rs ana="TIJOB'AL_JA">la Casa de Tortura</rs>.</p> 
                     <p>Llegó en seguida <rs ana="JUN_JUNAJPU">Cada Cerbatanero</rs>, <rs ana="WUQUB'_JUNAJPU">Siete Un Cerbatanero</rs> ante <rs ana="JUN_KAME'">Una Muerte</rs>, <rs ana="WUQUB'_KAME'">Siete Muertes</rs>.</p>
                     <p>-¿Dónde está mi puro, dónde asimismo está mi ocote que te fueron a dejar anoche? - le 
                         dijeron entonces.</p> 
-                    <p>-Los acabé, Señor -contestó.</p> 
+                    <p>-Los acabé, <rs ana="JUN_KAME'_WUQUB'_KAME'">Señor</rs> -contestó.</p> 
                     <p>-Está bien, hoy se acabaron tus días, morirás y desaparecerás, es decir, te destazaré, aquí 
                         los apropiaremos de tu cuerpo, serás partido -dijo <rs ana="JUN_KAME'">Una Muerte</rs>, <rs ana="WUQUB'_KAME'">Siete Muertes</rs>.</p> 
-                    <p>Lo partieron y lo fueron a enterrar donde parten pino, "Partidera de Pino" era el nombre 
+                    <p>Lo partieron y lo fueron a enterrar donde parten pino, <rs ana="PUSB'AL_CHAAJ">"Partidera de Pino"</rs> era el nombre 
                         del lugar donde lo enterraron; le cortaron la cabeza a <rs ana="JUN_JUNAJPU">Cada Cerbatanero</rs>, <rs ana="WUQUB'_KAME'">Siete Un Cerbatanero</rs>.</p> 
                     <p>-Vayan a dejar la cabeza entre las ramas de un árbol que está sembrado en el camino -dijo 
                         <rs ana="JUN_KAME'">Una Muerte</rs>, <rs ana="WUQUB'_KAME'">Siete Muertes</rs>, y fueron a dejar la cabeza entre las ramas.</p> 
                     <p>Desde entonces fructificó el árbol, no tenía nada de fruto antes de colocar la cabeza de 
-                        <rs ana="JUN_JUNAJPU">Cada Cerbatanero</rs>, <rs ana="WUQUB'_JUNAJPU">Siete Un Cerbatanero</rs> entre las ramas, es el árbol que le llamamos "guacal" 
+                        <rs ana="JUN_JUNAJPU">Cada Cerbatanero</rs>, <rs ana="WUQUB'_JUNAJPU">Siete Un Cerbatanero</rs> entre las ramas, es <rs ana="TZIMA">el árbol que le llamamos "guacal"</rs> 
                         hoy día, antes le decían "Cabeza de <rs ana="JUN_JUNAJPU">Cada Cerbatanero</rs>". <rs ana="JUN_KAME'">Una Muerte</rs>, <rs ana="WUQUB'_KAME'">Siete Muertes</rs> admiró el 
                         fruto del árbol, redondos y grandes eran, no se distinguía la cabeza de <rs ana="JUN_JUNAJPU">Cada Cerbatanero</rs>, era 
-                        igual que los frutos del guacal. Así lo vieron todos <rs ana="RAJAWAL_XIB'ALB'A">los del Inframundo</rs> cuando fueron a enterarse, 
+                        igual que <rs ana="TZIMA">los frutos del guacal</rs>. Así lo vieron todos <rs ana="RAJAWAL_XIB'ALB'A">los del Inframundo</rs> cuando fueron a enterarse, 
                         fue grande la existencia del árbol para ellos, y se les grabó en el corazón para siempre. 
                         <pb xml:id="yua2021-089" /></p>
                     <p>-Era porque se puso la cabeza de <rs ana="JUN_JUNAJPU">Cada Cerbatanero</rs> entre las ramas -se dijeron entre ellos 
                         <rs ana="RAJAWAL_XIB'ALB'A">los del Inframundo</rs></p> 
                     <p>-Que nadie toque los frutos, que tampoco entre alguien debajo del árbol -dijeron y se 
                         detuvieron mutuamente, se atajaron todos <rs ana="RAJAWAL_XIB'ALB'A">los del Inframundo</rs>. Ya no se distinguía la cabeza 
-                        de <rs ana="JUN_JUNAJPU">Cada Cerbatanero</rs>, ya era lo mismo que los frutos del guacal cuyo nombre se perpetuó; es 
+                        de <rs ana="JUN_JUNAJPU">Cada Cerbatanero</rs>, ya era lo mismo que <rs ana="TZIMA">los frutos del guacal</rs> cuyo nombre se perpetuó; es 
                         extenso el relato. Esto lo supo <rs ana="IXKIK'">una doncella</rs> y lo diremos en seguida.
                         <pb xml:id="yua2021-091" /></p>
                 </div>
+                <!-- editor's note: corresponds to paragraph 20, folio 15v -->
                 <div type="tsúuk" n="spa.tsk.09">
                     <head rend="center">
                         <rs ana="IXKIK'">LA DONCELLA</rs> HIJA DE <rs ana="KUCHUMA_KIK'">KUCHUMAKIK</rs></head>
+                <!-- editor's note: corresponds to paragraph 21, folio 15v -->
                     <p><rs ana="IXKIK'">Una doncella</rs> llamada <rs ana="IXKIK'">Xkik</rs>, hija de un Señor llamado <rs ana="KUCHUMA_KIK'">Kuchumakik</rs>, supo la noticia de los 
                         frutos del árbol cuando lo contó su padre, se impresionó mucho cuando se lo contaron.</p>
                         <p>-Iré a ver el árbol que dicen, si es cierto que ya tiene el fruto que oigo -dijo, se fue sola y 
@@ -6813,7 +6835,7 @@
                         grandes montes que se iban labrando.</p> 
                     <p>Aleccionó entonces a un animal llamado torcaza, la puso sobre un gran tronco, dijo entonces 
                         <rs ana="JUNAJPU">Un Cerbatanero</rs>, <rs ana="XB'ALAMQ'E">Xbalanké</rs>:</p> 
-                    <p>-Sólo miras a <rs ana="IXMUKANE">mi abuela</rs> cuando venga a dejar mi almuerzo, entonces empiezas a cantar 
+                    <p>-Sólo miras a <rs ana="IXMUKANE">mi abuela</rs> cuando venga a dejar mi almuerzo,  entonces empiezas a cantar 
                         cuando se asome, entonces tomó el sembrador y <rs ana="KAJ">el hacha</rs>.</p> 
                     <p>-Está bien -dijo la torcaza.</p>
                     <p>Era una treta, porque en verdad no estaba cultivando <rs ana="B'IX">milpa</rs>. De repente cantó la torcaza, 
@@ -7447,110 +7469,110 @@
                 <div type="tsúuk" n="spa.tsk.12">
                     <head rend="center">ÉSTE ES EL PRINCIPIO DE LA CREACION DE LA GENTE,
                     CUANDO SE BUSCÓ LA NATURALEZA DE SU CUERPO</head>
-                    <p>Dijeron entonces <rs ana="ALOM">El Creado</rs>, <rs ana="K'AJOLOM">El Varón Creado</rs>, <rs ana="TZ'AQOL">El Arquitecto</rs>, <rs ana="B'ITOL">El Formador</rs>, <rs ana="TEPEW_Q'UKUMATZ">El Infinito, 
-                        El Oculta Serpiente</rs>:</p> 
-                    <p>-Ya llegó el amanecer, que se haga bien la construcción, que se revele el buscador de la 
+                    <p>Dijeron entonces El Creado, El Varón Creado, El Arquitecto, El  Formador, El Infinito, 
+                        El Oculta Serpiente:</p> 
+                    <p>-Ya llegó el  amanecer, que se haga bien la construcción, que se revele el buscador de la 
                         existencia, la descendencia pura, los verdaderos hijos, que se levante la gente, habitantes de la 
                         superficie de la Tierra -dijeron.</p> 
-                    <p>Muy animados vinieron, pensaron en la oscuridad, durante la noche fue cuando buscaron, 
-                        palparon, mejor dicho, pensaron, meditaron aquí, como resultado salió la idea, verdadera 
-                        creación hallaron. Maduraron lo  que había que emplear para el cuerpo de la gente. Aclaró en 
-                        seguida, pero no alumbraban el Sol, la Luna y las estrellas sobre <rs ana="TZ'AQOL">El Arquitecto</rs>, <rs ana="B'ITOL">El Formador</rs>.</p> 
-                    <p>De <rs ana="PAXIL">Pan Pashil</rs>, <rs ana="K'AYALA'">Pan Kayalá</rs> vino <rs ana="JAL">la mazorca</rs> amarilla y blanca.</p>
-                    <p>Éstos son los nombres de los animales que trajeron el alimento: <rs ana="YAK">gato de monte</rs>, <rs ana="UTIW">coyote</rs>, 
-                        <rs ana="SAQIKAS">culebra</rs> y <rs ana="JOJ">cuervo</rs>. Cuatro fueron los animales que dieron la noticia de <rs ana="JAL">las mazorcas</rs> amarillas y 
-                        blancas a ellos, de allá de <rs ana="PAXIL">Pan Pashil</rs> vino y enseñaron el camino de <rs ana="PAXIL">Pan Pashil</rs>. Así fue como 
+                    <p>Muy animados vinieron, pensaron en la oscuridad, durante la noche fue  cuando busca- 
+                        ron, palparon, mejor dicho, pensaron, meditaron aquí, como resultado salió la idea, verdadera 
+                        creación hallaron.  Maduraron lo  que había que emplear para el  cuerpo de la gente. Aclaró en 
+                        seguida, pero no alumbraban el Sol, la Luna y las estrellas sobre El Arquitecto, El Formador.</p> 
+                    <p>De Pan Pashil, Pan Kayalá vino la mazorca amarilla y blanca.</p>
+                    <p>Éstos son los nombres de los animales que trajeron el alimento: gato de monte, coyote, 
+                        culebra y cuervo. Cuatro fueron los animales que dieron la noticia de las  mazorcas amarillas y 
+                        blancas a ellos, de allá de Pan Pashil vino y enseñaron el camino de Pan Pashil. Así fue como 
                         hallaron el alimento y fue lo que emplearon para el cuerpo de la gente construida, de la gente 
-                        formada. La sangre fue líquida, la sangre de la gente, <rs ana="IXIM">maíz</rs> empleó <rs ana="ALOM">El Creado</rs>, <rs ana="K'AJOLOM">El Varón Creado</rs>.</p> 
+                        formada. La sangre fue líquida, la sangre de la gente, maíz empleó El Creado, El Varón Creado.</p> 
                     <p>Se pusieron contentos porque hallaron muy buena montaña llena de buen alimento, rica 
-                        en <rs ana="IXIM">maíz</rs> amarillo y blanco; rica en <rs ana="PEQ">pataxté</rs>, <rs ana="KAKAW">cacao</rs>; había abundancia de <rs ana="TULUL">zapote</rs>, <rs ana="K'AWEX">anona</rs>, <rs ana="Q'INOM">ciruela</rs>, 
-                        <rs ana="TAPA'L">nance</rs>, <rs ana="AJACHE'">matazano</rs>, <rs ana="KAB'">miel</rs>. Estaba llena de muchos alimentos la tierra que se llama <rs ana="PAXIL">Pan Pashil</rs>, <rs ana="K'AYALA'">Pan 
-                        Cayalá</rs>, donde había alimento, producía todo alimento pequeño y gran alimento, pequeño 
-                        cultivo, gran cultivo, cuyo camino lo enseñaron los animales. Se molieron pues las <rs ana="JAL">mazorcas</rs> 
-                        amarillas y blancas, <rs ana="IXMUKANE">Xmukané</rs> hizo nueve pasadas.</p> 
+                        en maíz amarillo y blanco; rica en pataxté, cacao; había abundancia de zapote, anona, ciruela, 
+                        nance, matazano, miel. Estaba llena de muchos alimentos la tierra que se llama Pan Pashil, Pan 
+                        Cayalá, donde había alimento, producía todo alimento pequeño y gran alimento, pequeño 
+                        cultivo, gran cultivo, cuyo camino lo enseñaron los animales. Se molieron pues las mazorcas 
+                        amarillas y blancas, Xmukané hizo nueve pasadas.</p> 
                     <p>Se empleó alimento con agua virgen para el esqueleto y músculos de la gente cuando lo 
-                        dispusieron <rs ana="ALOM">El Creado</rs>, <rs ana="K'AJOLOM">El Varón Creado</rs>, <rs ana="TEPEW_Q'UKUMATZ">El Infinito, El Oculta Serpiente</rs>, como les decían. 
+                        dispusieron El Creado, El Varón Creado, El Infinito, El Oculta Serpiente, como les decían. 
                         Luego tomaron en cuenta la construcción y formación de nuestra primera madre y padre, era 
-                        de <rs ana="IXIM">maíz</rs> amarillo y blanco el cuerpo, de alimento eran las piernas y brazos de la gente, de nuestros
-                        primeros padres. Eran cuatro gentes construidas, de sólo alimento eran sus cuerpos.</p> 
-                    <p>Éstos son los nombres de las primeras gentes que se construyeron y se formaron, el primer 
-                        hombre fue <rs ana="B'ALAM_K'ITZE'">Risa de León</rs>, el segundo fue <rs ana="B'ALAM_AQ'AB'">León Madrugador</rs>, el tercero <rs ana="MAJUK'UTAJ">Maj U Kutaj</rs> y el 
-                        cuarto fue <rs ana="IQ'I B'ALAM">León de la Luna</rs>. Éstos son los nombres de nuestros primeros padres y madres.
+                        de maíz amarillo y blanco el cuerpo, de alimento eran las piernas y brazos de la gente, de nues- 
+                        tros primeros padres. Eran cuatro gentes construidas, de sólo alimento eran sus cuerpos.</p> 
+                    <p>Éstos son los nombres de las primeras gentes que se construyeron y se formaron, el pri- 
+                        mer hombre fue Risa de León, el segundo fue León Madrugador, el tercero Maj U Kutaj y el 
+                        cuarto fue León de la Luna. Éstos son los nombres de nuestros primeros padres y madres.
                         <pb xml:id="yua2021-151" /></p>
-                    <p>Sólo les decían El Construido, El Formado; no tenían madre ni padre; sólo a ellos mencionamos, 
-                        porque no nacieron de mujer sino que fueron creados por <rs ana="TZ'AQOL">El Arquitecto</rs>, <rs ana="B'ITOL">El Formador</rs>, 
-                        <rs ana="ALOM">El Creado</rs>, <rs ana="K'AJOLOM">El Varón Creado</rs>. Sólo por milagro, por mito fue la construcción y formación 
-                        por <rs ana="TZ'AQOL">El Arquitecto</rs>, <rs ana="B'ITOL">El Formador</rs>, <rs ana="ALOM">El Creado</rs>, <rs ana="K'AJOLOM">El Varón Creado</rs>, <rs ana="TEPEW_Q'UKUMATZ">El Infinito, El Oculta Serpiente</rs>. 
-                        Se reprodujeron como gentes, se hicieron gentes, hablaron, platicaron, miraron, oyeron, caminaron, 
-                        tocaron; eran muy buenas gentes; de rostros escogidos, sus semejantes, tenían respiración; 
-                        miraron, mejor dicho, lejos llegó su visión, mucho miraron, mucho supieron, todo lo que 
+                    <p>Sólo les decían El Construido, El Formado; no tenían madre ni padre; sólo a ellos men- 
+                        cionamos, porque no nacieron de mujer sino que fueron creados por El Arquitecto, El Forma- 
+                        dor, El Creado, El Varón Creado. Sólo por milagro, por mito fue la construcción y formación 
+                        por El Arquitecto, El Formador, El Creado, El Varón Creado, El Infinito, El Oculta Serpiente. 
+                        Se reprodujeron como gentes, se hicieron gentes, hablaron, platicaron, miraron, oyeron, cami- 
+                        naron, tocaron; eran muy buenas gentes; de rostros escogidos, sus semejantes, tenían respira- 
+                        ción; miraron, mejor dicho, lejos llegó su visión, mucho miraron, mucho supieron, todo lo que 
                         está debajo del cielo. Si miraban, al momento observaban, examinaban lo del cielo y de la tierra, 
                         no había obstáculo para mirar todo, no tenían que caminar primero cuando querían ver lo de 
                         abajo del cielo, sólo se estaban en el mismo lugar cuando miraban.</p> 
-                    <p>Mucha fue la sabiduría que tenían, su mirada atravesaba los árboles, piedras, lagos, mares, 
-                        montañas, costas. En verdad eran gentes sagradas <rs ana="B'ALAM_K'ITZE">Risa de León</rs>, <rs ana="B'ALAM_AQ'AB'">León Madrugador</rs>, <rs ana="MAJUK'UTAJ">Maj U 
-                        Kutaj</rs>, <rs ana="IQ'I_B'ALAM">León de la Luna</rs>.</p> 
-                    <p>En seguida fueron interrogados por <rs ana="TZ'AQOL">El Arquitecto</rs>, <rs ana="B'ITOL">El Formador</rs>:</p> 
-                    <p>-¿Cómo sienten su existencia? ¿Pueden mirar? ¿Oír? ¿Es buena su habla, su caminata? 
+                    <p>Mucha fue la sabiduría que tenían, su mirada atravesaba los  árboles, piedras, lagos, ma- 
+                        res, montañas, costas. En verdad eran gentes sagradas Risa de León, León Madrugador, Maj U 
+                        Kutaj, León de la Luna.</p> 
+                    <p>En seguida fueron interrogados por El Arquitecto, El Formador:</p> 
+                    <p>-¿Cómo sienten su  existencia? ¿Pueden  mirar? ¿Oír? ¿Es buena su habla, su caminata? 
                         Miren ahora, vean qué está abajo del cielo ¿Se ven las montañas y costas? Hagan esfuerzos -les 
                         dijeron.</p> 
-                    <p>Luego, terminaron de ver todo lo que está debajo del cielo. Dieron las gracias al <rs ana="TZ'AQOL">Arquitecto</rs>, 
-                        al <rs ana="B'ITOL">Formador</rs>:</p> 
+                    <p>Luego, terminaron de ver todo lo que está debajo del cielo. Dieron las gracias al Arqui- 
+                        tecto, al Formador:</p> 
                     <p>-En verdad que dos veces gracias, tres veces gracias por habernos hecho gentes, nos 
                         establecimos, nos reprodujimos, hablamos, oímos, meditamos, nos  movemos, nos sentimos, 
                         supimos lo lejos, lo cerca. ¿Acaso no vimos lo grande y pequeño del cielo y la tierra? Muchas 
                         gracias pues a vosotros, nos hicimos gentes, somos construidos, formados nos originamos, tú, 
-                        nuestra <rs ana="IXMUKANE">abuela</rs>, tú, nuestro <rs ana="XPIYAKOK">abuelo</rs> -dijeron.</p> 
-                    <p>De una vez agradecieron su construcción, su formación; terminaron de saber todo: cúspide 
-                        del cielo, lados del cielo<ref target="spa.n023"><hi rend="sup">23</hi></ref>
+                        nuestra abuela, tú, nuestro abuelo -dijeron.</p> 
+                    <p>De una vez agradecieron su construcción, su formación; terminaron de saber todo: cús- 
+                        pide del cielo, lados del cielo<ref target="spa.n023"><hi rend="sup">23</hi></ref>
                         <note place="foot" xml:id="spa.n023"><seg type="note-symbol"><hi rend="sup">23</hi></seg> 
                             Vuelven a mencionar dos elementos de la pirámide imaginaria del Universo. 
                         </note>, el interior del cielo y de la tierra. Pero no le pareció bien al 
-                        <rs ana="TZ'AQOL">Arquitecto</rs>, al <rs ana="B'ITOL">Formador</rs>.</p> 
+                        Arquitecto, al Formador.</p> 
                     <p>-No está bueno lo que dijeron nuestros construidos, nuestros formados, porque supieron 
                         todo, grande y pequeño -dijeron.</p> 
-                    <p>De manera que volvieron a pensar, <rs ana="ALOM">El Creado</rs>, <rs ana="K'AJOLOM">El Varón Creado</rs>:</p> 
+                    <p>De manera que volvieron a pensar, El Creado, El Varón Creado:</p> 
                     <p>-¿Qué les haremos ahora para que miren solamente cerca, para que miren poca superficie 
                         de la tierra? Porque no está bueno lo que dicen. ¿Acaso no son sólo construidos, formados sus 
                         nombres? ¿Han de existir primero como dioses? ¿Peor si no se multiplican, no aumentan cuan 
                         do se hable, cuando amanezca? ¿Y si no hay modo para que se reproduzcan definitivamente? 
                         Sólo los descomponemos para que sean pocos sus deseos. Porque no está bueno, así lo sentimos. 
                         ¿Acaso van a igualar sus hechos con nosotros, de que llegue lejos su sabiduría y que todo lo 
-                        miren? -se dijeron <rs ana="UK'U'X_KAJ">El Espíritu del Cielo</rs>, <rs ana="JUN_RAQAN">Un Pie</rs>, <rs ana="CH'IPI_KAQULJA">Último Rayo</rs>, <rs ana="RAXA_KALQULJA">Verdadero Rayo</rs>, <rs ana="TEPEW_Q'UKUMATZ">El Infinito, El 
-                        Oculta Serpiente</rs>, <rs ana="ALOM">El Creado</rs>, <rs ana="K'AJOLOM">El Varón Creado</rs>, <rs ana="XPIYAKOK">Xpiyakok</rs>, <rs ana="IXMUKANE">Xmukané</rs>, <rs ana="TZ'AQOL">El Arquitecto</rs>, <rs ana="B'ITOL">El Formador</rs>, 
-                        les decían. <pb xml:id="yua2021-153" /></p>
-                    <p>Trataron de enmendar sus construcciones y formaciones, para lo cual <rs ana="UK'U'X_KAJ">el Espíritu del Cielo</rs> 
-                        solamente les empañó el globo de los ojos, quedaron algo ciegos, como si se hubiese echado 
+                        miren? -se dijeron El Espíritu del Cielo, Un Pie, Último Rayo, Verdadero Rayo, El Infinito, El 
+                        Oculta Serpiente, El Creado, El Varón Creado, Xpiyakok, Xmukané, El Arquitecto, El Forma- 
+                        dor, les decían. <pb xml:id="yua2021-153" /></p>
+                    <p>Trataron de enmendar sus construcciones y formaciones, para lo cual el Espíritu del Cie- 
+                        lo solamente les empañó el globo de los ojos, quedaron algo ciegos, como si se hubiese echado 
                         vaho sobre la luna de un espejo; cegó el globo de los ojos, ya sólo de cerca miraron, ya sólo veían 
                         donde estaban.</p> 
                     <p>Así fue como les perdieron la sabiduría con to~a maestría a los cuatro primeros hombres, 
-                        y así fue la construcción y formación de nuestros primeros abuelos, primeros padres, por <rs ana="UK'U'X_KAJ">El 
-                        Espíritu del Cielo</rs>, <rs ana="UK'U'X_ULEW">El Espíritu de la Tierra</rs>.</p> 
-                    <p>En seguida nacieron sus compañeras, es decir, se originaron sus mujeres. Sólo Dos Miradas 
-                        lo ideó, fue como en un sueño cuando las tomaron. En verdad que eran bellas mujeres las 
-                        que amanecieron con <rs ana="B'ALAM_K'ITZE">Risa de León</rs>, <rs ana="B'ALAM_AQ'AB'">León Madrugador</rs>, <rs ana="MAJUK'UTAJ">Ma U Kutaj</rs>, <rs ana="IQ'I_B'ALAM">León de la Luna</rs>. Ya tenían 
+                        y así fue la construcción y formación de nuestros primeros abuelos, primeros padres, por El 
+                        Espíritu del Cielo, El Espíritu de la Tierra.</p> 
+                    <p>En seguida nacieron sus compañeras, es decir, se originaron sus mujeres. Sólo Dos Mira- 
+                        das lo ideó, fue  como en un sueño cuando las tomaron. En verdad que eran bellas mujeres las 
+                        que amanecieron con Risa de León, León Madrugador, Ma U Kutaj, León de la Luna. Ya tenían 
                         mujer cuando despertaron. Rápido se pusieron felices sus corazones a causa de sus compañeras. 
-                        Éstos son los nombres de sus mujeres: <rs ana="KAQA_PALO_JA'">Kajá Paluná</rs> la mujer de <rs ana="B'ALAM_K'ITZE">Risa de León</rs>, <rs ana="CHOMI_JA'">Chomijá</rs>, 
-                        la de <rs ana="B'ALAM_AQ'AB'">León Madrugador</rs>, Casa de Gorrión la mujer de <rs ana="MAJUK'UTAJ">Maj U Kutaj</rs> y <rs ana="KAK'IXA_JA'">Kikixajá</rs>, la de <rs ana="IQ'I_B'ALAM">León de 
-                        la Luna</rs>. Éstos son los nombres de <rs ana="IXOQ_AJAWAB'">las señoras</rs> que aparecieron, fueron procreadoras de gente, 
-                        pequeños nobles, grandes nobles. Eran pues nuestros primeros ancestros <rs ana="TINAMIT_K'ICHE'">los k'ichés</rs>.</p> 
+                        Éstos son los nombres de sus mujeres: Kajá Paluná la mujer de Risa de León, Chomijá, 
+                        la de León Madrugador, Casa de  Gorrión la mujer de Maj U Kutaj y Kikixajá, la de León de 
+                        la Luna. Éstos son los nombres de las señoras que aparecieron, fueron procreadoras de gente, 
+                        pequeños nobles, grandes nobles. Eran pues nuestros primeros ancestros los k'ichés.</p> 
                     <p>Muchísimos fueron los dignos, los del cielo. Ya no eran sólo cuatro, es que eran cuatro las 
-                        mujeres de <rs ana="TINAMIT_K'ICHE'">la gente k'iché</rs>, ya tenían diferentes nombres cada uno cuando procrearon allá en el 
-                        Oriente. Bastantes nombres resultaron de la gente <rs ana="TEPEW_OLOMAN">Tepeu, Olomán</rs><hi rend="sup"><sic>93</sic></hi>, <rs ana="KOJAJ">Kojaj</rs> y <rs ana="K'ENECH_AJAW">Kenek. Ajau</rs>, era 
+                        mujeres de la gente k'iché, ya tenían diferentes nombres cada uno cuando procrearon allá en el 
+                        Oriente. Bastantes nombres resultaron de la gente Tepeu, Olomán<hi rend="sup"><sic>93</sic></hi>, Kojaj y Kenek. Ajau, era 
                         el nombre de esta gente allá en el Oriente donde se multiplicaron, de aquí que se sabe el origen 
-                        de <rs ana="TAMUB'">los Tamub</rs>, de <rs ana="ILOKAB">los Ilokab</rs>.</p> 
-                    <p>De un mismo lugar salieron de allá del Oriente: <rs ana="B'ALAM_K'ITZE">Risa de León</rs>, abuelo del padre de las 
-                        nueve grandes casas en línea de <rs ana="KAWEQ">Kawikib</rs>;  <rs ana="B'ALAM_AQ'AB'">León Madrugador</rs>, abuelo del padre de las nueve 
-                        grandes casas en línea de <rs ana="KAJIB'_UNIM_JA">Nimjaibab</rs>; <rs ana="MAJUK'UTAJ">Maj U Kutaj</rs>, abuelo del padre de las cuatro grandes en 
-                        línea de <rs ana="AJAW_K'ICHE'">Ajaw K'iche'</rs>.</p> 
+                        de los Tamub, de los Ilokab.</p> 
+                    <p>De un mismo lugar salieron de allá del Oriente: Risa de León, abuelo del padre de las 
+                        nueve grandes casas en línea de Kawikib; León Madrugador, abuelo del padre de las nueve 
+                        grandes casas en línea de Nimjaibab; Maj U Kutaj, abuelo del padre de las cuatro grandes en 
+                        línea de Ajaw K'iche'.</p> 
                     <p>Tres familias de pueblos existieron, no se ha olvidado el nombre del abuelo del padre de 
-                        los Kirol allá en el Oriente. También de allá vinieron <rs ana="TAMUB'">los Tamub</rs>, y <rs ana="ILOKAB">los Ilokab</rs> con nuestras trece 
-                        tribus, trece palacios: 1) <rs ana="RAB'INALEB'">Rabinales</rs>, 2) <rs ana="KAQCHIKELEB'">Kakchikeles</rs>, 3) <rs ana="AJTZ'IKINA_JA">Los de la Casa de Pájaros</rs>, 4) <rs ana="SAQAJIB'">Los de Casa 
-                        Blanca</rs>, 5) <rs ana="LAMAKIB'">Los Lamakib</rs>, 6) <rs ana="KUMATZ_AMAQ'">Los Oculta Serpiente</rs>, 7) <rs ana="TUJAL_JA">Los de la Casa de Temascal</rs>, 8) <rs ana="UCH'AB'AJA">Los de la 
-                        Casa de Flechas</rs>, 9) <rs ana="AJCH'UMILA_JA">Los de la Casa de Estrellas</rs>, 10) <rs ana="AJKIB'A_JA">Aj Kib Ja</rs>, 11) <rs ana="AJBA'_TENA_JA">Los de la Casa de Lanzas</rs>, 12) 
-                        <rs ana="AKUL_WINAQ">Los de la Casa de León <rs ana="KANCHAIJELEB">Canchajeleb</rs></rs>, 13) <rs ana="B'ALAM_KOLOB'">Los de Lazo de León</rs>.</p> 
-                    <p>Éstas eran las cabezas de nuestras tribus que les decimos, solamente relatamos las principales, 
-                        porque fueron muchas las que se originaron de cada grupo de pueblos, no pudimos 
+                        los Kirol allá en el Oriente. También de allá vinieron los Tamub, y los Ilokab con nuestras trece 
+                        tribus, trece palacios: 1) Rabinales, 2) Kakchikeles, 3) Los de la Casa de Pájaros, 4) Los de Casa 
+                        Blanca, 5) Los Lamakib, 6) Los Oculta Serpiente, 7) Los de la Casa de Temascal, 8) Los de la 
+                        Casa de Flechas, 9) Los de la Casa de Estrellas, 10) Aj Kib Ja, 11) Los de la Casa de Lanzas, 12) 
+                        Los de la Casa de León Canchajeleb, 13) Los de Lazo de León.</p> 
+                    <p>Éstas eran las cabezas de nuestras tribus que les decimos, solamente relatamos las prin-
+                        cipales, porque fueron muchas las que se originaron de cada grupo de pueblos, no pudimos 
                         escribir<ref target="spa.n024"><hi rend="sup">24</hi></ref>
                         <note place="foot" xml:id="spa.n024"><seg type="note-symbol"><hi rend="sup">24</hi></seg>
                             Es otro argumento para afirmar que tenían escritura propia. 
