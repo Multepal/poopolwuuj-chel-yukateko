@@ -3567,7 +3567,7 @@
                         ts'o'okole' kin wa'alik tech -tu ya'alaj bin <rs ana="WAK">le kóoto'</rs>.</p>
                     <p>-Ma'alob túun wa beyo' -tu núukaj bin ti'.</p> 
                     <p>Ka bin tu jáan jóok'saj jump'íit u yiits <rs ana="KIK'">le pook'o'</rs>, ka tu pak'aj tu yich <rs ana="WAK">le kóoto'</rs>. Bey túun 
-                        káajik u ts'áabal u k'aaba'o': &lt;u yiits ch'óopil&gt;. Úuchik bin u jáan p'o'ik u yiche' ka bin ka' 
+                        káajik u ts'áabal u k'aaba'o': &lt;<rs ana="LOTZ_KIK'">u yiits ch'óopil</rs>&gt;. Úuchik bin u jáan p'o'ik u yiche' ka bin ka' 
                         jsáasilchaj u paakat u ti'al tuláakal u kuxtal.</p> 
                     <p>-Much a'al túun -tu ya'alaj bin ti' <rs ana="WAK">le kóoto'</rs>. Ka bin tu téek xéejaj juntúul <rs ana="SAQIKAS">nuxi' kaan</rs>.</p> 
                     <p>-T'aannen túun -tu ya'alaj bin xan ti' <rs ana="SAQIKAS">le kaano'</rs>.</p> 
@@ -3584,7 +3584,7 @@
                         chi' <rs ana="TAMASUL">le muucho'</rs>, u ti'al ka u yil wa láayli' tak'a'an <rs ana="UK'">le uk'</rs> te' tu káap u koojo'; ka wilike' chéen bin 
                         jtáak' tu chi', ma' bin tu luk'aji', le beetik chéen kunej u p'isikubáaj u xéejej. Bey túun úuchik u 
                         ts'its' óolta'al <rs ana="TAMASUL">le muucho'</rs>. Ma' bin ojéela'an ba'ax o'ochil jts'áab ti'i', mix bin xan u t'aan jjóok'ij. 
-                        Jp'áat chéen bey u yíits'intsilil <rs ana="SAQIKAS">le kaano'</rs>.</p> 
+                        Jp'áat chéen bey u yíits'intsilil <rs ana="KUMATZ">le kaano'</rs>.</p> 
                     <p>-T'aannen túun -tu ya'alaj bin ti' <rs ana="UK'">le uk'o'</rs>. Ka bin tu ya'alaj xan le k'ubeno': 
                         <pb xml:id="yua2021-124" /></p>
                     <p>-Tu ya'alaj <rs ana="IXMUKANE">a ki'ichpan chiichen</rs>; péenen a t'anej, tumen ts'o'ok u taal <rs ana="USAMAJEL_XIB'ALB'A">u ajbisajt'aanil 
@@ -3914,7 +3914,7 @@
                     <p>-Ba'axten ma' tin wilaji' -tu ya'alaj bin. Ku ts'o'okole' ka bin jkáaj u ka' báaxalo'ob; láayli' 
                         bin keet u muk'ulmuuk'o'obe'.</p> 
                     <p><rs ana="XB'ALAMQ'E">Xbáalankej</rs> túune', tu téek jéemp'uchtaj <rs ana="Q'OQ">le k'úumo'</rs>, ka bin jlúub jajawa'anil te' <rs ana="JOM">tu'ux ku 
-                        báaxalo'obo'</rs>. Jxíike', ka bin j-ila'ab u juul le sak neek' láaj jjáay te' tu táano'obo'.</p> 
+                        báaxalo'obo'</rs>. Jxíike', ka bin j-ila'ab u juul <rs ana="SAKIN">le sak neek'</rs> láaj jjáay te' tu táano'obo'.</p> 
                     <p>-Máaxo'ob kun u molej. Tu'ux túun yaan le ajmolba'alo'obo' -tu ya'alaj bin <rs ana="RAJAWAL_XIB'ALB'A">le 
                         Metnáalilo'obo'</rs>. Bey túun úuchik u ts'its' óolta'al <rs ana="RAJAWAL_XIB'ALB'A">le Metnáalilo'ob</rs> tumen <rs ana="JUNAJPU">Jun Ajpúub</rs>, <rs ana="XB'ALAMQ'E">Xbáa- 
                         lankejo'</rs>. Ya'ab bin yaayaj óolal jbeeta'ab u muk'yajtiko'ob, ba'ale' kex beyo' ma' jkíimo'obi'. 
@@ -6919,8 +6919,8 @@
                     <p>-¿Qué le está pasando, <rs ana="IXMUKANE">abuela</rs> mía?  Estoy sediento, me quejo de sed -le dijo a <rs ana="IXMUKANE">la madre</rs>. 
                         La mandó otra vez. En esto <rs ana="CH'O">la rata</rs> royó la colgadura de <rs ana="CHAAJ">la pelota</rs> y cayó por el hoyo del tapanco, 
                         juntamente con <rs ana="B'ATE">la lanza</rs>, <rs ana="PACHQ'AB'">los guantes</rs> y el escudo de <rs ana="TZ'UM">cuero</rs>.</p> 
-                    <p>Luego los tomó y los fue a esconder por el camino que iba al patio del juego. Después se 
-                        fue a donde <rs ana="IXMUKANE">la abuela</rs>, hacia el río. Estaba <rs ana="IXMUKANE">la abuela</rs>, la madre tratando de tapar el orificio de la 
+                    <p>Luego los tomó y los fue a esconder por el camino que iba <rs ana="JOM">al patio del juego</rs>. Después se 
+                        fue a donde <rs ana="IXMUKANE">la abuela</rs>, hacia el río. Estaba <rs ana="IXMUKANE">la abuela</rs>, <rs ana="IXMUKANE">la madre</rs> tratando de tapar el orificio de la 
                         tinaja. Llegó con su <rs ana="WUB">cerbatana</rs> cuando llegó al río.</p>
                     <p>-¿Qué le pasó? Me aburrí, por eso vine -dijo.</p> 
                     <p>-Mira mi tinaja, no se tapa el orificio -dijo <rs ana="IXMUKANE">la abuela</rs>.</p>
@@ -6929,61 +6929,60 @@
                     <!-- editor's note: corresponds to paragraph 29, folio 22r -->
                     <p>Se puso feliz y se fue a ensayar <rs ana="JOM">al patio de juego</rs>, no tardó en practicar solo. Barrió <rs ana="JOM">el patio 
                         de juego</rs> de <rs ana="JUN_JUNAJPU">su padre</rs>, lo oyeron <rs ana="RAJAWAL_XIB'ALB'A">los señores del Inframundo</rs>.</p> 
-                    <p>-¿Quiénes otros serán los que empiezan a jugar sobre nosotros? ¿No tienen vergüenza? 
+                    <p>-¿Quiénes otros serán los que empiezan a <rs ana="CHAAJ">jugar</rs> sobre nosotros? ¿No tienen vergüenza? 
                         ¿Están haciendo bulla? ¿Acaso no se murió <rs ana="JUN_JUNAJPU">Cada Cerbatanero</rs>, <rs ana="WUQUB'_JUNAJPU">Siete Un Cerbatanero</rs> que se 
                         envanecía delante de nosotros? Que los vayan a llamar -dijeron <rs ana="JUN_KAME'">Una Muerte</rs>, <rs ana="WUQUB'_KAME'">Siete Muertes</rs>, 
                         todos <rs ana="RAJAWAL_XIB'ALB'A">los señores</rs>.</p> 
-                    <p>-Vete a llamarlos -le dijeron al mandadero, -cuando llegues les dirás: que vengan dicen 
+                    <p>-Vete a llamarlos -le dijeron <rs ana="USAMAJEL_XIB'ALB'A">al mandadero</rs>, -cuando llegues les dirás: que vengan dicen 
                         <rs ana="RAJAWAL_XIB'ALB'A">los señores</rs>, aquí queremos competir con ellos. Entre ocho días jugaremos, dicen <rs ana="RAJAWAL_XIB'ALB'A">los señores</rs>; 
                         dirás cuando llegues -le dijeron al mandadero.</p> 
                     <p>Vino pues por un gran camino del <rs ana="KA'IB_K'AJOLAB'">hijo</rs> que va a la casa. Fue el que tomó <rs ana="USAMAJEL_XIB'ALB'A">el mensajero</rs> y 
                         llegó con <rs ana="IXMUKANE">la abuela</rs>; estaba comiendo cuando llegó <rs ana="USAMAJEL_XIB'ALB'A">el mensajero del Inframundo</rs>.</p> 
                     <p>-En verdad, que vengan, dicen <rs ana="RAJAWAL_XIB'ALB'A">los señores</rs> -dijo <rs ana="USAMAJEL_XIB'ALB'A">el mensajero del Inframundo</rs>. De una 
                         vez dejó fijado el día <rs ana="USAMAJEL_XIB'ALB'A">el mensajero del Inframundo</rs>:</p> 
-                    <p>-Entre siete días lo esperan -dejó dicho a Xmukané.</p>
+                    <p>-Entre siete días lo esperan -dejó dicho a <rs ana="IXMUKANE">Xmukané</rs>.</p>
                     <p>-Está bien, lo irán a llamar, <rs ana="USAMAJEL_XIB'ALB'A">mensajero</rs> -dijo <rs ana="IXMUKANE">la abuela</rs>. Se regresó <rs ana="USAMAJEL_XIB'ALB'A">el mensajero</rs>. Se preocupó 
                         entonces <rs ana="IXMUKANE">la abuela</rs>.</p> 
                     <p>-¿Quién fuera a llamar a <rs ana="KA'IB_K'AJOLAB'">mi nieto</rs> al juego? ¿Dónde no iba a ser cierto lo del <rs ana="XIB'ALB'A">Inframundo</rs>? 
                         Así fue la venida de <rs ana="USAMAJEL_XIB'ALB'A">los mensajeros</rs> antiguamente, cuando fue a morir <rs ana="JUN_JUNAJPU">su padre</rs> -se dijo <rs ana="IXMUKANE">la abuela</rs> 
-                        cuando entró a la casa, sola. De repente le cayó un piojo en la coronilla, lo tomó de lo alto y se 
+                        cuando entró a la casa, sola. De repente le cayó <rs ana="UK'">un piojo</rs> en la coronilla, lo tomó de lo alto y se 
                         lo puso en la mano, empezó a caminar ligero <rs ana="UK'">el piojo</rs>.</p> 
-                    <p>-¿Quisieras ayudarme, a que fueras a llamar a <rs ana="KA'IB_K'AJOLAB'">mi nieto</rs> que está en el patio de juego? -le 
+                    <p>-¿Quisieras ayudarme, a que fueras a llamar a <rs ana="KA'IB_K'AJOLAB'">mi nieto</rs> que está en <rs ana="JOM">el patio de juego</rs>? -le 
                         dijo al <rs ana="UK'">piojo</rs> cuando desapareció <rs ana="USAMAJEL_XIB'ALB'A">el mensajero</rs>.</p> 
                     <p>-Vino el mandadero con tu <rs ana="IXMUKANE">abuela</rs>, le dirás cuando llegues, entre siete días deberás de 
-                        llegar dijo el mandadero del <rs ana="XIB'ALB'A">Inframundo</rs>, dice tu <rs ana="IXMUKANE">abuela</rs>, le dirás -le dijo al <rs ana="UK'">piojo</rs>.</p> 
-                    <p>Luego se fue caminando ligero <rs ana="UK'">el piojo</rs>. Estaba sentado un hijo en el camino, <rs ana="TAMASUL">Tamasul</rs><hi rend="sup">72</hi> 
+                        llegar dijo <rs ana="USAMAJEL_XIB'ALB'A">el mandadero del Inframundo</rs>, dice tu <rs ana="IXMUKANE">abuela</rs>, le dirás -le dijo al <rs ana="UK'">piojo</rs>.</p> 
+                    <p>Luego se fue caminando ligero <rs ana="UK'">el piojo</rs>. Estaba sentado un hijo en el camino, <rs ana="TAMASUL">Tamasul</rs><hi rend="sup">72</hi>[sic] 
                         se llamaba <rs ana="TAMASUL">el sapo</rs>.</p>
                     <p>-¿A dónde vas? -dijo <rs ana="TAMASUL">el sapo</rs> al <rs ana="UK'">piojo</rs>.</p> 
                     <p>-Llevo un mandado en mi vientre, voy a donde <rs ana="KA'IB_K'AJOLAB'">el hijo</rs> -dijo <rs ana="UK'">el piojo</rs> a <rs ana="TAMASUL">Tamasul</rs>.</p> 
                     <p>-Está bien, pero no veo que te apures -dijo <rs ana="TAMASUL">el sapo</rs> al <rs ana="UK'">piojo</rs>. ¿Quieres que te trague? Ya 
                         verás que soy ligero y llegaremos rápido.</p>
                     <p>
-                    <sic>no hay nota al pie en el texto original</sic>
-                    <!-- not sure how to encode the wrong footnotes in the line above -->
                     <pb xml:id="yua2021-123"/></p>
                     <p>-Está bien -dijo <rs ana="UK'">el piojo</rs> al <rs ana="TAMASUL">sapo</rs>. Y en eso se lo lamió <rs ana="TAMASUL">el sapo</rs>, se fue lejos <rs ana="TAMASUL">el sapo</rs>, pero no 
-                        era rápido. De repente encontraron una gran <rs ana="SAQIKAS">culebra</rs> llamada <rs ana="SAQIKAS">Sakikás</rs><hi rend="sup">73</hi>.</p>
+                        era rápido. De repente encontraron una gran <rs ana="SAQIKAS">culebra</rs> llamada <rs ana="SAQIKAS">Sakikás</rs><hi rend="sup">40</hi>.</p>
                     <p>-¿A dónde vas, <rs ana="TAMASUL">Tamasul</rs> hijo? -dijo <rs ana="SAQIKAS">Sakikás</rs> a <rs ana="TAMASUL">Tamasul</rs>.</p>
                     <p>-Soy mandadero, llevo el mandado en mi vientre -dijo <rs ana="TAMASUL">el sapo</rs> a <rs ana="SAQIKAS">la culebra</rs>.</p> 
                     <p>-Pero no miro que te apures, si fuera yo llegaría luego luego -dijo. Y al punto se tragó 
                         <rs ana="SAQIKAS">Sakikás</rs> al <rs ana="TAMASUL">sapo</rs>. Desde entonces se tomó al <rs ana="TAMASUL">sapo</rs> como comida de <rs ana="SAQIKAS">la serpiente</rs>, hasta hoy. Rápido 
                         se fue <rs ana="SAQIKAS">la culebra</rs>.</p> 
-                    <p>Un gran <rs ana="TZ'IKIN">pájaro</rs> llamado <rs ana="K'OTAL">águila</rs> encontró a <rs ana="SAQIKAS">la culebra</rs>, de una vez se tragó a <rs ana="SAQIKAS">la culebra</rs>.</p> 
-                    <p>En seguida llegó sobre la escalera de juego, desde entonces <rs ana="SAQIKAS">la culebra</rs> quedó como comida del 
-                        <rs ana="K'OTAL">águila</rs> en las montañas. Llegó pues <rs ana="K'OTAL">el águila</rs> y se posó sobre el cobertizo del patio de juego.</p> 
-                    <p>Se puso contento <rs ana="JUNAJPU">Un Cerbatanero</rs>, <rs ana="XB'ALAMQ'E">Xbalanké</rs>, estaba jugando cuando llegó <rs ana="K'OTAL">el águila</rs>. Entró 
-                        pues, <rs ana="K'OTAL">el águila</rs>. ¡Wak! ¡Wak! Hizo la presencia repentina y ruidosa del <rs ana="K'OTAL">águila</rs>.</p> 
+                    <p>Un gran <rs ana="TZ'IKIN">pájaro</rs> llamado <rs ana="WAK">águila</rs> encontró a <rs ana="SAQIKAS">la culebra</rs>, de una vez se tragó a <rs ana="SAQIKAS">la culebra</rs>.</p> 
+                    <p>En seguida llegó sobre <rs ana="JOM">la escalera de juego</rs>, desde entonces <rs ana="SAQIKAS">la culebra</rs> quedó como comida del 
+                        <rs ana="WAK">águila</rs> en las montañas. Llegó pues <rs ana="WAK">el águila</rs> y se posó sobre <rs ana="UTZUTZIL_JOM">el cobertizo del patio de juego</rs>.</p> 
+                    <p>Se puso contento <rs ana="JUNAJPU">Un Cerbatanero</rs>, <rs ana="XB'ALAMQ'E">Xbalanké</rs>, estaba <rs ana="CHAAJ">jugando</rs> cuando llegó <rs ana="WAK">el águila</rs>. Entró 
+                        pues, <rs ana="WAK">el águila</rs>. ¡<rs ana="WAK">Wak</rs>! ¡<rs ana="WAK">Wak</rs>! Hizo la presencia repentina y ruidosa del <rs ana="WAK">águila</rs>.</p>
+                    <!-- editor's note: corresponds to paragraph 30, folio 23r -->
                     <p>-Qué es lo que ha entrado? ¡Que venga <rs ana="WUB">la cerbatana</rs>! -se dijo.</p> 
-                    <p>Luego le tiró con <rs ana="WUB">cerbatana</rs> al <rs ana="K'OTAL">águila</rs>, el bodoque fue derecho al ojo, y se vino revoloteando, 
+                    <p>Luego le tiró con <rs ana="WUB">cerbatana</rs> al <rs ana="WAK">águila</rs>, el bodoque fue derecho al ojo, y se vino revoloteando, 
                         y cayó. En verdad lo fue a atrapar; al momento le exigió:</p>
-                    <p>-¿De dónde vienes? -le dijo al <rs ana="K'OTAL">águila</rs>.</p> 
-                    <p>-Tengo un mandado en mi vientre. Cúrame primero mi ojo, entonces lo diré -dijo <rs ana="K'OTAL">el 
+                    <p>-¿De dónde vienes? -le dijo al <rs ana="WAK">águila</rs>.</p> 
+                    <p>-Tengo un mandado en mi vientre. Cúrame primero mi ojo, entonces lo diré -dijo <rs ana="WAK">el 
                         águila</rs>.</p> 
                     <p>-Está bien -contestó.</p> 
-                    <p>A continuación sacó un poquito de hule de <rs ana="CHAAJ">la pelota</rs> y se lo aplicó al ojo del <rs ana="K'OTAL">águila</rs>, desde 
-                        entonces se llamó "hule de ceguera", enseguida se lo lavó y se compuso la vista del <rs ana="K'OTAL">águila</rs> para 
+                    <p>A continuación sacó un poquito de <rs ana="KIK'">hule</rs> de <rs ana="CHAAJ">la pelota</rs> y se lo aplicó al ojo del <rs ana="WAK">águila</rs>, desde 
+                        entonces se llamó "<rs ana="LOTZ_KIK'">hule de ceguera</rs>", enseguida se lo lavó y se compuso la vista del <rs ana="WAK">águila</rs> para 
                         siempre.</p>
-                    <p>-Dilo pues -le dijo al <rs ana="K'OTAL">águila</rs>. Al momento vomitó una gran <rs ana="SAQIKAS">culebra</rs>.</p> 
+                    <p>-Dilo pues -le dijo al <rs ana="WAK">águila</rs>. Al momento vomitó una gran <rs ana="SAQIKAS">culebra</rs>.</p> 
                     <p>-Habla -le dijo después a <rs ana="SAQIKAS">la culebra</rs>.</p> 
                     <p>-Bueno -contestó.</p> 
                     <p>En eso vomitó <rs ana="TAMASUL">un sapo</rs>.</p>
@@ -6996,61 +6995,62 @@
                     <p>Dispuso rasgarle la boca al <rs ana="TAMASUL">sapo</rs>, <rs ana="KA'IB_K'AJOLAB'">el hijo</rs> le rasgó la boca y buscó en la boca si <rs ana="UK'">el piojo</rs> aún 
                         estaba pegado entre los dientes del <rs ana="TAMASUL">sapo</rs>; y es que sólo se le había pegado en la boca, no se lo había tragado, 
                         en vano trataba de vomitar. Así fue como se ganó al <rs ana="TAMASUL">sapo</rs>. No se sabe la comida que 
-                        le destinaron, tampoco tiene habla, solamente en hermano menor de <rs ana="SAQIKAS">la serpiente</rs> se convirtió.</p> 
+                        le destinaron, tampoco tiene habla, solamente en hermano menor de <rs ana="KUMATZ">la serpiente</rs> se convirtió.</p> 
                     <p>-Habla -le dijo en seguida al <rs ana="UK'">piojo</rs>, luego dijo entonces el mandado:
                         <pb xml:id="yua2021-125" /></p>
                     <p>-Dice -tu <rs ana="IXMUKANE">abuela</rs>, <rs ana="KA'IB_K'AJOLAB">hijo</rs>: vete a llamarlo, ha venido citador del <rs ana="XIB'ALB'A">Inframundo</rs>, <rs ana="USAMAJEL_XIB'ALB'A">mensajero</rs> de 
                         <rs ana="JUN_KAME'">Una Muerte</rs>, <rs ana="WUQUB'_KAME'">Siete Muertes</rs>, entre siete días que te venga, es que aquí competiremos decididamente, 
                         que traiga sus juguetes, <rs ana="CHAAJ">la pelota</rs>, <rs ana="B'ATE">la lanza</rs>; <rs ana="PACHQ'AB'">los guantes</rs> y la rodela, aquí se entusiasmará, dice 
-                        el mandadero de los señores, que vino, me dice tu <rs ana="IXMUKANE">abuela</rs>. De cierto -dice -tu <rs ana="IXMUKANE">abuela</rs> estaba 
+                        <rs ana="USAMAJEL_XIB'ALB'A">el mandadero de los señores</rs>, que vino, me dice tu <rs ana="IXMUKANE">abuela</rs>. De cierto -dice -tu <rs ana="IXMUKANE">abuela</rs> estaba 
                         llorando cuando vine con el mandado de la llamada.</p> 
                     <p>-¿Será cierto? -dijo entonces <rs ana="KA'IB_K'AJOLAB'">el hijo</rs> en su adentro, cuando lo escuchó. De una vez se vino 
                         y llegó a donde <rs ana="IXMUKANE">la abuela</rs>. Dejó consolada a <rs ana="IXMUKANE">la abuela</rs> antes de irse:</p>
+                    <!-- editor's note: corresponds to paragraph 32, folio 23v -->
                     <p>-Tengo que irme <rs ana="IXMUKANE">abuela</rs>, sólo he venido a consolarte. Dejaré señal de mi destino, sembraré 
-                        cañaveral en medio del patio, aquí la dejaré sembrada. Será señal de mi muerte. Si se seca, 
+                        <rs ana="AJ">cañaveral</rs> en medio del patio, aquí la dejaré sembrada. Será señal de mi muerte. Si se seca, 
                         "¡ya se murió!" dirás cuando se marchite; pero si retoña, "¡entonces, está vivo!" dirás entonces 
-                        <rs ana="IXMUKANE">abuela</rs>, es decir, madre. No llores, he dejado para ti señal de mi noticia -dijo cuando ya se iba. 
+                        <rs ana="IXMUKANE">abuela</rs>, es decir, <rs ana="IXMUKANE">madre</rs>. No llores, he dejado para ti señal de mi noticia -dijo cuando ya se iba. 
                         Sembró <rs ana="JUNAJPU">Un Cerbatanero</rs>, <rs ana="XB'ALAMQ'E">Xbalanké</rs> en el patio, no en el monte, ni en terreno húmedo sino en 
                         tierra seca, en medio del solar la dejó sembrada.</p> 
                     <p>Se fue llevando <rs ana="WUB">la cerbatana</rs>, bajó al <rs ana="XIB'ALB'A">Inframundo</rs> frente al muro pasó de un salto el barranco 
-                        del río, pasó entre <rs ana="TZ'IKIN">pájaros</rs> llamados pijijíes. Pasó en seguida por un río de materia, río de 
-                        sangre, para que ahí cayera según la creencia de <rs ana= "RAJAWAL_XIB'ALB'A">los del Inframundo</rs>, pero no lo vadeó sino que 
+                        del río, pasó entre <rs ana="TZ'IKIN">pájaros</rs> llamados pijijíes. Pasó en seguida por <rs ana="PUJ_YA'">un río de materia</rs>, <rs ana="KIK'_YA'">río de 
+                        sangre</rs>, para que ahí cayera según la creencia de <rs ana="RAJAWAL_XIB'ALB'A">los del Inframundo</rs>, pero no lo vadeó sino que 
                         pasó sobre su <rs ana="WUB">cerbatana</rs> a manera de puente.</p>
                     <p>Salió la otra orilla hacia una cruz de camino. Él sabía los caminos del <rs ana="XIB'ALB'A">Inframundo</rs>: <rs ana="Q'EQA_B'E">camino 
                         negro</rs>, <rs ana="SAQI_B'E">camino blanco</rs>, <rs ana="KAQA_B'E">camino rojo</rs> y <rs ana="RAXA_B'E">camino verde</rs>. Aquí fue donde envió un animal 
-                        llamado zancudo, los envió como observadores, les dijo:</p> 
+                        llamado <rs ana="XA'N">zancudo</rs>, los envió como observadores, les dijo:</p> 
                     <p>-A cada uno los pican; primero pican al primer sentado, los atormentan a picaduras a 
-                        todos. Sus destinos serán siempre chupar la sangre de la gente en los caminos -les dijo a los 
-                        zancudos.</p> 
-                    <p>-Está bien -dijeron los zancudos, tomaron <rs ana="Q'EQA_B'E">el camino negro</rs>, derecho fueron a dar sobre 
+                        todos. Sus destinos serán siempre chupar <rs ana="KIK'">la sangre</rs> de la gente en los caminos -les dijo a <rs ana="XA'N">los 
+                        zancudos</rs>.</p> 
+                    <p>-Está bien -dijeron <rs ana="XA'N">los zancudos</rs>, tomaron <rs ana="Q'EQA_B'E">el camino negro</rs>, derecho fueron a dar sobre 
                         el hombre de madera labrada, era el primero de lo que estaban sentados. Fue al primero que 
                         picaron y no se quejó. Picaron el segundo, tampoco gritó. Picaron al tercero, hasta el tercer 
                         sentado estaba <rs ana="JUN_KAME'">Una Muerte</rs>.</p> 
                     <p>-¡Ay! -dijo cuando lo picaron fuerte.</p> 
                     <p>-¿Qué es, <rs ana="JUN_KAME'">Una Muerte</rs>? ¿Quién te picó? -dijo <rs ana="WUQUB'_KAME'">Siete Muertes</rs>.</p> 
                     <p>-Voy a ver, sólo zumba -dijo <rs ana="JUN_KAME'">Una Muerte</rs>.</p> 
-                    <p>-¡Ay! -dijo el cuarto.</p> 
-                    <p>-¿Qué te picó, <rs ana="WUQUB'_KAME'">Siete Muertes</rs>? -dijo el quinto.</p> 
-                    <p>-¿Qué te picó, <rs ana="XIKIRIPAT">Chikiripat</rs>? -dijo el sexto.</p> 
+                    <p>-¡Ay! -dijo <rs ana="WUQUB'_KAME'">el cuarto</rs>.</p> 
+                    <p>-¿Qué te picó, <rs ana="WUQUB'_KAME'">Siete Muertes</rs>? -dijo <rs ana="XIKIRIPAT">el quinto</rs>.</p> 
+                    <p>-¿Qué te picó, <rs ana="XIKIRIPAT">Chikiripat</rs>? -dijo <rs ana="KUCHUMA_KIK'">el sexto</rs>.</p> 
                     <p>-¡Ay!</p>
-                    <p>-¿Qué es, <rs ana="KUCHUMA_KIK'">Kuchumakik</rs>? -dijo el quinto.</p> 
-                    <p>-Quién sabe quién me pico -dijo. En seguida picaron al séptimo sentado.</p> 
+                    <p>-¿Qué es, <rs ana="KUCHUMA_KIK'">Kuchumakik</rs>? -dijo <rs ana="XIKIRIPAT">el quinto</rs>.</p> 
+                    <p>-Quién sabe quién me pico -dijo. En seguida picaron <rs ana="AJAL_PUS">al séptimo</rs> sentado.</p> 
                     <p>-¡Ay!</p> 
-                    <p>-¿Qué te picó, <rs ana="AJAL_PUS">Señor del Pus</rs>? -dijo el sexto.</p> 
+                    <p>-¿Qué te picó, <rs ana="AJAL_PUS">Señor del Pus</rs>? -dijo <rs ana="KUCHUMA_KIK'">el sexto</rs>.</p> 
                     <p>-¡Ay!
                         <pb xml:id="yua2021-127" /></p>
-                    <p>-¿Qué te picó, <rs ana="AJAL_Q'ANA">Señor Aguadija</rs>? -dijo el séptimo. -Quién sabe qué me picó -dijo. Picaron 
-                        al noveno sentado<ref target="spa.n016"><hi rend="sup">16</hi></ref>
+                    <p>-¿Qué te picó, <rs ana="AJAL_Q'ANA">Señor Aguadija</rs>? -dijo <rs ana="AJAL_PUS">el séptimo</rs>. -Quién sabe qué me picó -dijo. Picaron 
+                        <rs ana="CH'AMIYA_BAQ">al noveno</rs> sentado<ref target="spa.n016"><hi rend="sup">16</hi></ref>
                         <note place="foot" xml:id="spa.n016"><seg type="note-symbol"><hi rend="sup">16</hi></seg>
-                            N. del E. En esta columna faltan, al parecer, el octavo y el duodécimo señores del infierno. 
+                            N. del E. En esta columna faltan, al parecer, <rs ana="AJAL_Q'ANA">el octavo</rs> y <rs ana="PATAN">el duodécimo</rs> <rs ana="RAJAWAL_XIB'ALB'A">señores del infierno</rs>. 
                         </note>
                         .</p>
                     <p>-¡Ay! -dijo.</p>
-                    <p>-¿Qué es, <rs ana="CH'AMIYA_B'AQ">Bastón de Hueso</rs>? -le dijo el Señor de Aguadija.</p> 
-                    <p>-Quién sabe qué fue lo que me picó -dijo. Picaron al décimo sentado.</p> 
+                    <p>-¿Qué es, <rs ana="CH'AMIYA_B'AQ">Bastón de Hueso</rs>? -le dijo <rs ana="AJAL_Q'ANA">el Señor de Aguadija</rs>.</p> 
+                    <p>-Quién sabe qué fue lo que me picó -dijo. Picaron <rs ana="CH'AMIYA_JOLOM">al décimo</rs> sentado.</p> 
                     <p>-¡Ay!</p>
                     <p>-¿Qué es, <rs ana="CH'AMIYA_JOLOM">Bastón de Calavera</rs>? -le dijo <rs ana="CH'AMIYA_B'AQ">Bastón de Hueso</rs>.</p> 
-                    <p>-Quién sabe qué me picó -dijo después. Picaron al undécimo sentado.</p> 
+                    <p>-Quién sabe qué me picó -dijo después. Picaron <rs ana="XIK">al undécimo</rs> sentado.</p> 
                     <p>-¡Ay! -dijo.</p> 
                     <p>-¿Qué es, <rs ana="PATAN">Mekapal</rs>?<ref target="spa.n017"><hi rend="sup">17</hi></ref>
                         <note place="foot" xml:id="spa.n017"><seg type="note-symbol"><hi rend="sup">17</hi></seg>
@@ -7058,22 +7058,22 @@
                             que se le atribuye es <rs ana="PATAN">el de Patan</rs>. 
                         </note>
                         -le dijeron.</p> 
-                    <p>-Quién sabe qué me picó -dijo. Picaron al decimotercero de los sentados.</p> 
+                    <p>-Quién sabe qué me picó -dijo. Picaron <rs ana="KIK'_RE">al decimotercero</rs> de los sentados.</p> 
                     <p>-¡Ay!</p> 
                     <p>-¿Qué es, <rs ana="KIK'_RE">Sangre de Gavilán</rs>? -le dijo <rs ana="PATAN">el Señor del Mekapal</rs>.</p> 
-                    <p>-Quién sabe qué me picó -dijo. Picaron al decimocuarto de los sentados.</p> 
+                    <p>-Quién sabe qué me picó -dijo. Picaron <rs ana="KIK'_RIXK'AQ">al decimocuarto</rs> de los sentados.</p> 
                     <p>-¡Ay!</p> 
-                    <p>-¿Qué te picó, <rs ana="KIK'_RIXK'AQ">Sangre de Fuego?</rs> -le dijo su propia sangre. Así fue como revelaron ellos 
-                        mismos sus nombres, todos dieron a conocer sus nombres.</p> 
+                    <p>-¿Qué te picó, <rs ana="KIK'_RIXK'AQ">Sangre de Fuego?</rs> -le dijo su propia <rs ana="KIK'">sangre</rs>. Así fue como revelaron <rs ana="RAJAWAL_XIB'ALB'A">ellos 
+                        mismos</rs> sus nombres, todos dieron a conocer sus nombres.</p> 
                     <p>Cabeza por cabeza fueron diciendo sus nombres. El que decía el nombre, era el que 
                         estaba sentado a su lado, a ninguno se le escapó su nombre cuando terminaron de decir los 
                         nombres de todos. Fueron picados por vellos de <rs ana="JUNAJPU">Un Cerbatanero</rs>, <rs ana="XB'ALAMQ'E">Xbalanké</rs> que se arrancó de 
-                        las espinillas y los envió. No fueron pues verdaderos zancudos los que picaron y fueron a oír los 
+                        las espinillas y los envió. No fueron pues verdaderos <rs ana="XA'N">zancudos</rs> los que picaron y fueron a oír los 
                         nombres de todos por <rs ana="JUNAJPU">Un Cerbatanero</rs>, <rs ana="XB'ALAMQ'E">Xbalanké</rs>.</p> 
                     <p>Animoso se fue y llegó a donde estaban <rs ana="RAJAWAL_XIB'ALB'A">los del Inframundo</rs>.</p> 
                     <p>-Saluda al Señor -dijo uno de los sentados, el encargado para el engaño.</p> 
                     <p>-Ese no es Señor, es sólo un maniquí de madera labrada -dijo cuando llegó. Ahora sí 
-                        saludó a los que eran señores:</p> 
+                        saludó a los que eran <rs ana="RAJAWAL_XIB'ALB'A">señores</rs>:</p> 
                     <p>-¡Buenos días, <rs ana="JUN_KAME'">Señor Una Muerte</rs>! ¡Buenos días, <rs ana="WUQUB'_KAME'">Señor Siete Muertes</rs>! ¡Buenos días, <rs ana="XIKIRIPAT">Señor 
                         Xikiripat</rs>! ¡Buenos días, <rs ana="KUCHUMA_KIK'">Señor Kuchumakik</rs>! ¡Buenos días, <rs ana="AJAL_Q'ANA">Señor de la Aguadija</rs>! ¡Buenos 
                         días, <rs ana="CH'AMIYA_B'AQ">Señor Bastón de Hueso</rs>! ¡Buenos días,<rs ana="CH'AMIYA_JOLOM">Señor Bastón de Calavera</rs>! ¡Buenos días, <rs ana="KIK'_RE">Señor Gavilán</rs>! 
@@ -7086,11 +7086,11 @@
                         <pb xml:id="yua2021-129" /></p>
                     <p>-Está bien, pero tienes que ir a una casa -le dijeron. Entonces entró en una casa oscura, 
                         tampoco lo engañaron aquí. Ésta era la primera mortificación del <rs ana="XIB'ALB'A">Inframundo</rs>. Decidido entró 
-                        y creyeron <rs ana="RAJAWAL_XIB'ALB'A">los del Inframundo</rs> que había comenzado la derrota de él. Primero pues, entró a la 
-                        casa oscura, le fueron a dejar su ocote, llegó relumbrante, además un puro que le llevó el mensajero 
+                        y creyeron <rs ana="RAJAWAL_XIB'ALB'A">los del Inframundo</rs> que había comenzado la derrota de él. Primero pues, entró a <rs ana="Q'EQUMA_JA">la 
+                        casa oscura</rs>, le fueron a dejar su ocote, llegó relumbrante, además un puro que le llevó <rs ana="USAMAJEL_XIB'ALB'A">el mensajero</rs> 
                         de <rs ana="JUN_KAME'">Una Muerte</rs>.</p> 
-                    <p>-Este ocote, dice el Señor, lo tendrás que devolver al amanecer, así como el puro: los 
-                        tendrás que presentar, dice el Señor -dijo el mandadero cuando llegó.</p> 
+                    <p>-Este ocote, dice <rs ana="JUN_KAME'">el Señor</rs>, lo tendrás que devolver al amanecer, así como el puro: los 
+                        tendrás que presentar, dice <rs ana="JUN_KAME'">el Señor</rs> -dijo <rs ana="USAMAJEL_XIB'ALB'A">el mandadero</rs> cuando llegó.</p> 
                     <p>-Está bien -dijo. Pero no encendió el ocote, sino un aparente fuego, puso por sustituto 
                         plumas de la cola de la guacamaya y a los vigilantes les pareció verdadero ocote. Para disimular 
                         el puro encendido adaptó una gran luciérnaga en el extremo del puro, en la noche parecía que 
@@ -7100,15 +7100,15 @@
                     <p>-¿Qué es él? ¿De dónde viene? ¿Quiénes lo engendraron? En Verdad nos está irritando 
                         porque no es bueno lo que nos está haciendo, es extraño, es rara su existencia -se dijeron entre 
                         ellos. -Que vayan a llamar a todos <rs ana="RAJAWAL_XIB'ALB'A">los señores</rs>.</p> 
-                    <p>-Vamos a competir, <rs ana="KA'IB_K'AJOLAB'">hijo</rs>.</p> 
+                    <p>-Vamos a <rs ana="CHAAJ">competir</rs>, <rs ana="KA'IB_K'AJOLAB'">hijo</rs>.</p> 
                     <p><rs ana="JUN_KAME'">Una Muerte</rs>, <rs ana="WUQUB'_KAME'">Siete Muertes</rs> lo puso en confesión:</p> 
                     <p>-¿De dónde vienes? Confiésalo -le dijo el del <rs ana="XIB'ALB'A">Inframundo</rs>.</p> 
                     <p>-Quién sabe de dónde vengo, no lo sé -sólo eso dijo, no descubrió su origen.</p> 
-                    <p>-Está bien, vamos a competir, <rs ana="KA'IB_K'AJOLAB'">hijo</rs> -lo retaron <rs ana="RAJAWAL_XIB'ALB'A">los del Inframundo</rs>.</p> 
+                    <p>-Está bien, vamos a <rs ana="CHAAJ">competir</rs>, <rs ana="KA'IB_K'AJOLAB'">hijo</rs> -lo retaron <rs ana="RAJAWAL_XIB'ALB'A">los del Inframundo</rs>.</p> 
                     <p>-¡Bueno pues! -dijo.</p> 
-                    <p>-Pero emplearemos nuestra <rs ana="CHAAJ">pelota</rs> -dijeron <rs ana="RAJAWAL_XIB'ALB'A">los del Inframundo</rs>.</p> 
-                    <p>-¿Entonces no vamos a emplear la mía? -dijo <rs ana="KA'IB_K'AJOLAB'">el hijo</rs>.</p> 
-                    <p>-De ninguna manera, es la nuestra la que emplearemos -dijeron <rs ana="RAJAWAL_XIB'ALB'A">los del Inframundo</rs>.</p> 
+                    <p>-Pero emplearemos nuestra <rs ana="KIK'">pelota</rs> -dijeron <rs ana="RAJAWAL_XIB'ALB'A">los del Inframundo</rs>.</p> 
+                    <p>-¿Entonces no vamos a emplear <rs ana="KIK'">la mía</rs>? -dijo <rs ana="KA'IB_K'AJOLAB'">el hijo</rs>.</p> 
+                    <p>-De ninguna manera, es <rs ana="KIK'">la nuestra</rs> la que emplearemos -dijeron <rs ana="RAJAWAL_XIB'ALB'A">los del Inframundo</rs>.</p> 
                     <p>-Está bien -dijo <rs ana="KA'IB_K'AJOLAB'">el hijo</rs>.</p> 
                     <p>-Iremos sólo un momento -dijeron <rs ana="RAJAWAL_XIB'ALB'A">los del Inframundo</rs>.</p> 
                     <p>-Traigan pues lo que es cabeza de tigre -dijo <rs ana="KA'IB_K'AJOLAB'">el hijo</rs>.</p> 
@@ -7121,9 +7121,9 @@
                         mandaron llamarme? ¿Acaso me tienen lástima? Me iré -les dijo <rs ana="KA'IB_K'AJOLAB'">el hijo</rs>. Pero no le aceptaron 
                         al <rs ana="KA'IB_K'AJOLAB">hijo</rs>, porque lo que querían era que se muriera de una vez en la lucha. No lo vencieron. No 
                         resultó así, al contrario, a <rs ana="RAJAWAL_XIB'ALB'A">los del Inframundo</rs> engañó <rs ana="KA'IB_K'AJOLAB'">el hijo</rs>.</p> 
-                    <p>-No te vayas <rs ana="KA'IB_K'AJOLAB'">hijo</rs>, todavía tenemos que competir, usaremos tu <rs ana="CHAAJ">pelota</rs> -le dijeron al <rs ana="KA'IB_K'AJOLAB'">hijo</rs>.
+                    <p>-No te vayas <rs ana="KA'IB_K'AJOLAB'">hijo</rs>, todavía tenemos que <rs ana="CHAAJ">competir</rs>, usaremos tu <rs ana="KIK'">pelota</rs> -le dijeron al <rs ana="KA'IB_K'AJOLAB'">hijo</rs>.
                         <pb xml:id="yua2021-131" /></p>
-                    <p>-Está bien. -Empezaron a competir con <rs ana="CHAAJ">la pelota</rs> de él, por eso aceptó, luego se pusieron 
+                    <p>-Está bien. -Empezaron a <rs ana="CHAAJ">competir</rs> con <rs ana="KIK'">la pelota</rs> de él, por eso aceptó, luego se pusieron 
                         a cortar el premio.</p> 
                     <p>-¿Cuántas tenemos que ganar? -dijeron <rs ana="RAJAWAL_XIB'ALB'A">los del Inframundo</rs>.</p> 
                     <p>-Empezaremos con pocas -dijo <rs ana="KA'IB_K'AJOLAB'">el hijo</rs>.</p> 
@@ -7136,27 +7136,27 @@
                         entonces <rs ana="RAJAWAL_XIB'ALB'A">los del Inframundo</rs> porque creyeron haber triunfado.</p> 
                     <p>-Salimos bien, primero lo vencimos -dijeron <rs ana="RAJAWAL_XIB'ALB'A">los del Inframundo</rs>. Pero, ¿a dónde irá a 
                         traer<rs ana="KOTZ'I'J">las flores</rs>? pensaron. -Por cierto muy temprano traerás nuestras <rs ana="KOTZ'I'J">flores</rs>, es decir, nuestro 
-                        premio -le fue advertido al hijo <rs ana="JUNAJPU">Un Cerbatanero</rs>, <rs ana="XB'ALAMQ'E">Xbalanké</rs> por <rs ana="RAJAWAL_XIB'ALB'A">los del Inframundo</rs>.</p> 
+                        premio -le fue advertido <rs ana="KA'IB_K'AJOLAB'">al hijo</rs> <rs ana="JUNAJPU">Un Cerbatanero</rs>, <rs ana="XB'ALAMQ'E">Xbalanké</rs> por <rs ana="RAJAWAL_XIB'ALB'A">los del Inframundo</rs>.</p> 
                     <p>-Está bien, temprano entonces competiremos otra vez -dijo. De una vez se pusieron 
-                        de acuerdo. En seguida hicieron entrar al <rs ana="KA'IB_K'AJOLAB'">hijo</rs> a una casa de obsidianas filosas. Era el segundo 
-                        castigo del Inframundo, lo que deseaban era que se hiriera con las obsidianas y que se muriera 
+                        de acuerdo. En seguida hicieron entrar al <rs ana="KA'IB_K'AJOLAB'">hijo</rs> a <rs ana="CHAYIM_JA">una casa de obsidianas filosas</rs>. Era el segundo 
+                        castigo <rs ana="XIB'ALB'A">del Inframundo</rs>, lo que deseaban era que se hiriera con las obsidianas y que se muriera 
                         luego, pero no se murió.</p> 
                     <p>En seguida les dijo a los cuidadores, los aconsejó.</p> 
                     <p>-He aquí lo suyo: la carne de todos los animales será de ustedes -les dijo a los cuidadores, 
                         por eso ya no se movieron y se convirtieron todos como si fueran un solo guardián.</p>
-                    <p>Entró pues, estaba ahí en la casa de obsidianas. Durante la noche llamó a todas <rs ana="SANIK">las hormigas</rs>.</p> 
+                    <p>Entró pues, estaba ahí en <rs ana="CHAYIM_JA">la casa de obsidianas</rs>. Durante la noche llamó a todas <rs ana="SANIK">las hormigas</rs>.</p> 
                     <p>-¡<rs ana="SANIK">Hormigas</rs> arrieras, <rs ana="SANIK">hormigas</rs> comejenes! Vengan que las necesito a todas, me irán a 
                         cortar todas <rs ana="KOTZ'I'J">las flores</rs> que han ganado <rs ana="RAJAWAL_XIB'ALB'A">los señores</rs>.</p> 
-                    <p>-Está bien -contestaron entonces. Se fueron todas las hormigas acarreadoras de flores 
+                    <p>-Está bien -contestaron entonces. Se fueron todas <rs ana="SANIK">las hormigas</rs> acarreadoras de <rs ana="KOTZ'I'J">flores</rs> 
                         cultivadas por <rs ana="JUN_KAME'">Una Muerte</rs>, <rs ana="WUQUB'_KAME'">Siete Muertes</rs>.</p> 
                     <p>Pero antes habían aleccionado a los guardianes de <rs ana="KOTZ'I'J">las flores</rs> del <rs ana="XIB'ALB'A">Inframundo</rs>:</p> 
                     <p>-Cuida nuestras <rs ana="KOTZ'I'J">flores</rs>, no permitas que las roben, porque le hemos ganado al <rs ana="KA'IB_K'AJOLAB'">hijo</rs>. ¡No 
                         sabemos de dónde irá a traer <rs ana="KOTZ'I'J">las flores</rs> que le hemos ganado! Ni un momento se duerman durante 
                         toda la noche.</p> 
                     <p>-Está bien -contestaron, pero no sintieron los cuidadores del cultivo. Sólo cantaban 
-                        nada más sobre las ramas de los árboles cultivados, iban a posarse ahí. Sólo llamaba el que dice: 
-                        ¡Cuerpo ruin! ¡Cuerpo ruin!, decía otro cuando cantaba ¡pijuy! ¡pijuy! Contestaba el que se 
-                        llama pijuy.</p> 
+                        nada más sobre las ramas de los árboles cultivados, iban a posarse ahí. Sólo llamaba <rs ana="XPURPUWEQ">el que dice</rs>: 
+                        ¡<rs ana="XPURPUWEQ">Cuerpo ruin</rs>! ¡<rs ana="XPURPUWEQ">Cuerpo ruin</rs>!, decía otro cuando cantaba ¡<rs ana="PUJUYU'">pijuy</rs>! ¡<rs ana="PUJUYU'">pijuy</rs>! Contestaba el que se 
+                        llama <rs ana="PUJUYU'">pijuy</rs>.</p> 
                     <p>Eran dos que estaban posados en el cultivo, en el cultivo de <rs ana="JUN_KAME'">Una Muerte</rs>, <rs ana="WUQUB'_KAME'">Siete Muertes</rs>. 
                         No sentían a <rs ana="SANIK">las hormigas</rs>, ladronas de lo que estaban cuidando. Se amontonaban <rs ana="SANIK">las hormigas</rs>, 
                         trajinaban afanosamente las acarreadoras de <rs ana="KOTZ'I'J">flores</rs>. Las que iban a cortarlas sobre los árboles, 
@@ -7165,23 +7165,25 @@
                         y las plumas.
                         <pb xml:id="yua2021-133" /></p>
                     <p>Cuando aumentaban <rs ana="KOTZ'I'J">las flores</rs> que caían, las pepenaban y volvían a cortar, de allí que se 
-                        llenaran cuatro recipientes y las pararan cuando amaneció. Llegó el mensajero citador y le dijo 
+                        llenaran cuatro <rs ana="TZIMA">recipientes</rs> y las pararan cuando amaneció. Llegó el mensajero citador y le dijo 
                         al <rs ana="KA'IB_K'AJOLAB'">hijo</rs>:</p> 
-                    <p>-Que vengas, dice el Señor. Que traigas lo que hemos ganado -le dijeron al <rs ana="KA'IB_K'AJOLAB'">hijo</rs>.</p> 
-                    <p>-Está bien -contestó, y se fue llevando levantados los cuatro recipientes de <rs ana="KOTZ'I'J">flores</rs>. Llegó 
-                        ante el Señor, ante <rs ana="RAJAWAL_XIB'ALB'A">los señores</rs> llevando <rs ana="KOTZ'I'J">las flores</rs> muy lozanas. Así fueron vencidos <rs ana="RAJAWAL_XIB'ALB'A">los del Inframundo</rs>. 
+                    <p>-Que vengas, dice <rs ana="JUN_KAME'_WUQUB'_KAME'">el Señor</rs>. Que traigas lo que hemos ganado -le dijeron al <rs ana="KA'IB_K'AJOLAB'">hijo</rs>.</p> 
+                    <p>-Está bien -contestó, y se fue llevando levantados los cuatro <rs ana="TZIMA">recipientes</rs> de <rs ana="KOTZ'I'J">flores</rs>. Llegó 
+                        ante <rs ana="JUN_KAME'_WUQUB'_KAME'">el Señor</rs>, ante <rs ana="RAJAWAL_XIB'ALB'A">los señores</rs> llevando <rs ana="KOTZ'I'J">las flores</rs> muy lozanas. Así fueron vencidos <rs ana="RAJAWAL_XIB'ALB'A">los del Inframundo</rs>. 
                         Sólo <rs ana="SANIK">hormigas</rs> ocupó <rs ana="KA'IB_K'AJOLAB'">el hijo</rs> y sólo en una noche cortaron <rs ana="KOTZ'I'J">las flores</rs> y las colocaron en 
-                        los recipientes, fue así como escarmentó a todos <rs ana="RAJAWAL_XIB'ALB'A">los del Inframundo</rs>, palidecieron por <rs ana="KOTZ'I'J">las flores</rs>. 
+                        <rs ana="TZIMA">los recipientes</rs>, fue así como escarmentó a todos <rs ana="RAJAWAL_XIB'ALB'A">los del Inframundo</rs>, palidecieron por <rs ana="KOTZ'I'J">las flores</rs>. 
                         Mandaron a llamar a los guardianes.</p> 
                     <p>-¿Por qué se dejaron robar nuestras <rs ana="KOTZ'I'J">flores</rs>? Vemos que éstas son nuestras <rs ana="KOTZ'I'J">flores</rs> -les dijeron 
                         a los guardianes.</p> 
-                    <p>-No lo sentimos, Señor. Aunque no sentimos nuestras colas -dijeron al momento. Entonces 
+                    <p>-No lo sentimos, <rs ana="JUN_KAME'_WUQUB'_KAME'">Señor</rs>. Aunque no sentimos nuestras colas -dijeron al momento. Entonces 
                         les rasgaron el pico en pago del robo de lo que estaban cuidando.</p> 
                     <p>Así pues, fueron vencidos <rs ana="JUN_KAME'">Una Muerte</rs>, <rs ana="WUQUB'_KAME'">Siete Muertes</rs> por <rs ana="JUNAJPU">Un Cerbatanero</rs>, <rs ana="XB'ALAMQ'E">Xbalanké</rs>, 
                         éste de muy antaño de los hechos. Así también desde entonces tienen tendido el pico los cuerporuines.</p> 
                     <p>Comenzó otra vez la competencia, pero lucharon iguales, terminó la lucha y acordaron:</p> 
                     <p>-Hasta mañana temprano otra vez -dijeron <rs ana="RAJAWAL_XIB'ALB'A">los del Inframundo</rs>.</p> 
-                    <p>-Está bien -contestó <rs ana="KA'IB_K'AJOLAB'">el hijo</rs> cuando terminaron. En seguida entró <rs ana="KA'IB_K'AJOLAB'">el hijo</rs> a una <rs ana="XUXULIM_JA">casa de 
+                    <p>-Está bien -contestó <rs ana="KA'IB_K'AJOLAB'">el hijo</rs> cuando terminaron. 
+                    <!-- editor's note: corresponds to paragraph 32, folio 26v --> 
+                        En seguida entró <rs ana="KA'IB_K'AJOLAB'">el hijo</rs> a una <rs ana="XUXULIM_JA">casa de 
                         hielo</rs>, era una infinidad el hielo que blanquecía adentro de <rs ana="XUXULIM_JA">la casa</rs>, <rs ana="XUXULIM_JA">casa de hielo</rs>. Pero se consumió 
                         el hielo a causa del nudo derritiente<ref target="spa.n018"><hi rend="sup">18</hi></ref>
                         <note place="foot" xml:id="spa.n018"><seg type="note-symbol"><hi rend="sup">18</hi></seg>
@@ -7192,19 +7194,22 @@
                         vez, pero no fue así, estaba sano y bueno cuando amaneció.</p> 
                     <p>Ya estaba parada la visita citadora de él. Se fue otra vez el competidor.</p> 
                     <p>-¿Por qué no se ha muerto? -dijeron entre ellos <rs ana="RAJAWAL_XIB'ALB'A">los del Inframundo</rs>. Ha sorprendido otra 
-                    vez la hazaña del hijo <rs ana="JUNAJPU">Un Cerbatanero</rs>, <rs ana="XB'ALAMQ'E">Xbalanké</rs>.</p> 
-                    <p>Entró en seguida a <rs ana="B'ALAM_JA">la casa de leones</rs>, eran incontables <rs ana="KOJ">los leones</rs> de <rs ana="B'ALAM_JA">la casa de leones</rs>.</p> 
-                    <p>-No vayan a comerme, se ha destinado lo que es de ustedes -les dijo a <rs ana="KOJ">los leones</rs>. Luego 
+                    vez la hazaña <rs ana="KA'IB_K'AJOLAB'">del hijo</rs> <rs ana="JUNAJPU">Un Cerbatanero</rs>, <rs ana="XB'ALAMQ'E">Xbalanké</rs>.</p>
+                    <!-- editor's note: corresponds to paragraph 33, folio 26v -->
+                    <p>Entró en seguida a <rs ana="B'ALAM_JA">la casa de leones</rs>, eran incontables <rs ana="B'ALAM">los leones</rs> de <rs ana="B'ALAM_JA">la casa de leones</rs>.</p> 
+                    <p>-No vayan a comerme, se ha destinado lo que es de ustedes -les dijo a <rs ana="B'ALAM">los leones</rs>. Luego 
                         arrojó huesos ante los animales. Al punto se fueron de espaldas y cayeron sobre los huesos.</p> 
                     <p>-Salió bien, le estarán comiendo su corazón. Ahora sí se entregó porque le están masticando 
                         sus huesos -dijeron los guardianes. -Todos lo están masticando. -Pero no se murió, 
                         estaba vivo cuando salió de <rs ana="B'ALAM_JA">la casa de leones</rs>.</p> 
                     <p>-¿Qué clase de gente eres? ¿De dónde has venido? - dijeron todos <rs ana="RAJAWAL_XIB'ALB'A">los del Inframundo</rs>.</p>
+                    <!-- editor's note: corresponds to paragraph 34, folio 27r -->
                     <p>En seguida entró al fuego, una verdadera <rs ana="JA_CHI_Q'AQ'">casa de fuego</rs>, sólo fuego había adentro. No se 
                         quemó, se rescaldó y sólo se le resbalaba el fuego. Estaba bueno y sano al amanecer, lo que que 
                         rían era que se muriera adentro cuando entró en <rs ana="JA_CHI_A'AQ'">la casa</rs>. No sucedió así, esto era para despertar 
                         a <rs ana="RAJAWAL_XIB'ALB'A">los del Inframundo</rs>.
                         <pb xml:id="yua2021-135" /></p>
+                    <!-- editor's note: corresponds to paragraph 35, folio 27r -->
                     <p>Lo metieron en una <rs ana="SOTZ'I_JA">Casa de Murciélagos</rs>, sólo había murciélagos, era una de vampiros, 
                         grandes animales de ésos que tienen nariz mortal. Gritaban adentro ante él. Estuvo ahí y durmió 
                         adentro de <rs ana="WUB">la cerbatana</rs> y así no lo mordieron los que estaban adentro. Aquí se entregó a un 
@@ -7242,13 +7247,13 @@
                         muy bien; la cara resultó bonita y hasta habló. En esto ya iba a amanecer, se enrojeció el horizonte, 
                         pero ya quería oscurecer otra vez.</p> 
                     <p>-¿Todavía no está hecha la cara?</p>
-                    <p>-Sí -dijo el anciano<ref target="spa.n020"><hi rend="sup">20</hi></ref>
+                    <p>-Sí -dijo <rs ana="XPIYAKOK">el anciano</rs><ref target="spa.n020"><hi rend="sup">20</hi></ref>
                         <note place="foot" xml:id="spa.n020"><seg type="note-symbol"><hi rend="sup">20</hi></seg>
-                            Es posible que el "cómo" del pie de página anterior, sea este anciano que aparece repentinamente en 
+                            Es posible que el "cómo" del pie de página anterior, sea este <rs ana="XPIYAKOK">anciano</rs> que aparece repentinamente en 
                             esta relación. 
                         </note>
                         pero se ennegreció y de repente se oscureció. Cuatro veces oscureció 
-                        el anciano<ref target="spa.n021"><hi rend="sup">21</hi></ref>
+                        <rs ana="XPIYAKOK">el anciano</rs><ref target="spa.n021"><hi rend="sup">21</hi></ref>
                         <note place="foot" xml:id="spa.n021"><seg type="note-symbol"><hi rend="sup">21</hi></seg>
                             Es el origen del Pop o sea el tiempo que abarca el período de dos millones de años.
                         </note>
@@ -7258,37 +7263,39 @@
                     <p>-Está bien -contestó y empezó a girar la cabeza, resultó como verdadera cabeza. En seguida 
                         conversaron y se aconsejaron:
                         <pb xml:id="yua2021-137" /></p>
-                    <p>-No vamos a suspender la competencia, únicamente tienes que estar listo, lo demás que 
+                    <p>-No vamos a suspender <rs ana="CHAAJ">la competencia</rs>, únicamente tienes que estar listo, lo demás que 
                         da a mi cargo -le dijo <rs ana="XB'ALAMQ'E">Xbalanké</rs>. En seguida se puso a aleccionar a <rs ana="UMUL">un conejo</rs>:</p> 
                     <p>-Te estás sobre la sombra del <rs ana="JOM">patio de juego</rs>, ahí te estás entre la bóveda -le dijo <rs ana="XB'ALAMQ'E">Xbalanké</rs> 
-                        al <rs ana="UMUL">conejo</rs>. -Cuando llegue <rs ana="CHAAJ">la pelota</rs> contigo, te sales corriendo, yo haré eso -le dijo al <rs ana="UMUL">conejo</rs>
+                        al <rs ana="UMUL">conejo</rs>. -Cuando llegue <rs ana="KIK'">la pelota</rs> contigo, te sales corriendo, yo haré eso -le dijo al <rs ana="UMUL">conejo</rs>
                         cuando le aconsejó en la noche.</p>
+                    <!-- editor's note: corresponds to paragraph 36, folio 28r -->
                     <p>Al amanecer ya estaban buenos y sanos. Empezó la lucha, ya estaba colocada la cabeza de 
                         <rs ana="JUNAJPU">Un Cerbatanero</rs> sobre la sombra del <rs ana="JOM">patio de juego</rs>.</p> 
                     <p>-¡Ya nos ganaron! ¡Ya les dimos el triunfo! ¡Nos entregamos! -les dijo. Pero estas exclamaciones 
                         eran para poner alerta a <rs ana="JUNAJPU">Un Cerbatanero</rs>.</p> 
-                    <p>-Apostemos la cabeza por medio de <rs ana="CHAAJ">la pelota</rs> -les dijo, porque no iba a sentir dolor, era 
+                    <p>-Apostemos la cabeza por medio de <rs ana="KIK'">la pelota</rs> -les dijo, porque no iba a sentir dolor, era 
                         intencionalmente para entusiasmarlos.</p> 
-                    <p>Sucedió que tiraron primero <rs ana="CHAAJ">la pelota</rs> <rs ana="RAJAWAL_XIB'ALB'A">los señores del Inframundo</rs>, entonces <rs ana="XB'ALAMQ'E">Xbalanké</rs> 
-                        salió al encuentro, <rs ana="CHAAJ">la pelota</rs> dio en el bate, y la giró hacia la sombra del <rs ana="JOM">patio de juego</rs>. Sólo el 
+                    <p>Sucedió que tiraron primero <rs ana="KIK'">la pelota</rs> <rs ana="RAJAWAL_XIB'ALB'A">los señores del Inframundo</rs>, entonces <rs ana="XB'ALAMQ'E">Xbalanké</rs> 
+                        salió al encuentro, <rs ana="KIK'">la pelota</rs> dio en <rs ana="B'ATE">el bate</rs>, y la giró hacia la sombra del <rs ana="JOM">patio de juego</rs>. Sólo el 
                         primer golpe fue suficiente, derecho cayó sobre la bóveda. Al punto salió <rs ana="UMUL">el conejo</rs> corriendo 
                         por el golpe doloroso. Se fue <rs ana="UMUL">el conejo</rs>, lo siguieron corriendo <rs ana="RAJAWAL_XIB'ALB'A">los del Inframundo</rs>, zumbaban y 
                         gritaban persiguiendo al <rs ana="UMUL">conejo</rs>, se fueron todos <rs ana="RAJAWAL_XIB'ALB'A">los del Inframundo</rs>.</p> 
                     <p>En eso fue a recoger la cabeza de <rs ana="JUNAJPU">Un Cerbatanero</rs>, ya no la colocó <rs ana="XB'ALAMQ'E">Xbalanké</rs>, sino que 
-                        fue a colocar la calabaza sobre la sombra del <rs ana="JOM">patio de juego</rs>; se parecía mucho a la cabeza de <rs ana="JUNAJPU">Un 
+                        fue a colocar <rs ana="Q'OQ">la calabaza</rs> sobre la sombra del <rs ana="JOM">patio de juego</rs>; se parecía mucho a la cabeza de <rs ana="JUNAJPU">Un 
                         Cerbatanero</rs>.</p>
-                    <p>Se pusieron contentos los dos. Se pusieron a buscar <rs ana="CHAAJ">la pelota</rs> <rs ana="RAJAWAL_XIB'ALB'A">los del Inframundo</rs>, la fueron 
+                    <p>Se pusieron contentos los dos. Se pusieron a buscar <rs ana="KIK'">la pelota</rs> <rs ana="RAJAWAL_XIB'ALB'A">los del Inframundo</rs>, la fueron 
                         a recoger de la bóveda.</p> 
-                    <p>-Vengan pues, ya encontramos <rs ana="CHAAJ">la pelota</rs> -dijeron. Se pusieron contentos cuando regresaron 
-                        <rs ana="RAJAWAL_XIB'ALB'A">los del Inframundo</rs> con <rs ana="CHAAJ">la pelota</rs>.</p> 
+                    <p>-Vengan pues, ya encontramos <rs ana="KIK'">la pelota</rs> -dijeron. Se pusieron contentos cuando regresaron 
+                        <rs ana="RAJAWAL_XIB'ALB'A">los del Inframundo</rs> con <rs ana="KIK'">la pelota</rs>.</p> 
                     <p>-¿Por qué no la vi? -dijo. Luego empezaron a competir otra vez, igual luchaban ambas 
                         partes.</p> 
-                    <p>De repente <rs ana="XB'ALAMQ'E">Xbalanké</rs> le pegó a la calabaza, la calabaza cayó de espaldas en <rs ana="JOM">el patio de 
+                    <p>De repente <rs ana="XB'ALAMQ'E">Xbalanké</rs> le pegó a <rs ana="Q'OQ">la calabaza</rs>, <rs ana="Q'OQ">la calabaza</rs> cayó de espaldas en <rs ana="JOM">el patio de 
                         juego</rs>, vislumbró blancura de <rs ana="SAKIN">las pepitas</rs> ante ellos.</p> 
                     <p>-¿Quiénes van a recogerlas? ¿Dónde están los recogedores? -dijeron <rs ana="RAJAWAL_XIB'ALB'A">los del Inframundo</rs>. 
                         De esta manera <rs ana="JUNAJPU">Un Cerbatanero</rs>, <rs ana="XB'ALAMQ'E">Xbalanké</rs> venció<sic>☒</sic> a <rs ana="RAJAWAL_XIB'ALB'A">los señores del Inframundo</rs>. Grandes sufrimientos 
                         les hizo padecer; pero no se murieron, todo les hizo. 
                         <pb xml:id="yua2021-139" /></p>
+                <!-- editor's note: corresponds to paragraph 37, folio 28v -->
                 </div>
                 <div type="tsúuk" n="spa.tsk.11">
                     <head rend="center">MUERTE DE <rs ana="JUNAJPU">UN CERBATANERO</rs>, <rs ana="XB'ALAMQ'E">XBALANKÉ</rs></head> 
