@@ -3264,7 +3264,7 @@
                         xúump'atbil ichil k'i'ixo'ob. Tumen ba'ax bin u k'áatto'ob ka'achile' ka kíimik <rs ana="JUNAJPU">Jun Ajpúub</rs>, 
                         <rs ana="XB'ALAMQ'E">Xbáalankej</rs> ichil muul <rs ana="SANIK">síiniko'obo'</rs>, wáaj ichil le k'i'ixo'obo', tu yóok'olal u sits' óolal wáaj 
                         u yaayaj ts'íibolal <rs ana="JUN_B'ATZ'">Jun Baats'</rs>, <rs ana="JUN_CHOWEN">Jun Chóowen</rs>. Ma' bin jch'a' óoltaab u yaabiltaal <rs ana="JUNAJPU">Jun Ajpúub</rs>, 
-                        <rs ana="XB'ALAMQ'E">Xbáalankej</rs> te' ichil naajilo', chéen tu yóok'ólal u yaayaj óolal u nojoch suku'un, tumen ma' 
+                        <rs ana="XB'ALAMQ'E">Xbáalankej</rs> te' ichil naajilo', chéen tu yóok'ólal u yaayaj óolal <rs ana="JUN_B'ATZ'_JUN_CHOWEN">u nojoch suku'un</rs>, tumen ma' 
                         bin u yojelo'ob wa láak'tsiluba'obi'. Bey túuno', ich k'áax bin jsíijij; jjóok' bey juntúul jach 
                         ma'alob ajpáx<rs ana="SU'">chúul</rs> yéetel ajtse'ek <rs ana="KA'IB_K'AJOLAB'">le Jun Ájpúub, Xbáalankejo'</rs>.</p>
                     <p>Úuchik u bin u ch'íijile', ya'abkach loobilal yéetel k'aak'as óolal tu máansaji'. Jach bin
@@ -6712,8 +6712,8 @@
                     <p>-¡Ya ves! ¡Soy pecadora! ¡Soy deudora! ¿Dónde voy a sacar una red de <rs ana="WA">alimento</rs> que me 
                         pide? -dijo entonces.</p> 
                     <p>Comenzó a llamar a <rs ana="CHAJAL_ECHA'">los guardianes de la milpa</rs>.</p>
-                    <p>-¡Vengan! ¡Preséntense! ¡<rs ana="IXTOJ">Paga</rs>! ¡Tú <rs ana="IXQ'ANIL">Simiente</rs>! ¡Tú <rs ana="IXKAKAW">Kakawí</rs>! ¡Tú Tepezcluintle! Son <rs ana="CHAJAL_ECHA'">guardianes de la milpa</rs> de Un Cerbatanero, Siete Un Cerbatanero -dijo la doncella. Tomó el pelo, el 
-                        pelo del elote y lo arrancó; no tapiscó, pero fueron pasando <rs ana="JAL">las mazorcas</rs> a la red. Sobrepasó la 
+                    <p>-¡Vengan! ¡Preséntense! ¡<rs ana="IXTOJ">Paga</rs>! ¡Tú <rs ana="IXQ'ANIL">Simiente</rs>! ¡Tú <rs ana="IXKAKAW">Kakawí</rs>! ¡Tú <rs ana="IXTZIYA'">Tepezcluintle</rs>! Son <rs ana="CHAJAL_ECHA'">guardianes de la milpa</rs> de <rs ana="JUN_JUNAJPU">Un Cerbatanero</rs>, <rs ana="WUQUB'_JUNAJPU">Siete Un Cerbatanero</rs> -dijo <rs ana="IXKIK'">la doncella</rs>. Tomó <rs ana="TZAMIY">el pelo, el 
+                        pelo del elote</rs> y lo arrancó; no tapiscó, pero fueron pasando <rs ana="JAL">las mazorcas</rs> a la red. Sobrepasó la 
                         gran red, se vino en seguida a casa <rs ana="IXKIK'">la doncella</rs>. Animales traían cargando la red, se vinieron y 
                         la dejaron a un lado de la casa, haciendo como que era carga de <rs ana="IXKIK'">ella</rs>, así vio <rs ana="IXMUKANE">la abuela</rs>, vio que 
                         era una gran red.
@@ -6726,8 +6726,10 @@
                         que es de sabios lo que tienes -le dijo a <rs ana="IXKIK'">la doncella</rs>.
                         <pb xml:id="yua2021-099" /></p>
                 </div>
+                <!-- editor's note: corresponds to paragraph 24, folio 18r -->
                 <div type="tsúuk" n="spa.tsk.10">
                     <head rend="center">NACIMIENTO DE <rs ana="JUNAJPU">UN CERBATANERO</rs>, <rs ana="XB'ALANQ'E">XBALANKÉ</rs></head>
+                <!-- editor's note; corresponds to paragraph 25, folio 18r -->
                     <p>Ahora diremos el nacimiento, cuando llegó el día, es decir, cuando dio a luz <rs ana="IXKIK'">la doncella 
                         Ixkik</rs>. No se dio cuenta <rs ana="IXMUKANE">la abuela</rs> cuando nació, sino hasta cuando levantaron al nacido, se llamaba 
                         <rs ana="JUNAJPU">Un Cerbatanero</rs>, <rs ana="XB'ALAMQ'E">Xbalanké</rs>. En el monte lo levantaron y lo llevaron a la casa, no dormía.</p> 
@@ -6736,9 +6738,9 @@
                         espinas; lo que querían era que <rs ana="JUNAPU">Un Cerbatanero</rs>, <rs ana="XB'ALAMQ'E">Xbalanké</rs> muriera en el hormiguero, muriera 
                         entre las espinas por ambición, mejor dicho por envidia de <rs ana="JUN_B'ATZ'">Un Mono</rs>. Ya no lo consintieron en 
                         la casa por causa del <rs ana="JUN_B'ATZ">hermano mayor</rs>, ignoraban el parentesco. Así pues, en el monte nació, era 
-                        gran flautista, gran orador <rs ana="JUNAJPU">Un Cerbatanero</rs>, <rs ana="XB'ALANQ'E">Xbalanké</rs>.</p> 
+                        gran <rs ana="SU'">flautista</rs>, gran orador <rs ana="JUNAJPU">Un Cerbatanero</rs>, <rs ana="XB'ALANQ'E">Xbalanké</rs>.</p> 
                     <p>Creció, padeció muchas penalidades, prematuramente lo maduraron en el sufrimiento. 
-                        Se hizo gran sabio, era flautista, era orador, era escritor, era grabador, todo lo hacía muy bien. 
+                        Se hizo gran sabio, era <rs ana="SU'">flautista</rs>, era orador, era escritor, era grabador, todo lo hacía muy bien. 
                         Sabía su nacimiento como sabio sustituto de <rs ana="JUN_JUNAJPU">su padre</rs> que fue al <rs ana="XIB'ALB'A">Inframundo</rs>, donde lo mataron.</p> 
                     <p>Era pues gran sabio <rs ana="JUNAJPU">Un Cerbatanero</rs>, <rs ana="XB'ALAMQ'E">Xbalanké</rs> en el concepto de todos; primero sabía de 
                         dónde se había originado su trabajo, pero no lo daba a conocer por la envidia; se hizo motivo 
@@ -6777,7 +6779,7 @@
                         en cola y él se convirtió en <rs ana="K'OY">mico</rs>. Se fue entre los árboles de pequeñas y grandes montañas, se 
                         fue a las selvas. Empezó a gritar y a lanzarse en las ramas de los árboles. Así fue vencido <rs ana="JUN_B'ATZ'">Un 
                         Mono</rs> por <rs ana="JUNAJPU">Un Cerbatanero</rs>, <rs ana="XB'ALAMQ'E">Xbalanké</rs>. Esto sólo logró hacerlo por medio de su mito.</p>  
-                    <p>Después llegó a su casa y al llegar le dijo a <rs ana="IXMUKANE">la abuela</rs>, mejor dicho, a la madre:</p>  
+                    <p>Después llegó a su casa y al llegar le dijo a <rs ana="IXMUKANE">la abuela</rs>, mejor dicho, a <rs ana="IXMUKANE">la madre</rs>:</p>  
                     <p>-<rs ana="IXMUKANE">Abuela</rs>, quién sabe qué le pasó a mi hermano mayor, tenía la cara verde y cuando se fue 
                         ya era como animal-dijo.</p>  
                     <p>-Iré a ver qué hiciste a <rs ana="JUN_B'ATZ'">tu hermano</rs>, no me menosprecies, mejor dicho no me ofendas. 
@@ -6785,11 +6787,12 @@
                         contestó entonces a <rs ana="IXMUKANE">la abuela</rs>:</p>  
                     <p>-No se entristezca <rs ana="IXMUKANE">abuela</rs>, verá otra vez a mi hermano mayor cuando venga, lo haré sola 
                         mente por usted <rs ana="IXMUKANE">abuela</rs>, pero no deberá reírse cuando lo vea, trataré de luchar -dijo. Empezó a 
-                        tocar <rs ana="SU'">la flauta</rs>, "Música de Un Cerbatanero <rs ana="K'OY">Mico</rs>" tocó, luego cantó, tocó <rs ana="SU'">flauta</rs>, tocó marimba 
-                        cuando tomó <rs ana="SU'">la flauta</rs> y la marimba para llamar.</p> 
+                        tocar <rs ana="SU'">la flauta</rs>, <rs ana="JUNAJPU_K'OY">"Música de Un Cerbatanero Mico</rs>" tocó, luego cantó, tocó <rs ana="SU'">flauta</rs>, tocó <rs ana="Q'OJOM">marimba</rs> 
+                        cuando tomó <rs ana="SU'">la flauta</rs> y <rs ana="Q'OJOM">la marimba</rs> para llamar.</p> 
                     <p>Entonces sentó a <rs ana="IXMUKANE">la abuela</rs> junto a él cuando empezó a tocar <rs ana="SU'">la flauta</rs>; lo llamó por medio 
-                        de <rs ana="SU'">la flauta</rs> y del canto, de aquí se perpetuó el nombre de "Música del <rs ana="K'OY">Mico</rs> Cerbatanero".
+                        de <rs ana="SU'">la flauta</rs> y del canto, de aquí se perpetuó el nombre de <rs ana="JUNAJPU_K'OY">"Música del Mico Cerbatanero</rs>".
                         <pb xml:id="yua2021-115" /></p>
+                    <!-- editor's note: corresponds to paragraph 26, folio 19r -->
                     <p>Inmediatamente llegó <rs ana="JUN_B'ATZ'">Un Mono</rs>, llegó bailando, se sorprendió <rs ana="IXMUKANE">la abuela</rs> porque tenía 
                         la cara fea, pero se rio, no pudo ocultar la risa, por eso luego se fue, y ya no le vieron la cara; 
                         gateando a saltos se fue a los bosques.</p> 
@@ -6811,7 +6814,7 @@
                     <p>Le volvió a tocar <rs ana="SU'">la flauta</rs>, sin duda la música fue diferente, por eso ya no volvió en esta 
                         cuarta vez; se quedó de una vez en la selva y le dijo a <rs ana="IXMUKANE">la abuela</rs>:</p> 
                     <p>-¿Acaso no luchamos, <rs ana="IXMUKANE">abuela</rs>? ¿Acaso no vino primero? Seguí luchando para llamarlo, no 
-                        estés triste, estoy yo, soy tu nieto; ahora voy a querer a mi madre, es decir, a ti <rs ana="IXMUKANE">abuela</rs>. Invocaremos 
+                        estés triste, estoy yo, soy <rs ana="KA'IB_K'AJOLAB'">tu nieto</rs>; ahora voy a querer a <rs ana="IXMUKANE">mi madre</rs>, es decir, a ti <rs ana="IXMUKANE">abuela</rs>. Invocaremos 
                         a <rs ana="JUN_B'ATZ'">mi hermano mayor</rs> que se ha convertido así, se maduró, así se hizo <rs ana="JUN_B'ATZ'">Un Mono</rs>, como 
                         dicen -dijo <rs ana="JUNAJPU">Un Cerbatanero</rs>, <rs ana="XB'ALAMQ'E'">Xbalanké</rs> a <rs ana="IXMUKANE">la abuela</rs>.</p> 
                     <p>Lo llamó pues el músico, el orador, la antigua gente, llamó el antiguo escritor, antiguo 
@@ -6819,33 +6822,34 @@
                         mal del <rs ana="JUN_B'ATZ'">hermano mayor</rs>, como si fuera extraño para ellos.</p> 
                     <p>Así fue como lo atrapó y lo desapareció para siempre, <rs ana="JUN_B'ATZ'">Un Mono</rs> se convirtió en animal. 
                         Era grande cuando estaba en la casa, era músico, era cantor, hizo grandes cosas cuando estaba 
-                        con <rs ana="IXMUKANE">la abuela</rs>, mejor dicho con la madre.</p> 
+                        con <rs ana="IXMUKANE">la abuela</rs>, mejor dicho con <rs ana="IXMUKANE">la madre</rs>.</p>
+                    <!-- editor's note: corresponds to paragraph 27, folio 20r -->
                     <p>Empezó a hacer cosas buenas para demostrar su vocación ante <rs ana="IXMUKANE">la abuela</rs>, es decir, ante la 
                         madre. Primero sembró <rs ana="B'IX">milpa</rs>.</p> 
                     <p>-Solamente cultivaré <rs ana="B'IX">milpa</rs> <rs ana="IXMUKANE">mi abuela</rs>, mi madre -dijo.</p>
-                    <p>-No estés triste, estoy yo, soy tu nieto, soy sustituto de <rs ana="JUN_B'ATZ'">mi hermano mayor</rs> -dijo <rs ana="JUNAJPU">Un 
-                        Cerbatanero</rs>, <rs ana="XB'ALAMQ'E">Xbalanké</rs>. Tomó entonces su <rs ana="KAJ">hacha</rs> y su bastón sembrador, las llevó en la mano 
+                    <p>-No estés triste, estoy yo, soy <rs ana="KA'IB_K'AJOLAB'">tu nieto</rs>, soy sustituto de <rs ana="JUN_B'ATZ'">mi hermano mayor</rs> -dijo <rs ana="JUNAJPU">Un 
+                        Cerbatanero</rs>, <rs ana="XB'ALAMQ'E">Xbalanké</rs>. Tomó entonces su <rs ana="KAJ">hacha</rs> y su <rs ana="MIXKINA">bastón sembrador</rs>, las llevó en la mano 
                         junto con su <rs ana="WUB">cerbatana</rs> al hombro cuando salió de la casa. Luego encargó a <rs ana="IXMUKANE">la abuela</rs> que le fuera 
                         a dejar su almuerzo.</p> 
                     <p>-A mediodía llevarás mi almuerzo, <rs ana="IXMUKANE">abuela</rs>. -dijo.
                         <pb xml:id="yua2021-117" /></p> 
-                    <p>-Está bien, nieto -dijo <rs ana="IXMUKANE">la abuela</rs>. Llegó al lugar de <rs ana="B'IX">la milpa</rs>, hincó el bastón sembrador 
+                    <p>-Está bien, <rs ana="KA'IB_K'AJOLAB'">nieto</rs> -dijo <rs ana="IXMUKANE">la abuela</rs>. Llegó al lugar de <rs ana="B'IX">la milpa</rs>, hincó <rs ana="MIXKINA">el bastón sembrador</rs> 
                         en la tierra, y sólo él empezó a sembar; <rs ana="KAJ">el hacha</rs> la ensartó en la horqueta de los árboles, y así 
                         solos los árboles se talaban, se iban quebrando solos todos los árboles y los bejucos. Bien limpio 
-                        estaba el corte que hizo un hacha sola. El sembrador hizo bastante trabajo, eran incontables los 
-                        surcos y los agujeros que hizo solamente el sembrador, era incontable el trabajo de pequeños y 
+                        estaba el corte que hizo <rs ana="KAJ">un hacha</rs> sola. <rs ana="MIXKINA">El sembrador</rs> hizo bastante trabajo, eran incontables los 
+                        surcos y los agujeros que hizo solamente <rs ana="MIXKINA">el sembrador</rs>, era incontable el trabajo de pequeños y 
                         grandes montes que se iban labrando.</p> 
-                    <p>Aleccionó entonces a un animal llamado torcaza, la puso sobre un gran tronco, dijo entonces 
+                    <p>Aleccionó entonces a un animal llamado <rs ana="XMUKUR">torcaza</rs>, la puso sobre un gran tronco, dijo entonces 
                         <rs ana="JUNAJPU">Un Cerbatanero</rs>, <rs ana="XB'ALAMQ'E">Xbalanké</rs>:</p> 
                     <p>-Sólo miras a <rs ana="IXMUKANE">mi abuela</rs> cuando venga a dejar mi almuerzo,  entonces empiezas a cantar 
-                        cuando se asome, entonces tomó el sembrador y <rs ana="KAJ">el hacha</rs>.</p> 
-                    <p>-Está bien -dijo la torcaza.</p>
-                    <p>Era una treta, porque en verdad no estaba cultivando <rs ana="B'IX">milpa</rs>. De repente cantó la torcaza, 
-                        entonces rápido tomó el sembrador Y <rs ana="KAJ">el hacha</rs> y se llevó la mano a la cabeza para arreglarse el 
+                        cuando se asome, entonces tomó <rs ana="MIXKINA">el sembrador</rs> y <rs ana="KAJ">el hacha</rs>.</p> 
+                    <p>-Está bien -dijo <rs ana="XMUKUR">la torcaza</rs>.</p>
+                    <p>Era una treta, porque en verdad no estaba cultivando <rs ana="B'IX">milpa</rs>. De repente cantó <rs ana="XMUKUR">la torcaza</rs>, 
+                        entonces rápido tomó <rs ana="MIXKINA">el sembrador</rs> y <rs ana="KAJ">el hacha</rs> y se llevó la mano a la cabeza para arreglarse el 
                         pelo, se embarró de tierra las  manos, se ensució la cara para hacer creer que estaba cultivando 
                         <rs ana="B'IX">milpa</rs>.</p> 
                     <p>Él solamente estaba derribando el tronco de los árboles sobre la cabeza para hacer creer 
-                        que era cortador de árboles, así lo vio la abuela, por eso se puso a almorzar, pero no era cierto 
+                        que era cortador de árboles, así lo vio <rs ana="IXMUKANE">la abuela</rs>, por eso se puso a almorzar, pero no era cierto 
                         que estaba preparando la tierra para <rs ana="B'IX">la milpa</rs>; nada más le llevaron almuerzo. En seguida se fue 
                         a casa.</p>
                     <p>-En verdad estoy cansado, <rs ana="IXMUKANE">abuela</rs> -dijo cuando llegó <rs ana="IXMUKANE">la abuela</rs>.</p> 
@@ -6860,8 +6864,8 @@
                         <rs ana="B'IX">milpa</rs> para dar con los hechores.</p>
                     <p>-Ojalá los atrapara -dijo. Se puso a pensar y luego se fue a casa.</p> 
                     <p>-Quién sabe quién se está burlando de nosotros <rs ana="IXMUKANE">abuela</rs>, ya eran grandes zacatales, grandes 
-                        bosques era nuestro milperío cuando llegué hoy, <rs ana="IXMUKANE">abuela</rs> -le dijo a <rs ana="IXMUKANE">la abuela</rs>, mejor dicho, 
-                        a la madre. -De manera que regreso, tengo que velar porque no es bueno lo que nos están haciendo 
+                        bosques era <rs ana="B'IX">nuestro milperío</rs> cuando llegué hoy, <rs ana="IXMUKANE">abuela</rs> -le dijo a <rs ana="IXMUKANE">la abuela</rs>, mejor dicho, 
+                        a <rs ana="IXMUKANE">la madre</rs>. -De manera que regreso, tengo que velar porque no es bueno lo que nos están haciendo 
                         -dijo. Dispuso engañar, se acercó a la tala de árboles y se escondió ahí, cuando ya estaba 
                         oculto empezaron a juntarse todos los animales, sólo en un lugar se echaron todos pequeños 
                         y grandes animales. Cuando ya era media noche comenzaron a venir y gritando todos fueron 
@@ -6900,19 +6904,19 @@
                         durante una noche. Se tomó el consejo de <rs ana="JUNAJPU">Un Cerbatanero</rs>, <rs ana="XB'ALAMQ'E">Xbalanké</rs>, éste llegó a mediodía. 
                         No se veía <rs ana="CH'O">la rata</rs> que llevaba cuando entró a un lado de la casa donde subió a <rs ana="CH'O">la rata</rs>. Luego 
                         pidió la comida a <rs ana="IXMUKANE">la abuela</rs>:</p> 
-                    <p>-Prepare mi comida, <rs ana="IXMUKANE">abuela</rs>; deseo chilmol -dijo.</p>
-                    <p>Le preparó la comida, una taza de chilmol le puso enfrente. Para burlarse de <rs ana="IXMUKANE">la abuela</rs>, es 
-                        decir, de la madre, dispuso secar el agua de la tinaja.</p> 
+                    <p>-Prepare mi comida, <rs ana="IXMUKANE">abuela</rs>; deseo <rs ana="IK">chilmol</rs> -dijo.</p>
+                    <p>Le preparó la comida, una taza de <rs ana="IK">chilmol</rs> le puso enfrente. Para burlarse de <rs ana="IXMUKANE">la abuela</rs>, es 
+                        decir, de <rs ana="IXMUKANE">la madre</rs>, dispuso secar el agua de la tinaja.</p> 
                     <p>-En verdad que tengo sed, vaya a traerme agua -le dijo a <rs ana="IXMUKANE">la abuela</rs>.</p> 
                     <p>-Está bien -contestó y se fue. Él se quedó comiendo, pero no era cierto que tenía hambre, 
                         era únicamente para despistar lo que había planeado. Luego vio a <rs ana="CH'O">la rata</rs> a través del reflejo 
-                        del chilmol; <rs ana="CH'O">la rata</rs> estaba sobre <rs ana="CHAAJ">la pelota</rs> que estaba colgada en el tapanco, así lo vio en el reflejo 
-                        del chilmol.</p> 
+                        del <rs ana="IK">chilmol</rs>; <rs ana="CH'O">la rata</rs> estaba sobre <rs ana="KIK'">la pelota</rs> que estaba colgada en el tapanco, así lo vio en el reflejo 
+                        del <rs ana="IK">chilmol</rs>.</p> 
                     <p>En seguida envió a un zancudo, un animal parecido al <rs ana="XA'N">mosco</rs>, llegó a la orilla del río, se 
                         propuso abrirle un hoyo a la tinaja de <rs ana="IXMUKANE">la abuela</rs>. Saltó un chorrito de agua que salió del tinaja, 
                         trató de cerrar el hoyo pero no se tapaba.
                         <pb xml:id="yua2021-121" /></p>
-                    <p>-¿Qué le está pasando, <rs ana="IXMUKANE">abuela</rs> mía?  Estoy sediento, me quejo de sed -le dijo a la madre. 
+                    <p>-¿Qué le está pasando, <rs ana="IXMUKANE">abuela</rs> mía?  Estoy sediento, me quejo de sed -le dijo a <rs ana="IXMUKANE">la madre</rs>. 
                         La mandó otra vez. En esto <rs ana="CH'O">la rata</rs> royó la colgadura de <rs ana="CHAAJ">la pelota</rs> y cayó por el hoyo del tapanco, 
                         juntamente con <rs ana="B'ATE">la lanza</rs>, <rs ana="PACHQ'AB'">los guantes</rs> y el escudo de <rs ana="TZ'UM">cuero</rs>.</p> 
                     <p>Luego los tomó y los fue a esconder por el camino que iba al patio del juego. Después se 
@@ -6921,9 +6925,10 @@
                     <p>-¿Qué le pasó? Me aburrí, por eso vine -dijo.</p> 
                     <p>-Mira mi tinaja, no se tapa el orificio -dijo <rs ana="IXMUKANE">la abuela</rs>.</p>
                     <p>Inmediatamente cerró el hoyo de la tinaja y se vinieron ya juntos, venía delante de <rs ana="IXMUKANE">la 
-                        abuela</rs> con eso disimuló el hallazgo de <rs ana="CHAAJ">la pelota</rs>.</p> 
-                    <p>Se puso feliz y se fue a ensayar al patio de juego, no tardó en practicar solo. Barrió el patio 
-                        de juego de <rs ana="JUN_JUNAJPU">su padre</rs>, lo oyeron <rs ana="RAJAWAL_XIB'ALB'A">los señores del Inframundo</rs>.</p> 
+                        abuela</rs> con eso disimuló el hallazgo de <rs ana="KIK'">la pelota</rs>.</p>
+                    <!-- editor's note: corresponds to paragraph 29, folio 22r -->
+                    <p>Se puso feliz y se fue a ensayar <rs ana="JOM">al patio de juego</rs>, no tardó en practicar solo. Barrió <rs ana="JOM">el patio 
+                        de juego</rs> de <rs ana="JUN_JUNAJPU">su padre</rs>, lo oyeron <rs ana="RAJAWAL_XIB'ALB'A">los señores del Inframundo</rs>.</p> 
                     <p>-¿Quiénes otros serán los que empiezan a jugar sobre nosotros? ¿No tienen vergüenza? 
                         ¿Están haciendo bulla? ¿Acaso no se murió <rs ana="JUN_JUNAJPU">Cada Cerbatanero</rs>, <rs ana="WUQUB'_JUNAJPU">Siete Un Cerbatanero</rs> que se 
                         envanecía delante de nosotros? Que los vayan a llamar -dijeron <rs ana="JUN_KAME'">Una Muerte</rs>, <rs ana="WUQUB'_KAME'">Siete Muertes</rs>, 
@@ -6954,7 +6959,7 @@
                         verás que soy ligero y llegaremos rápido.</p>
                     <p>
                     <sic>no hay nota al pie en el texto original</sic>
-                    !-- not sure how to encode the wrong footnotes in the line above -->
+                    <!-- not sure how to encode the wrong footnotes in the line above -->
                     <pb xml:id="yua2021-123"/></p>
                     <p>-Está bien -dijo <rs ana="UK'">el piojo</rs> al <rs ana="TAMASUL">sapo</rs>. Y en eso se lo lamió <rs ana="TAMASUL">el sapo</rs>, se fue lejos <rs ana="TAMASUL">el sapo</rs>, pero no 
                         era rápido. De repente encontraron una gran <rs ana="SAQIKAS">culebra</rs> llamada <rs ana="SAQIKAS">Sakikás</rs><hi rend="sup">73</hi>.</p>
