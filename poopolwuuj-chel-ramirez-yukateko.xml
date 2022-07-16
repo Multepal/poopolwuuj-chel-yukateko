@@ -2698,7 +2698,7 @@
                         Ráakan</rs>, <rs ana="CH'IPI_KAQULJA">Chíipi' Káakulja'</rs>, <rs ana="RAXA_KAQULJA">Ráaxa Káakulja'</rs>, ka tu ya'alaj ti' <rs ana="JUNAJPU">Jun Ajpúub</rs>, <rs ana="XB'ALAMQ'E">Xbáalankej:</rs></p>
                     <p>-Le u ka'atúul paal <rs ana="WUQUB'_KAQIX">Wukub Káakixo'</rs>, k'a'anan u ts'its' óolta'al; leti' u ts'-ookin t'aan. 
                         Ma' uts le ba'ax ku beetik way yóok'olkaaba', tumen táan u bin u p'áatal jach mu'uk'an u 
-                        páajtalilo'ob, ba'ale' ma' bey u tuukulil úuchik u beeta'alo'obi'. Il a wil bix a bisik tak te' Lak'ino' 
+                        páajtalilo'ob, ba'ale' ma' bey u tuukulil úuchik u beeta'alo'obi'. Il a wil bix a bisik tak <rs ana="TULÁN">te' Lak'ino'</rs> 
                         -tu ya'alaj bin <rs ana="JUN_RAQAN">Jun Ráakan</rs> ti' <rs ana="JUNAJPU">Jun Ajpúub</rs>, <rs ana="XB'ALAMQ'E">Xbáalankej</rs>.</p> 
                     <p>-Ma'alob túun <rs ana="JUN_RAQAN">in nojoch Ajaw</rs>. Bey kin in beetilo', tumen mix xan ti' teen uts u lúubul 
                         le ba'ax ku beetiko'obo'. Ma' wáaj ti' yanech uti'al le je'elo'.</p> 
@@ -4266,17 +4266,17 @@
                             <rs ana="TINAMIT_K'ICHE'">le k'iche' wíiniko'ob</rs> bey in yáax úuchben ch'i'ibalo'one'.</p> 
                     <p>Jach bin máan jya'abchaj le ajk'iino'ob yéetel le ajka'ano'obo'. Ma' bin chéen kantúul 
                         wíiniki', tumen kex wa <rs ana="IXOQ_AJAWAB'">kantúul u yáax xch'uupilo'ob</rs> <rs ana="TINAMIT_K'ICHE'">le k'iche' wíiniko'obo'</rs>, ts'o'okili' bin u 
-                        jelpajal u k'aaba'ob le ka jyanchaj u paalalo'ob te' Lak'ino'. Bey túun ya'abchajik u k'aaba' 
+                        jelpajal u k'aaba'ob le ka jyanchaj u paalalo'ob <rs ana="TULÁN">te' Lak'ino'</rs>. Bey túun ya'abchajik u k'aaba' 
                         le  wiiniko'obo': <rs ana="TEPEW_OLOMAN">Téepew, Óoloman</rs><ref target="yua.051"><hi rend="sup">51</hi></ref>
                         <note place="foot" xml:id="yua.051"><seg type="note-symbol"><hi rend="sup">51</hi></seg>
                             Il a wil le Yáax Kanti'itsmanti'itso'.
                         </note>, <rs ana="K'OJAJ">Kóojaj</rs>, <rs ana="K'ENECH_AJAW">Kéenech</rs>. Ajaw u k'aaba'ob bin. Bey úuchik u 
-                        k'aaba'inta'al le wíiniko'ob te' Lak'ino', te' tu'ux jya'abchajo'obo'. Ti' bin xan j-ojéelta'ab u nojkáajbal 
+                        k'aaba'inta'al le wíiniko'ob <rs ana="TULÁN">te' Lak'ino'</rs>, te' tu'ux jya'abchajo'obo'. Ti' bin xan j-ojéelta'ab u nojkáajbal 
                         <rs ana="TAMUB'">le Táamubilo'ob</rs><ref target="yua.052"><hi rend="sup">52</hi></ref>
                         <note place="foot" xml:id="yua.052"><seg type="note-symbol"><hi rend="sup">52</hi></seg>
                             Il a wil le Yáax Kanti'itsmanti'itso'.
                         </note> yéetel <rs ana="ILOKAB'">le Íilokaabilo'obo'</rs>.</p> 
-                    <p>Ti' bin jump'éelili' kúuchil jluk'o'ob te' Lak'in le yáax wíiniko'oba: <rs ana="B'ALAM_KI'TZE'">Báalam Ki' Che'eje'</rs>, 
+                    <p>Ti' bin jump'éelili' kúuchil jluk'o'ob <rs ana="TULÁN">te' Lak'in</rs> le yáax wíiniko'oba: <rs ana="B'ALAM_KI'TZE'">Báalam Ki' Che'eje'</rs>, 
                         u nool u ajawil u bolomp'éel ajawnajilo'ob u ajawch'i'ibalil <rs ana="KAWEQ">Káawikiib</rs><ref target="yua.053"><hi rend="sup">53</hi></ref>
                         <note place="foot" xml:id="yua.053"><seg type="note-symbol"><hi rend="sup">53</hi></seg>
                             Il a wil le Yáax Kanti'itsmanti'itso'.
@@ -4287,7 +4287,7 @@
                         Kíirolilo'ob<ref target="yua.054"><hi rend="sup">54</hi></ref>
                         <note place="foot" xml:id="yua.054"><seg type="note-symbol"><hi rend="sup">54</hi></seg>
                             Il a wil le Yáax Kanti'itsmanti'itso'.
-                        </note> te' Lak'in xano'o'. Ti' bin xan u taalbalo'ob <rs ana="TAMUB'">le Táamubilo'ob</rs> yéetel <rs ana="ILOKAB'">le Íilokaabilo'obo'</rs>, 
+                        </note> <rs ana="TULÁN">te' Lak'in xano'o'</rs>. Ti' bin xan u taalbalo'ob <rs ana="TAMUB'">le Táamubilo'ob</rs> yéetel <rs ana="ILOKAB'">le Íilokaabilo'obo'</rs>, 
                         yéetel u yóoxlajump'éel múuch'kajnáalo'ob yéetel u ajawnajilo'ob: 1) <rs ana="RAB'INALEB'">Ráabinaalilo'ob</rs>, 
                         2) <rs ana="KAQCHIKELEB'">Káakchikeelilo'ob</rs>, 3) <rs ana="AJTZ'IKINA_JA">Tsíikinajaajilo'ob</rs>, 4) <rs ana="SAQAJIB'">Sáakajiibilo'ob</rs>, 5) <rs ana="LAMAKIB'">Láamakiibilo'ob</rs>, 6) 
                         <rs ana="KUMATZ_AMAQ'">K'u'uk'umaatsilo'ob</rs>, 7) <rs ana="TUJAL_JA">Túujaljaajilo'ob</rs>, 8) <rs ana="UCH'AB'AJA">Cháabajaajilo'ob</rs>, 9) <rs ana="AJCH'UMILA_JA">Chúumilajaajilo'ob</rs>, 1O) 
@@ -4296,11 +4296,11 @@
                     <p>Le kin wa'aliko'ona', u nojjo'olpóopilo'ob in múuch'kajnáalo'on bin ka'achil; chéen kin 
                         tsikbaltiko'on le jach jnuukchajo'obo', tumen jach máan jya'abchaj le jsíij te' jejeláas múuch' 
                         kaajo'obo', ba'ale' ma' jbéeychaj in ts'íibiko'on u k'aaba'obi'. Chéen bin jts'íibta'ab u k'aaba' 
-                        le jya'abchajo'ob te' Lak'ino', tumen ya'abkach wíinik jsíij ichilo'ob le úuchik u ya'abtalo'obo'. 
+                        le jya'abchajo'ob <rs ana="TULÁN">te' Lak'ino'</rs>, tumen ya'abkach wíinik jsíij ichilo'ob le úuchik u ya'abtalo'obo'. 
                         <pb xml:id="yua2021-154" /> </p>
                     <p>Mix bin yáax juulnak u sáasilil le Yuum K'iin le u ya'abtalo'obo'. Chéen ti' 
                         jump'éelili' kúuchil jyanchaj tuláakalo'ob; jach bin utsil jyá'abchajo'ob le ka jyanchajo'ob te' 
-                        kúuchilo'. Chéen bin bey u máano'ób te' Lak'ino', tumen máili' u to'ob jump'éel kúuchil 
+                        kúuchilo'. Chéen bin bey u máano'ób <rs ana="TULÁN">te' Lak'ino'</rs>, tumen máili' u to'ob jump'éel kúuchil 
                         tu'ux u kajtalo'obe'. Chéen u sen líik'smaj u paakato'ob tu tojil ka'an, tumen má u yojelo'ob 
                         tu'ux je'el u béeytal u bino'obe'. Ma' jach jxáanchajo'obi', tumen bey úuchik u taal le sak yéetel 
                         le box wíiniko'ob kajtal <rs ana="TINAMIT_K'ICHE'">way K'iche' Kaaje</rs>.'; jach bin jela'antak u paatal u yicho'ob, u t'aano'ob, 
@@ -4308,7 +4308,7 @@
                     <p>Ts'o'okili' u yantal le kúuchkabalo', ba'ale' mix bin ila'ak máax u wíinikilo'obi'. Mix bin 
                         yanak u yo tocho'obi', tumen chéen máan ku beetiko'ob te' ichil le mejen yéetel le nukuch 
                         witso'obo', bey wa saatal u yóolo'obe'. Tu tenajuba'ob yéetel le nojlu'um tu'ux bin kajakbal le 
-                        wíinik tu yilajo'ob te' Lak'ino'; chéen jump'éelili' u t'aano'ob bin. Mix káajak u k'uulintiko'ob 
+                        wíinik tu yilajo'ob <rs ana="TULÁN">te' Lak'ino'</rs>; chéen jump'éelili' u t'aano'ob bin. Mix káajak u k'uulintiko'ob 
                         che', mix tuunich xani'i', ba'ale' láayli' bin k'aja'an tu tuukulo'ob u kili'ich nojt'aan <rs ana="TZ'AQOL">Tsáakol</rs>, 
                         <rs ana="B'ITOL">Bíitol</rs>, <rs ana="UK'U'X_KAJ">Ukúux Kaaj</rs>, <rs ana="UK'U'X_ULEW">Ukúux Ulew</rs>. Chéen táan u páak'tiko'ob u píik'il way yóok'olkaabe', le 
                         beetik chéen payalchi' ku beetiko'obi'. Leti'obe' kili'ich u t'aano'ob, yéetel yaabilta'ano'ob; jach 
@@ -4381,7 +4381,7 @@
                         <rs ana="TOJIL">Tojil</rs>, <rs ana="AWILIX">Áawilix</rs> yéetel <rs ana="JAQAWITZ">Jáakawits</rs>. Ku ts'o'okole', ka bin jtáakpaj tuláakal le múuch'kajnáalo'obo': 
                         <rs ana="RAB'INALEB'">Ráabinaalilo'ob</rs>, <rs ana="KAQCHIKELEB'">Káakchikeelilo'ob</rs>, <rs ana="AJTZ'IKINA_JA">Tsíikinajaajilo'ob</rs>, yéetel <rs ana="YAKI">le Yáaki' Wíiniko'obo'</rs>. Way bin 
                         jkáaj u k'expajal u t'aan le múuch'kajnáalo'obo'; jjelpaj ichil u baatsiluba'ob. J p'áat mix táan u 
-                        na'atikuba'ob úuchik u luk'ulo'ob <rs ana="TULÁN">Túulan</rs>. Way bin tu jatsajuba'obe': yaano'obe' Lak'in tu toj 
+                        na'atikuba'ob úuchik u luk'ulo'ob <rs ana="TULÁN">Túulan</rs>. Way bin tu jatsajuba'obe': yaano'obe' <rs ana="TULÁN">Lak'in</rs> tu toj 
                         táantaj u beelo'ob; u ya'abile' way bin jtaalo'obe'.</p>  
                     <p>Chéen bin yéetel junxéet' k'éewel ku pixik u wíinkililo'ob, tumen ma'ili' u kan u beeto'ob 
                         ma'alob nook' u búukinto'obe'. Chéen bin ku pixikuba'ob yéetel u k'éewelil ba'alche'ob, tumen 
@@ -4495,14 +4495,14 @@
                         <pb xml:id="yua2021-162" /> </p>
                     <p>Chéen kuxa'an u yóol u páak'tiko'ob u tíip'il Yuum K'iini'. Ku k'e'ek'exikuba'ob uti'al 
                         u paktiko'ob <rs ana="IK'OQ'IJ">le Noj Eek'</rs>, ku taalbal bin táanil ti' le Yuum K'iino', líik'ul úuchik u yantal u 
-                        kuxtal Yuum K'iin, <rs ana="IK'OQ'IJ">le jach Noj Eek'o'</rs>. Mantats' u tojtáantik u paakato'ob Lak'in bin, te' tu'ux 
+                        kuxtal Yuum K'iin, <rs ana="IK'OQ'IJ">le jach Noj Eek'o'</rs>. Mantats' u tojtáantik u paakato'ob <rs ana="TULÁN">Lak'in</rs> bin, te' tu'ux 
                         jyanchajo'obo', <rs ana="TULÁN">te' <rs ana="SUYWA">Áaktun</rs> Túulano'</rs>, te' tu'ux u taalbal le u Káabawilo'obo'. Ma' bin way tu 
                         ch'a'aj u muuk' u Ajawiló'obe'; te' bin jyéeya'ab yéetel jkuxkíinta'ab le nukuch yéetel le mejen 
                         múuch'kajnáalo'ob jxo'ot u kuxtalo'ob tu táan <rs ana="TOJIL">Tojilo'</rs>, tumen tu k'ubajo'ob <rs ana="KIK'">u k'i'ik'elil</rs> u 
                         ch'ala'atelo'ob. <rs ana="TULÁN">Túulan</rs> u taalbal bin u noj óol kuxtalil <rs ana="TOJIL">Tojil</rs>; nojoch its'atil yaan bin ti'ob ka'achil, 
                         ichil u yéek'jelch'e'enil yóok'olkaab úuchik u síijil tu tuukulo'ob.</p> 
                     <p>Bey úuchik u taalbalo'obo', tumen bin jjóokpayta'ab u kuxtalo'obi', ka jyanchaj u 
-                        p'atiko'ob Lak'in; ma' bin u nojlu'umo'obi'.</p> 
+                        p'atiko'ob <rs ana="TULÁN">Lak'in</rs>; ma' bin u nojlu'umo'obi'.</p> 
                     <p>-Ko'one'ex túun, tumen k'a'anan in wiliko'on tu'ux kúuchilil kan kajlako'one'ex -tu 
                         ya'alaj bin <rs ana="TOJIL">Tojil</rs>. Jach bin jaaj úuchik u t'aan yéetel <rs ana="B'ALAM_KI'TZE'">Báalam Ki' Che'ej</rs>, <rs ana="B'ALAM_AQ'AB'">Báalam Áak'ab</rs>, <rs ana="MAJUK'UTAJ">Máajukutaj</rs> 
                         yéetel <rs ana="IQ'I_B'ALAM">Báalam Uj</rs> -chéen ba'ale', yaan u yantal a ts'áajike'ex u nib óolalil, yaan u yantal 
@@ -4516,7 +4516,7 @@
                     <p>Ba'ale' jp'áat bin xan u piktanil wíinik te' bej tu'ux jmáano'obo'. Ti' bin tu jets'aj u 
                         kuxtalo'obi', ti' tu tséentajubáaj le múuch'kajnáalo'obo'. Tu ch'a'aj u beelo'o be', ka bin jtaalo'ob, 
                         ka'alikil u táan óoltiko'ob le eek' chíikultik le Yuum K'iino', u chíikulil u sáasiltal u yóol u 
-                        kuxtalo'ob úuchik u luk'ulo'ob te' Lak'ino'. Juntakáalili' bin u yichil u kuxtalo'ob úuchik u 
+                        kuxtalo'ob úuchik u luk'ulo'ob <rs ana="TULÁN">te' Lak'ino'</rs>. Juntakáalili' bin u yichil u kuxtalo'ob úuchik u 
                         luk'ulo'ob <rs ana="NIM_XO'L">Níim Xóol</rs><ref target="yua.061"><hi rend="sup">61</hi></ref>
                         <note place="foot" xml:id="yua.061"><seg type="note-symbol"><hi rend="sup">61</hi></seg>
                             Il a wil le Yáax Kanti'itsmanti'itso'.
@@ -4623,7 +4623,7 @@
                         u mu'uk'ankuuns u páajtalil yéetel u sajbe'entsilil. Leti' le ba'ax yaan bin tu puksi'ik'al le 
                         múuch'kajnáalo'obo', ka'alikil u páak' óolta'alo'ob tumen <rs ana="B'ALAM_KI'TZE'">Báalam Ki' Che'ej</rs>, <rs ana="B'ALAM_AQ'AB'">Báalam Áak'ab</rs>, 
                         <rs ana="MAJUK'UTAJ">Máajukutaj</rs> yéetel <rs ana="IQ'I_B'ALAM">Báalam Uj</rs>. Mix bin luk'sa'ak u yok'om óolal u puksi'ik'o'ob tumen <rs ana="TOJIL">Tojili'</rs>, 
-                        le tu páajkaltaj u taaso'ob le ka jluk'o'ob <rs ana="SUYWA">Áaktun</rs> <rs ana="TULÁN">Túulan</rs> te' Lak'ino'. Way jkajlajo'ob tu witsil 
+                        le tu páajkaltaj u taaso'ob le ka jluk'o'ob <rs ana="SUYWA">Áaktun</rs> <rs ana="TULÁN">Túulan</rs> <rs ana="TULÁN">te' Lak'ino'</rs>. Way jkajlajo'ob tu witsil 
                         &lt;<rs ana="PA_TOJIL">Sáakiribal Páaj Tojil</rs>, <rs ana="PA_AWILIX">Páaj Áawilix</rs>, <rs ana="JAQAWITZ_JUYUB'">Páaj Jáakawits</rs>&gt;<ref target="yua.068"><hi rend="sup">68</hi></ref>
                         <note place="foot" xml:id="yua.068"><seg type="note-symbol"><hi rend="sup">68</hi></seg>
                             Il a wil le Yáax Kanti'itsmanti'itso'.
@@ -4640,7 +4640,7 @@
                     <p>Jach jki'imakchaj u yóol <rs ana="B'ALAM_KI'TZE'">Báalam Kí' Che'ej</rs>, <rs ana="B'ALAM_AQ'AB'">Báalam Áak'ab</rs>, <rs ana="MAJUK'UTAJ">Máajukutaj</rs> yéetel <rs ana="IQ'I_B'ALAM">Báalam Uj</rs> 
                         úuchik u yiliko'ob <rs ana="IK'OQ'IJ">le Noj Eek'o'</rs>. Yáax táanil leti' jjóok'ij, jach sáast'abe'en úuchik bin u chíikpajal; 
                         táanil bin ku jóok'ol ti' Yuum K'iin. Kabin tu jáan wach'ajo'ob <rs ana="POM">le poom</rs> tu ch'a'ajo'ob 
-                        úuchik u luk'ulo'ob te' Lak'ino'.</p>
+                        úuchik u luk'ulo'ob <rs ana="TULÁN">te' Lak'ino'</rs>.</p>
                     <p>Jjóok' bin bey u yáax kili'ich meyajo'obe'. Tu yóoxtúulil bin tu jóok'saj <rs ana="POM">u poomo'ob</rs>, le 
                         u kili'ich ts'áajesajil u yóol u kuxtalo'obo'. 
                         <rs ana="POM">Le poom</rs> ku bisik bin ka'ach <rs ana="B'ALAM_KI'TZE'">Báalam Ki' Che'ejo'</rs> 
@@ -4649,7 +4649,7 @@
                             Il a wil le Yáax Kanti'itsmanti'itso'.
                         </note> u k'aába'; le uti'al <rs ana="B'ALAM_AQ'AB'">Báalam Áak'abo'</rs> &lt;Káawistan <rs ana="POM">Poom</rs>&gt; u k'aaba' bin; yéetel 
                         &lt;Káabawil <rs ana="POM">Poom</rs>&gt; u k'aaba: le ku bisik ka'ach <rs ana="MAJUK'UTAJ">Máajukutajo'</rs>. Ti' bin tu yóoxtúulil yaan <rs ana="POM">le 
-                        poomo'</rs>. Ku ts'o'okole' ka jbáaj u tóoko'ob, ka bin jajak' óolnajo'ob tu tojil Lak'in; táant u 
+                        poomo'</rs>. Ku ts'o'okole' ka jbáaj u tóoko'ob, ka bin jajak' óolnajo'ob tu tojil <rs ana="TULÁN">Lak'in</rs>; táant u 
                         yokolo'ob ka bin jajak' óolnajo'ob úuchik u tóokiko'ob <rs ana="POM">le poomo'</rs>, <rs ana="POM">le kili'ich poomo'</rs>. Chéen 
                         bin ka téek ok'olnajo'ob, tumen ma' tu yilajo'ob u síijil Yuum K'iini'.</p> 
                     <p>Ma' sáam bine' ka jjóok' Yuum K'iin. Jki'imakchaj u yóol le mejen yéetel le nukuch 
@@ -4686,7 +4686,7 @@
                     <p>Jach bin jki'imakchaj u yóol <rs ana="B'ALAM_KI'TZE'">Báalam Ki' Che'ej</rs>, <rs ana="B'ALAM_AQ'AB'">Báalam Áak'ab</rs>, <rs ana="MAJUK'UTAJ">Máajukutaj</rs> yéetel <rs ana="IQ'I_B'ALAM">Báalam 
                         Uj</rs> le ka jsáaschajo'. Ma' bin ya'ab wíinik yani', chéen bin jump'íit le jkajlajo'ob way te 
                         <rs ana="JAQAWITZ_JUYUB'">tu witsil Jáakawitsa'</rs>. Way bin jsáaschaj ti'obe', ka bin tu tóokajo'ob <rs ana="POM">poom</rs>; jajak'óolnajo'ob, tu 
-                        tojil Lak'in, te' tu'ux u taalbalo'obo'. U nojlu'umlo'ob, u jáalja'ob ka'achil, ti' bin u taalbalo'ob 
+                        tojil <rs ana="TULÁN">Lak'in</rs>, te' tu'ux u taalbalo'obo'. U nojlu'umlo'ob, u jáalja'ob ka'achil, ti' bin u taalbalo'ob 
                         <rs ana="B'ALAM_KI'TZE'">Báalam Ki' Che'ej</rs>, <rs ana="B'ALAM_AQ'AB'">Báalam Áak'ab</rs>, <rs ana="MAJUK'UTAJ">Máajukutaj</rs> yéetel <rs ana="IQ'I_B'ALAM">Báalam Uji'</rs>.</p> 
                     <p>Way bin te' wits jya'abchajo'oba'. Le je'ela' u kaajalo'ob bin, tumen ti' yano'ob le ka 
                         jchíikpaj Yuum K'iin, Ki'ichpan Uj yéetel le eek'o'obo'. Jsáaschaje', ka jjáampik'eenchaj 
@@ -4712,7 +4712,7 @@
                         wíinik<ref target="yua.073"><hi rend="sup">73</hi></ref>
                         <note place="foot" xml:id="yua.073"><seg type="note-symbol"><hi rend="sup">73</hi></seg>
                             Il a wil le Yáax Kanti'itsmanti'itso'.
-                        </note> jp'áato'ob Lak'in. <rs ana="TEPEW_OLOMAN">Téepew, Óoliman</rs> bin u k'aaba' le jp'áato'ob te'elo'.</p> 
+                        </note> jp'áato'ob <rs ana="TULÁN">Lak'in</rs>. <rs ana="TEPEW_OLOMAN">Téepew, Óoliman</rs> bin u k'aaba' le jp'áato'ob te'elo'.</p> 
                     <p>Nojba'alak bin le ki'iki' jak' óolal tu yu'ubajo'ob <rs ana="JAQAWITZ_JUYUB'">way Jáakawitse'</rs>; bey bin yaniko'ob <rs ana="TAMUB'">le 
                         Táamubilo'ob</rs> yéetel <rs ana="ILOKAB'">le Íilokaabilo'obo'</rs>. Le ku taalbalo'ob &lt;<rs ana="AMAQ'_TAM">Áamaktan</rs>&gt; xano', te' bin yano'ob 
                         way tu k'áaxil le witso'. Le ka jsáaschaje', u yéetbisajba'ilo'ob, le ajk'iino'ob, le ajka'ano'ob yéetel 
@@ -5156,7 +5156,7 @@
                         kex ts'o'okili' u máan ya'abkach ja'ab kíimik u yáax yuumo'obe'. Jts'áab u yatano'ob tumen 
                         le múuchkajnáalo'obo', le beetik j-ila'abo'ob bey ka'ayuumo'ob tu yóok'olal le xch'uup tu 
                         maatajo'ob.</p> 
-                    <p>-Táan in bino'on tak tu'ux ku tíipi'l le Yuum K'iino' (te' Lak'ino'), te' tu'x u taalbal le
+                    <p>-Táan in bino'on tak tu'ux ku tíipi'l le Yuum K'iino' (<rs ana="TULÁN">te' Lak'ino'</rs>), te' tu'x u taalbal le
                         in yáax ajawo'ono'obo -tu ya'alajo'ob bin. Ku ts'o'okole' ka bin tu ch'a'j u beelo'ob; óoxtúul
                         úuchik u jóok'sik u took u bino'obi'.</p>
                     <p><rs ana="K'OKA'IB_KQDOS">Kóokajib</rs> u k'aaba' juntúuli', u paal <rs ana="B'ALAM_KI'TZE'">Báalam Ki' Che'ej</rs>, u ajawil <rs ana="KAWEQ">le Káawikiibilo'obo'</rs>; 
@@ -5167,7 +5167,7 @@
                         tsolkint'antajo'ob tuláakal u nukuch suku'uno'ob yéetel u mejen íits'ino'ob. Ki'imak u yóol 
                         bin úuchik u bino'obi'.</p> 
                     <p>-Mix táan in kíimilo'on, yaan in ka' suuto'on -tu ya'alajo'ob bin úuchik u bino'ob.</p> 
-                    <p>Óoxtúulo'ob bin úuchik u ch'aktiko'ob <rs ana="PALO">le k'áak'nabo'</rs>. Jk'ucho'ob tak te' Lak'ino', te'
+                    <p>Óoxtúulo'ob bin úuchik u ch'aktiko'ob <rs ana="PALO">le k'áak'nabo'</rs>. Jk'ucho'ob tak <rs ana="TULÁN">te' Lak'ino'</rs>, te'
                         tu'ux jbin u ch'a'ob <rs ana="NAKXIT">le ajawt'aano'</rs>. Le je'ela' u k'aaba' bin <rs ana="NAKXIT">le Ajawo'</rs>: &lt;<rs ana="NAKXIT">U Ajawil Lak'in</rs>&gt;; ti bin
                         jk'ucho'obi.</p>
                     <p>Jk'ucho'ob bin tu táan <rs ana="NAKXIT">le Ajawo'</rs>. &lt;<rs ana="NAKXIT">Náakxit</rs>&gt;<ref target="yua.n083"><hi rend="sup">83</hi></ref>
@@ -5195,7 +5195,7 @@
                     <p>Jki'imakchaj u yóol <rs ana="RAB'INALEB'">le Ráabinaalilo'ob</rs>, <rs ana="KAQCHIKELEB'">le Káakchikeelilo'ob</rs>, <rs ana="AJTZ'IKINA_JA">le Tsíikinajaajilo'obo'</rs>. 
                         Chéen bin u chíikulil j-e' es ti'ob u noj óol kuxtalil tuláakal le Noj Ajawilo', le beetik tu ka' ch'a' 
                         óoltajo'ob u yóol u kuxtalil le múuch'kajnáalo'obo'. Ma wáaj yáax jkáaj u bin u lúubul u muuk' 
-                        le ajawt'aano'. Te' bin way <rs ana="JAQAWITZ_JUYUB'">Jáakawits</rs> yano'obe', yéetel tuláakal le baax jbin u ch'a'ob te' Lak'ino'; 
+                        le ajawt'aano'. Te' bin way <rs ana="JAQAWITZ_JUYUB'">Jáakawits</rs> yano'obe', yéetel tuláakal le baax jbin u ch'a'ob <rs ana="TULÁN">te' Lak'ino'</rs>; 
                         ma bin jach jxáanchajo'ob way <rs ana="JAQAWITZ_JUYUB'">te' witsa'</rs> tumen ts'o'okili' u jach ya'abtalo'obe' <rs ana="IXOQ_AJAWAB'">u yatano'ob</rs> 
                         <rs ana="B'ALAM_KI'TZE'">Báalam Ki' Che'ej</rs>, <rs ana="B'ALAM_AQ'AB'">Báalam Áak'ab</rs> yéetel <rs ana="MAJUK'UTAJ">Máajukutaje'</rs>, way bin jkíimo'obe'.</p> 
                     <p>Tu ch'a'ajo'ob u t'aanil u líik'sikuba'ob; tu p'ataj bin u kúuchkabalo'obe', ka jbin u kaxto'ob 
@@ -5219,7 +5219,7 @@
                         </note>, <rs ana="JUMETA_JA">Júumetaja'</rs>, <rs ana="K'ULB'A">Kúulbaj</rs> yéetel <rs ana="KAWINAL">Káawinal</rs> u k'aaba le witso'ob tu'ux jkajlajo'obo'.</p> 
                     <p>Mantats' bin u máan u xak'alxíimbalto'ob le uláak' witso'ob yaan tu báak'paach le u 
                         kaajalo'ob beyo', ka'alikil u kaxtiko'ob uláak' bey ma' sen ka'anale', ichil ti' tuláakal le yano'ob 
-                        te'elo'. Ts'o'okili' u kíimil le máaxo'ob jbin u ch'a'ob le Ajawt'aan te' Lak'in bino'; ts'o'okili' u 
+                        te'elo'. Ts'o'okili' u kíimil le máaxo'ob jbin u ch'a'ob le Ajawt'aan te' <rs ana="TULÁN">Lak'in</rs> bino'; ts'o'okili' u 
                         nukuch wíiniktalo'ob le ka suunnajo'ob way te' kaajo'oba, le beetik ma jk'ucho'ob kuxtal te' 
                         tuláak' túumben kaaj jwa'akunsa'abo'opo'. Ya'abkach yaayaj óolal tu máansajo'obi'. Ba'ale' kex 
                         beyo', le in yáax noolo'on yéetel le in yáax ajawo'ono', ma' bin sen náach tu kaxtajo'ob le uláak' 
@@ -7499,12 +7499,14 @@
                         palparon, mejor dicho, pensaron, meditaron aquí, como resultado salió la idea, verdadera 
                         creación hallaron. Maduraron lo que había que emplear para el cuerpo de la gente. Aclaró en 
                         seguida, pero no alumbraban el Sol, la Luna y las estrellas sobre <rs ana="TZ'AQOL">El Arquitecto</rs>, <rs ana="B'ITOL">El Formador</rs>.</p> 
+                    <!-- editor's note: corresponds to paragaph 45, folio 32v -->
                     <p>De <rs ana="PAXIL">Pan Pashil</rs>, <rs ana="K'AYALA'">Pan Kayalá</rs> vino <rs ana="JAL">la mazorca amarilla y blanca</rs>.</p>
+                    <!-- editor's note: corresponds to paragraph 46, folio 32v -->
                     <p>Éstos son los nombres de los animales que trajeron el alimento: <rs ana="YAK">gato de monte</rs>, <rs ana="UTIW">coyote</rs>, 
                         <rs ana="KUMATZ">culebra</rs> y <rs ana="JOJ">cuervo</rs>. Cuatro fueron los animales que dieron la noticia de <rs ana="JAL">las mazorcas amarillas y 
                         blancas</rs> a ellos, de allá de <rs ana="PAXIL">Pan Pashil</rs> vino y enseñaron el camino de <rs ana="PAXIL">Pan Pashil</rs>. Así fue como 
                         hallaron el alimento y fue lo que emplearon para el cuerpo de la gente construida, de la gente 
-                        formada. La sangre fue líquida, la sangre de la gente, <rs ana="IXIM">maíz</rs> empleó <rs ana="ALOM">El Creado</rs>, <rs ana="K'AJOLOM">El Varón Creado</rs>.</p> 
+                        formada. <rs ana="KIK'">La sangre</rs> fue líquida, <rs ana="KIK'">la sangre</rs> de la gente, <rs ana="IXIM">maíz</rs> empleó <rs ana="ALOM">El Creado</rs>, <rs ana="K'AJOLOM">El Varón Creado</rs>.</p> 
                     <p>Se pusieron contentos porque hallaron muy buena montaña llena de buen alimento, rica 
                         en <rs ana="IXIM">maíz amarillo y blanco</rs>; rica en <rs ana="PEQ">pataxté</rs>, <rs ana="KAKAW">cacao</rs>; había abundancia de <rs ana="TULUL">zapote</rs>, <rs ana="K'AWEX">anona</rs>, <rs ana="Q'IMOM">ciruela</rs>, 
                         <rs ana="TAPA'L">nance</rs>, <rs ana="AJACHE'">matazano</rs>, <rs ana="KAB'">miel</rs>. Estaba llena de muchos alimentos la tierra que se llama <rs ana="PAXIL">Pan Pashil</rs>, <rs ana="K'AYALA'">Pan 
@@ -7515,11 +7517,13 @@
                         dispusieron <rs ana="ALOM">El Creado</rs>, <rs ana="K'AJOLOM">El Varón Creado</rs>, <rs ana="TEPEW_Q'UKUMATZ">El Infinito, El Oculta Serpiente</rs>, como les decían. 
                         Luego tomaron en cuenta la construcción y formación de nuestra primera madre y padre, <rs ana="XA_Q'ANA_JAL">era 
                         de maíz amarillo y blanco el cuerpo</rs>, de alimento eran las piernas y brazos de la gente, de nuestros 
-                        primeros padres. Eran cuatro gentes construidas, de sólo alimento eran sus cuerpos.</p> 
+                        primeros padres. Eran cuatro gentes construidas, de sólo alimento eran sus cuerpos.</p>
+                    <!-- editor's note: corresponds to paragraph 47, folio 33r -->
                     <p>Éstos son los nombres de las primeras gentes que se construyeron y se formaron, el primer 
                         hombre fue <rs ana="B'ALAM_KI'TZE'">Risa de León</rs>, el segundo fue <rs ana="B'ALAM_AQ'AB'">León Madrugador</rs>, el tercero <rs ana="MAJUK'UTAJ">Maj U Kutaj</rs> y el 
                         cuarto fue <rs ana="IQ'I_B'ALAM">León de la Luna</rs>. Éstos son los nombres de nuestros primeros padres y madres.
                         <pb xml:id="yua2021-151" /></p>
+                    <!-- editor's note: corresponds to paragraph 48, folio 33r -->
                     <p>Sólo les decían El Construido, El Formado; no tenían madre ni padre; sólo a ellos mencionamos, 
                         porque no nacieron de mujer sino que fueron creados por <rs ana="TZ'AQOL">El Arquitecto</rs>, <rs ana="B'ITOL">El Formador</rs>, 
                         <rs ana="ALOM">El Creado</rs>, <rs ana="K'AJOLOM">El Varón Creado</rs>. Sólo por milagro, por mito fue la construcción y formación 
@@ -7530,9 +7534,10 @@
                         está debajo del cielo. Si miraban, al momento observaban, examinaban lo del cielo y de la tierra, 
                         no había obstáculo para mirar todo, no tenían que caminar primero cuando querían ver lo de 
                         abajo del cielo, sólo se estaban en el mismo lugar cuando miraban.</p> 
-                    <p>Mucha fue la sabiduría que tenían, su mirada atravesaba los árboles, piedras, lagos, mares, 
+                    <p>Mucha fue la sabiduría que tenían, su mirada atravesaba los árboles, piedras, lagos, <rs ana="PALO">mares</rs>, 
                         montañas, costas. En verdad eran gentes sagradas <rs ana="B'ALAM_KI'TZE'">Risa de León</rs>, <rs ana="B'ALAM_AQ'AB'">León Madrugador</rs>, <rs ana="MAJUK'UTAJ">Maj U 
-                        Kutaj</rs>, <rs ana="IQ'I_B'ALAM">León de la Luna</rs>.</p> 
+                        Kutaj</rs>, <rs ana="IQ'I_B'ALAM">León de la Luna</rs>.</p>
+                    <!-- editor's note: corresponds to paragraph 49, folio 33v -->
                     <p>En seguida fueron interrogados por <rs ana="TZ'AQOL">El Arquitecto</rs>, <rs ana="B'ITOL">El Formador</rs>:</p> 
                     <p>-¿Cómo sienten su existencia? ¿Pueden mirar? ¿Oír? ¿Es buena su habla, su caminata? 
                         Miren ahora, vean qué está abajo del cielo ¿Se ven las montañas y costas? Hagan esfuerzos -les 
@@ -7542,52 +7547,54 @@
                     <p>-En verdad que dos veces gracias, tres veces gracias por habernos hecho gentes, nos 
                         establecimos, nos reprodujimos, hablamos, oímos, meditamos, nos movemos, nos sentimos, 
                         supimos lo lejos, lo cerca. ¿Acaso no vimos lo grande y pequeño del cielo y la tierra? Muchas 
-                        gracias pues a vosotros, nos hicimos gentes, somos construidos, formados nos originamos, tú, 
-                        nuestra abuela, tú, nuestro abuelo -dijeron.</p> 
+                        gracias pues a vosotros, nos hicimos gentes, somos construidos, formados nos originamos, <rs ana="IXMUKANE">tú, 
+                        nuestra abuela</rs>, <rs ana="XPIYAKOK">tú, nuestro abuelo</rs> -dijeron.</p> 
                     <p>De una vez agradecieron su construcción, su formación; terminaron de saber todo: cúspide 
                         del cielo, lados del cielo<ref target="spa.n023"><hi rend="sup">23</hi></ref>
                         <note place="foot" xml:id="spa.n023"><seg type="note-symbol"><hi rend="sup">23</hi></seg> 
                             Vuelven a mencionar dos elementos de la pirámide imaginaria del Universo. 
                         </note>, el interior del cielo y de la tierra. Pero no le pareció bien al 
                         <rs ana="TZ'AQOL">Arquitecto</rs>, al <rs ana="B'ITOL">Formador</rs>.</p> 
-                    <p>-No está bueno lo que dijeron nuestros construidos, nuestros formados, porque supieron 
-                        todo, grande y pequeño -dijeron.</p> 
+                    <p>-No está bueno lo que dijeron <rs ana="XA_Q'ANA_JAL">nuestros construidos, nuestros formados</rs>, porque supieron 
+                        todo, grande y pequeño -dijeron.</p>
+                    <!-- editor's note: corresponds to paragraph 50, folio 34r -->
                     <p>De manera que volvieron a pensar, <rs ana="ALOM">El Creado</rs>, <rs ana="K'AJOLOM">El Varón Creado</rs>:</p> 
                     <p>-¿Qué les haremos ahora para que miren solamente cerca, para que miren poca superficie 
                         de la tierra? Porque no está bueno lo que dicen. ¿Acaso no son sólo construidos, formados sus 
-                        nombres? ¿Han de existir primero como dioses? ¿Peor si no se multiplican, no aumentan cuan 
-                        do se hable, cuando amanezca? ¿Y si no hay modo para que se reproduzcan definitivamente? 
+                        nombres? ¿Han de existir primero como dioses? ¿Peor si no se multiplican, no aumentan cuando 
+                        se hable, cuando amanezca? ¿Y si no hay modo para que se reproduzcan definitivamente? 
                         Sólo los descomponemos para que sean pocos sus deseos. Porque no está bueno, así lo sentimos. 
                         ¿Acaso van a igualar sus hechos con nosotros, de que llegue lejos su sabiduría y que todo lo 
                         miren? -se dijeron <rs ana="UK'U'X'_KAJ">El Espíritu del Cielo</rs>, <rs ana="JUN_RAQAN">Un Pie</rs>, <rs ana="CH'IPI_KAQULJA">Último Rayo</rs>, <rs ana="RAXA_KALQULJA">Verdadero Rayo</rs>, <rs ana="TEPEW_Q'UKUMATZ">El Infinito, El 
                         Oculta Serpiente</rs>, <rs ana="ALOM">El Creado</rs>, <rs ana="K'AJOLOM">El Varón Creado</rs>, <rs ana="XPIYAKOK">Xpiyakok</rs>, <rs ana="IXMUKANE">Xmukané</rs>, <rs ana="TZ'AQOL">El Arquitecto</rs>, <rs ana="B'ITOL">El Formador</rs>, 
                         les decían. <pb xml:id="yua2021-153" /></p>
+                    <!-- editor's note: corresponds to paragraph 51, folio 34r -->
                     <p>Trataron de enmendar sus construcciones y formaciones, para lo cual <rs ana="UK'U'X'_KAJ">el Espíritu del Cielo</rs> 
                         solamente les empañó el globo de los ojos, quedaron algo ciegos, como si se hubiese echado 
                         vaho sobre la luna de un espejo; cegó el globo de los ojos, ya sólo de cerca miraron, ya sólo veían 
                         donde estaban.</p> 
-                    <p>Así fue como les perdieron la sabiduría con to~a maestría a los cuatro primeros hombres, 
-                        y así fue la construcción y formación de nuestros primeros abuelos, primeros padres, por <rs ana="UK'U'X'_KAJ">El 
+                    <p>Así fue como les perdieron la sabiduría con to~a maestría a <rs ana="XA_Q'ANA_JAL">los cuatro primeros hombres</rs>, 
+                        y así fue la construcción y formación de <rs ana="XA_Q'ANA_JAL">nuestros primeros abuelos, primeros padres</rs>, por <rs ana="UK'U'X'_KAJ">El 
                         Espíritu del Cielo</rs>, <rs ana="UK'U'X_ULEW">El Espíritu de la Tierra</rs>.</p> 
-                    <p>En seguida nacieron sus compañeras, es decir, se originaron sus mujeres. Sólo Dos Miradas 
-                        lo ideó, fue como en un sueño cuando las tomaron. En verdad que eran bellas mujeres las 
+                    <p>En seguida nacieron <rs ana="IXOQ_AJAWAB'">sus compañeras</rs>, es decir, se originaron <rs ana="IXOQ_AJAWAB'">sus mujeres</rs>. Sólo Dos Miradas 
+                        lo ideó, fue como en un sueño cuando las tomaron. En verdad que eran <rs ana="IXOQ_AJAWAB'">bellas mujeres</rs> las 
                         que amanecieron con <rs ana="B'ALAM_KI'TZE'">Risa de León</rs>, <rs ana="B'ALAM_AQ'AB'">León Madrugador</rs>, <rs ana="MAJUK'UTAJ">Ma U Kutaj</rs>, <rs ana="IQ'I_B'ALAM">León de la Luna</rs>. Ya tenían 
-                        mujer cuando despertaron. Rápido se pusieron felices sus corazones a causa de sus compañeras. 
+                        mujer cuando despertaron. Rápido se pusieron felices sus corazones a causa de <rs ana="IXOQ_AJAWAB'">sus compañeras</rs>. 
                         Éstos son los nombres de <rs ana="IXOQ_AJAWAB'">sus mujeres</rs>: <rs ana="KAQA_PALO_JA'">Kajá Paluná</rs> la mujer de <rs ana="B'ALAM_KI'TZE'">Risa de León</rs>, <rs ana="CHOMI_JA'">Chomijá</rs>, 
                         la de <rs ana="B'ALAM_AQ'AB'">León Madrugador</rs>, <rs ana="TZ'UNUNI_JA'">Casa de Gorrión</rs> la mujer de <rs ana="MAJUK'UTAJ">Maj U Kutaj</rs> y <rs ana="KAK'IXA_JA'">Kikixajá</rs>, la de <rs ana="IQ'I_B'ALAM">León de 
                         la Luna</rs>. Éstos son los nombres de <rs ana="IXOQ_AJAWAB'">las señoras</rs> que aparecieron, fueron procreadoras de gente, 
                         pequeños nobles, grandes nobles. Eran pues nuestros primeros ancestros <rs ana="TINAMIT_K'ICHE'">los k'ichés</rs>.</p> 
-                    <p>Muchísimos fueron los dignos, los del cielo. Ya no eran sólo cuatro, es que eran cuatro las 
-                        mujeres de <rs ana="TINAMIT_K'ICHE'">la gente k'iché</rs>, ya tenían diferentes nombres cada uno cuando procrearon allá en el 
-                        Oriente. Bastantes nombres resultaron de la gente <rs ana="TEPEW_OLOMAN">Tepeu, Olomán</rs><hi rend="sup"><sic>93</sic></hi>, <rs ana="K'OJAJ">Kojaj</rs> y <rs ana="KENECH_AJAW">Kenek. Ajau</rs>, era 
-                        el nombre de esta gente allá en el Oriente donde se multiplicaron, de aquí que se sabe el origen 
-                        de <rs ana="TAMUB'">los Tamub</rs>, de <rs ana="ILOKAB'">los Ilokab</rs>.</p> 
-                    <p>De un mismo lugar salieron de allá del Oriente: <rs ana="B'ALAM_KI'TZE'">Risa de León</rs>, abuelo del padre de las 
+                    <p>Muchísimos fueron los dignos, los del cielo. Ya no eran sólo cuatro, es que eran cuatro <rs ana="IXOQ_AJAWAB'">las 
+                        mujeres</rs> de <rs ana="TINAMIT_K'ICHE'">la gente k'iché</rs>, ya tenían diferentes nombres cada uno cuando procrearon allá en <rs ana="TULÁN">el 
+                        Oriente</rs>. Bastantes nombres resultaron de la gente <rs ana="TEPEW_OLOMAN">Tepeu, Olomán</rs><hi rend="sup"><sic>93</sic></hi>, <rs ana="K'OJAJ">Kojaj</rs> y <rs ana="KENECH_AJAW">Kenek. Ajau</rs>, era 
+                        el nombre de esta gente allá en <rs ana="TULÁN">el Oriente</rs> donde se multiplicaron, de aquí que se sabe el origen 
+                        de <rs ana="TAMUB">los Tamub</rs>, de <rs ana="ILOKAB">los Ilokab</rs>.</p> 
+                    <p>De un mismo lugar salieron de allá <rs ana="TULÁN">del Oriente</rs>: <rs ana="B'ALAM_KI'TZE'">Risa de León</rs>, abuelo del padre de las 
                         nueve grandes casas en línea de <rs ana="KAWEQ">Kawikib</rs>; <rs ana="B'ALAM_AQ'AB'">León Madrugador</rs>, abuelo del padre de las nueve 
                         grandes casas en línea de <rs ana="NIJA'IB">Nimjaibab</rs>; <rs ana="MAJUK'UTAJ">Maj U Kutaj</rs>, abuelo del padre de las cuatro grandes en 
                         línea de <rs ana="AJAW_K'ICHE'">Ajaw K'iche'</rs>.</p> 
                     <p>Tres familias de pueblos existieron, no se ha olvidado el nombre del abuelo del padre de 
-                        los Kirol allá en el Oriente. También de allá vinieron <rs ana="TAMUB'">los Tamub</rs>, y <rs ana="ILOKAB'">los Ilokab</rs> con nuestras trece 
+                        los Kirol allá en <rs ana="TULÁN">el Oriente</rs>. También de allá vinieron <rs ana="TAMUB">los Tamub</rs>, y <rs ana="ILOKAB">los Ilokab</rs> con nuestras trece 
                         tribus, trece palacios: 1) <rs ana="RAB'INALEB'">Rabinales</rs>, 2) <rs ana="KAQCHIKELEB">Kakchikeles</rs>, 3) <rs ana="AJTZ'IKINA_JA">Los de la Casa de Pájaros</rs>, 4) <rs ana="SAQAJIB'">Los de Casa 
                         Blanca</rs>, 5) <rs ana="LAMAKIB'">Los Lamakib</rs>, 6) <rs ana="KUMATZ_AMAQ'">Los Oculta Serpiente</rs>, 7) <rs ana="TUJAL_JA">Los de la Casa de Temascal</rs>, 8) <rs ana="UCH'AB'AJA">Los de la 
                         Casa de Flechas</rs>, 9) <rs ana="AJCH'UMILA_JA">Los de la Casa de Estrellas</rs>, 10) <rs ana="AJKIB'A_JA">Aj Kib Ja</rs>, 11) <rs ana="AJBA'TENA_JA">Los de la Casa de Lanzas</rs>, 12) 
@@ -7597,14 +7604,14 @@
                         escribir<ref target="spa.n024"><hi rend="sup">24</hi></ref>
                         <note place="foot" xml:id="spa.n024"><seg type="note-symbol"><hi rend="sup">24</hi></seg>
                             Es otro argumento para afirmar que tenían escritura propia. 
-                        </note> sus nombres, sólo los que se multiplicaron allá en el Oriente, a mucha gente dieron 
+                        </note> sus nombres, sólo los que se multiplicaron allá en <rs ana="TULÁN">el Oriente</rs>, a mucha gente dieron 
                         origen cuando se multiplicaron. <pb xml:id="yua2021-155"/></p> 
-                    <p>Todavía no se había creado el Sol, la claridad cuando se multiplicaron, sólo en uh lugar 
-                        se estuvieron todos; eran muchísimos cuando existieron, eran nómadas allá en el Oriente, no 
+                    <p>Todavía no se había creado el Sol, la claridad cuando se multiplicaron, sólo en un lugar 
+                        se estuvieron todos; eran muchísimos cuando existieron, eran nómadas allá en <rs ana="TULÁN">el Oriente</rs>, no 
                         habían buscado dónde establecerse. Sólo al cielo se mantenían mirando, no sabían dónde ir; no 
-                        tardaron mucho, luego se establecieron aquí en Los Magueyes<ref target="spa.n025"><hi rend="sup">25</hi></ref>
+                        tardaron mucho, luego se establecieron aquí en <rs ana="TINAMIT_K'ICHE'">Los Magueyes</rs><ref target="spa.n025"><hi rend="sup">25</hi></ref>
                         <note place="foot" xml:id="spa.n025"><seg type="note-symbol"><hi rend="sus">25</hi></seg>
-                            Ésta es la etimología de K'iche' que se menciona en el prólogo. 
+                            Ésta es la etimología de <rs ana="TINAMIT_K'ICHE'">K'iche'</rs> que se menciona en el prólogo. 
                         </note> la gente negra y blanca; muy 
                         diferentes eran las caras, lenguas, miradas y oídos que hay bajo el cielo.</p> 
                     <p>Había comarca, pero todavía no se había visto. No tenían casa, se mantenían errantes en 
@@ -7614,7 +7621,7 @@
                         Estaban esperando la llegada del amanecer, se mantenían orando, eran de palabra sagrada, 
                         amados; eran grandes, eran adivinos, mantenían la cara al cielo, pedían hijas e hijos.</p>
                     <p>-¡Acláranos!, tú <rs ana="TZ'AQOL">Arquitecto</rs>, tú <rs ana="B'ITOL">Formador</rs>, míranos, escúchanos, no nos abandones, no 
-                        nos rechaces, tú Dios del Cielo y de la Tierra, <rs ana="UK'U'X_KAJ">Espíritu del Cielo</rs> y <rs ana="UK'U'X_ULEW">de la Tierra</rs>, danos nuestra señal, 
+                        nos rechaces, tú <rs ana="UK'U'X_KAJ">Dios del Cielo</rs> y <rs ana="UK'U'X_ULEW">de la Tierra</rs>, <rs ana="UK'U'X_KAJ">Espíritu del Cielo</rs> y <rs ana="UK'U'X_ULEW">de la Tierra</rs>, danos nuestra señal, 
                         nuestra verdad cuando se vaya el día, la claridad. ¡Habla! ¡Amanécenos! Ponnos en muchos 
                         y verdaderos caminos, verdaderos valles, planos, limpios planos; grandes y muy buenos llanos, 
                         muy buenas tribus; en muy buena vida, en buena humanidad nos colocas, tú <rs ana="JUN_RAQAN">Un Pie</rs>, <rs ana="CH'IPI_KAQULJA">Último 
@@ -7627,7 +7634,7 @@
                         <rs ana="MAJUK'UTAJ">Maj U Kutaj</rs>, <rs ana="IQ'I_B'ALAM">León de la Luna</rs>:</p> 
                     <p>-Esperemos que amanezca -dijeron los grandes sabios, expertos, dignos, los grandes les 
                         decían.</p> 
-                    <p>Todavía no había árboles ni piedras que cuidaran a nuestra primera madre y padre. Se 
+                    <p>Todavía no había árboles ni piedras que cuidaran a <rs ana="IXOQ_AJAWAB'">nuestra primera madre</rs> y <rs ana="XA_Q'ANA_JAL">padre</rs>. Se 
                         cansaron por esperar la salida del Sol, ya eran muchas las gentes con la gente <rs ana="YAKI">yakí</rs>, dignos, del 
                         cielo.</p> 
                     <p>-Nos vamos, busquemos, es decir, veamos si hay algo que nos cuide, que sea maduro. 
@@ -7635,6 +7642,7 @@
                         <rs ana="B'ALAM_KI'TZE'">Risa de León</rs>, <rs ana="B'ALAM_AQ'AB'">León Madrugador</rs>, <rs ana="MAJUK'UTAJ">Maj U Kutaj</rs> y <rs ana="IQ'I_B'ALAM">León de la Luna</rs>.</p> 
                     <p>Tuvieron noticia de un país y allá se fueron. <pb xml:id="yua2021-157" /></p> 
                 </div>
+                <!-- editor's note: corresponds to paragraph 52, folio 35v -->
                 <div type="tsúuk" n="spa.tsk.13">
                     <head rend="center">
                         NOMBRE DEL PAÍS A DONDE FUERON <rs ana="B'ALAM_KI'TZE'">RISA DE LEÓN</rs>,
