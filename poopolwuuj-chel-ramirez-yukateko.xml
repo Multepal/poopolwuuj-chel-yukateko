@@ -8365,22 +8365,22 @@
                 </div>
                 <div type="tsúuk" n="spa.tsk.19">
                     <head rend="center">
-                        NOMBRE DE LOS SEÑORES DE LA LÍNEA KAWIKIB</head>
-                    <p>Éstos fueron los primeros señores: Aj Pop, Aj Pop Kamja, Aj Tojil, Aj Kukumatz, Nim 
-                        Chokoj Kawek, Popol Winak, Chituy Lolmet, Kej Nay, Popol Winak Pajom Tzalatz, Uchuch 
-                        Kamja<ref target="spa.n034"><hi rend="sup">34</hi></ref>
+                        NOMBRE DE LOS SEÑORES DE LA LÍNEA <rs ana="KAWEQ">KAWIKIB</rs></head>
+                    <p>Éstos fueron los primeros señores: <rs ana="AJPOP">Aj Pop</rs>, <rs ana="AJPOP_K'AMJA">Aj Pop Kamja</rs>, <rs ana="AJTOJIL">Aj Tojil</rs>, <rs ana="AJQ'UKUMATZ">Aj Kukumatz</rs>, <rs ana="NIM_CH'OKOJ_KAWEQ">Nim 
+                        Chokoj Kawek</rs>, <rs ana="POPOL_WINAQ_CHI_T'UY">Popol Winak, Chituy</rs> <rs ana="LOLMET_KEJNAY">Lolmet, Kej Nay</rs>, <rs ana="POPOL_WINAQ_PA_JOM_TZALATZ'">Popol Winak Pajom Tzalatz</rs>, <rs ana="UCHUCH_K'AMJA">Uchuch 
+                        Kamja</rs><ref target="spa.n034"><hi rend="sup">34</hi></ref>
                         <note place="foot" xml:id="spa.n034"><seg type="note-symbol"><hi rend="sup">34</hi></seg>
                                 Chuch Oâm Ja, significa "Señora de la Casa de Gradas", lo cual indica que también las mujeres gobernaban. 
-                        </note>. Éstos son pues, los señores de los Kawikib. Eran nueve señores, cada uno separado con 
+                        </note>. Éstos son pues, los señores de <rs ana="KAWEQ">los Kawikib</rs>. Eran nueve señores, cada uno separado con 
                         su gran casa, con su respectiva descendencia. 
                         <pb xml:id="yua2021-203" /></p>
                 </div>
                 <div type="tsúuk" n="spa.tsk.20">
                     <head rend="center">
-                        SEÑORES DE LA LÍNEA NIMJAIBAB</head>
-                    <p>El primer señor fue Ajau Kalel. Y siguen Ajau Aj Tzik Winak, Kalel Kamja, Uchuch Ka- 
-                        mja, Nim Chokoj Nimjaibab, Awilish, Yakolatam, Utzam Pop Sak Latol, Nim Lolmet Yeoltux. 
-                        Así pues, nueve fueron Señores de los Nimjaibab.
+                        SEÑORES DE LA LÍNEA <rs ana="NIJA'IB">NIMJAIBAB</rs></head>
+                    <p>El primer señor fue <rs ana="AJAW_Q'ALEL">Ajau Kalel</rs>. Y siguen <rs ana="AJAW_AJTZIK_WINAQ">Ajau Aj Tzik Winak</rs>, <rs ana="Q'ALEL_K'AMJA">Kalel Kamja</rs>, <rs ana="UCHUCH_K'AMJA">Uchuch Kamja</rs>, 
+                        <rs ana="NIM_CH'OKOJ_NIJA'IB">Nim Chokoj Nimjaibab</rs>, <rs ana="AJAW_AWILIX">Awilish</rs>, <rs ana="YAKOLATAM_UTZA'M_POP_SAQLATOL">Yakolatam, Utzam Pop Sak Latol</rs>, <rs ana="NIMA_LOLMET_YE'OLTUX">Nim Lolmet Yeoltux</rs>. 
+                        Así pues, nueve fueron Señores de <rs ana="NIJA'IB">los Nimjaibab</rs>.
                         <pb xml:id="yua2021-205" /></p>                         
                 </div>
                 <div type="tsúuk" n="spa.tsk.21">
