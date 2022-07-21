@@ -5150,7 +5150,7 @@
                     <p>Bey úuchik u téek xóot'ol u kuxtal <rs ana="B'ALAM_KI'TZE'">Báalam Ki' Che'ej</rs>, <rs ana="B'ALAM_AQ'AB'">Báalam Áak'ab</rs>, <rs ana="MAJUK'UTAJ">Máajukutaj</rs> yéetel 
                         <rs ana="IQ'I_B'ALAM">Báalam Uj</rs> waye'; le yáax wíinik jluk'p'ob te' tu táanxel tséelil le káak'nabo', te' tu'ux ku tíip'il 
                         Yuum K'iino'. Jach bin táaj úuch k'uchuko'ob waye'; jkíimo'ob úuchik u nukuch máaktalo'ob. 
-                        Ajk'iino'ob yéetel ajka'ano'ob. Bey úuchik u tukulta'alo'ob bino'.</p> 
+                        <rs ana="XA_Q'ANA_JAL">Ajk'iino'ob yéetel ajka'ano'ob</rs>. Bey úuchik u tukulta'alo'ob bino'.</p> 
                     <p>Chéen ka téek jmáan tu tuukul u bino'ob tak tu'ux ku tíip'il le Yuum K'iino', tumen 
                         láayli' kuxa'an tu tuukulo'ob u tsolxikint'aano'obil le u yáax ajawo'obo'; ma' u tu'ubso'ob bin 
                         kex ts'o'okili' u máan ya'abkach ja'ab kíimik u yáax yuumo'obe'. Jts'áab u yatano'ob tumen 
@@ -8209,6 +8209,7 @@
                     <head rend="center">
                         MUERTE DE <rs ana="B'ALAM_KI'TZE'">RISA DE LEÓN</rs>, <rs ana="B'ALAM_AQ'AB'">LEÓN MADRUGADOR</rs>,
                         <rs ana="MAJUK'UTAJ">MAJ U KUTAJ</rs> Y <rs ana="IQ'I_B'ALAM">LEÓN DE LA LUNA</rs></head>
+                    <!-- editor's note: corresponds to paragraph 70, folio 47r -->
                     <p>Presintieron la muerte y su desaparición, por eso dispusieron aconsejar a sus hijos. No 
                         porque estuvieran enfermos o gimiendo o en agonía cuando transmitieron la tradición a sus 
                         hijos.</p> 
@@ -8260,11 +8261,11 @@
                         y consagraron, mejor dicho. Lo tenían escondido cuando lo dejaron sus padres, era el 
                         testimonio de su existencia que hicieron.</p>
                     <p>Así fue pues la desaparición y el fin de <rs ana="B'ALAM_KI'TZE'">Risa de León</rs>, <rs ana="B'ALAM_AQ'AB'">León Madrugador</rs>; <rs ana="MAJUK'UTAJ">Maj U Kutaj</rs> y 
-                        <rs ana="IQ'I_B'ALAM">León de la Luna</rs>; primeras gentes que vinieron de allá del otro lado del triar por donde sale el 
+                        <rs ana="IQ'I_B'ALAM">León de la Luna</rs>; primeras gentes que vinieron de allá del otro lado del <rs ana="PALO">mar</rs> por donde sale el 
                         Sol<ref target="spa.n033"><hi rend="sup">33</hi></ref>
                         <note place="foot" xml:id="spa.n033"><seg type="note-symbol"><hi rend="sup">33</hi></seg>
                             Repiten que sus antepasados vinieron del otro lado del Atlántico; puesto que por ese lado sale el Sol. 
-                        </note>. Fue antiquísima su llegada aquí; se murieron, ya eran ancianos. Eran nobles, eran celestiales. 
+                        </note>. Fue antiquísima su llegada aquí; se murieron, ya eran ancianos. Eran <rs ana="XA_Q'ANA_JAL">nobles, eran celestiales</rs>. 
                         Así era el concepto.</p> 
                     <p>Repentinamente se ilusionaron con ir hacia allá donde sale el Sol, porque tenían presente 
                         los consejos de sus padres; no los habían olvidado desde muy antiguo, desde que murieron sus 
@@ -8279,8 +8280,11 @@
                         gentes de nacimiento. Dejaron aconsejados a todos sus hermanos mayores y menores. Alegres 
                         se fueron:</p> 
                     <p>-No nos moriremos, tenemos que regresar -dijeron cuando se fueron.</p>
-                    <p>Fueron tres, pasaron sobre <rs ana="PALO">el mar</rs>. Llegaron pues, allá al Oriente, a donde fueron a traer 
-                        autoridad. Éste es el nombre del señor: <rs ana="NAKXIT">"Señor del Oriente"</rs> y donde llegaron.</p> 
+                    <p>Fueron tres, pasaron sobre <rs ana="PALO">el mar</rs>. Llegaron pues, allá al <rs ana="TULÁN">Oriente</rs>, a donde fueron a traer 
+                        autoridad. 
+                    <!-- editor's note: corresponds to paragraph 71, folio 48r -->
+                        Éste es el nombre del señor: <rs ana="NAKXIT">"Señor del Oriente"</rs> y donde llegaron.</p>
+                    <!-- editor's note: corresponds to paragraph 72, folio 48r --> 
                     <p>-Llegaron ante <rs ana="NAKXIT">el Señor</rs>. <rs ana="NAKXIT">"Nak Xit"</rs> se llamaba el gran señor; era un juez. Era grande su 
                         autoridad y fue queridio el testimonio de autoridad para todos sus semejantes, cuando vino 
                         la constancia de autoridad para los que la asumieran, de los que oficiaran en los Templos Piramidales. 
@@ -8290,7 +8294,8 @@
                         de sus dominios: <rs ana="MU'J">Muj</rs>, <rs ana="Q'ALIB'AJ">Kalibal</rs>, <rs ana="SUB'AQ">Subak</rs>, <rs ana="CHAMCHAM">Cham Cham</rs>, <rs ana="TATIL">Totil</rs>, <rs ana="Q'ANAB'AJ">Kanabaj</rs>, <rs ana="TZIKWIL_KOJ">Tzikwil Koj</rs>, <rs ana="TZIKWIL_B'ALAM">Tzikwil 
                         Balam</rs>, <rs ana="JOLOM">Jolom</rs> <rs ana="PICH_KEJ">Pich Kej</rs>, <rs ana="MAKUTAX">Makutax</rs>, <rs ana="T'OT_TATAN">Tot, Tatam</rs>, <rs ana="K'US_B'US">Kus, Bus</rs>, <rs ana="KAXKON">Kaxkom</rs>, <rs ana="CHIYOM">Chiyom</rs>, <rs ana="ASTAPULUL">Astapulul</rs>. Todo lo 
                         traían cuando regresaron; lo trajeron del otro lado del <rs ana="PALO">mar</rs>. "Escritura de <rs ana="TULÁN">Tulán</rs>", le decían en 
-                        sus tradiciones.</p> 
+                        sus tradiciones.</p>
+                    <!-- editor's note: corresponds to paragraph 73, folio 48v -->
                     <p>Llegaron pues aquí en su pueblo llamado <rs ana="JAQAWITZ">Jakawitz</rs>. Aquí se reunieron todos <rs ana="TAMUB'">los Tamub</rs>, 
                         <rs ana="ILOKAB'">los Ilokab</rs>; se reunieron todas las tribus, se pusieron felices cuando regresaron <rs ana="K'OKA'IB_KQDOS">Kokaib</rs>, <rs ana="K'O'AKUTEK_NJDOS">Kokutek</rs> 
                         y <rs ana="K'O'AJAW">Koajau</rs>. De manera que aquí fue donde reconocieron autoridad las tribus.</p> 
@@ -8302,7 +8307,7 @@
                         Madrugador</rs> y la de <rs ana="MAJUK'UTAJ">Maj U Kutaj</rs>.</p> 
                     <p>Decidieron levantarse; dejaron su comarca y buscaron otro lugar para establecerse. Recorrieron 
                         incontables montañas para establecerse, para asentar, para habitar, para lo cual vagaron 
-                        y lucharon nuestras primeras madres, nuestros primeros padres. Decían las antiguas gentes 
+                        y lucharon <rs ana="IXOQ_AJAWAB'">nuestras primeras madres</rs>, <rs ana="XA_Q'ANA_JAL">nuestros primeros padres</rs>. Decían las antiguas gentes 
                         cuando contaron el abandono del primer pueblo llamado <rs ana="JAQAWITZ">Jakawitz</rs>; salieron de ahí y se establecieron 
                         en otro lugar llamado <rs ana="CHI_K'IX">"En las Espinas"</rs>. No estuvieron mucho tiempo en este lugar. 
                         Grupo de pueblos, tuvieron hijas e hijos; aquí estuvieron. Eran cuatro lugares, pero tenían el 
@@ -8313,9 +8318,10 @@
                         eran los nombres de los lugares donde se establecieron.</p> 
                     <p>Se mantenían explorando <rs ana="JAQAWITZ_JUYUB">la montaña</rs>, mejor dicho su pueblo, buscando una pequeña 
                         montaña, ya eran muchos en totalidad. Ya habían muerto quienes habían ido a traer la Autoridad 
-                        de Oriente; ya eran abuelos cuando llegaron aquí en cada uno de los pueblos, pero no 
+                        de <rs ana="TULÁN">Oriente</rs>; ya eran abuelos cuando llegaron aquí en cada uno de los pueblos, pero no 
                         se hallaron en donde habían edificado cada cual. Muchos sufrimientos pasaron. No muy lejos 
-                        encontraron el lugar los abuelos y padres; éste es el nombre de la comarca a donde llegaron:</p> 
+                        encontraron el lugar los abuelos y padres; éste es el nombre de la comarca a donde llegaron:</p>
+                    <!-- editor's note: corresponds to paragraph 74, folio 49v --> 
                     <p><rs ana="CHI_ISMACHI">"Chi Ismachí"</rs> se llamaba la montaña de su pueblo y en donde se establecieron, mejor 
                         dicho, donde se establecieron las tribus. Aquí fue donde se fortalecieron; aquí fue donde ya 
                         emplearon cal y tizate. Fue hasta en la cuarta generación de señores, dijeron los <rs ana="B'ALAM_K'ONACHE'_KQTRES">Konaché</rs> por 
@@ -8350,7 +8356,7 @@
                         <rs ana="CHI_ISMACHI">Chi Ismachí</rs>.</p> 
                     <p>Aquí aumentó la vergüenza de Dios, ya asustaba. Se atemorizaron todas las tribus, pequeñas 
                         tribus, grandes tribus. Comenzaron a encarcelar gente, las sajaron; las mataron a causa del 
-                        poder y la grandeza de los reyes <rs ana="K'OTUJA_KQCUATRO">Kotujá</rs> e <rs ana="ISTAYUL_KQCUATRO">Istayul</rs> juntamente con los Nimjaibab del Rey K'iché. 
+                        poder y la grandeza de los reyes <rs ana="K'OTUJA_KQCUATRO">Kotujá</rs> e <rs ana="ISTAYUL_KQCUATRO">Istayul</rs> juntamente con <rs ana="NIJA'IB">los Nimjaibab</rs> del <rs ana="AJAW_K'ICHE'">Rey K'iché</rs>. 
                         Fue una federación de tres pueblos que permanecieron en <rs ana="CHI_ISMACHI">Chi Ismachí</rs>; hasta aquí comenzaron 
                         a comer y a beber con motivo de sus hijas cuando las regalaban. Era "contribución 
                         mutua"; así llamaban a <rs ana="OXIB_RI_NIM_JA">las tres grandes casas</rs>. Aquí apareció la costumbre de servir atole y 
@@ -8365,6 +8371,7 @@
                         K'ichés</rs> -decían <rs ana="OXIB_RI_NIM_JA">los tres pueblos</rs>, mejor dicho <rs ana="OXIB_RI_NIM_JA">las tres grandes casas</rs>.</p>
                     <p>Sin embargo, no tardaron mucho aquí en <rs ana="CHI_ISMACHI">Chi Ismachí</rs>. Encontraron, mejor dicho, vieron 
                         a otro lugar y dejaron de una vez <rs ana="CHI_ISMACHI">Chi Ismachí</rs>.</p>
+                    <!-- editor's note: corresponds to paragraph 75, folio 50v -->
                     <p>Así pues, se levantaron, salieron hacia otro lugar llamado <rs ana="Q'UMARKAJ">Kumarkaj</rs><hi rend="sup">141</hi>[sic] por <rs ana="TINAMIT_K'ICHE'">los K'ichés</rs>, 
                         se decía. Llegaron después <rs ana="K'OTUJA_KQCINCO">Kotujá</rs> y <rs ana="Q'UKUMATZ_KQCINCO">Kukumatz</rs> juntamente con todos los señores de la quinta 
                         generación, desde el principio de la claridad, de las tribus, desde el principio de la existencia y 
@@ -8389,6 +8396,7 @@
                         señor. Aquí diremos ahora los nombres de cada señor de cada una de las grandes casas. 
                         <pb xml:id="yua2021-201" /></p> 
                 </div>
+                <!-- editor's note: corresponds to paragraph 76, folio 51r -->
                 <div type="tsúuk" n="spa.tsk.19">
                     <head rend="center">
                         NOMBRE DE LOS SEÑORES DE LA LÍNEA <rs ana="KAWEQ">KAWIKIB</rs></head>
