@@ -8404,11 +8404,14 @@
                         Chokoj Kawek</rs>, <rs ana="POPOL_WINAQ_CHI_T'UY">Popol Winak, Chituy</rs> <rs ana="LOLMET_KEJNAY">Lolmet, Kej Nay</rs>, <rs ana="POPOL_WINAQ_PA_JOM_TZALATZ'">Popol Winak Pajom Tzalatz</rs>, <rs ana="UCHUCH_K'AMJA">Uchuch 
                         Kamja</rs><ref target="spa.n034"><hi rend="sup">34</hi></ref>
                         <note place="foot" xml:id="spa.n034"><seg type="note-symbol"><hi rend="sup">34</hi></seg>
-                                Chuch Oâm Ja, significa "Señora de la Casa de Gradas", lo cual indica que también las mujeres gobernaban. 
-                        </note>. Éstos son pues, los señores de <rs ana="KAWEQ">los Kawikib</rs>. Eran nueve señores, cada uno separado con 
+                            <rs ana="UCHUCH_K'AMJA">Chuch Oâm Ja</rs>, significa "<rs ana="UCHUCH_K'AMJA">Señora de la Casa de Gradas</rs>", lo cual indica que también las mujeres gobernaban. 
+                        </note>.
+                <!-- editor's note: corresponds to paragraph 77, folio 51r --> 
+                        Éstos son pues, los señores de <rs ana="KAWEQ">los Kawikib</rs>. Eran nueve señores, cada uno separado con 
                         su gran casa, con su respectiva descendencia. 
                         <pb xml:id="yua2021-203" /></p>
                 </div>
+                <!-- editor's note: corresponds to paragraph 78, folio 51r -->
                 <div type="tsúuk" n="spa.tsk.20">
                     <head rend="center">
                         SEÑORES DE LA LÍNEA <rs ana="NIJA'IB">NIMJAIBAB</rs></head>
@@ -8417,6 +8420,7 @@
                         Así pues, nueve fueron Señores de <rs ana="NIJA'IB">los Nimjaibab</rs>.
                         <pb xml:id="yua2021-205" /></p>                         
                 </div>
+            <!-- editor's note: corresponds to paragraph 79, folio 51r -->
                 <div type="tsúuk" n="spa.tsk.21">
                     <head rend="center">
                         NOMBRE DE <rs ana="AJAW_K'ICHE'">LOS SEÑORES K'ICHÉS</rs></head>
@@ -8424,17 +8428,20 @@
                         Cuatro fueron <rs ana="AJAW_K'ICHE'">los Señores K'ichés</rs>, con grandes casas separadas.
                         <pb xml:id="yua2021-207" /></p> 
                 </div>
+            <!-- editor's note: corresponds to paragraph 80, folio 51r -->
                 <div type="tsúuk" n="spa.tsk.22">
                     <head rend="center">
                         DOS PUEBLOS DE LOS SEÑORES <rs ana="SAQAJIB'">SAKIKIB</rs></head>
-                    <p><rs ana="TZ'UTUJA">Tzutujá</rs> y <rs ana="Q'ALEL_SAQIK">Kalel Sakik</rs>, eran solamente una gran casa con dos señores. De esta manera, se 
+                    <p><rs ana="TZ'UTUJA">Tzutujá</rs> y <rs ana="Q'ALEL_SAQIK">Kalel Sakik</rs>, eran solamente una gran casa con dos señores. 
+            <!-- editor's note: corresponds to paragraph81, folio 51v -->
+                        De esta manera, se 
                         completaron veinticuatro señores, o sea, veinticuatro grandes casas. En ese entonces aumentó 
                         <rs ana="TEPEW">el poderío y grandeza</rs> en <rs ana="TINAMIT_K'ICHE'">el sector k'iché</rs>. Fueron poderosos y gloriosos por el gran peso de <rs ana="TINAMIT_K'ICHE'">los 
                         K'ichés</rs>. Hubo progreso, encalaron y estucaron los edificios de la nación.</p> 
                     <p>Llegaron pequeñas y grandes tribus. Se conoce el nombre del Rey quien engrandeció 
-                        K'iché; llegó a su apogeo <rs ana="TEPEW">el poderío y grandeza</rs>, se construyó la casa de Dios, las casas de los 
+                        K'iché; llegó a su apogeo <rs ana="TEPEW">el poderío y grandeza</rs>, se construyó la casa de <rs ana="DIOS">Dios</rs>, las casas de los 
                         señores. Pero no las hicieron ellos, porque ellos no trabajaron; no construyeron ellos mismos 
-                        sus casas, la casa de Dios, porque se multiplicaron sus descendientes.</p> 
+                        sus casas, la casa de <rs ana="DIOS">Dios</rs>, porque se multiplicaron sus descendientes.</p> 
                     <p>Tampoco las quitaron con modo, ni las robaron, mejor dicho. No las fraccionaron, sino 
                         que en verdad eran propiedad de cada señor. Es que eran muchos sus hermanos mayores y menores 
                         que nacieron. Se reunían para conocerse y oír las disposiciones de cada señor.</p> 
@@ -8444,12 +8451,12 @@
                         nación. Sólo por el mito de los señores se hicieron poderosos <rs ana="Q'UKUMATZ_KQCINCO">el Rey Kukumatz</rs> y <rs ana="K'OTUJA_KQCINCO">el Rey Kotujá</rs>. 
                         En verdad, por el mito de <rs ana="Q'UKUMATZ_KQCINCO">Kukumatz</rs> era que siete días subía al cielo, siete días bajaba a 
                         estarse en <rs ana="XIB'ALB'A">el Inframundo</rs>. Siete días se convertía en <rs ana="KUMATZ">serpiente</rs>; de cierto que era mera <rs ana="KUMATZ">culebra</rs>. 
-                        Siete días se hacía <rs ana="WAK">águila</rs>, siete días en <rs ana="KOJ">león</rs>. De veras parecía verdadera <rs ana="WAK">águila</rs>, verdadero <rs ana="KOJ">león</rs>. 
-                        Siete días se convertía en sangre reposada; sólo él era sangre regada.</p> 
+                        Siete días se hacía <rs ana="K'OTAL">águila</rs>, siete días en <rs ana="B'ALAM">león</rs>. De veras parecía verdadera <rs ana="K'OTAL">águila</rs>, verdadero <rs ana="B'ALAM">león</rs>. 
+                        Siete días se convertía en sangre reposada; sólo él era <rs ana="KIK'">sangre</rs> regada.</p> 
                     <p>De veras que el mito del nacimiento del Rey infundía miedo a todos los señores. Se regó 
                         la noticia. Se dieron cuenta todos los señores de las tribus de la existencia misteriosa del Rey. 
-                        Por este motivo comenzó a engrandecerse <rs ana="TINAMIT_K'ICHE'">K'iché</rs> por obra del <rs ana="Q'UKUMATZ_KQCINCO">Rey Kukumatz</rs>, signo de su po- 
-                        der sobrenatural. Tampoco esto está perdido en la mente de los abuelos y de su descendencia. 
+                        Por este motivo comenzó a engrandecerse <rs ana="TINAMIT_K'ICHE'">K'iché</rs> por obra del <rs ana="Q'UKUMATZ_KQCINCO">Rey Kukumatz</rs>, signo de su poder 
+                        sobrenatural. Tampoco esto está perdido en la mente de los abuelos y de su descendencia. 
                         Nunca se había visto que el mito de un rey hubiera influido en el progreso de todas las 
                         tribus; esto fue lo que hizo. Sólo esta revelación fue el motivo de que hayan desaparecido los 
                         cabecillas de las tribus. 
@@ -8460,6 +8467,7 @@
                         quinta generación de reyes. Cada señor tuvo sendas generaciones. 
                         <pb xml:id="yua2021-211" /></p> 
                 </div>
+                <!-- editor's note: corresponds to paragraph 82, folio 52r -->
                 <div type="tsúuk" n="spa.tsk.23">
                     <head rend="center">
                         SEXTA GENERACIÓN DE REYES</head>
@@ -8490,7 +8498,8 @@
                         a discutir todos los señores y salió su proyecto: 
                         <pb xml:id="yua2021-213" /></p> 
                     <p>-Como si todavía fuera, o es, nuestro pueblo, nuestra defensa de tablas, nuestro castillo, 
-                        para que se irriten los maridos; y que resulte así -dijeron todos los señores.</p> 
+                        para que se irriten los maridos; y que resulte así -dijeron todos los señores.</p>
+                    <!-- editor's note: corresponds to paragraph 83, folio 52r --> 
                     <p>De una vez salieron para fortificar cada pueblo para rechazar a los guerreros. Cuando se 
                         fueron los defensores de las posesiones de las tribus, bien los aleccionaron:</p> 
                     <p>-Como ya son nuestras las comarcas, no tengan miedo. Si ven que ya se acerca a ustedes 
@@ -8499,7 +8508,7 @@
                     <p>Bien los aconsejaron a todos por igual. Juntamente con <rs ana="Q'ALEL">Kalel</rs> y <rs ana="AJTZIK_WINAQ">Aj Tzik Winak</rs>, tomaron 
                         parte los lanceros y los honderos, se decía.</p> 
                     <p>Luego se separaron los abuelos y padres de <rs ana="TINAMIT_K'ICHE'">la gente k'iché</rs> que estaban en cada montaña; 
-                        y habían ido como guardianes de las comarcas, cuidadores de <rs ana="B'ATE">lanzas</rs> y hondas de pita, vigilantes 
+                        y habían ido como guardianes de las comarcas, cuidadores de lanzas y hondas de pita, vigilantes 
                         del enemigo. No les había amanecido en un mismo lugar, es decir, no tenían el mismo Dios. 
                         Con estas diferencias habían ido a circular el pueblo.</p> 
                     <p>Así que salieron todos: <rs ana="WILA'">los Aj Uwilá</rs>, <rs ana="CHULIMAL">los Aj Chutimal</rs>, <rs ana="SAQI_YA">Sakiyá</rs>, <rs ana="XAJBA'KYEJ">Xajbakiej</rs>, <rs ana="CHITEMAJ">Chi Temaj</rs>, 
@@ -8514,7 +8523,7 @@
                         reclutaron.</p> 
                     <p>Se fueron pues sus proles, sus hijos a las montañas, a cada una de las montañas. Pero 
                         primero vinieron las hermanas y prisioneros ante <rs ana="K'IKAB'_KQSIETE">Kikab</rs>, <rs ana="KAWISIMAJ_KQSIETE">Kawisimaj</rs>, <rs ana="Q'ALEL">Kalel</rs> y <rs ana="AJTZIK_WINAQ">Aj Tzik Winak</rs>. 
-                        Tuvieron que combatir con <rs ana="B'ATE">lanzas</rs> y hondas de pita, tomaron a las hermanas y prisioneros. Se 
+                        Tuvieron que combatir con lanzas y hondas de pita, tomaron a las hermanas y prisioneros. Se 
                         hicieron hombres los defensores. Se establecieron, se multiplicaron; y ya eran muchas las prebendas 
                         que les otorgaban los señores, porque les habían traído a sus hermanas, prisioneros y 
                         todo.</p> 
@@ -8527,12 +8536,14 @@
                     <p>Lo mismo hicieron <rs ana="TAMUB'">los Tamub</rs> y <rs ana="ILOKAB'">los Ilokab</rs>, porque los tres grupos eran <rs ana="TINAMIT_K'ICHE'">k'ichés</rs>. En seguida 
                         se comenzó a reclutar gente, pero antes tuvieron que adiestrar a sus proles, a sus hijos; así fue 
                         como se dispuso. Sin embargo, el reclutamiento no se hizo en el <rs ana="TINAMIT_K'ICHE'">K'iché</rs>, sino que en una comarca. 
-                        Tiene nombre la comarca en donde se realizó el reclutamiento de las proles, de los hijos.</p> 
+                        Tiene nombre la comarca en donde se realizó el reclutamiento de las proles, de los hijos.</p>
+                    <!-- editor's note: corresponds to paragraph 84, folio 53v -->
                     <p>Fueron enviados todos los que estaban en cada montaña y los reunieron en un solo lugar. 
                         <rs ana="XE_BALAX">Xebalax</rs>, <rs ana="XE_KAMAQ">Xekamak</rs> se llama la comarca en donde se agarró a la gente. En <rs ana="CHULIMAL">Chulimal</rs> fue donde 
                         se les asignó los cargos. 
                         <pb xml:id="yua2021-217" /></p>
                 </div>
+                <!-- editor's note: corresponds to paragraph 85, folio 53v -->
                 <div type="tsúuk" n="spa.tsk.24">
                     <head rend="center">
                         PREPARACION Y SELECCIÓN DE LAS DIVISIONES</head>
