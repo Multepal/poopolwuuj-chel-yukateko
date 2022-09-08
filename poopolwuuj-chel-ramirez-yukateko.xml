@@ -5530,7 +5530,7 @@
                         U MEYAJTA'AL YÉETEL U YÉEYA'AL LE AJK'ALELO'OBO'</head>
                     <p>Junk'aal u túulul bin <rs ana="Q'ALEL">Ajk'alel</rs> wáaj junk'aal u túulul <rs ana="AJPOP">Ajpóop</rs> jyéeya'ab tumen <rs ana="AJPOP">Ajpóop</rs> yéetel 
                         <rs ana="AJPOP_K'AMJA">Ajpóopkamjaaj</rs>, wa xan tumen <rs ana="Q'ALEL">Ajk'alel</rs> yéetel <rs ana="AJTZIK_WINAQ">Ajtsíik Wíinak</rs>. Jk'u'ub bin u kuuch tuláakal 
-                        le junk'aal u túulul <rs ana="Q'ALEL">Ajk'alel</rs>, <rs ana="AJPOP">Ajpóopo'obo'</rs>. Ichilo'ob jyéeya'ab Junlajun <rs ana="NIMA_CH'OKOJ">Níim Chokoj</rs><ref target="yua.n105"><hi rend="sup">105</hi></ref>
+                        le junk'aal u túulul <rs ana="Q'ALEL">Ajk'alel</rs>, <rs ana="AJPOP">Ajpóopo'obo'</rs>. Ichilo'ob jyéeya'ab <rs ana="NIMA_CH'OKOJ">Junlajun Níim Chokoj</rs><ref target="yua.n105"><hi rend="sup">105</hi></ref>
                         <note place="foot" xml:id="yua.n105"><seg type="note-symbol"><hi rend="sup">105</hi></seg>
                             Il a wil le Yáax Kanti'itsmanti'itso'.
                         </note> yéetel 
@@ -5762,7 +5762,7 @@
                     <p><rs ana="AJAW_K'OTUJA_NJONCE">Kóotujaaj Ajawe'</rs>, u bulukp'éel ajawch'i'ibalil <rs ana="B'ALAM_AQ'AB'">Báalam Áak'ab</rs>.</p> 
                     <p><rs ana="AJAW_K'OTUJA_NJONCE">Yuum Cristóbal</rs> pa'atik u k'aaba' bin le máax jala'achkuunnaj tu k'iinilo'ob ma' úuch 
                         k'uchuk le káastelan wíiniko'ob waye'e'.</p> 
-                    <p><rs ana="AJAQ_Q'ALEL_NJDOCE">Yuum Pedro de Robles</rs> u Ajk'alel Ajawil bejla'e'.</p> 
+                    <p><rs ana="AJAQ_Q'ALEL_NJDOCE">Yuum Pedro de Robles</rs> <rs ana="AJAW_Q'ALEL">u Ajk'alel Ajawil</rs> bejla'e'.</p> 
                     <p>Tuláakal ti' u taalbalo'ob ti' u ch'i'ibalil <rs ana="B'ALAM_AQ'AB'">Báalam Áak'abe'</rs>, jk'aaba'inta'abo'ob bey <rs ana="AJAW_Q'ALEL">Ajk'alel 
                         Ajawo'obe'</rs>. Bíin in ka'ajo'on in máanchi'it u k'aaba' u ajawilo'ob le ajawnajo'obo'.</p>
                     <p><rs ana="AJAW_Q'ALEL">Ajk'alel Ajaw</rs>. U yáax Ajawil <rs ana="NIJA'IB">le Níimjaybaabilo'obo'</rs>. U ajawil jump'éel Ajawnaj bin.</p> 
@@ -5828,11 +5828,11 @@
                         </note>. U ajawil u yóoxp'éel Ajawnaj bin.</p>  
                     <p><rs ana="AJAW_JAQAWITZ">Jáakawits Ajaw</rs>. U k'aaba bin u kantúul ajawil jump'éel Ajawnaj ti' le kamp'éel k'iche' 
                         ajawnaj jwa'akunsa'abo'.</p>  
-                    <p>Bey túuno', <rs ana="OXIB_RI_NIM_JA">óoxp'éel bin u Ajawnajil</rs> u ajawch'i'ibalil le Kojo'obo'. Leti'ob bin 
+                    <p>Bey túuno', <rs ana="NIM_CH'OKOJ">óoxp'éel bin u Ajawnajil</rs> u ajawch'i'ibalil le Kojo'obo'. Leti'ob bin 
                         ka'ach u yáax ajawilo'ob tuláakal <rs ana="AJAW_K'ICHE'">le k'iche' ajawo'obo'</rs>, le beetik tu paaklan much'ajuba'ob 
-                        ti' jump'éelili' Noj Ajawnaj <rs ana="OXIB_RI_NIM_JA">le u yóoxp'éel ajawnajil</rs> le Yáax Kojo'obo'. Le u na'atsilo'ob yéetel 
-                        u ajawilo'ob le jaajkunnaj kuxtalo'. Jach bin nojba'alak u kux óolal le u Yóoxp'éel Ajawnajil 
-                        le Kojo'obo'.</p>  
+                        ti' jump'éelili' Noj Ajawnaj <rs ana="NIM_CH'OKOJ">le u yóoxp'éel ajawnajil</rs> le Yáax Kojo'obo'. Le u na'atsilo'ob yéetel 
+                        u ajawilo'ob le jaajkunnaj kuxtalo'. Jach bin nojba'alak u kux óolal <rs ana="NIM_CH'OKOJ">le u Yóoxp'éel Ajawnajil 
+                        le Kojo'obo'</rs>.</p>  
                     <p><rs ana="NIM_CH'OKOJ_NIJA'IB'">U Níim Chokojil<ref target="yua.n132"><hi rend="sup">132</hi></ref>
                         <note place="foot" xml:id="yua.n132"><seg type="note-symbol"><hi rend="sup">132</hi></seg>
                             Il a wil le Yáax Kanti'itsmanti'itso'.
@@ -8404,11 +8404,14 @@
                         Chokoj Kawek</rs>, <rs ana="POPOL_WINAQ_CHI_T'UY">Popol Winak, Chituy</rs> <rs ana="LOLMET_KEJNAY">Lolmet, Kej Nay</rs>, <rs ana="POPOL_WINAQ_PA_JOM_TZALATZ'">Popol Winak Pajom Tzalatz</rs>, <rs ana="UCHUCH_K'AMJA">Uchuch 
                         Kamja</rs><ref target="spa.n034"><hi rend="sup">34</hi></ref>
                         <note place="foot" xml:id="spa.n034"><seg type="note-symbol"><hi rend="sup">34</hi></seg>
-                                Chuch Oâm Ja, significa "Señora de la Casa de Gradas", lo cual indica que también las mujeres gobernaban. 
-                        </note>. Éstos son pues, los señores de <rs ana="KAWEQ">los Kawikib</rs>. Eran nueve señores, cada uno separado con 
+                            <rs ana="UCHUCH_K'AMJA">Chuch Oâm Ja</rs>, significa "<rs ana="UCHUCH_K'AMJA">Señora de la Casa de Gradas</rs>", lo cual indica que también las mujeres gobernaban. 
+                        </note>.
+                <!-- editor's note: corresponds to paragraph 77, folio 51r --> 
+                        Éstos son pues, los señores de <rs ana="KAWEQ">los Kawikib</rs>. Eran nueve señores, cada uno separado con 
                         su gran casa, con su respectiva descendencia. 
                         <pb xml:id="yua2021-203" /></p>
                 </div>
+                <!-- editor's note: corresponds to paragraph 78, folio 51r -->
                 <div type="tsúuk" n="spa.tsk.20">
                     <head rend="center">
                         SEÑORES DE LA LÍNEA <rs ana="NIJA'IB">NIMJAIBAB</rs></head>
@@ -8417,6 +8420,7 @@
                         Así pues, nueve fueron Señores de <rs ana="NIJA'IB">los Nimjaibab</rs>.
                         <pb xml:id="yua2021-205" /></p>                         
                 </div>
+            <!-- editor's note: corresponds to paragraph 79, folio 51r -->
                 <div type="tsúuk" n="spa.tsk.21">
                     <head rend="center">
                         NOMBRE DE <rs ana="AJAW_K'ICHE'">LOS SEÑORES K'ICHÉS</rs></head>
@@ -8424,17 +8428,20 @@
                         Cuatro fueron <rs ana="AJAW_K'ICHE'">los Señores K'ichés</rs>, con grandes casas separadas.
                         <pb xml:id="yua2021-207" /></p> 
                 </div>
+            <!-- editor's note: corresponds to paragraph 80, folio 51r -->
                 <div type="tsúuk" n="spa.tsk.22">
                     <head rend="center">
                         DOS PUEBLOS DE LOS SEÑORES <rs ana="SAQAJIB'">SAKIKIB</rs></head>
-                    <p><rs ana="TZ'UTUJA">Tzutujá</rs> y <rs ana="Q'ALEL_SAQIK">Kalel Sakik</rs>, eran solamente una gran casa con dos señores. De esta manera, se 
+                    <p><rs ana="TZ'UTUJA">Tzutujá</rs> y <rs ana="Q'ALEL_SAQIK">Kalel Sakik</rs>, eran solamente una gran casa con dos señores. 
+            <!-- editor's note: corresponds to paragraph81, folio 51v -->
+                        De esta manera, se 
                         completaron veinticuatro señores, o sea, veinticuatro grandes casas. En ese entonces aumentó 
                         <rs ana="TEPEW">el poderío y grandeza</rs> en <rs ana="TINAMIT_K'ICHE'">el sector k'iché</rs>. Fueron poderosos y gloriosos por el gran peso de <rs ana="TINAMIT_K'ICHE'">los 
                         K'ichés</rs>. Hubo progreso, encalaron y estucaron los edificios de la nación.</p> 
                     <p>Llegaron pequeñas y grandes tribus. Se conoce el nombre del Rey quien engrandeció 
-                        K'iché; llegó a su apogeo <rs ana="TEPEW">el poderío y grandeza</rs>, se construyó la casa de Dios, las casas de los 
+                        K'iché; llegó a su apogeo <rs ana="TEPEW">el poderío y grandeza</rs>, se construyó la casa de <rs ana="DIOS">Dios</rs>, las casas de los 
                         señores. Pero no las hicieron ellos, porque ellos no trabajaron; no construyeron ellos mismos 
-                        sus casas, la casa de Dios, porque se multiplicaron sus descendientes.</p> 
+                        sus casas, la casa de <rs ana="DIOS">Dios</rs>, porque se multiplicaron sus descendientes.</p> 
                     <p>Tampoco las quitaron con modo, ni las robaron, mejor dicho. No las fraccionaron, sino 
                         que en verdad eran propiedad de cada señor. Es que eran muchos sus hermanos mayores y menores 
                         que nacieron. Se reunían para conocerse y oír las disposiciones de cada señor.</p> 
@@ -8444,12 +8451,12 @@
                         nación. Sólo por el mito de los señores se hicieron poderosos <rs ana="Q'UKUMATZ_KQCINCO">el Rey Kukumatz</rs> y <rs ana="K'OTUJA_KQCINCO">el Rey Kotujá</rs>. 
                         En verdad, por el mito de <rs ana="Q'UKUMATZ_KQCINCO">Kukumatz</rs> era que siete días subía al cielo, siete días bajaba a 
                         estarse en <rs ana="XIB'ALB'A">el Inframundo</rs>. Siete días se convertía en <rs ana="KUMATZ">serpiente</rs>; de cierto que era mera <rs ana="KUMATZ">culebra</rs>. 
-                        Siete días se hacía <rs ana="WAK">águila</rs>, siete días en <rs ana="KOJ">león</rs>. De veras parecía verdadera <rs ana="WAK">águila</rs>, verdadero <rs ana="KOJ">león</rs>. 
-                        Siete días se convertía en sangre reposada; sólo él era sangre regada.</p> 
+                        Siete días se hacía <rs ana="K'OTAL">águila</rs>, siete días en <rs ana="B'ALAM">león</rs>. De veras parecía verdadera <rs ana="K'OTAL">águila</rs>, verdadero <rs ana="B'ALAM">león</rs>. 
+                        Siete días se convertía en sangre reposada; sólo él era <rs ana="KIK'">sangre</rs> regada.</p> 
                     <p>De veras que el mito del nacimiento del Rey infundía miedo a todos los señores. Se regó 
                         la noticia. Se dieron cuenta todos los señores de las tribus de la existencia misteriosa del Rey. 
-                        Por este motivo comenzó a engrandecerse <rs ana="TINAMIT_K'ICHE'">K'iché</rs> por obra del <rs ana="Q'UKUMATZ_KQCINCO">Rey Kukumatz</rs>, signo de su po- 
-                        der sobrenatural. Tampoco esto está perdido en la mente de los abuelos y de su descendencia. 
+                        Por este motivo comenzó a engrandecerse <rs ana="TINAMIT_K'ICHE'">K'iché</rs> por obra del <rs ana="Q'UKUMATZ_KQCINCO">Rey Kukumatz</rs>, signo de su poder 
+                        sobrenatural. Tampoco esto está perdido en la mente de los abuelos y de su descendencia. 
                         Nunca se había visto que el mito de un rey hubiera influido en el progreso de todas las 
                         tribus; esto fue lo que hizo. Sólo esta revelación fue el motivo de que hayan desaparecido los 
                         cabecillas de las tribus. 
@@ -8460,6 +8467,7 @@
                         quinta generación de reyes. Cada señor tuvo sendas generaciones. 
                         <pb xml:id="yua2021-211" /></p> 
                 </div>
+                <!-- editor's note: corresponds to paragraph 82, folio 52r -->
                 <div type="tsúuk" n="spa.tsk.23">
                     <head rend="center">
                         SEXTA GENERACIÓN DE REYES</head>
@@ -8490,7 +8498,8 @@
                         a discutir todos los señores y salió su proyecto: 
                         <pb xml:id="yua2021-213" /></p> 
                     <p>-Como si todavía fuera, o es, nuestro pueblo, nuestra defensa de tablas, nuestro castillo, 
-                        para que se irriten los maridos; y que resulte así -dijeron todos los señores.</p> 
+                        para que se irriten los maridos; y que resulte así -dijeron todos los señores.</p>
+                    <!-- editor's note: corresponds to paragraph 83, folio 52r --> 
                     <p>De una vez salieron para fortificar cada pueblo para rechazar a los guerreros. Cuando se 
                         fueron los defensores de las posesiones de las tribus, bien los aleccionaron:</p> 
                     <p>-Como ya son nuestras las comarcas, no tengan miedo. Si ven que ya se acerca a ustedes 
@@ -8499,7 +8508,7 @@
                     <p>Bien los aconsejaron a todos por igual. Juntamente con <rs ana="Q'ALEL">Kalel</rs> y <rs ana="AJTZIK_WINAQ">Aj Tzik Winak</rs>, tomaron 
                         parte los lanceros y los honderos, se decía.</p> 
                     <p>Luego se separaron los abuelos y padres de <rs ana="TINAMIT_K'ICHE'">la gente k'iché</rs> que estaban en cada montaña; 
-                        y habían ido como guardianes de las comarcas, cuidadores de <rs ana="B'ATE">lanzas</rs> y hondas de pita, vigilantes 
+                        y habían ido como guardianes de las comarcas, cuidadores de lanzas y hondas de pita, vigilantes 
                         del enemigo. No les había amanecido en un mismo lugar, es decir, no tenían el mismo Dios. 
                         Con estas diferencias habían ido a circular el pueblo.</p> 
                     <p>Así que salieron todos: <rs ana="WILA'">los Aj Uwilá</rs>, <rs ana="CHULIMAL">los Aj Chutimal</rs>, <rs ana="SAQI_YA">Sakiyá</rs>, <rs ana="XAJBA'KYEJ">Xajbakiej</rs>, <rs ana="CHITEMAJ">Chi Temaj</rs>, 
@@ -8514,7 +8523,7 @@
                         reclutaron.</p> 
                     <p>Se fueron pues sus proles, sus hijos a las montañas, a cada una de las montañas. Pero 
                         primero vinieron las hermanas y prisioneros ante <rs ana="K'IKAB'_KQSIETE">Kikab</rs>, <rs ana="KAWISIMAJ_KQSIETE">Kawisimaj</rs>, <rs ana="Q'ALEL">Kalel</rs> y <rs ana="AJTZIK_WINAQ">Aj Tzik Winak</rs>. 
-                        Tuvieron que combatir con <rs ana="B'ATE">lanzas</rs> y hondas de pita, tomaron a las hermanas y prisioneros. Se 
+                        Tuvieron que combatir con lanzas y hondas de pita, tomaron a las hermanas y prisioneros. Se 
                         hicieron hombres los defensores. Se establecieron, se multiplicaron; y ya eran muchas las prebendas 
                         que les otorgaban los señores, porque les habían traído a sus hermanas, prisioneros y 
                         todo.</p> 
@@ -8527,18 +8536,20 @@
                     <p>Lo mismo hicieron <rs ana="TAMUB'">los Tamub</rs> y <rs ana="ILOKAB'">los Ilokab</rs>, porque los tres grupos eran <rs ana="TINAMIT_K'ICHE'">k'ichés</rs>. En seguida 
                         se comenzó a reclutar gente, pero antes tuvieron que adiestrar a sus proles, a sus hijos; así fue 
                         como se dispuso. Sin embargo, el reclutamiento no se hizo en el <rs ana="TINAMIT_K'ICHE'">K'iché</rs>, sino que en una comarca. 
-                        Tiene nombre la comarca en donde se realizó el reclutamiento de las proles, de los hijos.</p> 
+                        Tiene nombre la comarca en donde se realizó el reclutamiento de las proles, de los hijos.</p>
+                    <!-- editor's note: corresponds to paragraph 84, folio 53v -->
                     <p>Fueron enviados todos los que estaban en cada montaña y los reunieron en un solo lugar. 
                         <rs ana="XE_BALAX">Xebalax</rs>, <rs ana="XE_KAMAQ">Xekamak</rs> se llama la comarca en donde se agarró a la gente. En <rs ana="CHULIMAL">Chulimal</rs> fue donde 
                         se les asignó los cargos. 
                         <pb xml:id="yua2021-217" /></p>
                 </div>
+                <!-- editor's note: corresponds to paragraph 85, folio 53v -->
                 <div type="tsúuk" n="spa.tsk.24">
                     <head rend="center">
                         PREPARACION Y SELECCIÓN DE LAS DIVISIONES</head>
                     <p>Veinte <rs ana="Q'ALEL">Kalel</rs>, o sea, veinte <rs ana="AJPOP">Aj Pop</rs> fueron seleccionados por el <rs ana="AJPOP">Aj Pop</rs>, <rs ana="AJPOP_K'AMJA">Aj Pop Kamja</rs>, es 
                         decir; por el <rs ana="Q'ALEL">Kalel</rs>, <rs ana="AJTZIK_WINAQ">Aj Tzik Winak</rs>. Y se les asignó los cargos a todos los veinte <rs ana="Q'ALEL">Kalel</rs>, <rs ana="AJPOP">Aj Pop</rs>. 
-                        Entre ellos se nombraron a Once Grandes de <rs ana="NIMA_CH'OKOJ">la Casa de Tigre</rs> con distintos nombres: <rs ana="AJAW_Q'ALEL">Kalel de 
+                        Entre ellos se nombraron a <rs ana="NIMA_CH'OKOJ">Once Grandes de la Casa de Tigre</rs> con distintos nombres: <rs ana="AJAW_Q'ALEL">Kalel de 
                         Señor</rs>, <rs ana="Q'ALEL_SAQIK">Kalel de Sakikú</rs>, <rs ana="Q'ALEL_ACHIJ">Kalel Achij</rs>, <rs ana="RAJPOP_ACHIJ">Hombre Aj Pop Achij</rs>, <rs ana="RAJTZ'ALAM_ACHIJ">Aj Tzalam Achij</rs>, <rs ana="UTZA'M_ACHIJ">Utzam Achij</rs>.</p> 
                     <p>Luego, les prepararon con nombres definitivos sus asientos con sus respectivos cojines. 
                         Fueron pues las primera proles, primeros hijos de <rs ana="TINAMIT_K'ICHE'">la gente k'iché</rs>, que quedaron como cuidado 
@@ -8552,6 +8563,7 @@
                 </div>
                 <div type="tsúuk" n="spa.tsk.25">                    
                     <head rend="center">
+                    <!-- editor's note: corresponds to paragraph 86, folio 53v -->
                         NOMBRE DE LOS TEMPLOS DE LOS DIOSES</head>
                     <p>Los nombres de los dioses dieron origen a los nombres de sus respectivos templos: Gran 
                         Templo de <rs ana="TOJIL">Tojil</rs> se llamaba el templo de <rs ana="TOJIL">Tojil</rs>, correspondientes a <rs ana="KAWEQ">los Kawikib</rs>. <rs ana="AWILIX">Awilish</rs> se llamaba 
@@ -8577,7 +8589,8 @@
                         y en las mañanas, lloraban de espíritu y de corazón pidiendo por buena vida para sus proles, 
                         para sus hijos y por su autoridad. Levantaban la cara al cielo como plegaria ante su Dios cuando 
                         oraban; esto era lo que lloraba sus corazones.
-                        <pb xml:id="yua2021-221" /></p> 
+                        <pb xml:id="yua2021-221" /></p>
+                    <!-- editor's note: corresponds to paragraph 87, folio 54r --> 
                     <p>-¡Gloria! ¡Ayúdanos Día! Tú, <rs ana="JUN_RAQAN">Un Pie</rs>, tú, <rs ana="UK'U'X_KAJ">Espíritu del Cielo</rs> y <rs ana="UK'U'X_ULEW">de la Tierra</rs>, tú Dador del 
                         verano y de la primavera. Tú, es decir, Dador de hijas e hijos. Regresa, favorece acá tu celestial, 
                         tu vigor. Da vida y bienestar a mis hijas e hijos, que se multipliquen, que vivan bien. Buscadores 
@@ -8595,7 +8608,7 @@
                         <rs ana="TINAMIT_K'ICHE'">K'iché</rs>. Sólo un origen tuvieron desde antes de escribirse <rs ana="POPOL_WUJ">el Pop Wuj</rs>, mejor dicho, desde antes 
                         de encontrar una patria; de todos modos desde antes de <rs ana="POPOL_WUJ">la antigua palabra</rs><ref target="spa.n035"><hi rend="sup">35</hi></ref>
                         <note place="foot" xml:id="spa.n035"><seg type="note-symbol"><hi rend="sup">35</hi></seg>
-                                Ésta es otra prueba de que el texto indígena fue alterado, porque los indígenas no tratan de "tú" a Dios, sino de "Usted" (Lal). Óigase una plegaria indígena en cualquier templo.
+                                Ésta es otra prueba de que el texto indígena fue alterado, porque los indígenas no tratan de "tú" a <rs ana="DIOS">Dios</rs>, sino de "Usted" (Lal). Óigase una plegaria indígena en cualquier templo.
                         </note>.</p> 
                     <p>Así también lo estaban haciendo los de <rs ana="TAMUB'">Tamub</rs> e <rs ana="ILOKAB'">Ilokab</rs> con <rs ana="RAB'INALEB'">los Rabinalenses</rs>, <rs ana="KAKCHIKELEB'">los Kakchikeles</rs>, 
                         <rs ana="AJTZ'IKINA_JA">los de Aj Tzikinajá</rs>, <rs ana="TUJAL_JA">Tujalajá</rs> y <rs ana="UCH'AB'AJA">Uchabajá</rs><hi rend="sup">163</hi>[sic]. Salieron de un solo lugar según se supo 
@@ -8614,6 +8627,7 @@
                 </div>
                 <div type="tsúuk" n="spa.tsk.26">
                     <head rend="center">
+                    <!-- editor's note: corresponds to paragraph 88, folio 55r -->
                         NOMBRE DE LAS GENERACIONES DE SEÑORES</head>
                     <p>Mencionaremos pues a todos los señores, las generaciones o divisiones. Las generaciones 
                         o divisiones que subsisten son: <rs ana="B'ALAM_KI'TZE'">Risa de León</rs>, <rs ana="B'ALAM_AQ'AB'">León Madrugador</rs>; <rs ana="MAJUK'UTAJ">Maj U Kutaj</rs> y <rs ana="IQ'I_B'ALAM">León de la 
@@ -8644,7 +8658,8 @@
                         </note>.</p> 
                     <p><rs ana="TEKUM_KQTRECE">Tecum</rs> <rs ana="TEPEPUL_KQTRECE">Tepejul</rs>, sirvieron a los españoles y a la descendencia. Es la decimotercera generación.</p> 
                     <p><rs ana="DON_JUAN_DE_ROJAS_KQCATORCE">Don Juan de Rojas</rs> y <rs ana="DON_JUAN_CORTES_KQCATORCE">Don Juan Cortés</rs>, décima cuarta generación. Décima cuarta generación 
-                        engendrada por <rs ana="TEKUM_KQTRECE">Tecum</rs> <rs ana="TEPEPUL_KQTRECE">Tepejul</rs>.</p> 
+                        engendrada por <rs ana="TEKUM_KQTRECE">Tecum</rs> <rs ana="TEPEPUL_KQTRECE">Tepejul</rs>.</p>
+                    <!-- editor's note: corresponds to paragraph 89, folio 55v --> 
                     <p>Ésta es la generación del reino de <rs ana="AJPOP">los Señores del Tiempo</rs>, <rs ana="AJPOP_K'AMJA">Señores de Kamja</rs> en tiempo 
                         de <rs ana="KAWEQ">Kawikib</rs> del <rs ana="TINAMIT_K'ICHE'">K'iché</rs>.
                         <pb xml:id="yua2021-227" /></p> 
@@ -8663,12 +8678,14 @@
                     <p><rs ana="POPOL_WINAQ_CHI_T'UY">Popol Winak</rs>. Señor de una Casa Grande.</p> 
                     <p><rs ana="LOLMET_KEJNAY">Chituy Lolmet y Kej Nay</rs>. Señor de una Casa Grande.</p> 
                     <p><rs ana="POPOL_WINAQ_PA_JOM_TZALATZ'">Popol Winak Pajom Tzalatz Xkuxeba</rs>. Señor de una Gran Casa.</p> 
-                    <p><rs ana="TEPEW_YAKI">Tepeu Yakí</rs>. Señor de una Casa Grande.</p> 
+                    <p><rs ana="TEPEW_YAKI">Tepeu Yakí</rs>. Señor de una Casa Grande.</p>
+                <!-- editor's note: corresponds to paragraph 90, folio 55v -->
                     <p>Los Nueve Principales <rs ana="KAWEQ">Kawikib</rs> tuvieron muchísimos hijos.
                     <pb xml:id="yua2021-229" /></p> 
                 </div>
                 <div type="tsúuk" n="spa.tsk.29">
                     <head rend="center">
+                <!-- editor's note: corresponds to paragraph 91, folio 55v -->
                         LOS PRINCIPALES DE <rs ana="NIJA'IB">LOS NIMJAIBAB</rs></head>
                     <p><rs ana="NIJA'IB">Los Nimjaibab</rs> tenían Nueve Grandes Casas. Es lo primero que se dice sobre la generación 
                         del Reino. Sólo uno fue el Principio desde antes del Sol y antes de la Luz<ref target="spa.n037"><hi rend="sup">37</hi></ref>
@@ -8687,9 +8704,10 @@
                     <p><rs ana="KE'EMA_NJDIEZ">Kemá</rs>, le decían, décima generación.</p> 
                     <p><rs ana="AJAW_K'OTUJA_NJONCE">Gobernador Kotujá</rs>, undécima generación.</p> 
                     <p><rs ana="AJAW_K'OTUJA_NJONCE">Don Cristóbal</rs>, le decían, gobernó en tiempo de los españoles.</p> 
-                    <p><rs ana="AJAW_Q'ALEL_NJDOCE">Don Pedro de Robles</rs>, es el Ajau Kalel hoy día.</p> 
-                    <p>Estos son todos los señores de la descendencia del Ajau Kalel. Ahora relataremos cada 
-                        uno de los señores de las grandes casas.</p> 
+                    <p><rs ana="AJAW_Q'ALEL_NJDOCE">Don Pedro de Robles</rs>, es el <rs ana="AJAW_Q'ALEL">Ajau Kalel</rs> hoy día.</p> 
+                    <p>Estos son todos los señores de la descendencia del <rs ana="AJAW_Q'ALEL">Ajau Kalel</rs>. Ahora relataremos cada 
+                        uno de los señores de las grandes casas.</p>
+                <!-- editor's note: corresponds to paragraph 92, folio 56r -->
                     <p><rs ana="AJAW_Q'ALEL">Ajau Kalel</rs>. Primer señor de <rs ana="NIJA'IB">los Nimjaibab</rs>. Señor de una Gran Casa.</p> 
                     <p><rs ana="AJAW_AJTZIK_WINAQ">Ajau Aj Tzik Winak</rs>. Señor de una Gran Casa.</p> 
                     <p><rs ana="AJAW_Q'ALEL_K'AMJA">Ajau Kalel Kamja</rs>. Señor de una Gran Casa.</p> 
@@ -8698,7 +8716,8 @@
                     <p><rs ana="YAKOLATAM_UTZA'M_POP_SAQLATOL">Utzam Pop Sak Latol</rs>. Señor de una Gran Casa.</p> 
                     <p><rs ana="NIM_CH'OKOJ_NIJA'IB'">Nim Chokoj Nimjaibab</rs>. Señor de una Casa Grande.</p> 
                     <p><rs ana="AJAW_AWILIX">Ajau Awilish</rs>. Señor de una Casa Grande.</p> 
-                    <p><rs ana="YAKOLATAM">Yakolatam</rs>. Señor de una Gran Casa.</p> 
+                    <p><rs ana="YAKOLATAM">Yakolatam</rs>. Señor de una Gran Casa.</p>
+                <!-- editor's note: corresponds to paragraph 93, folio 56r -->  
                     <p>Éstas son las Nueve Casas Grandes de los <rs ana="NIJA'IB">Nimjaibab</rs>. Así se llamaron las Nueve Principalidades 
                         de <rs ana="NIJA'IB">Nimjaibab</rs>; eran bastantes pues los principales de cada señor. Los primeros, los que 
                         hemos mencionado.
@@ -8706,6 +8725,7 @@
                 </div>
                 <div type="tsúuk" n="spa.tsk.30">
                     <head rend="center">
+                <!-- editor's note: corresponds to paragraph 94, folio 56r -->
                         ABUELO Y PADRE DE <rs ana="AJAW_K'ICHE'">LOS SEÑORES K'ICHÉS</rs></head>
                     <p><rs ana="MAJUK'UTAJ">Maj U Kutaj</rs>. La primera gente, el primer abuelo y padre de <rs ana="AJAW_K'ICHE'">Ajau K'iché</rs>.</p> 
                     <p><rs ana="K'O'AJAW_AKDOS">Koajau</rs>, nombre de la segunda generación de señores.</p>
@@ -8715,7 +8735,8 @@
                     <p><rs ana="WUQUB'_AJ_AKSEIS">Wukubaj</rs>, sexta generación.</p> 
                     <p><rs ana="K'OKAMEL_AKSIETE">Kokamel</rs>, séptima generación.</p> 
                     <p><rs ana="K'OYABAKOJ_AKOCHO">Koyabakoh</rs>, octava generación.</p> 
-                    <p><rs ana="WINAQ_B'ALAM_AKNUEVE">Winak Bam</rs>, novena generación.</p> 
+                    <p><rs ana="WINAQ_B'ALAM_AKNUEVE">Winak Bam</rs>, novena generación.</p>
+                <!-- editor's note: corresponds to paragraph 95, folio 56v -->
                     <p>Éstos son los señores de la descendencia de <rs ana="AJAW_K'ICHE'">los Señores K'ichés</rs>; éstas son las generaciones 
                         o divisiones.
                         <pb xml:id="yua2021-233" /> </p>                        
@@ -8727,15 +8748,17 @@
                     <p><rs ana="AJTZIK_WINAQ_AJAW">Aj Tzik Winak Ajau</rs>. Nombre del primer señor de una Gran Casa.</p>  
                     <p><rs ana="AJAW_LOLMET">Lolmet Ajau</rs>. Segundo señor de una Gran Casa.</p>  
                     <p><rs ana="AJAW_NIM_CH'OKOJ">Nim Chokoj Ajau</rs>. Señor de una tercera Gran Casa.</p>  
-                    <p><rs ana="AJAW_JAQAWITZ">Jakawitz</rs>. Cuarto señor de una Gran Casa de las cuatro casas k'ichés.</p>  
-                    <p>De manera que eran tres <rs ana="OXIB_RI_NIM_JA">las Grandes Casas de la línea de Los Tigres</rs>. Que eran como 
-                        <rs ana="AJAW_K'ICHE'">padres progenitores</rs>, por lo cual se fusionaron en una sola Gran Casa <rs ana="OXIB_RI_NIM_JA">las tres de los Tigres Progenitores</rs>. 
-                        Madres de la verdad, padres de la verdad. Fue muy grande la existencia de <rs ana="OXIB_RI_NIM_JA">las Tres 
-                        Grandes Casas del Tigre</rs>.</p>  
+                    <p><rs ana="AJAW_JAQAWITZ">Jakawitz</rs>. Cuarto señor de una Gran Casa de las cuatro casas <rs ana="AJAW_K'ICHE'">k'ichés</rs>.</p> 
+                <!-- editor's note: corresponds to paragraph 96, folio 56v -->
+                    <p>De manera que eran tres <rs ana="NIM_CH'OKOJ">las Grandes Casas de la línea de Los Tigres</rs>. Que eran como 
+                        <rs ana="NIM_CH'OKOJ">padres progenitores</rs>, por lo cual se fusionaron en una sola Gran Casa <rs ana="NIM_CH'OKOJ">las tres de los Tigres Progenitores</rs>. 
+                        Madres de la verdad, padres de la verdad. Fue muy grande la existencia de <rs ana="NIM_CH'OKOJ">las Tres 
+                        Grandes Casas del Tigre</rs>.</p>
+                <!-- editor's note: corresponds to paragraph 97, folio 56v -->
                     <p><rs ana="NIM_CH'OKOJ_NIJA'IB'">Gran Casa del Tigre de los Nimjaibab</rs>, segundo Gran Tigre. <rs ana="NIM_CH'OKOJ">Señor de Gran Casa del Tigre</rs> 
                         de <rs ana="AJAW_K'ICHE'">los Señores K'ichés</rs>, tercer Gran Tigre. 
                         Eran pues, Tres los Tigres, cada casa en su línea. 
-                        Ésta fue la existencia de <rs ana="TINAMIT_K'ICHE'">los K'ichés</rs>. Ya no hay en donde verlo, había un antiguo documento de 
+                        Ésta fue la existencia de <rs ana="TINAMIT_K'ICHE'">los K'ichés</rs>. Ya no hay en donde verlo, había <rs ana="POPOL_WUJ">un antiguo documento</rs> de 
                         los Señores, pero ha desaparecido<ref target="spa.n038"><hi rend="sup">38</hi></ref>
                         <note place="foot" xml:id="spa.n038"><seg type="note-symbol"><hi rend="sup">38</hi></seg>
                             Es posible que lo hayan quemado. 
