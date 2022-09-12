@@ -8918,52 +8918,52 @@
                         <cell role="data"><rs ana="JUNAJPU_UTIW">Jun Ajts'onch'omak</rs></cell> 
                     </row>
                     <row role="data">
-                        <cell role="data">tepeu</cell> 
-                        <cell role="data">El Infinito</cell> 
-                        <cell role="data">Téepew</cell> 
-                        <cell role="data">Ajtáabantsil</cell> 
+                        <cell role="data"><rs ana="TEPEW_Q'UKUMATZ">tepeu</rs></cell> 
+                        <cell role="data"><rs ana="TEPEW_Q'UKUMATZ">El Infinito</rs></cell> 
+                        <cell role="data"><rs ana="TEPEW_Q'UKUMATZ">Téepew</rs></cell> 
+                        <cell role="data"><rs ana="TEPEW_Q'UKUMATZ">Ajtáabantsil</rs></cell> 
                     </row>
                     <row role="data">
-                        <cell role="data">qucumatz</cell> 
-                        <cell role="data">El Ocultador de Serpiente</cell> 
-                        <cell role="data">K'u'uk'umaats</cell> 
-                        <cell role="data">Ajbáalam Kaan</cell> 
+                        <cell role="data"><rs ana="TEPEW_Q'UKUMATZ">qucumatz</rs></cell> 
+                        <cell role="data"><rs ana="TEPEW_Q'UKUMATZ">El Ocultador de Serpiente</rs></cell> 
+                        <cell role="data"><rs ana="TEPEW_Q'UKUMATZ">K'u'uk'umaats</rs></cell> 
+                        <cell role="data"><rs ana="TEPEW_Q'UKUMATZ">Ajbáalam Kaan</rs></cell> 
                     </row>
                     <row role="data">
-                        <cell role="data">vquxcho</cell> 
-                        <cell role="data">El Espíritu de Lago</cell> 
-                        <cell role="data">Ukúux Chooj</cell> 
-                        <cell role="data">U Yóol Áak'alja'</cell> 
+                        <cell role="data"><rs ana="UK'U'X_CHO">vquxcho</rs></cell> 
+                        <cell role="data"><rs ana="UK'U'X_CHO">El Espíritu de Lago</rs></cell> 
+                        <cell role="data"><rs ana="UK'U'X_CHO">Ukúux Chooj</rs></cell> 
+                        <cell role="data"><rs ana="UK'U'X_CHO">U Yóol Áak'alja'</rs></cell> 
                     </row>
                     <row role="data">
-                        <cell role="data">vqux palo</cell> 
-                        <cell role="data">El Espíritu de Mar</cell> 
-                        <cell role="data">Ukúux Paaloj</cell> 
-                        <cell role="data">U Yóol K'áak'nab</cell>
+                        <cell role="data"><rs ana="UK'U'X_PALO">vqux palo</rs></cell> 
+                        <cell role="data"><rs ana="UK'U'X_PALO">El Espíritu de Mar</rs></cell> 
+                        <cell role="data"><rs ana="UK'U'X_PALO">Ukúux Paaloj</rs></cell> 
+                        <cell role="data"><rs ana="UK'U'X_PALO">U Yóol K'áak'nab</rs></cell>
                     </row>
                     <row role="data">
-                        <cell role="data">ah raxala</cell> 
-                        <cell role="data">Los Verdaderos Superiores</cell> 
-                        <cell role="data">Ajráaxalaj</cell>
-                        <cell role="data">Nukuch Ajjo'olpóopo'ob</cell>
+                        <cell role="data"><rs ana="AJRAXA_LAQ">ah raxala</rs></cell> 
+                        <cell role="data"><rs ana="AJRAXA_LAQ">Los Verdaderos Superiores</rs></cell> 
+                        <cell role="data"><rs ana="AJRAXA_LAQ">Ajráaxalaj</rs></cell>
+                        <cell role="data"><rs ana="AJRAXA_LAQ">Nukuch Ajjo'olpóopo'ob</rs></cell>
                     </row>
                     <row role="data">
-                        <cell role="data">ah raxatzel</cell> 
-                        <cell role="data">Los Hijos Mayores</cell> 
-                        <cell role="data">Ajráaxatsel</cell>
-                        <cell role="data">Nukuch Almejenilo'ob</cell> 
+                        <cell role="data"><rs ana="AJRAXA_TZEL">ah raxatzel</rs></cell> 
+                        <cell role="data"><rs ana="AJRAXA_TZEL">Los Hijos Mayores</rs></cell> 
+                        <cell role="data"><rs ana="AJRAXA_TZEL">Ajráaxatsel</rs></cell>
+                        <cell role="data"><rs ana="AJRAXA_TZEL">Nukuch Almejenilo'ob</rs></cell> 
                     </row>
                     <row role="data">
-                        <cell role="data">xpiyacoc, xmucane</cell>
-                        <cell role="data">Abuelo, Abuela</cell> 
-                        <cell role="data">Xpíiyakok, Xúukanej</cell> 
-                        <cell role="data">Yáax Nool, Yáax Chiich</cell> 
+                        <cell role="data"><rs ana="XPIYAKOK">xpiyacoc</rs>, <rs ana="IXMUKANE">xmucane</rs></cell>
+                        <cell role="data"><rs ana="XPIYAKOK">Abuelo</rs>, <rs ana="IXMUKANE">Abuela</rs></cell> 
+                        <cell role="data"><rs ana="XPIYAKOK">Xpíiyakok</rs>, <rs ana="IXMUKANE">Xúukanej</rs></cell> 
+                        <cell role="data"><rs ana="XPIYAKOK">Yáax Nool</rs>, <rs ana="IXMUKANE">Yáax Chiich</rs></cell> 
                     </row>
                     <row role="data">
-                        <cell role="data">ucux can</cell>
-                        <cell role="data">Espíritu o Corazón del Cielo</cell> 
-                        <cell role="data">Ukúux Kaaj</cell> 
-                        <cell role="data">U Yóol Ka'an</cell> 
+                        <cell role="data"><rs ana="UK'U'X_KAJ">ucux can</rs></cell>
+                        <cell role="data"><rs ana="UK'U'X_KAJ">Espíritu o Corazón del Cielo</rs></cell> 
+                        <cell role="data"><rs ana="UK'U'X_KAJ">Ukúux Kaaj</rs></cell> 
+                        <cell role="data"><rs ana="UK'U'X_KAJ">U Yóol Ka'an</rs></cell> 
                     </row>
                     <row role="data">
                         <cell role="data">cabauil</cell>
@@ -8972,34 +8972,34 @@
                         <cell role="data">Ka'ap'éel Paakat</cell> 
                     </row>
                     <row role="data">
-                        <cell role="data">huracan</cell>
-                        <cell role="data">Un Pie</cell> 
-                        <cell role="data">Jun Ráakan</cell> 
-                        <cell role="data">Jun Ook</cell> 
+                        <cell role="data"><rs ana="JUN_RAQAN">huracan</rs></cell>
+                        <cell role="data"><rs ana="JUN_RAQAN">Un Pie</rs></cell> 
+                        <cell role="data"><rs ana="JUN_RAQAN">Jun Ráakan</rs></cell> 
+                        <cell role="data"><rs ana="JUN_RAQAN">Jun Ook</rs></cell> 
                     </row>
                     <row role="data">
-                        <cell role="data">caculha huracan</cell>
-                        <cell role="data">Rayo Un Pie</cell> 
-                        <cell role="data">Káakulja' Jun Ráakan</cell> 
-                        <cell role="data">U Jaats'cháak Jun Ook</cell> 
+                        <cell role="data"><rs ana="KAQULJA_JUN_RAQAN">caculha huracan</rs></cell>
+                        <cell role="data"><rs ana="KAQULJA_JUN_RAQAN">Rayo Un Pie</rs></cell> 
+                        <cell role="data"><rs ana="KAQULJA_JUN_RAQAN">Káakulja' Jun Ráakan</rs></cell> 
+                        <cell role="data"><rs ana="KAQULJA_JUN_RAQAN">U Jaats'cháak Jun Ook</rs></cell> 
                     </row>
                     <row role="data">
-                        <cell role="data">chipa caculha</cell>
-                        <cell role="data">Último Rayo</cell> 
-                        <cell role="data">Chíipi' Káakulja'</cell> 
-                        <cell role="data">U Ts'ook Jaats'cháak</cell> 
+                        <cell role="data"><rs ana="CH'IPI_KAQULJA">chipa caculha</rs></cell>
+                        <cell role="data"><rs ana="CH'IPI_KAQULJA">Último Rayo</rs></cell> 
+                        <cell role="data"><rs ana="CH'IPI_KAQULJA">Chíipi' Káakulja'</rs></cell> 
+                        <cell role="data"><rs ana="CH'IPI_KAQULJA">U Ts'ook Jaats'cháak</rs></cell> 
                     </row>
                     <row role="data">
-                        <cell role="data">raxa caculha</cell>
-                        <cell role="data">Verdadero Rayo</cell>
-                        <cell role="data">Ráaxa' Káalkulja'</cell> 
-                        <cell role="data">U Jach Jaats'cháak</cell> 
+                        <cell role="data"><rs ana="RAXA_KAQULJA">raxa caculha</rs></cell>
+                        <cell role="data"><rs ana="RAXA_KAQULJA">Verdadero Rayo</rs></cell>
+                        <cell role="data"><rs ana="RAXA_KAQULJA">Ráaxa' Káalkulja'</rs></cell> 
+                        <cell role="data"><rs ana="RAXA_KAQULJA">U Jach Jaats'cháak</rs></cell> 
                     </row>
                     <row role="data">
-                        <cell role="data">vqux vleu</cell>
-                        <cell role="data">Espíritu o Corazón de la Tierra</cell> 
-                        <cell role="data">Ukúux Ulew</cell> 
-                        <cell role="data">U Yóol Lu'um</cell> 
+                        <cell role="data"><rs ana="UK'U'X_ULEW">vqux vleu</rs></cell>
+                        <cell role="data"><rs ana="UK'U'X_ULEW">Espíritu o Corazón de la Tierra</rs></cell> 
+                        <cell role="data"><rs ana="UK'U'X_ULEW">Ukúux Ulew</rs></cell> 
+                        <cell role="data"><rs ana="UK'U'X_ULEW">U Yóol Lu'um</rs></cell> 
                     </row>
                     <row role="data">
                         <cell role="data">ahcuvalah yamanik</cell>
