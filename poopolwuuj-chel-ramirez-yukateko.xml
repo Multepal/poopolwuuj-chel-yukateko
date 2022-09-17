@@ -9002,45 +9002,45 @@
                         <cell role="data"><rs ana="UK'U'X_ULEW">U Yóol Lu'um</rs></cell> 
                     </row>
                     <row role="data">
-                        <cell role="data">ahcuvalah yamanik</cell>
-                        <cell role="data">Fuertes Misterios</cell> 
-                        <cell role="data">Ajkóubalaj Yáamaniko'ob</cell> 
-                        <cell role="data">Ajmu'uk'an Báalam Kuxtal</cell> 
+                        <cell role="data"><rs ana="AJYAMANIK">ahcuvalah yamanik</rs></cell>
+                        <cell role="data"><rs ana="AJYAMANIK">Fuertes Misterios</rs></cell> 
+                        <cell role="data"><rs ana="AJYAMANIK">Ajkóubalaj Yáamaniko'ob</rs></cell> 
+                        <cell role="data"><rs ana="AJYAMANIK">Ajmu'uk'an Báalam Kuxtal</rs></cell> 
                     </row>
                     <row role="data">
-                        <cell role="data">ah chut</cell>
-                        <cell role="data">Pequeños</cell> 
-                        <cell role="data">Ajchúuto'ob</cell> 
-                        <cell role="data">Ajmejentako'ob</cell>
+                        <cell role="data"><rs ana="AJCH'UT">ah chut</rs></cell>
+                        <cell role="data"><rs ana="AJCH'UT">Pequeños</rs></cell> 
+                        <cell role="data"><rs ana="AJCH'UT">Ajchúuto'ob</rs></cell> 
+                        <cell role="data"><rs ana="AJCH'UT">Ajmejentako'ob</rs></cell>
                     </row>
                     <row role="data">
-                        <cell role="data">ahtzalam</cell>
-                        <cell role="data">Señores del Trono</cell> 
-                        <cell role="data">Ajtsáalamo'ob</cell>
-                        <cell role="data">Ajbáalamtun Ajawo'ob</cell> 
+                        <cell role="data"><rs ana="AJTZ'ALAM">ahtzalam</rs></cell>
+                        <cell role="data"><rs ana="AJTZ'ALAM">Señores del Trono</rs></cell> 
+                        <cell role="data"><rs ana="AJTZ'ALAM">Ajtsáalamo'ob</rs></cell>
+                        <cell role="data"><rs ana="AJTZ'ALAM">Ajbáalamtun Ajawo'ob</rs></cell> 
                     </row>
                     <row role="data">
-                        <cell role="data">ah col</cell>
-                        <cell role="data">Señores de la Trementina</cell> 
-                        <cell role="data">Ajkóolo'ob</cell>
-                        <cell role="data">Ajyiitsche' Ajawo'ob</cell> 
+                        <cell role="data"><rs ana="AJ_Q'OL">ah col</rs></cell>
+                        <cell role="data"><rs ana="AJ_Q'OL">Señores de la Trementina</rs></cell> 
+                        <cell role="data"><rs ana="AJ_Q'OL">Ajkóolo'ob</rs></cell>
+                        <cell role="data"><rs ana="AJ_Q'OL">Ajyiitsche' Ajawo'ob</rs></cell> 
                     </row>
                     <row role="data">
-                        <cell role="data">ahtol tecat</cell>
-                        <cell role="data">Señores del Tóltecat</cell> 
-                        <cell role="data">Ajtóoltekaato'ob</cell>
-                        <cell role="data">Ajtóoltekaat Ajawo'ob</cell> 
+                        <cell role="data"><rs ana="AJTOLTEKAT">ahtol tecat</rs></cell>
+                        <cell role="data"><rs ana="AJTOLTEKAT">Señores del Tóltecat</rs></cell> 
+                        <cell role="data"><rs ana="AJTOLTEKAT">Ajtóoltekaato'ob</rs></cell>
+                        <cell role="data"><rs ana="AJTOLTEKAT">Ajtóoltekaat Ajawo'ob</rs></cell> 
                     </row>
                     <row role="data">
-                        <cell role="data">tzite</cell>
-                        <cell role="data">Frijol del pito</cell> 
-                        <cell role="data">Tsíite'</cell>
-                        <cell role="data">U jejeláasil bu'ul (pito)</cell> 
+                        <cell role="data"><rs ana="TZ'ITE'">tzite</rs></cell>
+                        <cell role="data"><rs ana="TZ'ITE'">Frijol del pito</rs></cell> 
+                        <cell role="data"><rs ana="TZ'ITE'">Tsíite'</rs></cell>
+                        <cell role="data"><rs ana="TZ'ITE'">U jejeláasil bu'ul (pito)</rs></cell> 
                     </row>
                     <row role="data">
-                        <cell role="data">chi racan</cell>
+                        <cell role="data"><rs ana="IXMUKANE">chi racan</rs></cell>
                         <cell role="data">----------</cell>
-                        <cell role="data">Chi' Ráakan</cell>
+                        <cell role="data"><rs ana="IXMUKANE">Chi' Ráakan</rs></cell>
                         <cell role="data">----------</cell>
                     </row>
                     <row role="data">
@@ -9050,28 +9050,28 @@
                         <cell role="data">----------</cell>
                     </row>
                     <row role="data">
-                        <cell role="data">Cotcovach</cell>
-                        <cell role="data">El Escarba Ojos</cell> 
-                        <cell role="data">Kóotkobach</cell>
-                        <cell role="data">Ajk'óoy Ich</cell> 
+                        <cell role="data"><rs ana="K'OTK'OWACH">Cotcovach</rs></cell>
+                        <cell role="data"><rs ana="K'OTK'OWACH">El Escarba Ojos</rs></cell> 
+                        <cell role="data"><rs ana="K'OTK'OWACH">Kóotkobach</rs></cell>
+                        <cell role="data"><rs ana="K'OTK'OWACH">Ajk'óoy Ich</rs></cell> 
                     </row>
                     <row role="data">
-                        <cell role="data">camalotz</cell>
-                        <cell role="data">El Buitre Cortador de Cabezas</cell> 
-                        <cell role="data">Káamaloots</cell>
-                        <cell role="data">Nuxi' Chakpolch'oom</cell> 
+                        <cell role="data"><rs ana="KAMALOTZ'">camalotz</rs></cell>
+                        <cell role="data"><rs ana="KAMALOTZ'">El Buitre Cortador de Cabezas</rs></cell> 
+                        <cell role="data"><rs ana="KAMALOTZ'">Káamaloots</rs></cell>
+                        <cell role="data"><rs ana="KAMALOTZ'">Nuxi' Chakpolch'oom</rs></cell> 
                     </row>
                     <row role="data">
-                        <cell role="data">cotzbalam</cell>
-                        <cell role="data">El León desgarrador de Carnes</cell> 
-                        <cell role="data">Kóots Báalam</cell>
-                        <cell role="data">Báalam Jatbak'</cell> 
+                        <cell role="data"><rs ana="KOTZB'ALAM">cotzbalam</rs></cell>
+                        <cell role="data"><rs ana="KOTZB'ALAM">El León desgarrador de Carnes</rs></cell> 
+                        <cell role="data"><rs ana="KOTZB'ALAM">Kóots Báalam</rs></cell>
+                        <cell role="data"><rs ana="KOTZB'ALAM">Báalam Jatbak'</rs></cell> 
                     </row>
                     <row role="data">
-                        <cell role="data">tucumbalam</cell>
-                        <cell role="data">El León Quebrador de Huesos</cell> 
-                        <cell role="data">Túukum Báalam</cell>
-                        <cell role="data">Báalam Kachbaak</cell>
+                        <cell role="data"><rs ana="TUKUMB'ALAM">tucumbalam</rs></cell>
+                        <cell role="data"><rs ana="TUKUMB'ALAM">El León Quebrador de Huesos</rs></cell> 
+                        <cell role="data"><rs ana="TUKUMB'ALAM">Túukum Báalam</rs></cell>
+                        <cell role="data"><rs ana="TUKUMB'ALAM">Báalam Kachbaak</rs></cell>
                     </row>
                     <!-- <table rows="36" cols="4"> -->
                     <!-- <pb xml:id="yua2021-239" />  -->
