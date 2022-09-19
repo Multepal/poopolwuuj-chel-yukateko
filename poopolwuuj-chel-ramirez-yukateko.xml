@@ -2835,7 +2835,7 @@
                         wíiniko'ob tu paach le najo'obo'; mantats' bin u ch'uuktiko'ob wíinik uti'al u páak'tiko'ob
                         yéetel u beetiko'ob u yok'om molal uti'al ka kíimiko'ob. Leti'ob u ajawilo'ob <rs ana="AJAL_MES">Aj-almes</rs> yéetel
                         <rs ana="AJAL_TOQ'OB">Aj-altokob</rs>, bey bin u ya'ala'al ti'obo'.</p>
-                    <p>Le je'ela' u nojmeyajil <rs ana="XIK">Xíik</rs><ref target="yua.n028"><hi rend="sup">28</hi></ref>
+                    <p>Le je'ela' u nojmeyajil <rs ana="AJAW_XIK">Xíik</rs><ref target="yua.n028"><hi rend="sup">28</hi></ref>
                         <note place="foot" xml:id="yua.n028"><seg type="note-symbol"><hi rend="sup">28</hi></seg>
                             Il a wil le Yáax Kanti'itsmanti'itso'.
                         </note>
@@ -2844,7 +2844,7 @@
                         bin k'i'ik' tu chimbo, ku ts'o'okole' ku kíimilo'ob ka'alikil u xéejko'ob k'i'ik'.</p>
                     <p>U nojmeyajo'obe', u k'askúuntiko'ob bin u jets'elnakil le wíiniko'obo'; chéen bey bin u
                         kíimilo'ob te' bejo'. Le je'ela u loolob nojmeyajilo'ob, ka'alikil u máan u xíimbalo'ob wáak u
-                        kutalo'ob. Le je'ela', u nojmeyajil <rs ana="XIK">Xíik</rs> yéetel <rs ana="PATAN">Páatam</rs>.</p>
+                        kutalo'ob. Le je'ela', u nojmeyajil <rs ana="AJAW_XIK">Xíik</rs> yéetel <rs ana="PATAN">Páatam</rs>.</p>
                     <p>Tu yóotajo'ob bin u ch'a'ob u t'aanil bin kun u chukilo'ob méetel u k'áalchi'itilo'ob <rs ana="JUN_JUNAJPU">Jun
                         Jun Ajpúub</rs>, <rs ana="WUQUB'_JUNAJPU">Wukub Jun Ajpúub</rs>.</p>
                     <p>Le a'ax bin ku síits' óoltik <rs ana="RAJAWAL_XIB'ALB'A">le u ajawilo'ob le Metnáalo'</rs>, leti' bin le u báaxalo'ob <rs ana="JUN_JUNAJPU">Jun Jun
@@ -2883,7 +2883,7 @@
                         te' bin wa'alakbalo'ob <rs ana="JOM">tu yóok'ol u jo'olnajil le kúuchil</rs> tu'ux ku yúuchul <rs ana="CHAAJ">le báaxalo'</rs>, ka bin tu 
                         ya'alajo'ob le k'ubent'aano'. Le je'elo' u t'aan bin <rs ana="JUN_KAME''">Jun Káame'</rs>, <rs ana="WUQUB'_KAME'">Wukub Káame'</rs>, <rs ana="AJAL_PUJ">Aj-alpuj</rs>, <rs ana="AJAL_Q'ANA">Aj 
                         alkanaj</rs>, <rs ana="CH'AMIYA_BAQ">Cháamyabaak</rs>, <rs ana="CH'AMIYA_JOLOM">Cháamyajo'olom</rs>, <rs ana="XIKIRI_PAT">Xíikiripaat</rs>, <rs ana="KUCHUMA_KIK'">Kúuchumakiik</rs>, <rs ana="AJAL_MES">Aj-almes</rs>, <rs ana="AJAL_TOQ'OB">Aj-altokob</rs>, 
-                        <rs ana="XIK">Xíik</rs> yéetel <rs ana="PATAN">Páatam</rs>; u k'aaba' bin tuláakal <rs ana="RAJAWAL_XIB'ALB'A">u ajawilo'ob le Metnáalo'</rs>.</p> 
+                        <rs ana="AJAW_XIK">Xíik</rs> yéetel <rs ana="PATAN">Páatam</rs>; u k'aaba' bin tuláakal <rs ana="RAJAWAL_XIB'ALB'A">u ajawilo'ob le Metnáalo'</rs>.</p> 
                     <p>Ka bin j-a'ala'ab le k'ubent'aan tumen <rs ana="TUKUR">le túunkuluchuujo'obo'</rs>:</p>
                     <p>-Ma' wáaj jaaj a tukultik bey úuchik u ya'alik <rs ana="JUN_KAME''">Jun Káame'</rs>, <rs ana="WUQUB'_KAME'">Wukub Káame'o'</rs> -tu ya'alaj 
                         bin <rs ana="TUKUR">le túunkuluchuujo'obo'</rs>.</p> 
@@ -2909,8 +2909,8 @@
                         <note place="foot" xml:id="yua.n030"><seg type="note-symbol"><hi rend="sup">30</hi></seg>
                             Il a wil le Yáax Kanti'itsmanti'itso'.  
                         </note>
-                        <rs ana="K'ULKU_SIWAN">Síiwan Kul</rs>, Síiwan 
-                        Ubij, ka bin tu ch'aktaj. 
+                        <rs ana="K'ULKU_SIWAN">Síiwan Kul</rs>, <rs ana="EWAB'AL_SIWAN">Síiwan 
+                        Ubij</rs>, ka bin tu ch'aktaj. 
                             Ku ts'o'okole' ka bin jmáan ti' uláak' ma' k'aj óola'an áalkabja'i', tu'ux 
                         bin yaan <rs ana="JA'_SIMAJ">puputs'kil</rs> tok'tuunicho'obi'; u piktanil <rs ana="JA'_SIMAJ">puputs'kil</rs> tok'tuunich yaan le tu'ux jmáano', 
                         ba'ale' ma' bin j-úuch loób ti' yéeteli'.</p> 
@@ -6470,10 +6470,10 @@
                         Basura</rs>, <rs ana="AJAL_TOQ'OB">El que Puya</rs>, cuyos oficios eran vigilar a la gente tiradas atrás de las casas en los patios, se 
                         mantenían espiándolas para esperarlas e ir a embrocarles para que se murieran, era la autoridad 
                         de <rs ana="AJAL_MES">El de la Basura</rs> y <rs ana="AJAL_TOQ'OB">El del Puyador</rs>, así les decían.</p> 
-                    <p>Ahora el oficio del <rs ana="XIK">Gavilán</rs> y <rs ana="PATAN">El del Mecapal</rs>, eran la autoridad de la gente que muere en 
+                    <p>Ahora el oficio del <rs ana="AJAW_XIK">Gavilán</rs> y <rs ana="PATAN">El del Mecapal</rs>, eran la autoridad de la gente que muere en 
                         el camino, muerte natural le decían. Les sale sangre de la boca y se mueren vomitando sangre. 
                         Era cada oficio que tenían, golpear la tranquilidad de la gente y así morían en el camino, 
-                        éste era el padecimiento ya sea caminando o sentados, éste era el oficio del <rs ana="XIK">Gavilán</rs> y <rs ana="PATAN">El del 
+                        éste era el padecimiento ya sea caminando o sentados, éste era el oficio del <rs ana="AJAW_XIK">Gavilán</rs> y <rs ana="PATAN">El del 
                         Mecapal</rs>.</p> 
                     <p>Luego trataron de ponerse de acuerdo para prender e interrogar a <rs ana="JUN_JUNAJPU">Cada Cerbatanero</rs>, 
                         <rs ana="WUQUB'_JUNAJPU">Siete Un Cerbatanero</rs>.</p> 
@@ -6501,7 +6501,7 @@
                         juego</rs>. Estaba <rs ana="CHAAJ">jugando</rs> <rs ana="JUN_JUNAJPU">Cada Cerbatanero</rs>, <rs ana="WUQUB'_JUNAJPU">Siete Un Cerbatanero</rs> en <rs ana="JOM">la cancha</rs>, <rs ana="NIM_XOB'_KARCHAJ">la gran cancha</rs> 
                         de práctica le decían. Estaban parados <rs ana="TUKUR">los tecolotes</rs> sobre el techo del juego, entonces dieron el 
                         mensaje, era relato de <rs ana="JUN_KAME'">Una Muerte</rs>, <rs ana="WUQUB'_KAME'">Siete Muertes</rs>, <rs ana="AJAL_PUS">Señor del Pus</rs>, <rs ana="AJAL_Q'ANA">Señor de la Aguadija</rs>; <rs ana="CH'AMIYA_B'AQ">Bastón 
-                        de Hueso</rs>, <rs ana="CH'AMIYA_JOLOM">Bastón de Calavera</rs> <rs ana="XIKIRIPAT">Xikiripat</rs>, <rs ana="KUCHUMA_KIK'">Sangre Carcomida</rs>, <rs ana="AJAL_MES">El de la Basura</rs>, <rs ana="AJAL_TOQ'OB">El Puyador</rs>, <rs ana="XIK">El 
+                        de Hueso</rs>, <rs ana="CH'AMIYA_JOLOM">Bastón de Calavera</rs> <rs ana="XIKIRIPAT">Xikiripat</rs>, <rs ana="KUCHUMA_KIK'">Sangre Carcomida</rs>, <rs ana="AJAL_MES">El de la Basura</rs>, <rs ana="AJAL_TOQ'OB">El Puyador</rs>, <rs ana="AJAW_XIK">El 
                         Gavilán</rs>, <rs ana="PATAN">El del Mecapal</rs> eran los nombres de todos <rs ana="RAJAWAL_XIB'ALB'A">los señores del Inframundo</rs>.</p> 
                     <p>Los <rs ana="TUKUR">tecolotes</rs> dieron pues el mensaje:</p>
                     <p>-¿Acaso no es cierto que así dice el Señor <rs ana="JUN_KAME'">Una Muerte</rs>, <rs ana="WUQUB'_KAME">Siete Muertes</rs>? -dijeron los <rs ana="TUKUR">tecalotes</rs>.</p> 
@@ -7050,7 +7050,7 @@
                     <p>-Quién sabe qué fue lo que me picó -dijo. Picaron <rs ana="CH'AMIYA_JOLOM">al décimo</rs> sentado.</p> 
                     <p>-¡Ay!</p>
                     <p>-¿Qué es, <rs ana="CH'AMIYA_JOLOM">Bastón de Calavera</rs>? -le dijo <rs ana="CH'AMIYA_B'AQ">Bastón de Hueso</rs>.</p> 
-                    <p>-Quién sabe qué me picó -dijo después. Picaron <rs ana="XIK">al undécimo</rs> sentado.</p> 
+                    <p>-Quién sabe qué me picó -dijo después. Picaron <rs ana="AJAW_XIK">al undécimo</rs> sentado.</p> 
                     <p>-¡Ay! -dijo.</p> 
                     <p>-¿Qué es, <rs ana="PATAN">Mekapal</rs>?<ref target="spa.n017"><hi rend="sup">17</hi></ref>
                         <note place="foot" xml:id="spa.n017"><seg type="note-symbol"><hi rend="sup">17</hi></seg>
@@ -9076,251 +9076,251 @@
                     <!-- <table rows="36" cols="4"> -->
                     <!-- <pb xml:id="yua2021-239" />  -->
                     <row role="data">
-                        <cell role="data">vucub caquix</cell>
-                        <cell role="data">Nuestras Siete Vergüenzas</cell>
-                        <cell role="data">Wukub Káakix</cell>
-                        <cell role="data">Wuk Subtal</cell>
+                        <cell role="data"><rs ana="WUQUB'_KAQIX">vucub caquix</rs></cell>
+                        <cell role="data"><rs ana="WUQUB'_KAQIX">Nuestras Siete Vergüenzas</rs></cell>
+                        <cell role="data"><rs ana="WUQUB'_KAQIX">Wukub Káakix</rs></cell>
+                        <cell role="data"><rs ana="WUQUB'_KAQIX">Wuk Subtal</rs></cell>
                     </row>
                     <row role="data">
-                        <cell role="data">zipacna</cell>
+                        <cell role="data"><rs ana="SIPAKNA">zipacna</rs></cell>
                         <cell role="data">----------</cell>
-                        <cell role="data">Síipakna'</cell>
-                        <cell role="data">----------</cell>
-                    </row>
-                    <row role="data">
-                        <cell role="data">cabracan</cell>
-                        <cell role="data">Dos Pies</cell>
-                        <cell role="data">Ka' Ráakan</cell>
-                        <cell role="data">Ka' Ook</cell>
-                    </row>
-                    <row role="data">
-                        <cell role="data">chi malmat</cell>
-                        <cell role="data">----------</cell>
-                        <cell role="data">Chíimalmaat</cell>
+                        <cell role="data"><rs ana="SIPAKNA">Síipakna'</rs></cell>
                         <cell role="data">----------</cell>
                     </row>
                     <row role="data">
-                        <cell role="data">chicac</cell>
-                        <cell role="data">El del Fuego (Montaña)</cell>
-                        <cell role="data">Chíikak</cell>
-                        <cell role="data">K'áak'il Wits</cell>
+                        <cell role="data"><rs ana="KAB'RAQAN">cabracan</rs></cell>
+                        <cell role="data"><rs ana="KAB'RAQAN">Dos Pies</rs></cell>
+                        <cell role="data"><rs ana="KAB'RAQAN">Ka' Ráakan</rs></cell>
+                        <cell role="data"><rs ana="KAB'RAQAN">Ka' Ook</rs></cell>
                     </row>
                     <row role="data">
-                        <cell role="data">pe cul</cell>
-                        <cell role="data">El de Agua (Montaña)</cell> 
-                        <cell role="data">Péekul</cell> 
-                        <cell role="data">Ja'il Wits</cell> 
+                        <cell role="data"><rs ana="CHIMALMAT">chi malmat</rs></cell>
+                        <cell role="data">----------</cell>
+                        <cell role="data"><rs ana="CHIMALMAT">Chíimalmaat</rs></cell>
+                        <cell role="data">----------</cell>
                     </row>
                     <row role="data">
-                        <cell role="data">xcanul</cell> 
+                        <cell role="data"><rs ana="CHI_Q'AQ'">chicac</rs></cell>
+                        <cell role="data"><rs ana="CHI_Q'AQ'">El del Fuego (Montaña)</rs></cell>
+                        <cell role="data"><rs ana="CHI_Q'AQ'">Chíikak</rs></cell>
+                        <cell role="data"><rs ana="CHI_Q'AQ'">K'áak'il Wits</rs></cell>
+                    </row>
+                    <row role="data">
+                        <cell role="data"><rs ana="PEK_UL_YA'">pe cul</rs></cell>
+                        <cell role="data"><rs ana="PEK_UL_YA'">El de Agua (Montaña)</rs></cell> 
+                        <cell role="data"><rs ana="PEK_UL_YA'">Péekul</rs></cell> 
+                        <cell role="data"><rs ana="PEK_UL_YA'">Ja'il Wits</rs></cell> 
+                    </row>
+                    <row role="data">
+                        <cell role="data"><rs ana="YA'XKANUL">xcanul</rs></cell> 
                         <cell role="data">----------</cell> 
-                        <cell role="data">Xkaanul</cell> 
-                        <cell role="data">----------</cell> 
-                    </row>
-                    <row role="data">
-                        <cell role="data">macamob</cell> 
-                        <cell role="data">----------</cell> 
-                        <cell role="data">Máakamoob</cell> 
-                        <cell role="data">----------</cell> 
-                    </row>
-                    <row role="data">
-                        <cell role="data">huliznab</cell> 
-                        <cell role="data">----------</cell> 
-                        <cell role="data">Júulsinab</cell> 
-                        <cell role="data">----------</cell> 
-                    </row>
-                    <row role="data">
-                        <cell role="data">hun ah pu xbalanque</cell> 
-                        <cell role="data">Un Cerbatanero, Xbalanké</cell> 
-                        <cell role="data">Jun Ajpúub, Xbáalankej</cell> 
-                        <cell role="data">Jun Ts'onnáabte', Xbáalankej</cell> 
-                    </row>
-                    <row role="data">
-                        <cell role="data">Zaquinimac</cell> 
-                        <cell role="data">El Gran Anciano</cell> 
-                        <cell role="data">Sáakinimak</cell> 
-                        <cell role="data">Nojoch Nool</cell> 
-                    </row>
-                    <row role="data">
-                        <cell role="data">zaqui nima tzitz</cell> 
-                        <cell role="data">La Gran Blanca Pizote</cell> 
-                        <cell role="data">Sáakinimaj Tsíits</cell> 
-                        <cell role="data">Xnuk Sak Chi'ik</cell> 
-                    </row>
-                    <row role="data">
-                        <cell role="data">meavan</cell> 
-                        <cell role="data">----------</cell> 
-                        <cell role="data">Méewan</cell> 
+                        <cell role="data"><rs ana="YA'XKANUL">Xkaanul</rs></cell> 
                         <cell role="data">----------</cell> 
                     </row>
                     <row role="data">
-                        <cell role="data">hunhuhahpu, vucub hun ah pu</cell> 
-                        <cell role="data">Cada Cerbatanero, Siete Un Cerbatanero</cell>
-                        <cell role="data">Jun Jun Ajpúub, Wukub Jun Ajpúub</cell>
-                        <cell role="data">Jun Jun Ajts'onnáabte', Wuk Jun Ajts'oonáabte'</cell>
+                        <cell role="data"><rs ana="MAKAMOB'">macamob</rs></cell> 
+                        <cell role="data">----------</cell> 
+                        <cell role="data"><rs ana="MAKAMOB'">Máakamoob</rs></cell> 
+                        <cell role="data">----------</cell> 
                     </row>
                     <row role="data">
-                        <cell role="data">hun batz, hun choven</cell>
-                        <cell role="data">Un Mono, Hun Chowen</cell>
-                        <cell role="data">Jun Ba'aats', Jun Chóowen</cell>
-                        <cell role="data">Jun Ba'ats', Jun Chóowen</cell>
+                        <cell role="data"><rs ana="JULISNAB'">huliznab</rs></cell> 
+                        <cell role="data">----------</cell> 
+                        <cell role="data"><rs ana="JULISNAB'">Júulsinab</rs></cell> 
+                        <cell role="data">----------</cell> 
                     </row>
                     <row role="data">
-                        <cell role="data">xbaquiyalo</cell>
-                        <cell role="data">La de Huesos Atados</cell>
-                        <cell role="data">Xbáakiyalo'</cell>
-                        <cell role="data">Ixk'axa'an Baakelo'ob</cell>
+                        <cell role="data"><rs ana="KA'IB'_K'AJOLAB'"><rs ana="JUNAJPU">hun ah pu</rs> <rs ana="XB'ALAMQ'E">xbalanque</rs></rs></cell> 
+                        <cell role="data"><rs ana="KA'IB'_K'AJOLAB'"><rs ana="JUNAJPU">Un Cerbatanero</rs>, <rs ana="XB'ALAMQ'E">Xbalanké</rs></rs></cell> 
+                        <cell role="data"><rs ana="KA'IB'_K'AJOLAB'"><rs ana="JUNAJPU">Jun Ajpúub</rs>, <rs ana="XB'ALAMQ'E">Xbáalankej</rs></rs></cell> 
+                        <cell role="data"><rs ana="KA'IB'_K'AJOLAB'"><rs ana="JUNAJPU">Jun Ts'onnáabte'</rs>, <rs ana="XB'ALAMQ'E">Xbáalankej</rs></rs></cell> 
                     </row>
                     <row role="data">
-                        <cell role="data">hun came, vucub came</cell>
-                        <cell role="data">Una Muerte, Siete Muertes</cell>
-                        <cell role="data">Jun Káame', Wuqub Káame'</cell>
-                        <cell role="data">Jun Kíimil, Wuk Kíimil</cell>
+                        <cell role="data"><rs ana="SAQI_NIM_AQ_SIS">Zaquinimac</rs></cell> 
+                        <cell role="data"><rs ana="SAQI_NIM_AQ_SIS">El Gran Anciano</rs></cell> 
+                        <cell role="data"><rs ana="SAQI_NIM_AQ_SIS">Sáakinimak</rs></cell> 
+                        <cell role="data"><rs ana="SAQI_NIM_AQ_SIS">Nojoch Nool</rs></cell> 
                     </row>
                     <row role="data">
-                        <cell role="data">xikiripat</cell>
-                        <cell role="data">Humo Transportador de Muertos</cell>
-                        <cell role="data">Xíikiripaat</cell>
-                        <cell role="data">Ajbuts'ulbuts' Bisajikimen</cell>
+                        <cell role="data"><rs ana="SAQI_NIM_AQ_SIS">zaqui nima tzitz</rs></cell> 
+                        <cell role="data"><rs ana="SAQI_NIM_AQ_SIS">La Gran Blanca Pizote</rs></cell> 
+                        <cell role="data"><rs ana="SAQI_NIM_AQ_SIS">Sáakinimaj Tsíits</rs></cell> 
+                        <cell role="data"><rs ana="SAQI_NIM_AQ_SIS">Xnuk Sak Chi'ik</rs></cell> 
                     </row>
                     <row role="data">
-                        <cell role="data">cuchumaquic</cell>
-                        <cell role="data">Sangre Carcomida</cell>
-                        <cell role="data">Kúuchumakiik</cell>
-                        <cell role="data">Ajk'i'inam K'i'ik'el</cell>
+                        <cell role="data"><rs ana="ME'AWAN">meavan</rs></cell> 
+                        <cell role="data">----------</cell> 
+                        <cell role="data"><rs ana="ME'AWAN">Méewan</rs></cell> 
+                        <cell role="data">----------</cell> 
                     </row>
                     <row role="data">
-                        <cell role="data">ahal pu</cell>
-                        <cell role="data">Señor del Pus</cell>
-                        <cell role="data">Aj-alpuj</cell>
-                        <cell role="data">Ajpuj</cell>
+                        <cell role="data"><rs ana="JUN_JUNAJPU">hunhuhahpu</rs>, <rs ana="WUQUB'_JUNAJPU">vucub hun ah pu</rs></cell> 
+                        <cell role="data"><rs ana="JUN_JUNAJPU">Cada Cerbatanero</rs>, <rs ana="WUQUB'_JUNAJPU">Siete Un Cerbatanero</rs></cell>
+                        <cell role="data"><rs ana="JUN_JUNAJPU">Jun Jun Ajpúub</rs>, <rs ana="WUQUB'_JUNAJPU">Wukub Jun Ajpúub</rs></cell>
+                        <cell role="data"><rs ana="JUN_JUNAJPU">Jun Jun Ajts'onnáabte'</rs>, <rs ana="WUQUB'_JUNAJPU">Wuk Jun Ajts'oonáabte'</rs></cell>
                     </row>
                     <row role="data">
-                        <cell role="data">ahal cana</cell>
-                        <cell role="data">Señor de la Aguadija</cell>
-                        <cell role="data">Aj-alkanaj</cell>
-                        <cell role="data">Ajja'ilaankil</cell>
+                        <cell role="data"><rs ana="JUN_B'ATZ'_JUN_CHOWEN"><rs ana="JUN_B'ATZ'">hun batz</rs>, <rs ana="JUN_CHOWEN">hun choven</rs></rs></cell>
+                        <cell role="data"><rs ana="JUN_B'ATZ'_JUN_CHOWEN"><rs ana="JUN_B'ATZ'">Un Mono</rs>, <rs ana="JUN_CHOWEN">Hun Chowen</rs></rs></cell>
+                        <cell role="data"><rs ana="JUN_B'ATZ'_JUN_CHOWEN"><rs ana="JUN_B'ATZ'">Jun Ba'aats'</rs>, <rs ana="JUN_CHOWEN">Jun Chóowen</rs></rs></cell>
+                        <cell role="data"><rs ana="JUN_B'ATZ'_JUN_CHOWEN"><rs ana="JUN_B'ATZ'">Jun Ba'ats'</rs>, <rs ana="JUN_CHOWEN">Jun Chóowen</rs></rs></cell>
                     </row>
                     <row role="data">
-                        <cell role="data">chamia bac</cell>
-                        <cell role="data">Bastón de Hueso</cell>
-                        <cell role="data">Cháamyabaak</cell>
-                        <cell role="data">Ajxóolte' Baak</cell>
+                        <cell role="data"><rs ana="IXB'AQIYALO">xbaquiyalo</rs></cell>
+                        <cell role="data"><rs ana="IXB'AQIYALO">La de Huesos Atados</rs></cell>
+                        <cell role="data"><rs ana="IXB'AQIYALO">Xbáakiyalo'</rs></cell>
+                        <cell role="data"><rs ana="IXB'AQIYALO">Ixk'axa'an Baakelo'ob</rs></cell>
                     </row>
                     <row role="data">
-                        <cell role="data">chamia holom</cell>
-                        <cell role="data">Bastón de Calavera</cell>
-                        <cell role="data">Cháamyajo'olom</cell>
-                        <cell role="data">Ajxóolte' Baakel Pool</cell>
+                        <cell role="data"><rs ana="JUN_KAME'_WUQUB'_KAME'"><rs ana="JUN_KAME'">hun came</rs>, <rs ana="WUQUB'_KAME'">vucub came</rs></rs></cell>
+                        <cell role="data"><rs ana="JUN_KAME'_WUQUB'_KAME'"><rs ana="JUN_KAME'">Una Muerte</rs>, <rs ana="WUQUB'_KAME'">Siete Muertes</rs></rs></cell>
+                        <cell role="data"><rs ana="JUN_KAME'_WUQUB'_KAME'"><rs ana="JUN_KAME'">Jun Káame'</rs>, <rs ana="WUQUB'_KAME'">Wuqub Káame'</rs></rs></cell>
+                        <cell role="data"><rs ana="JUN_KAME'_WUQUB'_KAME'"><rs ana="JUN_KAME'">Jun Kíimil</rs>, <rs ana="WUQUB'_KAME'">Wuk Kíimil</rs></rs></cell>
                     </row>
                     <row role="data">
-                        <cell role="data">ahalmez</cell>
-                        <cell role="data">El de la Basura</cell>
-                        <cell role="data">Aj-almes</cell>
-                        <cell role="data">Ajsojol</cell>
+                        <cell role="data"><rs ana="XIKIRIPAT">xikiripat</rs></cell>
+                        <cell role="data"><rs ana="XIKIRIPAT">Humo Transportador de Muertos</rs></cell>
+                        <cell role="data"><rs ana="XIKIRIPAT">Xíikiripaat</rs></cell>
+                        <cell role="data"><rs ana="XIKIRIPAT">Ajbuts'ulbuts' Bisajikimen</rs></cell>
                     </row>
                     <row role="data">
-                        <cell role="data">ahaltocob</cell>
-                        <cell role="data">El que Puya o El Puyador</cell>
-                        <cell role="data">Aj-altokob</cell>
-                        <cell role="data">Ajpuputs'najil</cell>
+                        <cell role="data"><rs ana="KUCHUMA_KIK'">cuchumaquic</rs></cell>
+                        <cell role="data"><rs ana="KUCHUMA_KIK'">Sangre Carcomida</rs></cell>
+                        <cell role="data"><rs ana="KUCHUMA_KIK'">Kúuchumakiik</rs></cell>
+                        <cell role="data"><rs ana="KUCHUMA_KIK'">Ajk'i'inam K'i'ik'el</rs></cell>
                     </row>
                     <row role="data">
-                        <cell role="data">xic</cell>
-                        <cell role="data">El Gavilán</cell>
-                        <cell role="data">Xíik</cell>
-                        <cell role="data">Aj-i'</cell>
+                        <cell role="data"><rs ana="AJAL_PUJ">ahal pu</rs></cell>
+                        <cell role="data"><rs ana="AJAL_PUJ">Señor del Pus</rs></cell>
+                        <cell role="data"><rs ana="AJAL_PUJ">Aj-alpuj</rs></cell>
+                        <cell role="data"><rs ana="AJAL_PUJ">Ajpuj</rs></cell>
                     </row>
                     <row role="data">
-                        <cell role="data">patan</cell>
-                        <cell role="data">El del Mecapal</cell>
-                        <cell role="data">Páatam</cell>
-                        <cell role="data">Ajtáan Táab</cell>
+                        <cell role="data"><rs ana="AJAL_Q'ANA">ahal cana</rs></cell>
+                        <cell role="data"><rs ana="AJAL_Q'ANA">Señor de la Aguadija</rs></cell>
+                        <cell role="data"><rs ana="AJAL_Q'ANA">Aj-alkanaj</rs></cell>
+                        <cell role="data"><rs ana="AJAL_Q'ANA">Ajja'ilaankil</rs></cell>
                     </row>
                     <row role="data">
-                        <cell role="data">chabi tucur</cell>
-                        <cell role="data">Tecolote Flecha</cell>
-                        <cell role="data">Cháabij Túukur</cell>
-                        <cell role="data">Túunkuluchuuj Jaláalte'</cell>
+                        <cell role="data"><rs ana="CH'AMIYA_B'AQ">chamia bac</rs></cell>
+                        <cell role="data"><rs ana="CH'AMIYA_B'AQ">Bastón de Hueso</rs></cell>
+                        <cell role="data"><rs ana="CH'AMIYA_B'AQ">Cháamyabaak</rs></cell>
+                        <cell role="data"><rs ana="CH'AMIYA_B'AQ">Ajxóolte' Baak</rs></cell>
                     </row>
                     <row role="data">
-                        <cell role="data">huracan tucur</cell>
-                        <cell role="data">Tecolote Un Pie</cell>
-                        <cell role="data">Jun Ráakan Túukur</cell>
-                        <cell role="data">Túunkuluchuuj Jun Ook</cell>
+                        <cell role="data"><rs ana="CH'AMIYA_JOLOM">chamia holom</rs></cell>
+                        <cell role="data"><rs ana="CH'AMIYA_JOLOM">Bastón de Calavera</rs></cell>
+                        <cell role="data"><rs ana="CH'AMIYA_JOLOM">Cháamyajo'olom</rs></cell>
+                        <cell role="data"><rs ana="CH'AMIYA_JOLOM">Ajxóolte' Baakel Pool</rs></cell>
                     </row>
                     <row role="data">
-                        <cell role="data">caquix tucur</cell>
-                        <cell role="data">Tecolote Rojo</cell>
-                        <cell role="data">Káakix Túukur</cell>
-                        <cell role="data">Chak Túunkuluchuuj</cell>
+                        <cell role="data"><rs ana="AJAL_MES">ahalmez</rs></cell>
+                        <cell role="data"><rs ana="AJAL_MES">El de la Basura</rs></cell>
+                        <cell role="data"><rs ana="AJAL_MES">Aj-almes</rs></cell>
+                        <cell role="data"><rs ana="AJAL_MES">Ajsojol</rs></cell>
                     </row>
                     <row role="data">
-                        <cell role="data">holom tucur</cell>
-                        <cell role="data">Cabeza de Tecolote</cell>
-                        <cell role="data">Jo'olom Túukur</cell>
-                        <cell role="data">U Pool Túunkuluchuuj</cell>
+                        <cell role="data"><rs ana="AJAL_TOQ'OB">ahaltocob</rs></cell>
+                        <cell role="data"><rs ana="AJAL_TOQ'OB">El que Puya o El Puyador</rs></cell>
+                        <cell role="data"><rs ana="AJAL_TOQ'OB">Aj-altokob</rs></cell>
+                        <cell role="data"><rs ana="AJAL_TOQ'OB">Ajpuputs'najil</rs></cell>
                     </row>
                     <row role="data">
-                        <cell role="data">zivan ub</cell>
-                        <cell role="data">Barranco Montañoso</cell>
-                        <cell role="data">Síiwan Ub</cell>
-                        <cell role="data">Áaktun Wits</cell>
+                        <cell role="data"><rs ana="AJAW_XIK">xic</rs></cell>
+                        <cell role="data"><rs ana="AJAW_XIK">El Gavilán</rs></cell>
+                        <cell role="data"><rs ana="AJAW_XIK">Xíik</rs></cell>
+                        <cell role="data"><rs ana="AJAW_XIK">Aj-i'</rs></cell>
                     </row>
                     <row role="data">
-                        <cell role="data">ziuan cul</cell>
-                        <cell role="data">Barranco del Cerro</cell>
-                        <cell role="data">Síiwan Kul</cell>
-                        <cell role="data">Áaktun Mulu'uch</cell>
+                        <cell role="data"><rs ana="PATAN">patan</rs></cell>
+                        <cell role="data"><rs ana="PATAN">El del Mecapal</rs></cell>
+                        <cell role="data"><rs ana="PATAN">Páatam</rs></cell>
+                        <cell role="data"><rs ana="PATAN">Ajtáan Táab</rs></cell>
                     </row>
                     <row role="data">
-                        <cell role="data">ziuan vbi</cell>
-                        <cell role="data">Barranco Secreto</cell>
-                        <cell role="data">Síiwan Ubij</cell>
-                        <cell role="data">Bala'an Áaktun</cell>
+                        <cell role="data"><rs ana="CH'AB'I_TUKUR">chabi tucur</rs></cell>
+                        <cell role="data"><rs ana="CH'AB'I_TUKUR">Tecolote Flecha</rs></cell>
+                        <cell role="data"><rs ana="CH'AB'I_TUKUR">Cháabij Túukur</rs></cell>
+                        <cell role="data"><rs ana="CH'AB'I_TUKUR">Túunkuluchuuj Jaláalte'</rs></cell>
                     </row>
                     <row role="data">
-                        <cell role="data">queꜫma ha</cell>
-                        <cell role="data">Casa de la Obscuridad</cell>
-                        <cell role="data">Kéek'maj Jaaj</cell>
-                        <cell role="data">Éek'jolch'e'enil Naj</cell>
+                        <cell role="data"><rs ana="JURAQAN_TUKUR">huracan tucur</rs></cell>
+                        <cell role="data"><rs ana="JURAQAN_TUKUR">Tecolote Un Pie</rs></cell>
+                        <cell role="data"><rs ana="JURAQAN_TUKUR">Jun Ráakan Túukur</rs></cell>
+                        <cell role="data"><rs ana="JURAQAN_TUKUR">Túunkuluchuuj Jun Ook</rs></cell>
                     </row>
                     <row role="data">
-                        <cell role="data">xuxulim ha</cell>
-                        <cell role="data">Casa de Hielo</cell>
-                        <cell role="data">Xúuxulim Jaaj</cell>
-                        <cell role="data">Síistuunichja' Naj</cell>
+                        <cell role="data"><rs ana="KAQIX _TUKUR">caquix tucur</rs></cell>
+                        <cell role="data"><rs ana="KAQIX _TUKUR">Tecolote Rojo</rs></cell>
+                        <cell role="data"><rs ana="KAQIX _TUKUR">Káakix Túukur</rs></cell>
+                        <cell role="data"><rs ana="KAQIX _TUKUR">Chak Túunkuluchuuj</rs></cell>
+                    </row>
+                    <row role="data">
+                        <cell role="data"><rs ana="JOLOM_TUKUR">holom tucur</rs></cell>
+                        <cell role="data"><rs ana="JOLOM_TUKUR">Cabeza de Tecolote</rs></cell>
+                        <cell role="data"><rs ana="JOLOM_TUKUR">Jo'olom Túukur</rs></cell>
+                        <cell role="data"><rs ana="JOLOM_TUKUR">U Pool Túunkuluchuuj</rs></cell>
+                    </row>
+                    <row role="data">
+                        <cell role="data"><rs ana="NU'_SIWAN">zivan ub</rs></cell>
+                        <cell role="data"><rs ana="NU'_SIWAN">Barranco Montañoso</rs></cell>
+                        <cell role="data"><rs ana="NU'_SIWAN">Síiwan Ub</rs></cell>
+                        <cell role="data"><rs ana="NU'_SIWAN">Áaktun Wits</rs></cell>
+                    </row>
+                    <row role="data">
+                        <cell role="data"><rs ana="K'ULKU_SIWAN">ziuan cul</rs></cell>
+                        <cell role="data"><rs ana="K'ULKU_SIWAN">Barranco del Cerro</rs></cell>
+                        <cell role="data"><rs ana="K'ULKU_SIWAN">Síiwan Kul</rs></cell>
+                        <cell role="data"><rs ana="K'ULKU_SIWAN">Áaktun Mulu'uch</rs></cell>
+                    </row>
+                    <row role="data">
+                        <cell role="data"><rs ana="EWAB'AL_SIWAN">ziuan vbi</rs></cell>
+                        <cell role="data"><rs ana="EWAB'AL_SIWAN">Barranco Secreto</rs></cell>
+                        <cell role="data"><rs ana="EWAB'AL_SIWAN">Síiwan Ubij</rs></cell>
+                        <cell role="data"><rs ana="EWAB'AL_SIWAN">Bala'an Áaktun</rs></cell>
+                    </row>
+                    <row role="data">
+                        <cell role="data"><rs ana="Q'EQUMA_JA">queꜫma ha</rs></cell>
+                        <cell role="data"><rs ana="Q'EQUMA_JA">Casa de la Obscuridad</rs></cell>
+                        <cell role="data"><rs ana="Q'EQUMA_JA">Kéek'maj Jaaj</rs></cell>
+                        <cell role="data"><rs ana="Q'EQUMA_JA">Éek'jolch'e'enil Naj</rs></cell>
+                    </row>
+                    <row role="data">
+                        <cell role="data"><rs ana="XUXULIM_JA">xuxulim ha</rs></cell>
+                        <cell role="data"><rs ana="XUXULIM_JA">Casa de Hielo</rs></cell>
+                        <cell role="data"><rs ana="XUXULIM_JA">Xúuxulim Jaaj</rs></cell>
+                        <cell role="data"><rs ana="XUXULIM_JA">Síistuunichja' Naj</rs></cell>
                     </row>
                     <!-- <pb xml:id="yua2021-240" />  -->
                     <!-- <table rows="39" cols="4"> -->
                     <row role="data">
-                        <cell role="data">balami ha</cell>
-                        <cell role="data">Casa de Leones</cell>
-                        <cell role="data">Báalamij Jaaj</cell>
-                        <cell role="data">Báalam Naj</cell>
+                        <cell role="data"><rs ana="B'ALAM_JA">balami ha</rs></cell>
+                        <cell role="data"><rs ana="B'ALAM_JA">Casa de Leones</rs></cell>
+                        <cell role="data"><rs ana="B'ALAM_JA">Báalamij Jaaj</rs></cell>
+                        <cell role="data"><rs ana="B'ALAM_JA">Báalam Naj</rs></cell>
                     </row>
                     <row role="data">
-                        <cell role="data">Tzotzi ha</cell>
-                        <cell role="data">Casa de Murciélagos</cell>
-                        <cell role="data">Tsóotsij Jaaj</cell>
-                        <cell role="data">Sots'il Naj</cell>
+                        <cell role="data"><rs ana="SOTZ'I_JA">Tzotzi ha</rs></cell>
+                        <cell role="data"><rs ana="SOTZ'I_JA">Casa de Murciélagos</rs></cell>
+                        <cell role="data"><rs ana="SOTZ'I_JA">Tsóotsij Jaaj</rs></cell>
+                        <cell role="data"><rs ana="SOTZ'I_JA">Sots'il Naj</rs></cell>
                     </row>
                     <row role="data">
-                        <cell role="data">chaim ha</cell>
-                        <cell role="data">Casa de las Navajas</cell>
-                        <cell role="data">Cháam Jaaj</cell>
-                        <cell role="data">Síimtun Naj</cell>
+                        <cell role="data"><rs ana="CHAYIM_JA">chaim ha</rs></cell>
+                        <cell role="data"><rs ana="CHAYIM_JA">Casa de las Navajas</rs></cell>
+                        <cell role="data"><rs ana="CHAYIM_JA">Cháam Jaaj</rs></cell>
+                        <cell role="data"><rs ana="CHAYIM_JA">Síimtun Naj</rs></cell>
                     </row>
                     <row role="data">
-                        <cell role="data">tihobal ha</cell>
-                        <cell role="data">Casa de Tortura</cell>
-                        <cell role="data">Tíijobal Jaaj</cell>
-                        <cell role="data">Núumyaj Naj</cell>
+                        <cell role="data"><rs ana="TIJOB'AL_JA">tihobal ha</rs></cell>
+                        <cell role="data"><rs ana="TIJOB'AL_JA">Casa de Tortura</rs></cell>
+                        <cell role="data"><rs ana="TIJOB'AL_JA">Tíijobal Jaaj</rs></cell>
+                        <cell role="data"><rs ana="TIJOB'AL_JA">Núumyaj Naj</rs></cell>
                     </row>
                     <row role="data">
-                        <cell role="data">xquic</cell>
+                        <cell role="data"><rs ana="IXKIK'">xquic</rs></cell>
                         <cell role="data">----------</cell>
-                        <cell role="data">Xkiik</cell>
+                        <cell role="data"><rs ana="IXKIK'">Xkiik</rs></cell>
                         <cell role="data">----------</cell>
                     </row>
                     <row role="data">
@@ -9330,21 +9330,21 @@
                         <cell role="data">Ts'íits'ik K'i'ik'el Che'</cell> 
                     </row>
                     <row role="data">
-                        <cell role="data">xtoh</cell> 
-                        <cell role="data">Vos Paga</cell> 
-                        <cell role="data">Xtóoj</cell> 
-                        <cell role="data">Paak'alech</cell> 
+                        <cell role="data"><rs ana="IXTOJ">xtoh</rs></cell> 
+                        <cell role="data"><rs ana="IXTOJ">Vos Paga</rs></cell> 
+                        <cell role="data"><rs ana="IXTOJ">Xtóoj</rs></cell> 
+                        <cell role="data"><rs ana="IXTOJ">Paak'alech</rs></cell> 
                     </row>
                     <row role="data">
-                        <cell role="data">Xcanil</cell> 
+                        <cell role="data"><rs ana="IXQ'ANIL">Xcanil</rs></cell> 
                         <cell role="data">----------</cell> 
-                        <cell role="data">Xkaanil</cell> 
+                        <cell role="data"><rs ana="IXQ'ANIL">Xkaanil</rs></cell> 
                         <cell role="data">----------</cell> 
                     </row>
                     <row role="data">
-                        <cell role="data">xcacauix</cell> 
+                        <cell role="data"><rs ana="IXKAKAW">xcacauix</rs></cell> 
                         <cell role="data">----------</cell> 
-                        <cell role="data">Xkáakawix</cell> 
+                        <cell role="data"><rs ana="IXKAKAW">Xkáakawix</rs></cell> 
                         <cell role="data">----------</cell> 
                     </row>
                     <row role="data">
@@ -9354,40 +9354,40 @@
                         <cell role="data">K'ante'</cell> 
                     </row>
                     <row role="data">
-                        <cell role="data">tamazul</cell> 
+                        <cell role="data"><rs ana="TAMASUL">tamazul</rs></cell> 
                         <cell role="data">----------</cell> 
-                        <cell role="data">Táamasul</cell> 
-                        <cell role="data">----------</cell> 
-                    </row>
-                    <row role="data">
-                        <cell role="data">zaquicaz</cell> 
-                        <cell role="data">----------</cell> 
-                        <cell role="data">Sáakikas</cell> 
+                        <cell role="data"><rs ana="TAMASUL">Táamasul</rs></cell> 
                         <cell role="data">----------</cell> 
                     </row>
                     <row role="data">
-                        <cell role="data">qhapatan</cell> 
-                        <cell role="data">El Señor del Mecapal</cell> 
-                        <cell role="data">Ajpáatam</cell> 
-                        <cell role="data">Ajtáan Táab</cell> 
+                        <cell role="data"><rs ana="SAQIKAS">zaquicaz</rs></cell> 
+                        <cell role="data">----------</cell> 
+                        <cell role="data"><rs ana="SAQIKAS">Sáakikas</rs></cell> 
+                        <cell role="data">----------</cell> 
                     </row>
                     <row role="data">
-                        <cell role="data">quic xic</cell>
-                        <cell role="data">Sangre de Gavilán</cell>
-                        <cell role="data">Kíikxik</cell>
-                        <cell role="data">Ajk'i'ik'el I'</cell>
+                        <cell role="data"><rs ana="PATAN">qhapatan</rs></cell> 
+                        <cell role="data"><rs ana="PATAN">El Señor del Mecapal</rs></cell> 
+                        <cell role="data"><rs ana="PATAN">Ajpáatam</rs></cell> 
+                        <cell role="data"><rs ana="PATAN">Ajtáan Táab</rs></cell> 
                     </row>
                     <row role="data">
-                        <cell role="data">quic rixcac</cell>
-                        <cell role="data">Sangre de Fuego</cell>
-                        <cell role="data">Kíikrixkáak</cell>
-                        <cell role="data">K'i'ik'el K'áak'</cell>
+                        <cell role="data"><rs ana="KIK'_RE">quic xic</rs></cell>
+                        <cell role="data"><rs ana="KIK'_RE">Sangre de Gavilán</rs></cell>
+                        <cell role="data"><rs ana="KIK'_RE">Kíikxik</rs></cell>
+                        <cell role="data"><rs ana="KIK'_RE">Ajk'i'ik'el I'</rs></cell>
                     </row>
                     <row role="data">
-                        <cell role="data">ha chi ꜫaꜫ</cell>
-                        <cell role="data">Casa de Fuego</cell>
-                        <cell role="data">Chikáak Jaaj</cell>
-                        <cell role="data">K'áak'il Naj</cell>
+                        <cell role="data"><rs ana="KIK'_RIXK'AQ">quic rixcac</rs></cell>
+                        <cell role="data"><rs ana="KIK'_RIXK'AQ">Sangre de Fuego</rs></cell>
+                        <cell role="data"><rs ana="KIK'_RIXK'AQ">Kíikrixkáak</rs></cell>
+                        <cell role="data"><rs ana="KIK'_RIXK'AQ">K'i'ik'el K'áak'</rs></cell>
+                    </row>
+                    <row role="data">
+                        <cell role="data"><rs ana="JA_CHI_Q'AQ''">ha chi ꜫaꜫ</rs></cell>
+                        <cell role="data"><rs ana="JA_CHI_Q'AQ''">Casa de Fuego</rs></cell>
+                        <cell role="data"><rs ana="JA_CHI_Q'AQ''">Chikáak Jaaj</rs></cell>
+                        <cell role="data"><rs ana="JA_CHI_Q'AQ''">K'áak'il Naj</rs></cell>
                     </row>
                     <row role="data">
                         <cell role="data">xulu</cell>
