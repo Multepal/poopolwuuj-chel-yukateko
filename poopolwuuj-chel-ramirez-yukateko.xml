@@ -9602,139 +9602,140 @@
                         <cell role="data">Báalam Suumilo'ob</cell> 
                     </row>
                     <row role="data">
-                        <cell role="data">chi pina navac</cell> 
+                        <cell role="data"><rs ana="CH'IPI_NANAWAK">chi pina navac</rs></cell> 
                         <cell role="data">----------</cell> 
-                        <cell role="data">Chíipi' Náanawak</cell>
-                        <cell role="data">----------</cell> 
-                    </row>
-                    <row role="data">
-                        <cell role="data">raxa nana vac</cell>
-                        <cell role="data">----------</cell>
-                        <cell role="data">Ráaxa' Náanawak</cell>
+                        <cell role="data"><rs ana="CH'IPI_NANAWAK">Chíipi' Náanawak</rs></cell>
                         <cell role="data">----------</cell> 
                     </row>
                     <row role="data">
-                        <cell role="data">ya qui vinac</cell>
-                        <cell role="data">Gente Sacrificadora</cell>
-                        <cell role="data">Yáaki' Wíinik</cell>
-                        <cell role="data">Ajnáakom</cell>
+                        <cell role="data"><rs ana="RAXA_NANAWAK">raxa nana vac</rs></cell>
+                        <cell role="data">----------</cell>
+                        <cell role="data"><rs ana="RAXA_NANAWAK">Ráaxa' Náanawak</rs></cell>
+                        <cell role="data">----------</cell> 
                     </row>
                     <row role="data">
-                        <cell role="data">tulan</cell>
-                        <cell role="data">Tul de Agua</cell>
-                        <cell role="data">Túulan</cell>
-                        <cell role="data">Noj Áalkabja'</cell>
+                        <cell role="data"><rs ana="YAKI">ya qui vinac</rs></cell>
+                        <cell role="data"><rs ana="YAKI">Gente Sacrificadora</rs></cell>
+                        <cell role="data"><rs ana="YAKI">Yáaki' Wíinik</rs></cell>
+                        <cell role="data"><rs ana="YAKI">Ajnáakom</rs></cell>
                     </row>
                     <row role="data">
-                        <cell role="data">avilix</cell>
+                        <cell role="data"><rs ana="TULÁN">tulan</rs></cell>
+                        <cell role="data"><rs ana="TULÁN">Tul de Agua</rs></cell>
+                        <cell role="data"><rs ana="TULÁN">Túulan</rs></cell>
+                        <cell role="data"><rs ana="TULÁN">Noj Áalkabja'</rs></cell>
+                    </row>
+                    <row role="data">
+                        <cell role="data"><rs ana="AWILIX">avilix</rs></cell>
                         <cell role="data">----------</cell>
-                        <cell role="data">Áawilix</cell>
+                        <cell role="data"><rs ana="AWILIX">Áawilix</rs></cell>
                         <cell role="data">----------</cell>
                     </row>
                     <row role="data">
-                        <cell role="data">hacauitz</cell>
+                        <cell role="data"><rs ana="JAQAWITZ">hacauitz</rs></cell>
                         <cell role="data">----------</cell>
-                        <cell role="data">Jáakawits</cell>
+                        <cell role="data"><rs ana="JAQAWITZ">Jáakawits</rs></cell>
                         <cell role="data">----------</cell>
                     </row>
                     <row role="data">
-                        <cell role="data">Nica cahtacah</cell>
+                        <cell role="data"><rs ana="NIKAQA_TAQAJ">Nica cahtacah</rs></cell>
                         <cell role="data">-----------</cell>
-                        <cell role="data">Níikajtakaj</cell>
+                        <cell role="data"><rs ana="NIKAQA_TAQAJ">Níikajtakaj</rs></cell>
                         <cell role="data">----------</cell>
                     </row>
                     <row role="data">
-                        <cell role="data">zotaila ha chamalcan</cell>
-                        <cell role="data">Los de la Casa de Murciélagos Chamalkan</cell>
-                        <cell role="data">Tsóotsij Jaaj Cháamalkaan</cell>
-                        <cell role="data">Soots'il Naj Cháamalkaanilo'ob</cell>
+                        <cell role="data"><rs ana="SOJTZI_JA_CHIMALKAN">zotaila ha chamalcan</rs></cell>
+                        <cell role="data"><rs ana="SOJTZI_JA_CHIMALKAN">Los de la Casa de Murciélagos Chamalkan</rs></cell>
+                        <cell role="data"><rs ana="SOJTZI_JA_CHIMALKAN">Tsóotsij Jaaj Cháamalkaan</rs></cell>
+                        <cell role="data"><rs ana="SOJTZI_JA_CHIMALKAN">Soots'il Naj Cháamalkaanilo'ob</rs></cell>
                     </row>
                     <row role="data">
-                        <cell role="data">ꜫaꜫal tepeval</cell>
-                        <cell role="data">La Fuerza, La Grandeza</cell>
-                        <cell role="data">K'áak'al, Téepwal</cell>
-                        <cell role="data">U Muuk'il Noj Óolalil</cell>
+                        <cell role="data">ꜫaꜫal <rs ana="TEPEW">tepeval</rs></cell>
+                        <cell role="data">La Fuerza, <rs ana="TEPEW">La Grandeza</rs></cell>
+                        <cell role="data">K'áak'al, <rs ana="TEPEW">Téepwal</rs></cell>
+                        <cell role="data">U Muuk'il <rs ana="TEPEW">Noj Óolalil</rs></cell>
                     </row>
                     <row role="data">
-                        <cell role="data">nim xol</cell>
+                        <cell role="data"><rs ana="NIM_XO'L">nim xol</rs></cell>
                         <cell role="data">----------</cell>
-                        <cell role="data">Níim Xóol</cell>
+                        <cell role="data"><rs ana="NIM_XO'L">Níim Xóol</rs></cell>
                         <cell role="data">----------</cell>
                     </row>
                     
                     <row role="data">
-                        <cell role="data">chipixab</cell>
-                        <cell role="data">Cerro del Aviso o del Mandato</cell>
-                        <cell role="data">Chíipixab</cell>
-                        <cell role="data">U Witsil A'almajt'aan wáaj Mokt'aan</cell>
+                        <cell role="data"><rs ana="CHI_PIXAB'">chipixab</rs></cell>
+                        <cell role="data"><rs ana="CHI_PIXAB'">Cerro del Aviso o del Mandato</rs></cell>
+                        <cell role="data"><rs ana="CHI_PIXAB'">Chíipixab</rs></cell>
+                        <cell role="data"><rs ana="CHI_PIXAB'">U Witsil A'almajt'aan wáaj Mokt'aan</rs></cell>
                     </row>
                     <row role="data">
-                        <cell role="data">cholochic abah bocatahinac zanaieb</cell>
+                        <cell role="data"><rs ana="CHOLOCHIK_AB'AJ">cholochic abah</rs> <rs ana="B'OQOTAJINAQ_SANAYEB'">bocatahinac zanaieb</rs></cell>
                         <cell role="data">----------</cell>
-                        <cell role="data">Chóolochik Abaj, Bóokotajinak Sáanayeb</cell>
+                        <cell role="data"><rs ana="CHOLOCHIK_AB'AJ">Chóolochik Abaj</rs>, <rs ana="B'OQOTAJINAQ_SANAYEB'">Bóokotajinak Sáanayeb</rs></cell>
                         <cell role="data">----------</cell>
                     </row>
                     <row role="data">
-                        <cell role="data">evabal zivan</cell>
-                        <cell role="data">Barranco Oculto</cell>
-                        <cell role="data">Éewabal Síiwan</cell>
-                        <cell role="data">Bala'an Áaktun</cell>
+                        <cell role="data"><rs ana="EWA'BAL_SIWAN">evabal zivan</rs></cell>
+                        <cell role="data"><rs ana="EWA'BAL_SIWAN">Barranco Oculto</rs></cell>
+                        <cell role="data"><rs ana="EWA'BAL_SIWAN">Éewabal Síiwan</rs></cell>
+                        <cell role="data"><rs ana="EWA'BAL_SIWAN">Bala'an Áaktun</rs></cell>
                     </row>
                     <row role="data">
-                        <cell role="data">pa nima zivan, chiquechelah pa vlix</cell>
-                        <cell role="data">Selva de Awilish</cell>
-                        <cell role="data">Páanimaj Síiwan, Chíikechelaj Áawilix</cell>
-                        <cell role="data">U K'áaxil Áawilix</cell>
+                        <cell role="data"><rs ana="PA_AWILIX">pa nima zivan, chiquechelah pa vlix</rs></cell>
+                        <cell role="data"><rs ana="PA_AWILIX">Selva de Awilish</rs></cell>
+                        <cell role="data"><rs ana="PA_AWILIX">Páanimaj Síiwan, Chíikechelaj Áawilix</rs></cell>
+                        <cell role="data"><rs ana="PA_AWILIX">U K'áaxil Áawilix</rs></cell>
                     </row>
                     <row role="data">
+                    <!--editor's note: we tag this as <rs ana="JAQAWITZ_JUYUB'">, but I can't remember why, and there's no nima caꜫaha in Ximénez -->
                         <cell role="data">nima caꜫaha</cell>
                         <cell role="data">Río Grande del Agua Colorada</cell>
                         <cell role="data">Níimaj Kakjaj</cell>
                         <cell role="data">Nuxi' Chak Áalkabja'</cell>
                     </row>
                     <row role="data">
-                        <cell role="data">patohil</cell>
-                        <cell role="data">El Escondrijo Secreto de la Baranca Tojil</cell>
-                        <cell role="data">Páaj Tojil</cell>
-                        <cell role="data">U Bal'an Áaktunil Tojil</cell>
+                        <cell role="data"><rs ana="PA_TOJIL">patohil</rs></cell>
+                        <cell role="data"><rs ana="PA_TOJIL">El Escondrijo Secreto de la Baranca Tojil</rs></cell>
+                        <cell role="data"><rs ana="PA_TOJIL">Páaj Tojil</rs></cell>
+                        <cell role="data"><rs ana="PA_TOJIL">U Bal'an Áaktunil Tojil</rs></cell>
                     </row>
                     <row role="data">
-                        <cell role="data">amactan</cell>
+                        <cell role="data"><rs ana="AMAQ'_TAM">amactan</rs></cell>
                         <cell role="data">----------</cell>
-                        <cell role="data">Áamaktan</cell>
-                        <cell role="data">----------</cell>
-                    </row>
-                    <row role="data">
-                        <cell role="data">amac vquin cat</cell>
-                        <cell role="data">----------</cell>
-                        <cell role="data">Áamak Úukin Káat</cell>
+                        <cell role="data"><rs ana="AMAQ'_TAM">Áamaktan</rs></cell>
                         <cell role="data">----------</cell>
                     </row>
                     <row role="data">
-                        <cell role="data">zaquiribal pa toil pa avilix, pa hacabvitz</cell>
-                        <cell role="data">El Amanecer en Tojil, en Awilish y en Jakawitz</cell>
-                        <cell role="data">Sáakiribal Páaj Tojil, Páaj Áawilix, Páaj Jáakawits</cell>
-                        <cell role="data">U Sáastabal Toil, Áawilix, Jáakawits</cell>
+                        <cell role="data"><rs ana="AMAQ'_UQ'IN_K'AT">amac vquin cat</rs></cell>
+                        <cell role="data">----------</cell>
+                        <cell role="data"><rs ana="AMAQ'_UQ'IN_K'AT">Áamak Úukin Káat</rs></cell>
+                        <cell role="data">----------</cell>
                     </row>
                     <row role="data">
-                        <cell role="data">Mixtan pom</cell>
-                        <cell role="data">Incienso de la Penitencia o Sacrificio</cell>
-                        <cell role="data">Míixtam Poom</cell>
-                        <cell role="data">U Poomil Ch'abt'aan wáaj Suyk'uup</cell>
+                        <cell role="data"><rs ana="PA_TOJIL">zaquiribal pa toil</rs> <rs ana="PA_AWILIX">pa avilix</rs>, <rs ana="JAQAWITZ_JUYUB'">pa hacabvitz</rs></cell>
+                        <cell role="data"><rs ana="PA_TOJIL">El Amanecer en Tojil</rs>, <rs ana="PA_AWILIX">en Awilish</rs> y <rs ana="JAQAWITZ_JUYUB'">en Jakawitz</rs></cell>
+                        <cell role="data"><rs ana="PA_TOJIL">Sáakiribal Páaj Tojil</rs>, <rs ana="PA_AWILIX">Páaj Áawilix</rs>, <rs ana="JAQAWITZ_JUYUB'">Páaj Jáakawits</rs></cell>
+                        <cell role="data"><rs ana="PA_TOJIL">U Sáastabal Toil</rs>, <rs ana="PA_AWILIX">Áawilix</rs>, <rs ana="JAQAWITZ_JUYUB'">Jáakawits</rs></cell>
                     </row>
                     <row role="data">
-                        <cell role="data">Cavizton pom</cell>
-                        <cell role="data">Incienso de la Adivinación o Sortilegio</cell>
-                        <cell role="data">Káawistan Poom</cell>
-                        <cell role="data">U Pommel Iilmajil wáaj E'esajil</cell>
+                        <cell role="data">Mixtan <rs ana="POM">pom</rs></cell>
+                        <cell role="data"><rs ana="POM">Incienso</rs> de la Penitencia o Sacrificio</cell>
+                        <cell role="data">Míixtam <rs ana="POM">Poom</rs></cell>
+                        <cell role="data"><rs ana="POM">U Poomil</rs> Ch'abt'aan wáaj Suyk'uup</cell>
+                    </row>
+                    <row role="data">
+                        <cell role="data">Cavizton <rs ana="POM">pom</rs></cell>
+                        <cell role="data"><rs ana="POM">Incienso</rs> de la Adivinación o Sortilegio</cell>
+                        <cell role="data">Káawistan <rs ana="POM">Poom</rs></cell>
+                        <cell role="data"><rs ana="POM">U Pommil</rs> Iilmajil wáaj E'esajil</cell>
                     </row>
                     <!-- <pb xml:id="yua2021-242" />  -->
                     <!-- <table rows="34" cols="4"> -->
                     <row role="data">
-                        <cell role="data">Cabavil pom</cell>
-                        <cell role="data">Incienso de la Adoración</cell>
-                        <cell role="data">Káabawil Poom</cell>
-                        <cell role="data">U Pommel K'uultajil</cell>
+                        <cell role="data">Cabavil <rs ana="POM">pom</rs></cell>
+                        <cell role="data"><rs ana="POM">Incienso</rs> de la Adoración</cell>
+                        <cell role="data">Káabawil <rs ana="POM">Poom</rs></cell>
+                        <cell role="data"><rs ana="POM">U Pommil</rs> K'uultajil</cell>
                     </row>
                     <row role="data">
                         <cell role="data">queletzu</cell>
