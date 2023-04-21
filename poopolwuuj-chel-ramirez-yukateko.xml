@@ -3134,8 +3134,9 @@
                     <p>-Wa tumen jaaj lé ba'ax ka wa'aliko', ma'alob xan ka <rs ana="IXKIK'">in wilibtech</rs>. Yaan a wáantiken, xeen 
                         a ch'a <rs ana="WA">waba'axin jaanto'on</rs>. Xeen a mol jump'éeil nuxi' k'áan, ku ts'o'okole' ka taasik. Yaan a 
                         wáantiken tumen <rs ana="IXKIK'">in wilibech</rs> -tu ya'alaj bin ti' <rs ana="IXKIK'">le sujuy ch'úupalo'</rs>.</p> 
-                    <p>-Ma'álob túun -tú ya'aláj bin tu ts'ook.</p> 
-                    <p>-Xeen túun -tu ya'alaj bin ti'. Ka jbin te' ich koolo'. <rs ana="JUN_JUNAJPU">Jun Jun Ajpúub</rs>, <rs ana="WUQUB'_JUNAJPU">Wukub Jun Ajpúube'</rs>,
+                    <p>-Ma'álob túun -tú ya'aláj bin tu ts'ook.</p>
+                    <!-- editor's note: now that we have an ANA tag for K'OOL, should we retag the AB'IX items? Ajpub's team found "cool" aka "k'ool" in XOM --> 
+                    <p>-Xeen túun -tu ya'alaj bin ti'. Ka jbin te' ich <rs ana="AB'IX">koolo'</rs>. <rs ana="JUN_JUNAJPU">Jun Jun Ajpúub</rs>, <rs ana="WUQUB'_JUNAJPU">Wukub Jun Ajpúube'</rs>,
                         u míistmajili' bin le bej tu bisaj <rs ana="IXKIK'">le sujuy ch'úupal</rs> tak úuchik u k'uchul <rs ana="AB'IX">te' koolo'</rs>. Chéen 
                         <rs ana="JAL">junkúul nal</rs> bin yani', mina'an mix ka'akúuli', mix óoxkúuli'; <rs ana="JAL">le junkúul nalo'</rs> táan u chéen 
                         ch'úuyul u jéek, ka bin jlúub u <rs ana="IXKIK'">le sujuy ch'úupalo'</rs>.</p> 
