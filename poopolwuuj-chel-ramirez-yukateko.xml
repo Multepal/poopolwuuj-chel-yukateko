@@ -2270,8 +2270,8 @@
                         in payalt'aano'on, in tili'iskunajilo'on, in táanilkuunsajilo'on tu táan tuláakal ba'al, tu táan u 
                         kuxtal le wíinik beeta'ano'ob wáaj pata'ano'obo'; wíinikche'ob, sakpile'en wíinikche'ob bin.</p> 
                     <p>-¡Anake'ex jumpuli'! ¡Ka ts'áabak ojéeltbil a k'aaba'ex: <rs ana="JUNAJPU_WUCH'">Jun Ajpúubwuch</rs>, <rs ana="JUNAJPU_UTIW">Jun Ajpúub 
-                        Utyuj</rs>, <rs ana="KA'MUL_ALOM">Ka'amáal Áalomil</rs>, <rs ana="KA'MUL_K'AJOLOM">Ka'amáal Káajolom</rs>, <rs ana="AJK'UWAL">Nukuch Ajk'aayo'ob</rs>, 
-                        <rs ana="AJYAMANIK">Ajkúubalaj Yáamaniko'ob</rs><ref target="yua.n008"><hi rend="sup">8</hi></ref>
+                        Utyuj</rs>, <rs ana="KA'MUL_ALOM">Ka'amáal Áalomil</rs>, <rs ana="KA'MUL_K'AJOLOM">Ka'amáal Káajolom</rs>, <rs ana="NIM_AQ">Nukuch</rs> <rs ana="AJK'UWAL">Ajk'aayo'ob</rs>, 
+                        <rs ana="AJYAMANIK">Ajkúubalaj</rs> <rs ana="NIMA_SIS">Yáamaniko'ob</rs><ref target="yua.n008"><hi rend="sup">8</hi></ref>
                         <note place="foot" xml:id="yua.n008"><seg type="note-symbol"><hi rend="sup">8</hi></seg>
                             Il a wil le Yáax Kanti'itsmanti'itso'.
                         </note>, u
@@ -2811,7 +2811,7 @@
                             Il a wil le Yáax Kanti'itsmanti'itso'.
                         </note>
                         <rs ana="AJAL_Q'ANA">Aj-alkanaje'</rs>, u ajawil u chu'upul u wíinkilil máak, ku beetik u yalk'ajal u pujil u yook máak,
-                        yéetel u tu'utu' ja'ilaankil; u ajawil puj yéetel ja'ilaankil. Ti' bin xan yaan <rs ana="CH'AMIYA_BAQ">Cháamyabaak</rs><ref target="yua.n026"><hi rend="sup">26</hi></ref>
+                        yéetel u tu'utu' ja'ilaankil; u ajawil puj yéetel <rs ana="CHUQ'ANAL">ja'ilaankil</rs>. Ti' bin xan yaan <rs ana="CH'AMIYA_BAQ">Cháamyabaak</rs><ref target="yua.n026"><hi rend="sup">26</hi></ref>
                         <note place="foot" xml:id="yua.n026"><seg type="note-symbol"><hi rend="sup">26</hi></seg>
                             Il a wil le Yáax Kanti'itsmanti'itso'.
                         </note>
@@ -3477,7 +3477,7 @@
                         yila'al le ba'ax ts'o'okili' u tukultik u beetiko'. Ku ts'o'okole' ka tu yilaj u chíikpajal u yoochel 
                         <rs ana="CH'O">le ch'o'</rs> te' tu ja'il le u yo'ocho'; <rs ana="CH'O">le ch'o'</rs> bino' te' bin yaan tu yóok'ol <rs ana="KIK'">le pook'</rs> ch'uykíinta'an te' 
                         pakabche'o'. Bey úuchik u yilik te' tu néen oochelil le u ki'iki' o'cho'.</p> 
-                    <p>Ka bin tu jáan túuxtaj juntúul <rs ana="XA'N">túuts'k'oxoli'</rs>; juntúul ba'alche' chíika'an ti' le k'oxolo', 
+                    <p>Ka bin tu jáan túuxtaj juntúul <rs ana="XA'N">túuts'k'oxoli'</rs>; juntúul ba'alche' chíika'an ti' <rs ana="US">le k'oxolo'</rs>, 
                         uti'al ka xi'ik tak tu jáal le áalkabja'o'. Le ka jk'uche'e', ka tu ts'áajubáaj u jol u kaat <rs ana="IXMUKANE">Xmúukanej</rs>; 
                         tiisnaj bin jump'íit u ja'ili'. Leti'e' tu yóotaj bin u mak le chan joolo', ba'ale' ma' jbéeychaji'. 
                         <pb xml:id="yua2021-120" /></p> 
@@ -3870,7 +3870,7 @@
                     <p>-Le u táan u yicho', ma' wáaj ts'o'okok u beetchajali'i'.</p> 
                     <p>-Ts'o'okij -tu ya'alaj bin <rs ana="XPIYAKOK">le nojoch máako'</rs><hi rend="sup"><sic>83</sic>[sic]</hi>. 
                         Ba'ale' jbooxchaj u yich ka'an, ka bin téek jéek'jolch'e'enchajij. Le <rs ana="XPIYAKOK">nojoch máak</rs> bino', kantéen bin úuchik u yéek'jolch'e'entik yóok'olkaab. 
-                        &lt;U Sabakil Ooch&gt; u ya'ala'al bin ti' bejla'e'. Le je'elo' uti'al ka jóok'ok bin jach táaj ki'ichkelem 
+                        &lt;<rs ana="WUCH'">U Sabakil Ooch</rs>&gt; u ya'ala'al bin ti' bejla'e'. Le je'elo' uti'al ka jóok'ok bin jach táaj ki'ichkelem 
                         u yich <rs ana="JUNAJPU">Jun Ajpúub</rs>; bey úuchik u ts'o'oksa'alo'.</p> 
                     <p>-Ma' wáaj uts beyo'o' -ku ya'ala'al bin ti' <rs ana="JUNAJPU">Jun Ajpúub</rs>.</p> 
                     <p>-Ma'alob bey xana' -tu ya'alaj bin. Ka bin jkáaj u su'usutik u pool; bey túun úuchik u 
@@ -3975,7 +3975,7 @@
                         yéetel úuchben ja'ajat nook'o'ob. Jach óotsil bin u yichil le nook' u búukintmaj bino'.</p>
                     <p>J-ila'ab bey juntúul wíinik jach óotsil tumen le Metnáalilo'obo', ba'ale' ts'o'okili' bin u 
                         jelpajal ba'ax suukili' u  beetike': ku náaysaj óolal bin yéetel <rs ana="XAJOJ_PUJUY">u yóok'otil pu'ujuy</rs>, <rs ana="XAJOJ_KUX">sáabin</rs>, <rs ana="IB'OY">weeeh</rs>, 
-                        <rs ana="XTZUL">chimes</rs>, yéetel xan <rs ana="CH'ITIK">u yóok'otil síit'kojlaankil</rs>. Jach bin k'am óolal ba'ax ku beetik: ku tóokik 
+                        <rs ana="XAJOJ_XTZUL">chimes</rs>, yéetel xan <rs ana="CH'ITIK">u yóok'otil síit'kojlaankil</rs>. Jach bin k'am óolal ba'ax ku beetik: ku tóokik 
                         najo'ob, ku ts'o'okole' ku jáan téek wa'akunsik.</p> 
                     <p>Le je'elo' j-ila'ab tumen ya'abkach <rs ana="RAJAWAL_XIB'ALB'A">Metnáalilo'ob</rs>; ku jáaych'intikuba'e', ku je'ik u jobonel 
                         uti'al u kíinsikubáaj. Yáax táanil ku kíinsikubaj, ku ts'o'okole' ku ka apúutkuxtal bin. Chéen 
@@ -4018,7 +4018,7 @@
                         óotsilech. Yaan in bo'otikecho'on ma'alob -ku ya'ala'al bin ti'.</p> 
                     <p>Ka bin jkáaj u k'aay yéetel u yóok'ot bini'. Bey túun úuchik bin u jóok'ol tuláakal <rs ana="RAJAWAL_XIB'ALB'A">le 
                         Metnáalilo'obo'</rs>; tu láaj much' ajubáaj u náays u yóolo'obi'. Jkáaj yéetel <rs ana="XAJOJ_KUX">u yóok'otil sáabin</rs>, <rs ana="XAJOJ_PUJUY">u 
-                        yóok'otil pu'ujuy</rs> yéetel <rs ana="IB'OY">u yóok'otil weech</rs>. Ka bin j-a' ala'ab ti' tumen <rs ana="JUN_KAME_WUQUB'_KAME">le ajawo'</rs>:</p> 
+                        yóok'otil pu'ujuy</rs> yéetel <rs ana="XAJOJ_IB'OY">u yóok'otil weech</rs>. Ka bin j-a' ala'ab ti' tumen <rs ana="JUN_KAME_WUQUB'_KAME">le ajawo'</rs>:</p> 
                     <p>-Búujch'akt u nak' le in walak' k'uluba', ku ts'o'okole' ka'apúutkuxlak tin táano'on -tu 
                         ya'alaj bin ti'.</p> 
                     <p>-Ma'alob túun -tu núukaj bin.</p>
@@ -4102,14 +4102,14 @@
                         le ka jtóoka'ab te' nuxi' t'aba'an joole'. Úuchik bin u ka' k'u'uk'ankil u sak'abil <rs ana="AJ">le nalo'</rs>, ka bin 
                         tu tóokáj <rs ana="POM">poom</rs> tu táan, uti'al u k'aajsik u kuxtal u yáabil bin. Jki'imakchaj u yóol u puksi'ik'al 
                         <rs ana="IXMUKANE">Xmúukanej</rs> úuchik u ka' k'u'uk'ankil u sak'abil <rs ana="AJ">le nalo'</rs>.</p> 
-                    <p>Ka bin jumpuli' jkili'ichkuunsa'ab tumen <rs ana="IXMUKANE">Xmúukanej</rs>; leti' bin jmáans tu chúumukil 
-                        le najo', tu chúumukille lu'umo'. &lt;Káasam Jaaj&gt;, &lt;Cháatam Ulew&gt;<ref target="yua.047"><hi rend="sup">47</hi></ref>
+                    <p>Ka bin jumpuli' jkili'ichkuunsa'ab tumen <rs ana="IXMUKANE">Xmúukanej</rs>; leti' bin jmáans <rs ana="K'ASAM_AJ">tu chúumukil 
+                        le najo'</rs>, <rs ana="CHATAM_ULEW">tu chúumukille lu'umo'</rs>. &lt;<rs ana="K'ASAM_AJ">Káasam Jaaj</rs>&gt;, &lt;<rs ana="CHATAM_ULEW">Cháatam Ulew</rs>&gt;<ref target="yua.047"><hi rend="sup">47</hi></ref>
                         <note place="foot" xml:id="yua.047"><seg type="note-symbol"><hi rend="sup">47</hi></seg>
                             Il a wil le Yáax Kanti'itsmanti'itso'.
                         </note> ts'áabilak u k'aaba' le 
-                        kúuchilo'obo'. Bey bin k'aaba'inta'abik u chúumukil le najo', u chúumukil le lu'umo', tumen 
-                        tu chúumukil le naj úuchik bin u pak'ikó'ob le sak'abo', le beetik Káasam Jaaj, Cháatam Ulew 
-                        jpa'atik u k'aabi'ob bin; tu yóok'ol bin Cháatam Ulew jpa'ak' le sak'abo'. Káasam Jaaj úuchik u 
+                        kúuchilo'obo'. Bey bin k'aaba'inta'abik <rs ana="CHATAM_ULEW">u chúumukil le najo'</rs>, <rs ana="K'ASAM_AJ">u chúumukil le lu'umo'</rs>, tumen 
+                        tu chúumukil le naj úuchik bin u pak'ikó'ob le sak'abo', le beetik <rs ana="K'ASAM_AJ">Káasam Jaaj</rs>, <rs ana="CHATAM_ULEW">Cháatam Ulew</rs> 
+                        jpa'atik u k'aabi'ob bin; tu yóok'ol bin <rs ana="CHATAM_ULEW">Cháatam Ulew</rs> jpa'ak' le sak'abo'. <rs ana="K'ASAM_AJ">Káasam Jaaj</rs> úuchik u 
                         k'aaba'inta'al, tumen ti' bin k'u'uk'naj le sak'abo'o'.</p> 
                     <p><rs ana="IXMUKANE">Xmúukaneje'</rs>, bey bin úuchik u ts'áajik u k'aaba' le kúuchilo'ob tu'ux bin jpa'ak' le sak'ab 
                         tumen <rs ana="JUNAJPU">Jun Ajpúub</rs>, <rs ana="XB'ALAMQ'E">Xbáalankejo'</rs>. Le je'el bino' u k'a'ajsajil tu táan <rs ana="IXMUKANE">Xmúukanej</rs>. Ka wilike', <rs ana="JUN_JUNAJPU">u 
@@ -5278,7 +5278,7 @@
                         kaajalo'ob, jump'éelili' u múuch'kajnáalo'ob yéetel jump'éelili' u jets'kajtalo'ob:
                         <pb xml:id="yua2021-198" /> </p> 
                     <p>-To'on <rs ana="KAWEQ">Káawikiibilo'on</rs>, <rs ana="NIJA'IB">Níimjaybaabilo'on</rs> yéetel <rs ana="AJAW_K'ICHE'">Ajaw K'iche'ilo'one'</rs>, in 
-                        wéetbísajba'ilo'on -tu ya'alaj bin <rs ana="OXIB_RI_NIM_JA">le óoxp'éel kaaj</rs>, le óoxp'éel ajawnajo'obo'.</p> 
+                        wéetbísajba'ilo'on -tu ya'alaj bin <rs ana="OXIB_RI_NIM_JA">le óoxp'éel kaaj</rs>, <rs ana="OXIB_RI_NIM_JA">le óoxp'éel ajawnajo'obo'</rs>.</p> 
                     <p>Kex beyo', ma' bin jach jxáanchajo'ob <rs ana="CHI_ISMACHI">way Chíism'achi'e'</rs>, tumen tu kaxtajo'ob wáaj tu 
                         yilajo'ob uláak' ma'alob kúuchil, ka bin jluk'o'ob jumpuli' <rs ana="CHI_ISMACHI">tu kaajil Chíismachi'i'</rs>.</p> 
                     <p>Bey túuno', ka bin tu líik'sajuba'obe' ka jbino'ob ti' uláak' kúuchil k'aaba'inta'an bey 
@@ -6011,8 +6011,8 @@
                         <rs ana="XPIYAKOK">abuelo nuestro</rs>, <rs ana="XPIYAKOK">Xpiyakok</rs>! <rs ana="XMUKANE">Xmukané</rs>: pidan, hablen, que se ilumine nuestra invocación, nuestra 
                         veneración, nuestra prioridad sobre todas las cosas por la gente construida, formada; gente 
                         de madera, pálida.</p> 
-                    <p>-¡Origínense! ¡Que se revele su nombre, <rs ana="JUNAJPU_WUCH'">Un Cerbatanero de Tacuatzíri</rs>, <rs ana="JUNAJPU_UTIW">Un Cerbatanero</rs> 
-                        de Coyote, <rs ana="KA'MUL_ALOM">Dos Veces Creado</rs>, <rs ana="KA'MUL_K'AJOLOM">Dos Veces Varón Creado</rs>, <rs ana="AJK'UWAL">grandísimos cantores</rs>, <rs ana="AJYAMANIK">Fuertes Misterios</rs>, 
+                    <p>-¡Origínense! ¡Que se revele su nombre, <rs ana="JUNAJPU_WUCH'">Un Cerbatanero de Tacuatzíri</rs>, <rs ana="JUNAJPU_UTIW">Un Cerbatanero 
+                        de Coyote</rs>, <rs ana="KA'MUL_ALOM">Dos Veces Creado</rs>, <rs ana="KA'MUL_K'AJOLOM">Dos Veces Varón Creado</rs>, <rs ana="NIM_AQ">grandísimos</rs> <rs ana="AJK'UWAL">cantores</rs>, <rs ana="NIM_AQ">Fuertes</rs> <rs ana="AJYAMANIK">Misterios</rs>, 
                         Pequeños, <rs ana="AJTZ'ALAM">Señores del Trono</rs>, <rs ana="AJRAXA_LAQ">Superiores</rs>, <rs ana="AJRAXA_TZEL">Verdaderos Mayores</rs>, <rs ana="AJ_Q'OL">Señores de la Trementina</rs>, 
                         <rs ana="AJTOLTEKAT">Señores del Toltecat</rs>, <rs ana="RATI'T_Q'IJ">Abuela del Sol</rs>,<rs ana="RATI'T_SAQ">Abuela de la Luz</rs>! -les decían <rs ana="TZ'AQOL">Nuestro Arquitecto</rs>, <rs ana="B'ITOL">Formador</rs>.</p> 
                     <p>-Traigan <rs ana="IXIM">maíz</rs>, traigan <rs ana="TZ'ITE'">frijol del pito</rs><ref target="spa.n007"><hi rend="sup">7</hi></ref>
@@ -6453,17 +6453,17 @@
                         pensar todos, <rs ana="JUN_KAME">Una Muerte</rs>, <rs ana="WUQUB'_KAME">Siete Muertes</rs>, grandes investigadores. 
                     <pb xml:id="yua2021-081" /></p>
                     <p>Y todos <rs ana="RAJAWAL_XIB'ALB'A">los señores</rs> tenían cada quien su autoridad, dadas por <rs ana="JUN_KAME">Una Muerte</rs>, <rs ana="WUQUB'_KAME">Siete Muertes</rs>. 
-                        <rs ana="XIKIRIPAT">Xikiripat</rs>, <rs ana="KUCHUMA_KIK'">Sangre Carcomida</rs>; su ofico era enfermar la sangre; <rs ana="AJAL_PUJ">Ajalpuj Ajal On</rs> era la autoridad 
+                        <rs ana="XIKIRIPAT">Xikiripat</rs>, <rs ana="KUCHUMA_KIK'">Sangre Carcomida</rs>; su ofico era enfermar <rs ana="KIK'">la sangre</rs>; <rs ana="AJAL_PUJ">Ajalpuj</rs> <rs ana="AJAL_Q'ANA">Ajal On</rs> era la autoridad 
                         de la hinchazón que supura pus en los pies y brota aguadija hedionda, es pues la autoridad del 
-                        pus y de la aguadija; había <rs ana="CH'AMIYA_B'AQ">el Señor Bastón de Hueso</rs> y <rs ana="CH'AMIYA_JOLOM">Bastón de Calavera</rs>, eran los alguaciles 
-                        del <rs ana="XIB'ALB'A">Inframundo</rs>, eran de hueso sus bastones. Éstos eran los que enflaquecían a la gente, de veras 
+                        pus y de <rs ana="CHUQ'ANAL">la aguadija</rs>; había <rs ana="CH'AMIYA_B'AQ">el Señor Bastón de Hueso</rs> y <rs ana="CH'AMIYA_JOLOM">Bastón de Calavera</rs>, eran <rs ana="RAJAWAL_XIB'ALB'A">los alguaciles 
+                        del Inframundo</rs>, eran de hueso sus bastones. Éstos eran los que enflaquecían a la gente, de veras 
                         pura calavera eran sus cabezas cuando morían, caían de esqueléticos.</p> 
                     <p>Ésta era la tarea de <rs ana="CH'AMIYA_B'AQ">Bastón de Hueso</rs> y <rs ana="CH'AMIYA_JOLOM">Bastón de Calavera</rs>. Había otros llamados: <rs ana="AJAL_MES">El de la 
                         Basura</rs>, <rs ana="AJAL_TOQ'OB">El que Puya</rs>, cuyos oficios eran vigilar a la gente tiradas atrás de las casas en los patios, se 
                         mantenían espiándolas para esperarlas e ir a embrocarles para que se murieran, era la autoridad 
                         de <rs ana="AJAL_MES">El de la Basura</rs> y <rs ana="AJAL_TOQ'OB">El del Puyador</rs>, así les decían.</p> 
                     <p>Ahora el oficio del <rs ana="AJAW_XIK">Gavilán</rs> y <rs ana="PATAN">El del Mecapal</rs>, eran la autoridad de la gente que muere en 
-                        el camino, muerte natural le decían. Les sale sangre de la boca y se mueren vomitando sangre. 
+                        el camino, muerte natural le decían. Les sale <rs ana="KIK'">sangre</rs> de la boca y se mueren vomitando <rs ana="KIK'">sangre</rs>. 
                         Era cada oficio que tenían, golpear la tranquilidad de la gente y así morían en el camino, 
                         éste era el padecimiento ya sea caminando o sentados, éste era el oficio del <rs ana="AJAW_XIK">Gavilán</rs> y <rs ana="PATAN">El del 
                         Mecapal</rs>.</p> 
@@ -6904,7 +6904,7 @@
                         era únicamente para despistar lo que había planeado. Luego vio a <rs ana="CH'O">la rata</rs> a través del reflejo 
                         del <rs ana="IK">chilmol</rs>; <rs ana="CH'O">la rata</rs> estaba sobre <rs ana="KIK'">la pelota</rs> que estaba colgada en el tapanco, así lo vio en el reflejo 
                         del <rs ana="IK">chilmol</rs>.</p> 
-                    <p>En seguida envió a un zancudo, un animal parecido al <rs ana="XA'N">mosco</rs>, llegó a la orilla del río, se 
+                    <p>En seguida envió a un <rs ana="XA'N">zancudo</rs>, un animal parecido al <rs ana="US">mosco</rs>, llegó a la orilla del río, se 
                         propuso abrirle un hoyo a la tinaja de <rs ana="IXMUKANE">la abuela</rs>. Saltó un chorrito de agua que salió del tinaja, 
                         trató de cerrar el hoyo pero no se tapaba.
                         <pb xml:id="yua2021-121" /></p>
@@ -7202,21 +7202,21 @@
                         a <rs ana="RAJAWAL_XIB'ALB'A">los del Inframundo</rs>.
                         <pb xml:id="yua2021-135" /></p>
                     <!-- editor's note: corresponds to paragraph 35, folio 27r -->
-                    <p>Lo metieron en una <rs ana="SOTZ'I_JA">Casa de Murciélagos</rs>, sólo había murciélagos, era una de vampiros, 
+                    <p>Lo metieron en una <rs ana="SOTZ'I_JA">Casa de Murciélagos</rs>, sólo había <rs ana="SOTZ">murciélagos</rs>, era una de <rs ana="SOTZ">vampiros</rs>, 
                         grandes animales de ésos que tienen nariz mortal. Gritaban adentro ante él. Estuvo ahí y durmió 
                         adentro de <rs ana="WUB">la cerbatana</rs> y así no lo mordieron los que estaban adentro. Aquí se entregó a un 
-                        raro vampiro que vino del cielo, sólo se supo por lo que hizo el raro vampiro<ref target="spa.n019"><hi rend="sup">19</hi></ref>
+                        <rs ana="SOTZ">raro vampiro</rs> que vino del cielo, sólo se supo por lo que hizo <rs ana="SOTZ">el raro vampiro</rs><ref target="spa.n019"><hi rend="sup">19</hi></ref>
                         <note place="foot" xml:id="spa.n019"><seg type="note-symbol"><hi rend="sup">19</hi></seg>
-                            "Que sólo supo" el milagro del desdoblamiento en dos personas hecho por el Raro Vampiro que vino 
+                            "Que sólo supo" el milagro del desdoblamiento en dos personas hecho por <rs ana="SOTZ">el Raro Vampiro</rs> que vino 
                             del cielo. Pero dejaron dicho que no se sabe cómo se hizo el desdoblamiento. 
                         </note>
                         , porque estaba 
                         entretenido en sus preocupaciones.</p>
-                    <p>Una noche estuvieron revoloteando los murciélagos gritando: ¡Kíimilits! ¡Kíimilits! Gritaron 
-                        toda la noche. Se sosegaron un momento, ya no se movieron <rs ana="SOTZ">los murciélagos</rs>. El extraño 
-                        vampiro que había entrado estaba parado en un extremo de <rs ana="WUB">la cerbatana</rs>, dijo <rs ana="JUNAJPU">Un Cerbatanero</rs>:</p> 
+                    <p>Una noche estuvieron revoloteando <rs ana="SOTZ">los murciélagos</rs> gritando: ¡Kíimilits! ¡Kíimilits! Gritaron 
+                        toda la noche. Se sosegaron un momento, ya no se movieron <rs ana="SOTZ">los murciélagos</rs>. <rs ana="SOTZ">El extraño 
+                        vampiro</rs> que había entrado estaba parado en un extremo de <rs ana="WUB">la cerbatana</rs>, dijo <rs ana="JUNAJPU">Un Cerbatanero</rs>:</p> 
                     <p>-Parece que quiere amanecer, parece que sí, iré a ver -dijo luego. Se le ocurrió observar 
-                        por la boca de <rs ana="WUB">la cerbatana</rs>, quería ver si ya había amanecido. De repente el raro vampiro le 
+                        por la boca de <rs ana="WUB">la cerbatana</rs>, quería ver si ya había amanecido. De repente <rs ana="SOTZ">el raro vampiro</rs> le 
                         cortó la cabeza, quedó cortado el cuerpo de <rs ana="JUNAJPU">Un Cerbatanero</rs>.</p> 
                     <p>-¿Qué falta para amanecer? -dijo <rs ana="XB'ALAMQ'E">Xbalanké</rs>. Ya no se movía <rs ana="JUNAJPU">Un Cerbatanero</rs>.</p> 
                     <p>-¿Qué pasó? ¿Se habrá ido <rs ana="JUNAJPU">Un Cerbatanero</rs>? ¿Qué le pasó? ¡Ya no se mueve! -Ya sólo 
@@ -7249,7 +7249,7 @@
                         <note place="foot" xml:id="spa.n021"><seg type="note-symbol"><hi rend="sup">21</hi></seg>
                             Es el origen del Pop o sea el tiempo que abarca el período de dos millones de años.
                         </note>
-                        . "Tizne de Tlacuache" le dice hoy día la gente. Era para que saliera perfecta la
+                        . "<rs ana="WUCH'">Tizne de Tlacuache</rs>" le dice hoy día la gente. Era para que saliera perfecta la
                         cara; terminó de remendarla.</p> 
                     <p>-¿No está bueno? -le dijeron a <rs ana="JUNAJPU">Un Cerbatanero</rs>.</p> 
                     <p>-Está bien -contestó y empezó a girar la cabeza, resultó como verdadera cabeza. En seguida 
@@ -7447,11 +7447,11 @@
                         Retoñó <rs ana="AJ">el cañaveral</rs>, volvió a secarse, fue cuando lo quemaron en el asadero; volvió a retoñar <rs ana="AJ">el 
                         cañaveral</rs>, entonces quemó <rs ana="IXMUKANE">la abuela</rs>, quemó <rs ana="POM">el copal</rs> ante <rs ana="AJ">el cañaveral</rs>, era la remembranza de 
                         <rs ana="KA'IB'_K'AJOLAB'">él</rs>. Se alegró el corazón de nuestra <rs ana="IXMUKANE">abuela</rs> cuando por segunda vez retoñó <rs ana="AJ">el cañaveral</rs>.</p>
-                    <p>De una vez fue consagrada por <rs ana="IXMUKANE">la abuela</rs>, la anduvo en el centro de la casa, en medio del 
-                        solar "Kasam Aj", "Chatam Ulew" se nombraron para siempre. Así fue nombrado el centro de 
-                        la casa, el centro del solar, porque en medio de la casa sembraron <rs ana="AJ">la caña</rs> por lo cual fueron 
-                        nombrados Chatam Ulew, Kasam Aj; sobre Chatam Ulew fue donde sembraron <rs ana="AJ">el cañaveral</rs>. 
-                        Se llamó <rs ana="AJ">Kasam Aj</rs> porque retoñó <rs ana="AJ">el cañaveral</rs>.</p> 
+                    <p>De una vez fue consagrada por <rs ana="IXMUKANE">la abuela</rs>, la anduvo en el centro de la casa, <rs ana="K'ASAM_AJ">en medio del 
+                        solar</rs> "<rs ana="K'ASAM_AJ">Kasam Aj</rs>", "<rs ana="CHATAM_ULEW">Chatam Ulew</rs>" se nombraron para siempre. Así fue nombrado <rs ana="CHATAM_ULEW">el centro de 
+                        la casa</rs>, <rs ana="K'ASAM_AJ">el centro del solar</rs>, porque en medio de la casa sembraron <rs ana="AJ">la caña</rs> por lo cual fueron 
+                        nombrados <rs ana="CHATAM_ULEW">Chatam Ulew</rs>, <rs ana="K'ASAM_AJ">Kasam Aj</rs>; sobre <rs ana="CHATAM_ULEW">Chatam Ulew</rs> fue donde sembraron <rs ana="AJ">el cañaveral</rs>. 
+                        Se llamó <rs ana="K'ASAM_AJ">Kasam Aj</rs> porque retoñó <rs ana="AJ">el cañaveral</rs>.</p> 
                     <p>Les puso nombre <rs ana="IXMUKANE">Xmukané</rs> cuando dejó sembrado <rs ana="AJ">el cañaveral</rs> <rs ana="JUNAJPU">Un Cerbatanero</rs>, <rs ana="XB'ALAMQ'E">Xbalanké</rs>. 
                         Era recuerdo de él por nuestra <rs ana="IXMUKANE">abuela</rs>. Su primer dueño, se hizo muy antigua su muerte, 
                         la muerte de <rs ana="JUNAJPU">Cada Cerbatanero</rs>, <rs ana="WUQUB'_JUNAJPU">Siete Un Cerbatanero</rs>. Todavía vio a <rs ana="JUN_JUNAJPU">su padre</rs> allá en <rs ana="XIB'ALB'A">el Inframundo</rs>, 
