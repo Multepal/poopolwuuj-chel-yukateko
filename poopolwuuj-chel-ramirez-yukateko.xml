@@ -5711,7 +5711,7 @@
                     <p>Leti' bin le u ajawnajilo'ob <rs ana="AJPOP">le Ajpóopo'ob</rs>, <rs ana="AJPOP_K'AMJA">le Ajpóopkamjaajo'obo'</rs>, tumen ti' leti'ob 
                     jch'aab u k'aaba le Bolomp'éel <rs ana="KAWEQ">Káawikiib</rs> Ajawnajo'obo'. U ajawilo'ob bin le Bolomp'éel 
                     Káawikiib Ajawnajo'obo':</p> 
-                    <p><rs ana="AJPOP">Ájpóop Ajaw</rs>. Kúujaaj<ref target="yua.n120"><hi rend="sup">120</hi></ref>
+                    <p><rs ana="AJPOP">Ájpóop Ajaw</rs>. <rs ana="K'U_JA">Kúujaaj</rs><ref target="yua.n120"><hi rend="sup">120</hi></ref>
                         <note place="foot" xml:id="yua.n120"><seg type="note-symbol"><hi rend="sup">120</hi></seg>
                             Il a wil le Yáax Kanti'itsmanti'itso'.
                         </note> bin u k'aaba' u Ajawnaj.</p> 
@@ -8662,7 +8662,7 @@
                     <p>Son las grandes casas correspondientes a cada uno de los señores de <rs ana="AJPOP">los Señores del Tiempo</rs>, 
                         <rs ana="AJPOP_K'AMJA">Señores de Kamja</rs>, de quienes han tomado nombre las Nueve Grandes Casas <rs ana="KAWEQ">Kawikib</rs>. 
                         Nueve Grandes Casas, cuyos principales son:</p> 
-                    <p><rs ana="AJPOP">Señor del Tiempo</rs>. Casa Grande llamada Kujá.</p> 
+                    <p><rs ana="AJPOP">Señor del Tiempo</rs>. Casa Grande llamada <rs ana="K'U_JA">Kujá</rs>.</p> 
                     <p><rs ana="AJPOP_K'AMJA">Señor del Templo Piramidal</rs>. Casa Grande llamada Tzikinajá.</p> 
                     <p><rs ana="NIM_CH'OKOJ_KAWEQ">Nim Chokoj Kawek</rs>. Señor de una Casa Grande.</p> 
                     <p><rs ana="AJTOJIL">Señor del Tojil</rs>. Señor de una Casa Grande.</p> 
